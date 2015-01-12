@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{% if page.locale %}{{ page.locale }}{% else %}{{ site.locale }}{% endif %}">
+
+    {% include head.html %}
+
+    <body>
+
+    	{% include header.html %}
+
+        {{ header_content }}
+        {{ content }}
+      
+    	{% include footer.html %}
+
+    	{% include analytics.html %}
+
+    	{% include scripts.html %}
+
+    </body>
+
+</html>
+
+
+
