@@ -2,7 +2,7 @@
 layout: page
 title: team
 locale: en
-permalink: /es/equipo/
+permalink: /en/team/
 ---
 
 {% include aboutus.html %}
