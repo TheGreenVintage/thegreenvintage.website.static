@@ -2,8 +2,8 @@
 layout: page
 title: home 
 icon: home
-locale: en
-permalink: /en/home/
+locale: ca
+permalink: /ca/home/
 ---
 
 <!-- Slider -->

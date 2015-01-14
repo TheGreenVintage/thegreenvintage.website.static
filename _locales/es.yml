@@ -36,11 +36,36 @@ es:
     title: Servicios
     subheader: La diferencia es esencial para nosotros
     zone: No existe una sola formula secreta para la creación de un evento perfecto. Pero lo que si que existe son las ganas de que estos eventos sean especiales para todos.
-    corporative_title: Eventos corporativos
-    particular_title: Eventos para particulares
     description: Are you thinking about to plan an event? The Vintage Green's Consulting.
     call_to_action: En un año, desearás haber empezado <span class=\"violet\">hoy</span
     start_now: ¡Empezar ahora!
+    private:
+      title: Eventos para particulares
+      description: Creamos momentos, generamos emociones. Nosotros te ayudamos a generar estos momentos, para hacer que se recuerden y sean especiales. Pon tu evento en buenas manos, y no te arrepentirás...
+      list:
+        - Eventos particulares
+        - Bodas
+        - Comuniones
+        - Despedidas de soltero
+        - Fiestas de cumpleaños
+        - Eventos familiares
+        - Fiestas Vip
+        - Fiestas Infantiles
+        - Rutas turísticas
+        - y muchos más..
+    corporative:
+      title: Eventos corporativos
+      description: Organización y creación de eventos para empresa buscando las últimas tendencias en el mundo de los eventos. La profesionalidad del equipo a tu entera disposición para crear un evento ideal para tu empresa. Sabemos que la mejora en el clima laboral influye en el nivel de producción, confía en nosotros para alcanzar el éxito.
+      list:
+        - Eventos corporativos
+        - Presentaciones de producto
+        - Reuniones privadas
+        - Cenas y almuerzos de empresa
+        - Fiestas de empresa
+        - Convenciones
+        - Inaguraciones
+        - Actividades de Teambuilding
+        - y mucho más...
   contact:
     title: Contacto
     subheader: Si no lo haces ahora, ¿Cúando?

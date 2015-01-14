@@ -2,8 +2,8 @@
 layout: page
 title: portfolio 
 icon: camera
-locale: en
-permalink: /en/portfolio/
+locale: es
+permalink: /es/portfolio/
 ---
 
 <div class="portfolio portfolio-page container">

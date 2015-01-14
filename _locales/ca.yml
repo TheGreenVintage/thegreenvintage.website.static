@@ -36,11 +36,36 @@ ca:
     title: Serveis
     subheader: La diferència és essencial per a nosaltres
     zone: No exiteix una sola fórmula secreta per a la creació d'un esdeveniment perfecte. Pero el que si que existeix son les ganes de que aquests esdeveniments siguin especials per a tothom.
-    corporative_title: Esdeveniments corporatius
-    particular_title: Esdeveniments per particulars
     description: Esta pensant en organitzar un esdeveniment ? Doncs no dubti més, a The Green Vintage l'assesorem.
     call_to_action: En un any, desitjaràs haver començat <span class=\"violet\">avui</span
     start_now: Començar ara!
+    private:
+      title: Esdeveniments per particulars
+      description: Creem moments, generem emocions. Nosaltres l'ajudem a generar aquests moments, per fer que es recordin i siguin especials. Posa el teu esdeveniment a les nostres mans, no et penediràs...
+      list:
+        - Esdeveniments particulars
+        - Casaments
+        - Comunions
+        - Comiats de solters
+        - Festes d’aniversari
+        - Esdeveniments familiars
+        - Festes Vip
+        - Festes Infantils
+        - Rutes turístiques
+        - i molt més...
+    corporative:
+      title: Esdeveniments corporatius
+      description: Organització i creació d'esdeveniments per a empreses buscant les tendències actuals. Estem a la teva dispoció per crear l'aconteixement ideal per la teva empresa. Sabem que un bon clima laboral influeix en el nivell de producció, confia en nosaltres per assolir l'èxit.
+      list:
+        - Esdeveniments corporatius
+        - Presentacions de producte
+        - Reunions privades
+        - Sopars i dinars d’empresa
+        - Festes d’empresa
+        - Convencions
+        - Inauguracions
+        - Activitats de Teambuilding
+        - i molt més...
   contact:
     title: Contacte
     subheader: Si no ho fas ara, quan?
