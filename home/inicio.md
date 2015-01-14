@@ -1,6 +1,6 @@
 ---
 layout: page
-title: home 
+section: home 
 icon: home
 locale: es
 permalink: /es/home/

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: services
+section: services
 icon: tasks
 locale: ca
 permalink: /ca/serveis/

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: team
+section: team
 icon: user
 locale: en
 permalink: /es/equipo/

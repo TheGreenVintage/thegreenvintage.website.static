@@ -1,0 +1,54 @@
+<div class="contact-us container">
+  <div class="row">
+    <div class="span3"></div>
+    <div class="contact-form span6">
+      <p>{{ 'contact.welcome' | translate }}</p>
+      <form method="POST" action="{{contents.messages.public_submission_url}}">
+        
+      	<input type="hidden" value="/{{locale}}" name="success_callback" />
+        <input type="hidden" value="/{{locale}}/contact" name="error_callback" />
+        
+        {% if message.errors %}
+        <p>The following errors occured:</p>
+        <ul>
+          {% for error in message.errors %}
+          <li>{{error[0] | capitalize}} -  {{error[1]}}</li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+        
+        <label for="name" class="nameLabel">{{ 'contact.name' | translate }}</label>
+        <input id="name" name="content[name]" type="text" placeholder="{{ 'contact.name_placeholder' | translate }}">
+        <label for="email" class="emailLabel">{{ 'contact.email' | translate }}</label>
+        <input id="email" name="content[email]" type="text" placeholder="{{ 'contact.email_placeholder' | translate }}">
+
+        <label for="category" class="categoryLabel">{{ 'contact.category' | translate }}</label>
+        <select id="category" name="content[category]" style="
+            background: white;
+            border-radius: 0;
+           	-webkit-appearance: none;
+            -moz-appearance: none;
+            padding: 0 10px;
+            width: 92%;
+            height: 35px;
+            border: 1px solid #ddd;                                                           
+            color: #ccc;
+            font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+            font-size: 13px;
+            font-style: italic;
+        ">
+          <option value="none">{{ 'contact.select' | translate }}</option>
+          <option value="particular">{{ 'contact.private' | translate }}</option>
+          <option value="corporative">{{ 'contact.corporative' | translate }}</option>
+        </select>
+        
+        <label for="subject">{{ 'contact.subject' | translate }}</label>
+        <input id="subject" name="content[subject]" type="text" placeholder="{{ 'contact.subject_placeholder' | translate }}">
+        <label for="message" class="messageLabel">{{ 'contact.message' | translate }}</label>
+        <textarea id="message" name="content[description]" placeholder="{{ 'contact.message_placeholder' | translate }}"></textarea>
+        <button type="submit">{{ 'contact.send' | translate }}</button>
+      </form>
+    </div>
+    <div class="span3"></div>
+  </div>
+</div>

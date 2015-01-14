@@ -1,6 +1,6 @@
 ---
 layout: page
-title: portfolio 
+section: portfolio 
 icon: camera
 locale: ca
 permalink: /ca/portfolio/
