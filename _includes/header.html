@@ -29,7 +29,7 @@
 			  <a href="/{{ page.locale }}/portfolio"><i class="icon-camera"></i><br />{{ 'portfolio.title' | translate }}</a>
 			</li>
 			<li id="locale-switcher">
-			  <a href="/{{page.section}}" class="en">English</a>
+			  <a href="/en/{{page.section}}" class="en">English</a>
 			  <a href="/es/{{page.section}}" class="es">Español</a>
 			  <a href="/ca/{{page.section}}" class="ca current">Català</a>
 			</li>
@@ -41,6 +41,7 @@
     </div>
 </div>
 
+{% if page.section != 'home' %}
 <div class="page-title">
   <div class="container">
     <div class="row">
@@ -52,3 +53,4 @@
     </div>
   </div>
 </div>
+{% endif %}
