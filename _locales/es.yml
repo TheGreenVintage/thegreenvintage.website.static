@@ -1,4 +1,8 @@
 es:
+  locales:
+    en: English
+    es: Español
+    ca: Català
   home:
     title: Inicio
     subheader: Los <span class=\"violet\">pequeños momentos</span> son los que <span class=\"violet\">te emocionan</span>

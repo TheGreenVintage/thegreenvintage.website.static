@@ -1,49 +1,45 @@
 <div class="container">
-    <div class="header row">
-	<div class="span12">
-	    <div class="navbar">
-		<div class="navbar-inner">
-		    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-			<span class="icon-bar"></span>
-			<span class="icon-bar"></span>
-			<span class="icon-bar"></span>
-		    </a>
-		    <h1>
-			<a class="brand" href="/{{page.locale}}/home">The Green Vintage - a super cool design agency...</a>
-		    </h1>
-		    <div class="nav-collapse collapse">
-		      <ul class="nav pull-right">
-                        {% assign sections = 'home services team contact portfolio' | split: " " %}
-			{% for section in sections %}
-                          {% for item in site.pages %}
-                            {% if section == item.section and page.locale == item.locale %}
-			    <li class="{% if page.section == item.section %}current-page{% endif %}">
-			      <a href="{{item.permalink}}"><i class="icon-{{ item.icon }}"></i><br />{{ item.section | append:'.title' | translate }}</a>
-			    </li>
-                            {% endif %}
-                          {% endfor %}
-	      		{% endfor %}
+  <div class="header row">
+    <div class="span12">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <h1>
+            <a class="brand" href="/{{page.locale}}/home">The Green Vintage - a super cool design agency...</a>
+          </h1>
+          <div class="nav-collapse collapse">
+            <ul class="nav pull-right">
+              {% assign sections = 'home services team contact portfolio' | split: " " %}
+              {% for section in sections %}
+              {% for item in site.pages %}
+              {% if section == item.section and page.locale == item.locale %}
+              <li class="{% if page.section == item.section %}current-page{% endif %}">
+              <a href="{{item.permalink}}"><i class="icon-{{ item.icon }}"></i><br />{{ item.section | append:'.title' | translate }}</a>
+              </li>
+              {% endif %}
+              {% endfor %}
+              {% endfor %}
 
-			<li id="locale-switcher">
-                         {% for item in site.pages %}
-                           {% if page.section == item.section %}
-                             {% case item.locale %}
-                             {% when 'en' %}
-			     <a href="{{item.permalink}}" class="{{item.locale}}">English</a>
-                             {% when 'es' %}
-			     <a href="{{item.permalink}}" class="{{item.locale}}">Español</a>
-                             {% when 'ca' %}
-			     <a href="{{item.permalink}}" class="{{item.locale}}">Català</a>
-                             {% endcase %}
-                           {% endif %}
-                         {% endfor %}
-			</li>
-		      </ul>
-		    </div>
-		</div>
-	    </div>
-	</div>
+              <li id="locale-switcher">
+              {% assign locales = 'en es ca' | split: " " %}
+              {% for locale in locales %}
+              {% for item in site.pages %}
+              {% if page.section == item.section and locale == item.locale %}
+              <a href="{{item.permalink}}" class="{{item.locale}}">{{ locale | prepend:'locales.' | translate }}</a>
+              {% endif %}
+              {% endfor %}
+              {% endfor %}
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
+  </div>
 </div>
 
 {% if page.section != 'home' %}

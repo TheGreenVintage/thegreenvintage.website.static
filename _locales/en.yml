@@ -1,4 +1,8 @@
 en:
+  locales:
+    en: English
+    es: Español
+    ca: Català
   home:
     title: Home
     subheader: <span class="violet">Your life</span> is made up of <span class="violet">little moments</span>

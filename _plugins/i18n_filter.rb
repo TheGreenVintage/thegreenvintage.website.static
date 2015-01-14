@@ -16,7 +16,7 @@ module Jekyll
 
     def translate(input)
       load_translations
-      I18n.t input
+      I18n.t input, locale: @context.registers[:page]['locale']
     end
 
     def load_translations
