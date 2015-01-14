@@ -3,7 +3,7 @@ layout: page
 section: portfolio 
 icon: camera
 locale: ca
-permalink: /ca/portfolio/
+permalink: /ca/portfoli/
 ---
 
 <div class="portfolio portfolio-page container">
