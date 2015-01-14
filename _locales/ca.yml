@@ -1,72 +1,68 @@
 ca:
-  welcome_message: The Green Vintage néix amb el desig d'assessorar i planificar els petits moments de la vida i fer que siguin especials.
-  team: Equip
-  home: Inici
-  contact: Contacte
-  services: Serveis
-  slogan: Els petits moments són els que t'emocionen
-  team_professionals: A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
-  team_howto: Com ho fem? Apostem pel servei personalitzat. D’aquesta manera, ens permet tenir més coneixements de les prioritats dels nostres clients, i adaptar-les al seu projecte.        
-  team_area: El nostre àmbit d’actuació es situa a tota la província de Barcelona i estem especialitzats en la comarca del Maresme i L’Àrea Metropolitana de Barcelona. Ens podem traslladar a qualsevol altre zona. Per a nosaltres les distàncies no són cap inconvenient.
-  team_commitment: El nostre compromís
-  home: Inici
-  services: Serveis
-  team: Equip
-  contact: Contacte
-  portfolio: Portfoli
-  contact_subheader: Si no ho fas ara, quan?
-  portfolio_subheader: Els desitjos es fan realitat
-  testimonials: Testimonis
-  services_subheader: La diferència és essencial per a nosaltres
-  team_subheader: Mai vaig somiar en tenir èxit, vaig treballar per arribar-hi.
-  the_green_vintage_is:  A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
-  readmore: Llegir més
-  about_us: Sobre nosaltres
-  contact_us: Contacta'ns
-  welcome_subheader: Els <span class=\"violet\">petits moments</span> són els que <span class=\"violet\">t'emocionen</span>
-  lastest_work: Últims treballs
-  who_title: Qui som?
-  who_description: A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
-  how_title: Com ho fem?
-  how_description: Apostem pel servei personalitzat. D’aquesta manera, ens permet tenir més coneixements de les prioritats dels nostres clients, i adaptar-les al seu projecte.
-  why_title: El nostre compromís
-  why_description: deprecated
-  contact_welcome: Si tens una idea que vols dur a terme amb nosaltres, omple el següent formulari. Estarem encantats d'organitzar el teu pròxim esdeveniment! <h4><span class=\"violet\">SEGUIM EN CONTACTE!</span></h4>
-  contact_send: Enviar
-  contact_message_placeholder: El teu missage...
-  contact_message: Missatge
-  contact_subject_placeholder: Assumpte...
-  contact_subject: Assumpte
-  contact_email_placeholder: Introdueix el teu correu electrònic
-  contact_email: Correu electrònic
-  contact_name_placeholder: Introdueix el teu nom...
-  contact_name: Nom
-  not_found: Pàgina no trobada
-  services_corporative_title: Esdeveniments corporatius
-  services_corporative_description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper <span class=\"violet\">suscipit lobortis</span> nisl ut aliquip ex ea commodo consequat. Lorem ipsum <strong>dolor sit amet</strong>, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do <strong>eiusmod tempor</strong> incididunt.
-  services_particular_title: Esdeveniments per particulars
-  services_particular_description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper <span class=\"violet\">suscipit lobortis</span> nisl ut aliquip ex ea commodo consequat. Lorem ipsum <strong>dolor sit amet</strong>, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do <strong>eiusmod tempor</strong> incididunt.
-  services_intro: Lorem Ipsum Dolor Sit Amet
-  services_description: Esta pensant en organitzar un esdeveniment ? Doncs no dubti més, a The Green Vintage l'assesorem.
-  commitment5: "<strong>Sinèrgia:</strong> Treballem en equip i en xarxa perquè l’esforç compartit millora el resultat."
-  commitment4: "<strong>Creativitat:</strong> Cerquem vies innovadores i originals perquè els nostres actes siguin inoblidables."
-  commitment3: "<strong>Empatia:</strong> Sabem escoltar i entendre les necessitats dels nostres clients i del territori en el que ens trobem."
-  commitment2: "<strong>Motivació:</strong> Ens agrada molt el nostre treball i creiem en tot allò que fem. Nomes així, gaudint, podem oferir-te el millor resultat de nosaltres i superar les seves expectatives inicials."
-  commitment1: "<strong>Satisfacció: </strong> Fem un seguiment personalitzat del seu esdeveniment, perquè l’èxit és essencial per a nosaltres."
-  who_we_are: Qui som
-  meetings: Reunions d'empresa
-  teambuilding: Activitats de teambuilding
-  weddings: Casaments
-  parties: Celebracions particulars
-  meetings_phrase: Èxit
-  teambuilding_phrase: Interactuïn
-  weddings_phrase: Si, vull! 
-  parties_phrase: Brindis!
-  all_rights_reserved: Todos los derechos reservados.
-  services_zone: No exiteix una sola fórmula secreta per a la creació d'un esdeveniment perfecte. Pero el que si que existeix son les ganes de que aquests esdeveniments siguin especials per a tothom.
-  contact_select: Selecciona una opció...
-  contact_private: Esdeveniment particular
-  contact_corporative: Esdeveniment corporatiu
-  contact_category: Categoria
-  start_now: Començar ara!
-  services_call_to_action: En un any, desitjaràs haver començat <span class=\"violet\">avui</span
+  home:
+    title: Inici
+    subheader: Els <span class=\"violet\">petits moments</span> són els que <span class=\"violet\">t'emocionen</span>
+    meetings: Reunions d'empresa
+    meetings_phrase: Èxit
+    parties: Celebracions particulars
+    parties_phrase: Brindis!
+    teambuilding: Activitats de teambuilding
+    teambuilding_phrase: Interactuïn
+    weddings: Casaments
+    weddings_phrase: Si, vull! 
+    testimonials: Testimonis
+    lastest_work: Últims treballs
+  team:
+    title: Equip
+    subheader: Mai vaig somiar en tenir èxit, vaig treballar per arribar-hi.
+    professionals: A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
+    howto: Com ho fem? Apostem pel servei personalitzat. D’aquesta manera, ens permet tenir més coneixements de les prioritats dels nostres clients, i adaptar-les al seu projecte.        
+    area: El nostre àmbit d’actuació es situa a tota la província de Barcelona i estem especialitzats en la comarca del Maresme i L’Àrea Metropolitana de Barcelona. Ens podem traslladar a qualsevol altre zona. Per a nosaltres les distàncies no són cap inconvenient.
+    commitment: El nostre compromís
+  portfolio:
+    title: Portfoli
+    subheader: Els desitjos es fan realitat
+  services:
+    title: Serveis
+    subheader: La diferència és essencial per a nosaltres
+    zone: No exiteix una sola fórmula secreta per a la creació d'un esdeveniment perfecte. Pero el que si que existeix son les ganes de que aquests esdeveniments siguin especials per a tothom.
+    corporative_title: Esdeveniments corporatius
+    particular_title: Esdeveniments per particulars
+    description: Esta pensant en organitzar un esdeveniment ? Doncs no dubti més, a The Green Vintage l'assesorem.
+    who_title: Qui som?
+    who_description: A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
+    how_title: Com ho fem?
+    how_description: Apostem pel servei personalitzat. D’aquesta manera, ens permet tenir més coneixements de les prioritats dels nostres clients, i adaptar-les al seu projecte.
+    our_commitment: El nostre compromís
+    commitment1: "<strong>Satisfacció: </strong> Fem un seguiment personalitzat del seu esdeveniment, perquè l’èxit és essencial per a nosaltres."
+    commitment2: "<strong>Motivació:</strong> Ens agrada molt el nostre treball i creiem en tot allò que fem. Nomes així, gaudint, podem oferir-te el millor resultat de nosaltres i superar les seves expectatives inicials."
+    commitment3: "<strong>Empatia:</strong> Sabem escoltar i entendre les necessitats dels nostres clients i del territori en el que ens trobem."
+    commitment4: "<strong>Creativitat:</strong> Cerquem vies innovadores i originals perquè els nostres actes siguin inoblidables."
+    commitment5: "<strong>Sinèrgia:</strong> Treballem en equip i en xarxa perquè l’esforç compartit millora el resultat."
+    call_to_action: En un any, desitjaràs haver començat <span class=\"violet\">avui</span
+    start_now: Començar ara!
+  contact:
+    title: Contacte
+    subheader: Si no ho fas ara, quan?
+    welcome: Si tens una idea que vols dur a terme amb nosaltres, omple el següent formulari. Estarem encantats d'organitzar el teu pròxim esdeveniment! <h4><span class=\"violet\">SEGUIM EN CONTACTE!</span></h4>
+    send: Enviar
+    message: Missatge
+    message_placeholder: El teu missage...
+    subject: Assumpte
+    subject_placeholder: Assumpte...
+    email: Correu electrònic
+    email_placeholder: Introdueix el teu correu electrònic
+    name: Nom
+    name_placeholder: Introdueix el teu nom...
+    select: Selecciona una opció...
+    private: Esdeveniment particular
+    corporative: Esdeveniment corporatiu
+    category: Categoria
+  footer:
+    about_us: Sobre nosaltres
+    the_green_vintage_is: A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
+    all_rights_reserved: Todos los derechos reservados.
+    contact_us: Contacta'ns
+  common:
+    slogan: Els petits moments són els que t'emocionen
+    readmore: Llegir més

@@ -1,72 +1,68 @@
 es:
-  welcome_message: The Green Vintage nace ...
-  team: Equipo
-  home: Inicio
-  contact: Contacto
-  services: Servicios
-  slogan: Los pequeños momentos son los que te emocionan
-  team_professionals: The Green Vintage es un equipo de profesionales especializados en la gestión y organización de cualquier tipo de evento. La empresa nace con el deseo de asesorar y planificar los pequeños momentos de la vida y hacer que sean especiales. 
-  team_howto: ¿Cómo lo hacemos? Apostamos por el servicio personalizado. De esta manera, nos permite tener más conocimiento sobre las prioridades de nuestros clientes y adaptarlas a su proyecto.
-  team_area: Nuestra zona de actuación se sitúa en toda la provincia de Barcelona, especializadas en la comarca del Maresme y la Área Metropolitana de Barcelona. Podemos trasladarnos a cualquier zona, para nosotros las distancias no son ningún inconveniente.
-  team_commitment: Nuestro compromiso
-  home: Inicio
-  services: Servicios
-  team: Equipo
-  contact: Contacto
-  portfolio: Portfolio
-  contact_subheader: Si no lo haces ahora, ¿Cúando?
-  portfolio_subheader: Los deseos se hacen realidad
-  testimonials: Testimonios
-  services_subheader: La diferencia es esencial para nosotros
-  team_subheader: Nunca soñé en tener éxito, trabajé para conseguirlo.
-  the_green_vintage_is: The Green Vintage es un equipo de profesionales especializados en la gestión y organización de cualquier tipo de evento. La empresa nace con el deseo de asesorar y planificar los pequeños momentos de la vida y hacer que sean especiales.
-  readmore: Leer más
-  about_us: Sobre nosotros
-  contact_us: Contáctanos
-  welcome_subheader: Los <span class=\"violet\">pequeños momentos</span> son los que <span class=\"violet\">te emocionan</span>
-  lastest_work: Últimos trebajos
-  who_title: ¿Quiénes somos?
-  who_description: The Green Vintage es un equipo de profesionales especializados en la gestión y organización de cualquier tipo de evento. La empresa nace con el deseo de asesorar y planificar los pequeños momentos de la vida y hacer que sean especiales.
-  how_title: Como lo hacemos?
-  how_description: Apostamos por el servicio personalizado. De esta manera, nos permite tener más conocimiento sobre las prioridades de nuestros clientes y adaptarlas a su proyecto. 
-  why_title: Nuestro compromiso
-  why_description: deprecated
-  contact_welcome: Si tienes una idea que quieras planear con nosotros, rellena el siguiente formulario. Estaremos encantados de organizar tu próximo evento! <h4><span class=\"violet\">¡SEGUIMOS EN CONTACTO!</span></h4>
-  contact_send: Enviar
-  contact_message_placeholder: Tu mensaje...
-  contact_message: Mensaje
-  contact_subject_placeholder: Asunto...
-  contact_subject: Asunto
-  contact_email_placeholder: Introduce tu correo electrónico
-  contact_email: Correo electrónico
-  contact_name_placeholder: Introduce tu nombre...
-  contact_name: Nombre
-  not_found: Página no encontrada
-  services_corporative_title: Eventos corporativos
-  services_corporative_description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper <span class=\"violet\">suscipit lobortis</span> nisl ut aliquip ex ea commodo consequat. Lorem ipsum <strong>dolor sit amet</strong>, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do <strong>eiusmod tempor</strong> incididunt.
-  services_particular_title: Eventos para particulares
-  services_particular_description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper <span class=\"violet\">suscipit lobortis</span> nisl ut aliquip ex ea commodo consequat. Lorem ipsum <strong>dolor sit amet</strong>, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do <strong>eiusmod tempor</strong> incididunt.
-  services_intro: Lorem Ipsum Dolor Sit Amet
-  services_description: Está pensando en organizar un evento? No lo dudé más, The Green Vintage le asesoramos.
-  commitment5: "<strong>Sinergia:</strong> Trabajamos en equipo ya que el esfuerzo compartido mejora el resultado."
-  commitment4: "<strong>Creatividad:</strong> Buscamos vías innovadoras y originales para que nuestros actos sean inolvidables."
-  commitment3: "<strong>Empatía:</strong> Sabemos escuchar y entender las necesidades de nuestros clientes y del territorio en el que nos encontramos."
-  commitment2: "<strong>Motivación:</strong> Nos gusta nuestro trabajo y creemos en todo lo que hacemos. Solo así, podemos ofrecerte el mejor resultado y superar sus expectativas iniciales."
-  commitment1: "<strong>Satisfacción: </strong> Hacemos un seguimiento personalizado de su evento, ya que el éxito es esencial para nosotros."
-  who_we_are: Quiénes somos
-  meetings: Reuniones de empresa
-  teambuilding: Actividades de teambuilding
-  weddings: Bodas
-  parties: Celebraciones particulares
-  meetings_phrase: Éxito
-  teambuilding_phrase: Interactúen
-  weddings_phrase: ¡Sí, quiero!
-  parties_phrase: ¡Brindis!
-  all_rights_reserved: Todos los derechos reservados.
-  services_zone: No existe una sola formula secreta para la creación de un evento perfecto. Pero lo que si que existe son las ganas de que estos eventos sean especiales para todos.
-  contact_select: Selecciona una opción...
-  contact_private: Evento particular
-  contact_corporative: Evento corporativo
-  contact_category: Categoría
-  start_now: ¡Empezar ahora!
-  services_call_to_action: En un año, desearás haber empezado <span class=\"violet\">hoy</span
+  home:
+    title: Inicio
+    subheader: Los <span class=\"violet\">pequeños momentos</span> son los que <span class=\"violet\">te emocionan</span>
+    meetings: Reuniones de empresa
+    meetings_phrase: Éxito
+    parties: Celebraciones particulares
+    parties_phrase: ¡Brindis!
+    teambuilding: Actividades de teambuilding
+    teambuilding_phrase: Interactúen
+    weddings: Bodas
+    weddings_phrase: ¡Sí, quiero!
+    testimonials: Testimonios
+    lastest_work: Últimos trebajos
+  team:
+    title: Equipo
+    subheader: Nunca soñé en tener éxito, trabajé para conseguirlo.
+    professionals: The Green Vintage es un equipo de profesionales especializados en la gestión y organización de cualquier tipo de evento. La empresa nace con el deseo de asesorar y planificar los pequeños momentos de la vida y hacer que sean especiales.
+    howto: ¿Cómo lo hacemos? Apostamos por el servicio personalizado. De esta manera, nos permite tener más conocimiento sobre las prioridades de nuestros clientes y adaptarlas a su proyecto.
+    area: Nuestra zona de actuación se sitúa en toda la provincia de Barcelona, especializadas en la comarca del Maresme y la Área Metropolitana de Barcelona. Podemos trasladarnos a cualquier zona, para nosotros las distancias no son ningún inconveniente.
+    commitment: Nuestro compromiso
+  portfolio:
+    title: Portfolio
+    subheader: Los deseos se hacen realidad
+  services:
+    title: Servicios
+    subheader: La diferencia es esencial para nosotros
+    zone: No existe una sola formula secreta para la creación de un evento perfecto. Pero lo que si que existe son las ganas de que estos eventos sean especiales para todos.
+    corporative_title: Eventos corporativos
+    particular_title: Eventos para particulares
+    description: Are you thinking about to plan an event? The Vintage Green's Consulting.
+    who_title: ¿Quiénes somos?
+    who_description: The Green Vintage es un equipo de profesionales especializados en la gestión y organización de cualquier tipo de evento. La empresa nace con el deseo de asesorar y planificar los pequeños momentos de la vida y hacer que sean especiales.
+    how_title: Como lo hacemos?
+    how_description: Apostamos por el servicio personalizado. De esta manera, nos permite tener más conocimiento sobre las prioridades de nuestros clientes y adaptarlas a su proyecto.
+    our_commitment: Nuestro compromiso
+    commitment1: "<strong>Satisfacción: </strong> Hacemos un seguimiento personalizado de su evento, ya que el éxito es esencial para nosotros."
+    commitment2: "<strong>Motivación:</strong> Nos gusta nuestro trabajo y creemos en todo lo que hacemos. Solo así, podemos ofrecerte el mejor resultado y superar sus expectativas iniciales."
+    commitment3: "<strong>Empatía:</strong> Sabemos escuchar y entender las necesidades de nuestros clientes y del territorio en el que nos encontramos."
+    commitment4: "<strong>Creatividad:</strong> Buscamos vías innovadoras y originales para que nuestros actos sean inolvidables."
+    commitment5: "<strong>Sinergia:</strong> Trabajamos en equipo ya que el esfuerzo compartido mejora el resultado."
+    call_to_action: En un año, desearás haber empezado <span class=\"violet\">hoy</span
+    start_now: ¡Empezar ahora!
+  contact:
+    title: Contacto
+    subheader: Si no lo haces ahora, ¿Cúando?
+    welcome: Si tienes una idea que quieras planear con nosotros, rellena el siguiente formulario. Estaremos encantados de organizar tu próximo evento! <h4><span class=\"violet\">¡SEGUIMOS EN CONTACTO!</span></h4>
+    send: Enviar
+    message: Mensaje
+    message_placeholder: Tu mensaje...
+    subject: Asunto
+    subject_placeholder: Asunto...
+    email: Correo electrónico
+    email_placeholder: Introduce tu correo electrónico
+    name: Nombre
+    name_placeholder: Introduce tu nombre...
+    select: Selecciona una opción...
+    private: Evento particular
+    corporative: Evento corporativo
+    category: Categoría
+  footer:
+    about_us: Sobre nosotros
+    the_green_vintage_is: The Green Vintage es un equipo de profesionales especializados en la gestión y organización de cualquier tipo de evento. La empresa nace con el deseo de asesorar y planificar los pequeños momentos de la vida y hacer que sean especiales.
+    all_rights_reserved: Todos los derechos reservados.
+    contact_us: Contáctanos
+  common:
+    slogan: Los pequeños momentos son los que te emocionan
+    readmore: Leer más
