@@ -2,8 +2,8 @@
 layout: page
 section: team
 icon: user
-locale: en
-permalink: /en/team/
+locale: es
+permalink: /es/team/
 ---
 
 {% include aboutus.html %}
