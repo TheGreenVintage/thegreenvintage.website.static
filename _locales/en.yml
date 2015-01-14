@@ -18,7 +18,17 @@ en:
     professionals: The Green Vintage is a team of professionals specialized in the management and organization of any type of event. The company was founded with the desire to assess and plan the small moments of life and make them special.        
     howto: How we do it? We are committed to personalized service. In this way, it allows us to have more knowledge about the priorities of our customers and adapt them to their project.  
     area: Our area is located in the province of Barcelona, in the region of Maresme and the Metropolitan Area of Barcelona. We can move to any area, for us the distances aren’t problem.       
+    who_title: Who we are
+    who_description: The Green Vintage is a team of professionals specialized in the management and organization of any type of event. The company was founded with the desire to assess and plan the small moments of life and make them special.
+    how_title: How do we do it?
+    how_description: We are committed to personalized service. In this way, it allows us to have more knowledge about the priorities of our customers and adapt them to your project.
     commitment: Our commitment
+    commitment1: <strong>Satisfaction:</strong> Do a personalized monitoring of your event, since success is essential to us.
+    commitment2: <strong>Motivation:</strong> We love our job and we believe in everything that we do. Only in this way, we can offer you the best result and exceed their initial expectations.
+    commitment3: <strong>Empathy:</strong> We know listen and understand the needs of our customers and the territory in which we find ourselves.
+    commitment4: <strong>Creativity:</strong> We look for original and innovative ways to make our actions unforgettable.
+    commitment5: <strong>Synergy:</strong> We work as a team since the shared effort improves the result.
+    who_we_are: Who we are
   portfolio:
     title: Portfolio
     subheader: Wishes do come true
@@ -29,16 +39,6 @@ en:
     corporative_title: Corporative events
     particular_title: Private events
     description: Are you thinking about to plan an event? The Vintage Green's Consulting.
-    who_title: Who we are
-    who_description: The Green Vintage is a team of professionals specialized in the management and organization of any type of event. The company was founded with the desire to assess and plan the small moments of life and make them special.
-    how_title: How do we do it?
-    how_description: We are committed to personalized service. In this way, it allows us to have more knowledge about the priorities of our customers and adapt them to your project.
-    our_commitment: Our commitment
-    commitment1: <strong>Satisfaction:</strong> Do a personalized monitoring of your event, since success is essential to us.
-    commitment2: <strong>Motivation:</strong> We love our job and we believe in everything that we do. Only in this way, we can offer you the best result and exceed their initial expectations.
-    commitment3: <strong>Empathy:</strong> We know listen and understand the needs of our customers and the territory in which we find ourselves.
-    commitment4: <strong>Creativity:</strong> We look for original and innovative ways to make our actions unforgettable.
-    commitment5: <strong>Synergy:</strong> We work as a team since the shared effort improves the result.
     call_to_action: In a year, you'll wish you started  <span class="violet">today</span>
     start_now: Start now!
   contact:

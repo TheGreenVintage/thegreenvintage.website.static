@@ -18,7 +18,17 @@ ca:
     professionals: A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
     howto: Com ho fem? Apostem pel servei personalitzat. D’aquesta manera, ens permet tenir més coneixements de les prioritats dels nostres clients, i adaptar-les al seu projecte.        
     area: El nostre àmbit d’actuació es situa a tota la província de Barcelona i estem especialitzats en la comarca del Maresme i L’Àrea Metropolitana de Barcelona. Ens podem traslladar a qualsevol altre zona. Per a nosaltres les distàncies no són cap inconvenient.
+    who_title: Qui som?
+    who_description: A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
+    how_title: Com ho fem?
+    how_description: Apostem pel servei personalitzat. D’aquesta manera, ens permet tenir més coneixements de les prioritats dels nostres clients, i adaptar-les al seu projecte.
     commitment: El nostre compromís
+    commitment1: "<strong>Satisfacció: </strong> Fem un seguiment personalitzat del seu esdeveniment, perquè l’èxit és essencial per a nosaltres."
+    commitment2: "<strong>Motivació:</strong> Ens agrada molt el nostre treball i creiem en tot allò que fem. Nomes així, gaudint, podem oferir-te el millor resultat de nosaltres i superar les seves expectatives inicials."
+    commitment3: "<strong>Empatia:</strong> Sabem escoltar i entendre les necessitats dels nostres clients i del territori en el que ens trobem."
+    commitment4: "<strong>Creativitat:</strong> Cerquem vies innovadores i originals perquè els nostres actes siguin inoblidables."
+    commitment5: "<strong>Sinèrgia:</strong> Treballem en equip i en xarxa perquè l’esforç compartit millora el resultat."
+    who_we_are: Qui som
   portfolio:
     title: Portfoli
     subheader: Els desitjos es fan realitat
@@ -29,16 +39,6 @@ ca:
     corporative_title: Esdeveniments corporatius
     particular_title: Esdeveniments per particulars
     description: Esta pensant en organitzar un esdeveniment ? Doncs no dubti més, a The Green Vintage l'assesorem.
-    who_title: Qui som?
-    who_description: A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
-    how_title: Com ho fem?
-    how_description: Apostem pel servei personalitzat. D’aquesta manera, ens permet tenir més coneixements de les prioritats dels nostres clients, i adaptar-les al seu projecte.
-    our_commitment: El nostre compromís
-    commitment1: "<strong>Satisfacció: </strong> Fem un seguiment personalitzat del seu esdeveniment, perquè l’èxit és essencial per a nosaltres."
-    commitment2: "<strong>Motivació:</strong> Ens agrada molt el nostre treball i creiem en tot allò que fem. Nomes així, gaudint, podem oferir-te el millor resultat de nosaltres i superar les seves expectatives inicials."
-    commitment3: "<strong>Empatia:</strong> Sabem escoltar i entendre les necessitats dels nostres clients i del territori en el que ens trobem."
-    commitment4: "<strong>Creativitat:</strong> Cerquem vies innovadores i originals perquè els nostres actes siguin inoblidables."
-    commitment5: "<strong>Sinèrgia:</strong> Treballem en equip i en xarxa perquè l’esforç compartit millora el resultat."
     call_to_action: En un any, desitjaràs haver començat <span class=\"violet\">avui</span
     start_now: Començar ara!
   contact:

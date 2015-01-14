@@ -9,24 +9,24 @@
 			<span class="icon-bar"></span>
 		    </a>
 		    <h1>
-			<a class="brand" href="/{{locale}}/home">The Green Vintage - a super cool design agency...</a>
+			<a class="brand" href="/{{page.locale}}/home">The Green Vintage - a super cool design agency...</a>
 		    </h1>
 		    <div class="nav-collapse collapse">
 		      <ul class="nav pull-right">
 			<li class="{% if page.slug == 'home' %}current-page{% endif %}">
-			  <a href="/{{ page.locale }}/home"><i class="icon-home"></i><br />{{ 'home' | translate }}</a>
+			  <a href="/{{ page.locale }}/home"><i class="icon-home"></i><br />{{ 'home.title' | translate }}</a>
 			</li>
 			<li class="{% if page.slug == 'services' %}current-page{% endif %}">
-			  <a href="/{{ page.locale }}/services"><i class="icon-tasks"></i><br />{{ 'services' | translate }}</a>
+			  <a href="/{{ page.locale }}/services"><i class="icon-tasks"></i><br />{{ 'services.title' | translate }}</a>
 			</li>
 			<li class="{% if page.slug == 'team' %}current-page{% endif %}">
-			  <a href="/{{ page.locale }}/team"><i class="icon-user"></i><br />{{ 'team' | translate }}</a>
+			  <a href="/{{ page.locale }}/team"><i class="icon-user"></i><br />{{ 'team.title' | translate }}</a>
 			</li>
 			<li class="{% if page.slug == 'contact' %}current-page{% endif %}">
-			  <a href="/{{ page.locale }}/contact"><i class="icon-envelope-alt"></i><br />{{ 'contact' | translate }}</a>
+			  <a href="/{{ page.locale }}/contact"><i class="icon-envelope-alt"></i><br />{{ 'contact.title' | translate }}</a>
 			</li>
 			<li class="{% if page.slug == 'portfolio' %}current-page{% endif %}">
-			  <a href="/{{ page.locale }}/portfolio"><i class="icon-camera"></i><br />{{ 'portfolio' | translate }}</a>
+			  <a href="/{{ page.locale }}/portfolio"><i class="icon-camera"></i><br />{{ 'portfolio.title' | translate }}</a>
 			</li>
 			<li id="locale-switcher">
 			  <a href="/{{page.slug}}" class="en">English</a>
@@ -46,8 +46,8 @@
     <div class="row">
       <div class="span12">
         <i class="icon-user page-title-icon"></i>
-        <h2>{{ page.title | translate }} /</h2>
-        <p>{{ page.title | append:'_subheader' | translate }}</p>
+        <h2>{{ page.title | append:'.title' | translate }} /</h2>
+        <p>{{ page.title | append:'.subheader' | translate }}</p>
       </div>
     </div>
   </div>

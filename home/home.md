@@ -37,17 +37,9 @@ permalink: /en/home/
   </div>
 </div>
 
-<ul>
-{% for project in site.data.projects %}
-  <li>
-    {{ project['title_es'] }}
-  </li>
-{% endfor %}
-</ul>
-
 <!-- Site Description -->
 <div class="presentation container">
-  <h2>{{ 'welcome_subheader' | translate}}</h2>
+  <h2>{{ 'home.subheader' | translate}}</h2>
 </div>
 
 <!-- Services -->
@@ -57,33 +49,33 @@ permalink: /en/home/
       <div class="icon-awesome">
         <i class="icon-sitemap"></i>
       </div>
-      <h4>{{ 'meetings' | translate}}</h4>
-      <p><em>{{ 'meetings_phrase' | translate}}</em></p>
-      <a href="/{{locale}}/services">{{ 'readmore' | translate }}</a>
+      <h4>{{ 'home.meetings' | translate}}</h4>
+      <p><em>{{ 'home.meetings_phrase' | translate}}</em></p>
+      <a href="/{{locale}}/services">{{ 'common.readmore' | translate }}</a>
     </div>
     <div class="service span3">
       <div class="icon-awesome">
         <i class="icon-group"></i>
       </div>
-      <h4>{{ 'teambuilding' | translate}}</h4>
-      <p><em>{{ 'teambuilding_phrase' | translate}}</em></p>
-      <a href="/{{locale}}/services">{{ 'readmore' | translate }}</a>
+      <h4>{{ 'home.teambuilding' | translate}}</h4>
+      <p><em>{{ 'home.teambuilding_phrase' | translate}}</em></p>
+      <a href="/{{locale}}/services">{{ 'common.readmore' | translate }}</a>
     </div>
     <div class="service span3">
       <div class="icon-awesome">
         <i class="icon-heart"></i>
       </div>
-      <h4>{{ 'weddings' | translate}}</h4>
-      <p><em>{{ 'weddings_phrase' | translate}}</em></p>
-      <a href="/{{locale}}/services">{{ 'readmore' | translate }}</a>
+      <h4>{{ 'home.weddings' | translate}}</h4>
+      <p><em>{{ 'home.weddings_phrase' | translate}}</em></p>
+      <a href="/{{locale}}/services">{{ 'common.readmore' | translate }}</a>
     </div>
     <div class="service span3">
       <div class="icon-awesome">
         <i class="icon-glass"></i>
       </div>
-      <h4>{{ 'parties' | translate}}</h4>
-      <p><em>{{ 'parties_phrase' | translate}}</em></p>
-	  <a href="/{{locale}}/services">{{ 'readmore' | translate }}</a>
+      <h4>{{ 'home.parties' | translate}}</h4>
+      <p><em>{{ 'home.parties_phrase' | translate}}</em></p>
+	  <a href="/{{locale}}/services">{{ 'common.readmore' | translate }}</a>
     </div>
   </div>
 </div>
@@ -91,7 +83,7 @@ permalink: /en/home/
 <!-- Latest Work -->
 <div class="portfolio container">
   <div class="portfolio-title">
-    <h3>{{ 'lastest_work' | translate }}</h3>
+    <h3>{{ 'home.lastest_work' | translate }}</h3>
   </div>
   <div class="row">
     <!--
@@ -116,7 +108,7 @@ permalink: /en/home/
 <!-- Testimonials -->
 <div class="testimonials container">
   <div class="testimonials-title">
-    <h3>{{ 'testimonials' | translate }}</h3>
+    <h3>{{ 'home.testimonials' | translate }}</h3>
   </div>
   <div class="row">
     <div class="testimonial-list span12">
