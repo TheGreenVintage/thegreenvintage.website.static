@@ -11,9 +11,9 @@
         
     {% for project in site.data.projects %}
     <div class="work span3">
-      <img src="/{{ 'assets/images/projects/' | append: project.album | walk | first}}" alt="">
-      <h4>{{ project.title }}</h4>
-      <p>{{ project.description }}</p>
+      <img src="/{{ 'assets/images/projects/' | append: project.album | walk | first}}" width="270" height="130" alt="{{ project | translate: 'title'}}">
+      <h4>{{ project | translate: 'title'}}</h4>
+      <p>{{ project | translate: 'description'}}</p>
       <div class="icon-awesome">
         <a href="/{{locale}}/services"><i class="icon-search"></i></a>
       </div>
