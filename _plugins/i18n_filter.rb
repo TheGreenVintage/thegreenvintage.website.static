@@ -14,9 +14,15 @@ module Jekyll
       I18n.l input, :format => format
     end
 
-    def translate(input)
-      load_translations
-      I18n.t input, locale: (@context.registers[:page]['locale'] || LOCALE)
+    def translate(input, field=nil)
+      locale = @context.registers[:page]['locale']
+
+      if field
+	input["#{field}_#{locale}"]
+      else
+        load_translations
+        I18n.t input, locale: locale
+      end
     end
 
     def load_translations

@@ -11,9 +11,9 @@
     <div class="team-text span3">
       <img src="{{ employee.photo }}" alt="">
       <h4>{{ employee.name }}</h4>
-      <p>{{ employee.description_en }}</p>
+      <p>{{ employee | translate: 'description' }}</p>
       <br>
-      <h5><em class='violet'>{{ employee.phrase }}</em></h5>
+      <h5><em class='violet'>{{ employee | translate: 'phrase' }}</em></h5>
       <br>
       <p><b>Email:</b> <a href="mailto:{{ employee.email }}">{{ employee.email }}</a></p>
       <p><b>Tel.</b> <a href="tel:{{ employee.telephone }}">{{ employee.telephone }}</a></p>
