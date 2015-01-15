@@ -21,7 +21,7 @@ body {
 
 ul.gramophone {
     padding-left: 15px;
-    list-style-image: url('../images/decorative/mini-icon.png');
+    list-style-image: url('../images/logos/mini-icon.png');
 }
 
 a {
@@ -115,7 +115,7 @@ strong { font-weight: bold; }
 
 .slider {
     margin: 0 auto;
-    background: #f8f8f8 url(./pattern.jpg) left top repeat;
+    background: #f8f8f8 url(../images/pattern.jpg) left top repeat;
     -moz-box-shadow:
         0 5px 15px 0 rgba(0,0,0,.05) inset,
         0 -5px 15px 0 rgba(0,0,0,.05) inset;
@@ -266,7 +266,7 @@ strong { font-weight: bold; }
 }
 
 .portfolio-title {
-    background: url(./line.png) left center repeat-x;
+    background: url(../images/line.png) left center repeat-x;
 }
 
 .portfolio-title h3 {
@@ -371,7 +371,7 @@ strong { font-weight: bold; }
 }
 
 .testimonials-title {
-    background: url(./line.png) left center repeat-x;
+    background: url(../images/line.png) left center repeat-x;
 }
 
 .testimonials-title h3 {
@@ -433,7 +433,7 @@ strong { font-weight: bold; }
 footer {
     margin: 0 auto;
     padding-bottom: 10px;
-    background: #f8f8f8 url(./pattern.jpg) left top repeat;
+    background: #f8f8f8 url(../images/pattern.jpg) left top repeat;
     -moz-box-shadow: 0 5px 15px 0 rgba(0,0,0,.05) inset;
     -webkit-box-shadow: 0 5px 15px 0 rgba(0,0,0,.05) inset;
     box-shadow: 0 5px 15px 0 rgba(0,0,0,.05) inset;
@@ -564,7 +564,7 @@ footer .social a:hover { background-position: left top; }
 .page-title {
     margin: 0 auto;
     padding: 30px 0 35px 0;
-    background: #f8f8f8 url(./pattern.jpg) left top repeat;
+    background: #f8f8f8 url(../images/pattern.jpg) left top repeat;
     -moz-box-shadow:
         0 5px 15px 0 rgba(0,0,0,.05) inset,
         0 -5px 15px 0 rgba(0,0,0,.05) inset;
@@ -639,7 +639,7 @@ footer .social a:hover { background-position: left top; }
 }
 
 .team-title {
-    background: url(./line.png) left center repeat-x;
+    background: url(../images/line.png) left center repeat-x;
 }
 
 .team-title h3 {
