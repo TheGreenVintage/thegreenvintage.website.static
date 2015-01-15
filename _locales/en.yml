@@ -73,7 +73,8 @@ en:
   contact:
     title: Contact
     subheader: If you don't do it now, when?
-    welcome: If you’ve an idea you'd like to talk to us, here's the form. We’ll be happy to plan your next event! <h4><span class="violet">KEEP IN TOUCH!</span></h4>
+    welcome: If you’ve an idea you'd like to talk to us, here's the form. We’ll be happy to plan your next event!
+    in_contact: KEEP IN TOUCH!
     send: Send
     message: Message
     message_placeholder: Your message...

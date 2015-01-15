@@ -73,7 +73,8 @@ ca:
   contact:
     title: Contacte
     subheader: Si no ho fas ara, quan?
-    welcome: Si tens una idea que vols dur a terme amb nosaltres, omple el següent formulari. Estarem encantats d'organitzar el teu pròxim esdeveniment! <h4><span class=\"violet\">SEGUIM EN CONTACTE!</span></h4>
+    welcome: Si tens una idea que vols dur a terme amb nosaltres, omple el següent formulari. Estarem encantats d'organitzar el teu pròxim esdeveniment!
+    in_contact: SEGUIM EN CONTACTE!
     send: Enviar
     message: Missatge
     message_placeholder: El teu missage...

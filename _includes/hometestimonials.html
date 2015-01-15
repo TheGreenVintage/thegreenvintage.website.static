@@ -1,0 +1,26 @@
+<!-- Testimonials -->
+<div class="testimonials container">
+  <div class="testimonials-title">
+    <h3>{{ 'home.testimonials' | translate }}</h3>
+  </div>
+  <div class="row">
+    <div class="testimonial-list span12">
+      <div class="tabbable tabs-below">
+        <div class="tab-content">
+          {% for testimonial  in site.data.testimonials %}
+          <div class="tab-pane{% if forloop.index == 1 %} active{% endif %}" id="A{{ forloop.index }}">
+            <img src="{{ testimonial.photo }}" title="{{ testimonial.who }}" alt="{{ testimonial.who }}">
+            {{ testimonial.description }}
+            <p><span class="violet">{{ testimonial.who }}</span></p>
+          </div>
+          {% endfor %}
+        </div>
+        <ul class="nav nav-tabs">
+          {% for testimonial  in contents.testimonials %}
+          <li class="{% if forloop.index == 1 %} active{% endif %}"><a href="#A{{ forloop.index }}" data-toggle="tab"></a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

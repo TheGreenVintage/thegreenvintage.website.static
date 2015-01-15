@@ -73,7 +73,8 @@ es:
   contact:
     title: Contacto
     subheader: Si no lo haces ahora, ¿Cúando?
-    welcome: Si tienes una idea que quieras planear con nosotros, rellena el siguiente formulario. Estaremos encantados de organizar tu próximo evento! <h4><span class=\"violet\">¡SEGUIMOS EN CONTACTO!</span></h4>
+    welcome: Si tienes una idea que quieras planear con nosotros, rellena el siguiente formulario. Estaremos encantados de organizar tu próximo evento!
+    in_contact: ¡SEGUIMOS EN CONTACTO!
     send: Enviar
     message: Mensaje
     message_placeholder: Tu mensaje...
