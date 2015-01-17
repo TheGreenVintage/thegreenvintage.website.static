@@ -4,7 +4,7 @@
     <div class="contact-form span6">
       <p>{{ 'contact.welcome' | translate }}</p>
       <h4><span class="violet">{{ 'contact.in_contact' | translate }}</span></h4>
-      <form method="POST" action="{{contents.messages.public_submission_url}}">
+      <form method="POST" action="/contact/support">
         
       	<input type="hidden" value="/{{locale}}" name="success_callback" />
         <input type="hidden" value="/{{locale}}/contact" name="error_callback" />
@@ -19,12 +19,12 @@
         {% endif %}
         
         <label for="name" class="nameLabel">{{ 'contact.name' | translate }}</label>
-        <input id="name" name="content[name]" type="text" placeholder="{{ 'contact.name_placeholder' | translate }}">
+        <input id="name" name="name" type="text" placeholder="{{ 'contact.name_placeholder' | translate }}">
         <label for="email" class="emailLabel">{{ 'contact.email' | translate }}</label>
-        <input id="email" name="content[email]" type="text" placeholder="{{ 'contact.email_placeholder' | translate }}">
+        <input id="email" name="email" type="text" placeholder="{{ 'contact.email_placeholder' | translate }}">
 
         <label for="category" class="categoryLabel">{{ 'contact.category' | translate }}</label>
-        <select id="category" name="content[category]" style="
+        <select id="category" name="category" style="
             background: white;
             border-radius: 0;
            	-webkit-appearance: none;
@@ -44,9 +44,9 @@
         </select>
         
         <label for="subject">{{ 'contact.subject' | translate }}</label>
-        <input id="subject" name="content[subject]" type="text" placeholder="{{ 'contact.subject_placeholder' | translate }}">
+        <input id="subject" name="subject" type="text" placeholder="{{ 'contact.subject_placeholder' | translate }}">
         <label for="message" class="messageLabel">{{ 'contact.message' | translate }}</label>
-        <textarea id="message" name="content[description]" placeholder="{{ 'contact.message_placeholder' | translate }}"></textarea>
+        <textarea id="message" name="message" placeholder="{{ 'contact.message_placeholder' | translate }}"></textarea>
         <button type="submit">{{ 'contact.send' | translate }}</button>
       </form>
     </div>
