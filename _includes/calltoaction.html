@@ -6,7 +6,9 @@
         <p>{{ 'services.call_to_action' | translate }}</p>
       </div>
       <div class="ca-button">
-        <a href="/{{locale}}/contact">{{ 'services.start_now' | translate }}</a>
+
+    	{% assign contact = 'contact' | section %}
+        <a href="{{contact.permalink}}">{{ 'services.start_now' | translate }}</a>
       </div>
     </div>
   </div>

@@ -14,14 +14,11 @@
           <div class="nav-collapse collapse">
             <ul class="nav pull-right">
               {% assign sections = 'home services team contact portfolio' | split: " " %}
-              {% for section in sections %}
-              {% for item in site.pages %}
-              {% if section == item.section and page.locale == item.locale %}
+              {% for sname in sections %}
+              {% assign item = sname | section %}
               <li class="{% if page.section == item.section %}current-page{% endif %}">
-              <a href="{{item.permalink}}"><i class="icon-{{ item.icon }}"></i><br />{{ item.section | append:'.title' | translate }}</a>
+                <a href="{{item.permalink}}"><i class="icon-{{ item.icon }}"></i><br />{{ item.section | append:'.title' | translate }}</a>
               </li>
-              {% endif %}
-              {% endfor %}
               {% endfor %}
 
               <li id="locale-switcher">

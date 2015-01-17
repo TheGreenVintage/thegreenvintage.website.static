@@ -25,6 +25,15 @@ module Jekyll
       end
     end
 
+    def section(name)
+      site = @context.registers[:site]
+      locale = @context.registers[:page]['locale']
+
+      site.pages.select do |page|
+        page.data['section'] == name and page.data['locale'] == locale
+      end.first
+    end
+
     def load_translations
       if I18n.backend.send(:translations).empty?
         I18n.backend.load_translations Dir[File.join(File.dirname(__FILE__),'../_locales/*.yml')]

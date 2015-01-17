@@ -1,13 +1,15 @@
 <!-- Services -->
 <div class="what-we-do container">
   <div class="row">
+
+    {% assign services = 'services' | section %}
     <div class="service span3">
       <div class="icon-awesome">
         <i class="icon-sitemap"></i>
       </div>
       <h4>{{ 'home.meetings' | translate}}</h4>
       <p><em>{{ 'home.meetings_phrase' | translate}}</em></p>
-      <a href="/{{locale}}/services">{{ 'common.readmore' | translate }}</a>
+      <a href="{{services.permalink}}">{{ 'common.readmore' | translate }}</a>
     </div>
     <div class="service span3">
       <div class="icon-awesome">
@@ -15,7 +17,7 @@
       </div>
       <h4>{{ 'home.teambuilding' | translate}}</h4>
       <p><em>{{ 'home.teambuilding_phrase' | translate}}</em></p>
-      <a href="/{{locale}}/services">{{ 'common.readmore' | translate }}</a>
+      <a href="{{services.permalink}}">{{ 'common.readmore' | translate }}</a>
     </div>
     <div class="service span3">
       <div class="icon-awesome">
@@ -23,7 +25,7 @@
       </div>
       <h4>{{ 'home.weddings' | translate}}</h4>
       <p><em>{{ 'home.weddings_phrase' | translate}}</em></p>
-      <a href="/{{locale}}/services">{{ 'common.readmore' | translate }}</a>
+      <a href="{{services.permalink}}">{{ 'common.readmore' | translate }}</a>
     </div>
     <div class="service span3">
       <div class="icon-awesome">
@@ -31,7 +33,7 @@
       </div>
       <h4>{{ 'home.parties' | translate}}</h4>
       <p><em>{{ 'home.parties_phrase' | translate}}</em></p>
-	  <a href="/{{locale}}/services">{{ 'common.readmore' | translate }}</a>
+      <a href="{{services.permalink}}">{{ 'common.readmore' | translate }}</a>
     </div>
   </div>
 </div>
