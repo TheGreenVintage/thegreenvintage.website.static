@@ -5,7 +5,8 @@
 	    <div class="widget span8">
 		<h4>{{ 'footer.about_us' | translate }}</h4>
 		<p>{{ 'footer.the_green_vintage_is' | translate }}</p>
-		<p><a href="/{{locale}}/team">{{ 'common.readmore' | translate }}...</a></p>
+    		{% assign team = 'team' | section %}
+		<p><a href="{{team.permalink}}">{{ 'common.readmore' | translate }}...</a></p>
 	    </div>
 	    <div class="widget span4">
 		<h4>{{ 'footer.contact_us' | translate }}</h4>
