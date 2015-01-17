@@ -5,7 +5,7 @@ es:
     ca: Català
   home:
     title: Inicio
-    subheader: Los <span class=\"violet\">pequeños momentos</span> son los que <span class=\"violet\">te emocionan</span>
+    subheader: Los <span class="violet">pequeños momentos</span> son los que <span class="violet">te emocionan</span>
     meetings: Reuniones de empresa
     meetings_phrase: Éxito
     parties: Celebraciones particulares
@@ -41,7 +41,7 @@ es:
     subheader: La diferencia es esencial para nosotros
     zone: No existe una sola formula secreta para la creación de un evento perfecto. Pero lo que si que existe son las ganas de que estos eventos sean especiales para todos.
     description: Are you thinking about to plan an event? The Vintage Green's Consulting.
-    call_to_action: En un año, desearás haber empezado <span class=\"violet\">hoy</span
+    call_to_action: En un año, desearás haber empezado <span class="violet">hoy</span>
     start_now: ¡Empezar ahora!
     private:
       title: Eventos para particulares
