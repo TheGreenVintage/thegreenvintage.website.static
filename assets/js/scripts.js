@@ -42,6 +42,10 @@ jQuery(document).ready(function() {
 */
 jQuery(document).ready(function() {
     $("a[rel^='prettyPhoto']").prettyPhoto({social_tools: false});
+    $('.work > img').click(function(){
+      $(this).siblings('.icon-awesome').find('a[rel^="prettyPhoto"]').first().click();
+      return false;
+    });
 });
 
 /*

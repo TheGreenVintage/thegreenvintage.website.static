@@ -283,6 +283,7 @@ strong { font-weight: bold; }
     padding-bottom: 20px;
     background: #f8f8f8;
     border-bottom: 2px solid #58A073;
+    cursor: pointer;
 }
 
 .portfolio .work:hover img {
@@ -308,6 +309,10 @@ strong { font-weight: bold; }
     margin-top: 15px;
     font-size: 22px;
     line-height: 22px;
+}
+
+.portfolio .work .icon-awesome .hidden {
+    display: none;
 }
 
 .portfolio .work .icon-awesome a {

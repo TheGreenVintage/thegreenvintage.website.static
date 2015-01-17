@@ -4,18 +4,19 @@
     <h3>{{ 'home.lastest_work' | translate }}</h3>
   </div>
   <div class="row">
-    <!--
-        <a href="/assets/portfolio/work1.jpg" rel="prettyPhoto"><i class="icon-search"></i></a>
-        <a href="portfolio.html"><i class="icon-link"></i></a>
-	-->
-        
     {% for project in site.data.projects %}
     <div class="work span3">
-      <img src="/{{ 'assets/images/projects/' | append: project.album | walk | first}}" width="270" height="130" alt="{{ project | translate: 'title'}}">
+      <img src="/assets/images/projects/{{project.album}}/thumb.jpg" width="270" height="130" alt="{{ project | translate: 'title'}}">
       <h4>{{ project | translate: 'title'}}</h4>
       <p>{{ project | translate: 'description'}}</p>
       <div class="icon-awesome">
-        <a href="/{{locale}}/services"><i class="icon-search"></i></a>
+        {% assign album = 'assets/images/projects/' | append: project.album | walk %}
+        {% for picture in album %}
+          {% assign filename = picture | split: '/' | last %}
+          {% if filename != 'thumb.jpg' %}
+          <a href="/{{picture}}" rel="prettyPhoto[{{project.album}}]" title="{{ project | translate: 'title'}}" class="{% if forloop.index != 1 %}hidden{% endif %}">{% if forloop.index == 1 %}<i class="icon-search"></i>{% endif %}</a>
+	  {% endif %}
+        {% endfor %}
       </div>
     </div>
 	{% endfor %}
