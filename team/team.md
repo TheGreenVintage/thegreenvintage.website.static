@@ -3,7 +3,7 @@ layout: page
 section: team
 icon: user
 locale: en
-permalink: /es/equipo/
+permalink: /en/equipo/
 ---
 
 {% include aboutus.html %}
