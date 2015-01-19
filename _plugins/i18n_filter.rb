@@ -18,7 +18,7 @@ module Jekyll
       locale = @context.registers[:page]['locale']
 
       if field
-	input["#{field}_#{locale}"]
+        input["#{field}_#{locale}"]
       else
         load_translations
         I18n.t input, locale: locale
