@@ -61,13 +61,12 @@ jQuery(document).ready(function() {
         var postdata = form.serialize();
 
         $.ajax({
-            type: 'POST',
-            url: form.attr('action'),
-            data: postdata,
-            dataType: 'json',
-            success: function(json) {
-              window.location = form.data('success');
-            }
+          type: 'POST',
+          url: form.attr('action'),
+          data: postdata,
+          dataType: 'json'
+        }).success(function(){
+          window.location = form.data('success');
         });
 
         return false;
