@@ -66,7 +66,7 @@ jQuery(document).ready(function() {
             data: postdata,
             dataType: 'json',
             success: function(json) {
-		alert('Thanks!');
+              window.location = form.data('success');
             }
         });
 

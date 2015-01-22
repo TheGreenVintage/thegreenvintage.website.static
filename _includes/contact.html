@@ -4,11 +4,13 @@
     <div class="contact-form span6">
       <p>{{ 'contact.welcome' | translate }}</p>
       <h4><span class="violet">{{ 'contact.in_contact' | translate }}</span></h4>
-      <form method="POST" action="/contact/support">
-        
-      	<input type="hidden" value="/{{locale}}" name="success_callback" />
+
+      {% assign contactsent = 'contact-sent' | section %}
+      <form method="POST" action="/contact/support" data-success="{{contactsent.permalink}}">
+
+        <input type="hidden" value="/{{locale}}" name="success_callback" />
         <input type="hidden" value="/{{locale}}/contact" name="error_callback" />
-        
+
         {% if message.errors %}
         <p>The following errors occured:</p>
         <ul>
@@ -17,7 +19,7 @@
           {% endfor %}
         </ul>
         {% endif %}
-        
+
         <label for="name" class="nameLabel">{{ 'contact.name' | translate }}</label>
         <input id="name" name="name" type="text" placeholder="{{ 'contact.name_placeholder' | translate }}">
         <label for="email" class="emailLabel">{{ 'contact.email' | translate }}</label>

@@ -88,6 +88,11 @@ en:
     private: Private event
     corporative: Corporative event
     category: Category
+  contact-sent:
+    title: Contact
+    subheader: If you don't do it now, when?
+    sent_title: Your message was sent successfully
+    sent_description: Your request has been sent successfully. Thank you for contacting us!
   footer:
     about_us: About us
     the_green_vintage_is: The Green Vintage is a team of professionals specialized in the management and organization of any type of event. The company was founded with the desire to assess and plan the small moments of life and make them special.
