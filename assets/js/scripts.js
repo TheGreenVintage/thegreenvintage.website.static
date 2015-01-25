@@ -65,7 +65,9 @@ jQuery(document).ready(function() {
           url: form.attr('action'),
           data: postdata,
           dataType: 'json'
-        }).success(function(){
+        }).fail(function(error){
+          alert('Error:' + error);
+        }).done(function(data){
           window.location = form.data('success');
         });
 
