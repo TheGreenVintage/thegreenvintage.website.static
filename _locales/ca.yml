@@ -60,16 +60,29 @@ ca:
     corporative:
       title: Esdeveniments corporatius
       description: Organització i creació d'esdeveniments per a empreses buscant les tendències actuals. Estem a la teva dispoció per crear l'aconteixement ideal per la teva empresa. Sabem que un bon clima laboral influeix en el nivell de producció, confia en nosaltres per assolir l'èxit.
-      list:
-        - Esdeveniments corporatius
-        - Presentacions de producte
-        - Reunions privades
-        - Sopars i dinars d’empresa
-        - Festes d’empresa
-        - Convencions
-        - Inauguracions
-        - Activitats de Teambuilding
-        - i molt més...
+      informative:
+        title: Esdeveniments informatius
+        list:
+          - Assemblees
+          - Conferencies
+          - Jornades
+          - Congressos
+          - Simposis
+          - Reunions privades
+          - Workshops
+      promotion:
+        title: Esdeveniments promocionals
+        list:
+          - Fires i exposicions
+          - Inauguracions i aniversaris
+          - Presentacions de productes
+          - Showrooms
+      other:
+        title: Altres esdeveniments
+        list:
+          - Comunicació amb la premsa
+          - 'Offsites: Activitats de Teambuilding (paintball, excursions en quad, tallers de cuina, tallers d’art, paddle surf, etc.), recerca d’allotjaments i restaurants.'
+          - 'Comidas de empresa: desayunos, almuerzos, cenas, cocktails y fiestas privadas'
   contact:
     title: Contacte
     subheader: Si no ho fas ara, quan?

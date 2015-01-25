@@ -900,6 +900,15 @@ footer .social a:hover { background-position: left top; }
     text-shadow: 0 1px 0 rgba(255,255,255,.7);
 }
 
+.services-half-width-text h5 {
+    margin-top: 20px;
+    padding: 0 20px;
+    font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    color: #5d5d5d;
+    text-shadow: 0 1px 0 rgba(255,255,255,.7);
+}
+
 .services-half-width-text p {
     padding: 0 20px;
     line-height: 28px;

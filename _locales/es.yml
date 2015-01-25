@@ -60,16 +60,29 @@ es:
     corporative:
       title: Eventos corporativos
       description: Organización y creación de eventos para empresa buscando las últimas tendencias en el mundo de los eventos. La profesionalidad del equipo a tu entera disposición para crear un evento ideal para tu empresa. Sabemos que la mejora en el clima laboral influye en el nivel de producción, confía en nosotros para alcanzar el éxito.
-      list:
-        - Eventos corporativos
-        - Presentaciones de producto
-        - Reuniones privadas
-        - Cenas y almuerzos de empresa
-        - Fiestas de empresa
-        - Convenciones
-        - Inaguraciones
-        - Actividades de Teambuilding
-        - y mucho más...
+      informative:
+        title: Eventos informativos
+        list:
+          - Asambleas
+          - Conferencias
+          - Jornadas
+          - Congresos
+          - Simposios
+          - Reuniones privadas
+          - Workshops
+      promotion:
+        title: Eventos promocionales
+        list:
+          - Ferias y exposiciones
+          - Inauguraciones y aniversarios
+          - Presentaciones de productos
+          - Showrooms
+      other:
+        title: Otros eventos
+        list:
+          - Comunicación con la prensa
+          - 'Offsites: Actividades de Teambuilding (paintball, excursiones en quad, talleres de cocina, talleres de arte, paddle surf, etc.), búsqueda de alojamientos y restaurantes.'
+          - 'Comidas de empresa: desayunos, almuerzos, cenas, cocktails y fiestas privadas'
   contact:
     title: Contacto
     subheader: Si no lo haces ahora, ¿Cúando?

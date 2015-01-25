@@ -60,16 +60,29 @@ en:
     corporative:
       title: Corporative events
       description: Managment and creating events for companies looking for the latest trends. We are at your service to create the perfect event for your company. We know that a good working environment influences the productivity, trust us for your success.
-      list:
-        - Corporative events
-        - Product presentations
-        - Private meetings
-        - Business dinners and lunches
-        - Company parties
-        - Conventions
-        - Inaugurations
-        - Teambuilding activities
-        - and more...
+      informative:
+        title: Informative events
+        list:
+          - Assemblies
+          - Conferences
+          - Open houses
+          - Congresses
+          - Symposiums
+          - Private meetings
+          - Workshops
+      promotion:
+        title: Promotional events
+        list:
+          - Trade fairs and exhibitions
+          - Openings and anniversaries
+          - Product presentations
+          - Showrooms
+      other:
+        title: Other kind of events
+        list:
+          - Press releases
+          - 'Offsites: Teambuilding activities (paintball, quad biking, cookery workshops, art workshops, paddle surfing, etc.), search for accommodation and restaurants.'
+          - 'Company meals: breakfasts, lunches, dinners, cocktails and private parties'
   contact:
     title: Contact
     subheader: If you don't do it now, when?

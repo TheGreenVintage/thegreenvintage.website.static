@@ -14,8 +14,23 @@
     <div class="services-half-width-text span6">
       <h4>{{ 'services.corporative.title' | translate }}</h4>
       <p>{{ 'services.corporative.description' | translate }}</p>
+      <p><h5>{{ 'services.corporative.informative.title' | translate }}</h5></p>
       <ul class="gramophone">
-      {% assign list = 'services.corporative.list' | translate %}
+      {% assign list = 'services.corporative.informative.list' | translate %}
+      {% for type in list %}
+        <li>{{ type }}</li>
+      {% endfor %}
+      </ul>
+      <p><h5>{{ 'services.corporative.promotion.title' | translate }}</h5></p>
+      <ul class="gramophone">
+      {% assign list = 'services.corporative.promotion.list' | translate %}
+      {% for type in list %}
+        <li>{{ type }}</li>
+      {% endfor %}
+      </ul>
+      <p><h5>{{ 'services.corporative.other.title' | translate }}</h5></p>
+      <ul class="gramophone">
+      {% assign list = 'services.corporative.other.list' | translate %}
       {% for type in list %}
         <li>{{ type }}</li>
       {% endfor %}
