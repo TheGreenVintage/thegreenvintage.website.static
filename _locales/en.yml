@@ -46,17 +46,30 @@ en:
     private:
       title: Private events
       description: We help you to generate these moments to remember and make them special. Put your event in good hands, and you will not regret...
-      list:
-        - Private events
-        - Weddings
-        - Communions
-        - Bachelor
-        - Birthday Parties
-        - Family events
-        - Vip Parties
-        - Children's Parties
-        - Tourist trips
-        - and more...
+      celebrations:
+        title: Celebrations
+        list:
+          - Weddings
+          - Baptisms and communions
+          - Birthday parties
+          - Baby showers
+          - Kid parties
+          - Family events
+          - Bachelor parties
+          - Theme parties
+      turistic:
+        title: Tourist events
+        list:
+          - Tourist routes through Catalunya
+          - Tourist wine routes
+          - Modernist tourist routes
+          - Tourist medieval villages routes
+      other:
+        title: Other events
+        list:
+          - Sporting events
+          - Romantic evenings
+          - Personal shopper
     corporative:
       title: Corporative events
       description: Managment and creating events for companies looking for the latest trends. We are at your service to create the perfect event for your company. We know that a good working environment influences the productivity, trust us for your success.
