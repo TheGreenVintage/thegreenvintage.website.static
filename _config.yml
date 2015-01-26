@@ -9,3 +9,6 @@ url: "http://www.thegreenvintage.com" # the base hostname & protocol for your si
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
