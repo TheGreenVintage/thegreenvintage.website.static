@@ -8,7 +8,7 @@
             {% assign images = '1 2 5 3 4 6' | split: " " %}
             {% for image in images%}
             <li data-thumb="{{ '' | cdn }}assets/images/slider/{{ image }}.jpg">
-              <img src="/assets/images/slider/6.jpg">
+              <img src="{{ '' | cdn }}assets/images/slider/{{ image }}.jpg" width="958" height="539">
             </li>
             {% endfor %}
           </ul>

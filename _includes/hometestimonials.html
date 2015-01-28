@@ -9,7 +9,7 @@
         <div class="tab-content">
           {% for testimonial in site.data.testimonials %}
           <div class="tab-pane{% if forloop.index == 1 %} active{% endif %}" id="A{{ forloop.index }}">
-            <img src="{{ testimonial.photo }}" title="{{ testimonial.who }}" alt="{{ testimonial.who }}">
+            <img src="{{ testimonial.photo }}" title="{{ testimonial.who }}" alt="{{ testimonial.who }}" width="64" height="64">
             {{ testimonial | translate: 'description' }}
             <p><span class="violet">{{ testimonial.who }}</span></p>
           </div>
