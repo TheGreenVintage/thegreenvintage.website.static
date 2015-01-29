@@ -3,6 +3,9 @@ es:
     en: English
     es: Español
     ca: Català
+  not_found:
+    title: No encontrado
+    subheader: Recurso no encontrado
   home:
     title: Inicio
     subheader: Los <span class="violet">pequeños momentos</span> son los que <span class="violet">te emocionan</span>

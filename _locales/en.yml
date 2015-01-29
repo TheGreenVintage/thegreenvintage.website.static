@@ -3,6 +3,9 @@ en:
     en: English
     es: Español
     ca: Català
+  not_found:
+    title: Not found
+    subheader: Resource not found
   home:
     title: Home
     subheader: <span class="violet">Your life</span> is made up of <span class="violet">little moments</span>

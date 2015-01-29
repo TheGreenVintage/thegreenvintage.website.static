@@ -3,6 +3,9 @@ ca:
     en: English
     es: Español
     ca: Català
+  not_found:
+    title: No trobat
+    subheader: Recurs no trobat
   home:
     title: Inici
     subheader: Els <span class="violet">petits moments</span> són els que <span class="violet">t'emocionen</span>
