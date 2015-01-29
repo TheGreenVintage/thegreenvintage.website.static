@@ -5,11 +5,11 @@
       <div class="span10 offset1">
         <div class="flexslider">
           <ul class="slides">
-            {% assign images = '1 2 5 3 4 6' | split: " " %}
-            {% for image in images%}
-            <li data-thumb="{{ '' | cdn }}assets/images/slider/{{ image }}.jpg">
-              <img src="{{ '' | cdn }}assets/images/slider/{{ image }}.jpg" width="958" height="539">
-            </li>
+            {% assign slider = 'assets/images/slider/' | walk %}
+            {% for picture in slider %}
+              <li data-thumb="{{ picture | cdn }}">
+                <img src="{{ picture | cdn }}" width="958" height="539">
+              </li>
             {% endfor %}
           </ul>
         </div>
