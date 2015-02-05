@@ -7,7 +7,7 @@ keywords: barcelona maresme events eventos esdeveniments services servicios serv
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.thegreenvintage.com" # the base hostname & protocol for your site
 cdn: '' # cdn.thegreenvintage.com
-exclude: [Gemfile, Gemfile.lock]
+exclude: [Gemfile, Gemfile.lock, vendor]
 
 # Build settings
 markdown: kramdown
