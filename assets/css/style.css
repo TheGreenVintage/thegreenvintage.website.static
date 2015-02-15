@@ -1203,6 +1203,14 @@ ul.portfolio-img li {
         height: 10em;
     }
 
+    .testimonial-list img {
+        margin: 8px 10px 0px 0px;
+    }
+
+    .testimonial-list p {
+        padding: 0;
+    }
+
 }
 
 
