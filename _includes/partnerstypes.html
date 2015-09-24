@@ -1,0 +1,60 @@
+<div class="zetaSlider zetaTop" id="zetaSlider">
+  <div class="thumbnail-wrapper col2">
+    <ul class="zetaThumbs clearfix">
+      <li data-id="spaces" class="item active">
+      {% assign item = 'partners-spaces' | section %}
+      <a href="{{item.permalink}}" class=""><span class="more" style="display: none;"></span><img src="/assets/images/partners/spaces/10.jpg" alt="" class=""></a>
+      <div class="text">
+        <h4>{{ 'partners.spaces' | translate }}</h4>
+        <p>{{ 'partners.spaces_description' | translate }}</p>
+      </div>
+      </li>
+      <li data-id="decorations" class="item">
+      {% assign item = 'partners-decorations' | section %}
+      <a href="{{item.permalink}}" class=""><span class="more"></span><img src="/assets/images/partners/decorations/4.jpg" alt="" class=""></a>
+      <div class="text">
+        <h4>{{ 'partners.decorations' | translate }}</h4>
+        <p>{{ 'partners.decorations_description' | translate }}</p>
+      </div>
+      </li>
+      <li data-id="gastronomy" class="item">
+      {% assign item = 'partners-gastronomy' | section %}
+      <a href="{{item.permalink}}" class=""><span class="more"></span><img src="/assets/images/partners/gastronomy/1.jpg" alt="" class=""></a>
+      <div class="text">
+        <h4>{{ 'partners.gastronomy' | translate }}</h4>
+        <p>{{ 'partners.gastronomy_description' | translate }}</p>
+      </div>
+      </li>
+      <li data-id="photography" class="item">
+      {% assign item = 'partners-photography' | section %}
+      <a href="{{item.permalink}}" class=""><span class="more"></span><img src="/assets/images/partners/photography/1.jpg" alt="" class=""></a>
+      <div class="text">
+        <h4>{{ 'partners.photography' | translate }}</h4>
+        <p>{{ 'partners.photography_description' | translate }}</p>
+      </div>
+      </li>
+    </ul>
+  </div>
+  <div class="zetaHolder">
+    <div class="zetaWrapper">
+      <div class="zetaEmpty isDraggingFalse"></div>
+    </div>
+    <div class="zetaControls" style="display: block;"> <a class="zetaBtnClose" href="#">Close</a> <a class="zetaBtnPrev" href="#">Previous</a> <a class="zetaBtnNext" href="#">Next</a> </div>
+    <div class="zetaWarning" style="display: none;">
+      <div class="navigate">{{ 'generic.navigate' | translate }}</div>
+      <div class="drag">{{ 'generic.dragging' | translate }}</div>
+      <div class="arrow">{{ 'generic.arrows' | translate }}</div>
+      <div class="keys">{{ 'generic.keyboard' | translate }}</div>
+      <div class="clear"></div>
+    </div>
+  </div>
+</div>
+<div class="clear"></div>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+  jQuery('#zetaSlider').zetaSlider({
+    warningMessage:true,
+    warningMessageTimeout:4000
+  });
+});
+</script>

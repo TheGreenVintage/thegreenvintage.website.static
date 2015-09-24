@@ -1,9 +1,9 @@
 ---
-layout: page
-section: portfolio 
-icon: camera
+layout: page-no-wrapper
+section: portfolio
 locale: ca
 permalink: /ca/portfoli/
 ---
 
+{% include portfolio.html %}
 {% include portfoliolist.html %}

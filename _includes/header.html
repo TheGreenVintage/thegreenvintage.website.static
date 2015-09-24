@@ -1,54 +1,83 @@
-<div class="container">
-  <div class="header row">
-    <div class="span12">
-      <div class="navbar">
-        <div class="navbar-inner">
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-          <h1>
-            <a class="brand" href="/{{page.locale}}/home">The Green Vintage</a>
-          </h1>
-          <div class="nav-collapse collapse">
-            <ul class="nav pull-right">
-              {% assign sections = 'home services team contact portfolio' | split: " " %}
-              {% for sname in sections %}
-              {% assign item = sname | section %}
-              <li class="{% if page.section == item.section %}current-page{% endif %}">
-                <a href="{{item.permalink}}"><i class="icon-{{ item.icon }}"></i><br />{{ item.section | append:'.title' | translate }}</a>
-              </li>
-              {% endfor %}
+<!-- Begin Header -->
+<div class="header-wrapper">
+  <div class="header">
+    <!-- Begin Logo -->
+    <div class="logo"> <a href="/"><img src="/assets/images/logos/logo_green-vintage_white2.png" alt="The Green Vintage" width="80"></a> </div>
+    <!-- End Logo -->
 
-              <li id="locale-switcher">
-              {% assign locales = 'en es ca' | split: " " %}
-              {% for locale in locales %}
-              {% for item in site.pages %}
-              {% if page.section == item.section and locale == item.locale %}
-              <a href="{{item.permalink}}" class="{{item.locale}}">{{ locale | prepend:'locales.' | translate }}</a>
-              {% endif %}
-              {% endfor %}
-              {% endfor %}
+    <!-- Begin Menu -->
+    <div id="menu" class="menu">
+      <ul id="tiny" class="">
+        {% assign sections = 'home services portfolio partners team contact' | split: " " %}
+        {% for sname in sections %}
+        {% assign item = sname | section %}
+        <li class="{% if page.section == item.section or item.subsections contains page.section %}active{% endif %}">
+          <a href="{{item.permalink}}">{{ item.section | append:'.title' | translate }}</a>
+
+          {% if item.subsections %}
+            <ul class="sub-menu">
+              {% assign subsections = item.subsections | split: " " %}
+              {% for ssname in subsections %}
+              {% assign sitem = ssname | section %}
+              <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                <a href="{{sitem.permalink}}">{{ sitem.section | append:'.title' | translate }}</a>
               </li>
+              {% endfor %}
             </ul>
-          </div>
-        </div>
-      </div>
+          {% endif %}
+        </li>
+        {% endfor %}
+
+        <li id="locale-switcher">
+        {% assign locales = 'en es ca' | split: " " %}
+        {% for locale in locales %}
+
+        {% assign item = site.pages | where: 'section', page.section | where: 'locale', locale | first %}
+
+          {% if item %}
+          <a href="{{item.permalink}}" class="{{item.locale}}"><img src="/assets/images/flags/{{ locale }}.png" title="{{ locale | prepend:'locales.' | translate }}" alt="{{ locale | prepend:'locales.' | translate }}"/></a>
+          {% endif %}
+
+        {% endfor %}
+        </li>
+      </ul>
     </div>
+    <div class="clear"></div>
+    <!-- End Menu -->
   </div>
 </div>
+<!-- End Header -->
 
 {% if page.section != 'home' %}
-<div class="page-title">
-  <div class="container">
-    <div class="row">
-      <div class="span12">
-        <i class="icon-{{ page.icon }} page-title-icon"></i>
-        <h2>{{ page.section | append:'.title' | translate }} /</h2>
-        <p>{{ page.section | append:'.subheader' | translate }}</p>
-      </div>
-    </div>
+{% assign header_type = 'services' %}
+
+{% if page.section == 'corporative' %}
+{% assign header_type = 'corporative' %}
+{% endif %}
+
+{% if page.section == 'private' %}
+{% assign header_type = 'weddings' %}
+{% endif %}
+
+{% if page.section == 'portfolio' %}
+{% assign header_type = 'portfolio' %}
+{% endif %}
+
+{% if page.section == 'partners' %}
+{% assign header_type = 'partners' %}
+{% endif %}
+
+{% if page.section == 'team' %}
+{% assign header_type = 'team' %}
+{% endif %}
+
+{% if page.section == 'contact' %}
+{% assign header_type = 'contact' %}
+{% endif %}
+
+<div class="head-image head-image-{{header_type}}">
+  <div class="page-title">
+    <h1>{{ page.section | append:'.title' | translate }}</h1>
   </div>
 </div>
 {% endif %}

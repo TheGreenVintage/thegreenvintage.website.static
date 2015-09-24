@@ -1,0 +1,31 @@
+<div class="intro uppercase center">{{ 'home.message' | translate}}</div>
+<div class="intro">{{ 'home.what_we_do' | translate}}</div>
+<div class="intro">{{ 'home.bring_description' | translate}}</div>
+
+<blockquote class="important">
+  <p>{{ 'home.success' | translate }}</p>
+</blockquote>
+
+<div class="intro">{{ 'home.bring2_description' | translate}}</div>
+
+<div class="one-half">
+  <div class="intro">
+    <ul class="gramophone">
+      {% assign list = 'home.bring_list' | translate %}
+      {% for type in list %}
+      <li>{{ type }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+<div class="one-half last">
+  <div class="intro">
+    <ul class="gramophone">
+      {% assign list = 'home.bring2_list' | translate %}
+      {% for type in list %}
+      <li>{{ type }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+<div class="clear"></div>

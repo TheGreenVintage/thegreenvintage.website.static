@@ -1,6 +1,6 @@
 ---
-layout: page
-section: home 
+layout: page-no-wrapper
+section: home
 icon: home
 locale: ca
 permalink: /ca/home/
@@ -8,10 +8,8 @@ permalink: /ca/home/
 
 {% include homeslider.html %}
 
-{% include homeservices.html %}
+<div class="wrapper">
+  {% include homewhatwedo.html %}
 
-{% include homesiteheader.html %}
-
-{% include homelastestwork.html %}
-
-{% include hometestimonials.html %}
+  {% include homecustomers.html %}
+</div>
