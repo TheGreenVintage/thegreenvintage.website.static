@@ -9,3 +9,5 @@ permalink: /ca/equip/
 {% include aboutus.html %}
 
 {% include meetourteam.html %}
+
+{% include process.html %}

@@ -16,7 +16,7 @@ ca:
     teambuilding: Activitats de teambuilding
     teambuilding_phrase: Interactuïn
     weddings: Casaments
-    weddings_phrase: Si, vull! 
+    weddings_phrase: Si, vull!
     testimonials: Testimonis
     lastest_work: Últims treballs
   team:
@@ -36,6 +36,8 @@ ca:
     commitment4: "<strong>Creativitat:</strong> Cerquem vies innovadores i originals perquè els nostres actes siguin inoblidables."
     commitment5: "<strong>Sinergia:</strong> Treballem en equip i en xarxa perquè l’esforç compartit millora el resultat."
     who_we_are: Qui som
+  partners:
+    title: Col.laboradors
   portfolio:
     title: Portfoli
     subheader: Els desitjos es fan realitat

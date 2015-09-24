@@ -36,6 +36,8 @@ es:
     commitment4: "<strong>Creatividad:</strong> Buscamos vías innovadoras y originales para que nuestros actos sean inolvidables."
     commitment5: "<strong>Sinergia:</strong> Trabajamos en equipo ya que el esfuerzo compartido mejora el resultado."
     who_we_are: Quiénes somos
+  partners:
+    title: Collaboradores
   portfolio:
     title: Portfolio
     subheader: Los deseos se hacen realidad
