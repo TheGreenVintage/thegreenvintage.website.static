@@ -44,8 +44,8 @@ ca:
   services:
     title: Serveis
     subheader: La diferència és essencial per a nosaltres
-    zone: No exiteix una sola fórmula secreta per a la creació d'un esdeveniment perfecte. Pero el que si que existeix son les ganes de que aquests esdeveniments siguin especials per a tothom.
-    description: Esta pensant en organitzar un esdeveniment? Doncs no dubti més, a The Green Vintage l'assesorem.
+    description: Esta pensant en organitzar un esdeveniment?
+    management: Doncs no dubti més, a The Green Vintage l'assesorem
     call_to_action: En un any, desitjaràs haver començat <span class="violet">avui</span>
     start_now: Començar ara!
     private:

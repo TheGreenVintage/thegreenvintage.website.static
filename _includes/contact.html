@@ -1,3 +1,71 @@
+<div class="intro uppercase center">
+  {{ 'contact.welcome' | translate }}
+</div>
+<div class="three-fourth"> <div class="wpcf7" id="wpcf7-f1214-p1201-o1">
+    <div class="screen-reader-response"></div>
+    <form action="/contact/support" data-success="{{contactsent.permalink}}" method="post" class="wpcf7-form" novalidate="novalidate">
+      <ol>
+        <li class="form-row">
+          <span class="wpcf7-form-control-wrap your-name">
+            <input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="{{ 'contact.name_placeholder' | translate }}">
+          </span>
+        </li>
+        <li class="form-row">
+          <span class="wpcf7-form-control-wrap your-email">
+            <input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="{{ 'contact.email_placeholder' | translate }}">
+          </span>
+        </li>
+        <li class="form-row">
+          <span class="wpcf7-form-control-wrap your-subject">
+            <input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="{{ 'contact.subject_placeholder' | translate }}">
+          </span>
+        </li>
+        <li class="form-row">
+          <span class="wpcf7-form-control-wrap your-message">
+            <textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="{{ 'contact.message_placeholder' | translate }}"></textarea>
+          </span>
+        </li>
+        <li class="form-row">
+          <input type="submit" value="{{ 'contact.send' | translate }}" class="wpcf7-form-control wpcf7-submit"><img class="ajax-loader" src="http://wearethunderbuddies.com/glisseo/wp-content/plugins/contact-form-7/images/ajax-loader.gif" alt="Sending ..." style="visibility: hidden;">
+        </li>
+      </ol>
+      <div class="wpcf7-response-output wpcf7-display-none"></div>
+    </form>
+  </div>
+</div>
+
+<div class="one-fourth last">
+  <div class="widget-1  first sidebox">
+    <h3>Ideas para tu evento</h3>
+    <ul class="posts-list">
+      <li>
+        <div class="featured"><a href="http://wearethunderbuddies.com/glisseo/ridiculus-mattis-lorem-dolor-inceptos/"><span class="more" style="display: none;"></span><img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/post1-70x70.jpg" alt=""></a></div>
+        <div class="meta">
+          <h6><a href="http://wearethunderbuddies.com/glisseo/ridiculus-mattis-lorem-dolor-inceptos/">Fermentum Pharetra Tortror Porta</a></h6>
+          <em>16 Aug, 2012</em>
+        </div>
+      </li>
+      <li>
+        <div class="featured"><a href="http://wearethunderbuddies.com/glisseo/lorem-ipsum-dolor/"><span class="more" style="display: none;"></span><img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/p6-full1-70x70.jpg" alt=""></a></div>
+        <div class="meta">
+          <h6><a href="http://wearethunderbuddies.com/glisseo/lorem-ipsum-dolor/">Lorem Ipsum Dolor</a></h6>
+          <em>10 Jan, 2012</em>
+        </div>
+      </li>
+      <li>
+        <div class="featured"><a href="http://wearethunderbuddies.com/glisseo/mollis-amet-cras/"><span class="more" style="display: none;"></span><img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/p13-full-70x70.jpg" alt=""></a></div>
+        <div class="meta">
+          <h6><a href="http://wearethunderbuddies.com/glisseo/mollis-amet-cras/">Mollis Amet Cras</a></h6>
+          <em>22 Jan, 2012</em>
+        </div> 
+      </li>
+    </ul>
+    <div class="clear"></div>
+  </div>
+</div>
+<div class="clear"></div>
+
+<!--
 <div class="contact-us container">
   <div class="row">
     <div class="span3"></div>
@@ -31,7 +99,7 @@
             padding: 0 10px;
             width: 92%;
             height: 35px;
-            border: 1px solid #ddd;                                                           
+            border: 1px solid #ddd;
             color: #ccc;
             font-family: 'Open Sans', Helvetica, Arial, sans-serif;
             font-size: 13px;
@@ -41,7 +109,6 @@
           <option value="particular">{{ 'contact.private' | translate }}</option>
           <option value="corporative">{{ 'contact.corporative' | translate }}</option>
         </select>
-        
         <label for="subject">{{ 'contact.subject' | translate }}</label>
         <input id="subject" name="subject" type="text" placeholder="{{ 'contact.subject_placeholder' | translate }}">
         <label for="message" class="messageLabel">{{ 'contact.message' | translate }}</label>
@@ -52,3 +119,4 @@
     <div class="span3"></div>
   </div>
 </div>
+-->

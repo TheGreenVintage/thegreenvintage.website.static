@@ -44,8 +44,8 @@ es:
   services:
     title: Servicios
     subheader: La diferencia es esencial para nosotros
-    zone: No existe una sola formula secreta para la creación de un evento perfecto. Pero lo que si que existe son las ganas de que estos eventos sean especiales para todos.
-    description: ¿Está pensando en planificar un evento? Pues no dude más, en The Green Vintage le asesoramos.
+    description: ¿Está pensando en planificar un evento?
+    management: No dude más, en The Green Vintage le asesoramos
     call_to_action: En un año, desearás haber empezado <span class="violet">hoy</span>
     start_now: ¡Empezar ahora!
     private:

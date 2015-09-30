@@ -116,11 +116,11 @@ input, textarea {
 	border-radius: 0;
 }
 ::selection {
-	background: #fefac7; /* Safari */
+	background: rgb(193, 243, 213);
 	color: #555555;
 }
 ::-moz-selection {
-	background: #fefac7; /* Firefox */
+	background: rgb(193, 243, 213);
 	color: #555555;
 }
 
