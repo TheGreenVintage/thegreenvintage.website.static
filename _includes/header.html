@@ -8,7 +8,7 @@
     <!-- Begin Menu -->
     <div id="menu" class="menu">
       <ul id="tiny" class="">
-        {% assign sections = 'home services portfolio partners team contact' | split: " " %}
+        {% assign sections = 'home corporative private portfolio partners team contact' | split: " " %}
         {% for sname in sections %}
         {% assign item = sname | section %}
         <li class="{% if page.section == item.section %}current-page{% endif %}">

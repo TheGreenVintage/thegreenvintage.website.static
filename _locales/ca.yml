@@ -9,16 +9,42 @@ ca:
   home:
     title: Inici
     subheader: Els <span class="violet">petits moments</span> són els que <span class="violet">t'emocionen</span>
-    meetings: Reunions d'empresa
-    meetings_phrase: Èxit
-    parties: Celebracions particulars
-    parties_phrase: Brindis!
-    teambuilding: Activitats de teambuilding
-    teambuilding_phrase: Interactuïn
-    weddings: Casaments
-    weddings_phrase: Si, vull!
-    testimonials: Testimonis
-    lastest_work: Últims treballs
+
+    #meetings: Reunions d'empresa
+    #meetings_phrase: Èxit
+    #parties: Celebracions particulars
+    #parties_phrase: Brindis!
+    #teambuilding: Activitats de teambuilding
+    #teambuilding_phrase: Interactuïn
+    #weddings: Casaments
+    #weddings_phrase: Si, vull!
+    #testimonials: Testimonis
+    #lastest_work: Últims treballs
+
+    intro: Organitzem esdeveniments creatius, som especialistes en personalitzar qualsevol celebració. generem valor als vostres actes, Vine a coneixe’ns, i veuràs que som diferents.
+    what_we_do: Què fem?
+    what_we_do_description: The Green Vintage és un equip jove i dinàmic, especialitzat en l'organització i creació d'esdeveniments. Oferim un assessorament personalitzat i coordinació, total o parcial, d'esdeveniments de celebracions corporatives i particulars.
+    corporative: Corporatiu
+    corporative_description: perspectiva i visió pel pel teu esdeveniment
+    private: Particular
+    private_description: Els petits moments són els que t’emocione
+
+    how_we_work: Com treballem
+    how_we_work_description1: "Generant experiències mitjançant un seguiment personalitzat, donant valor afegit als esdeveniments per potenciar els vostres projectes ."
+    how_we_work_description2: "Treballant en equip i en xarxa perquè l’esforç compartit, millora el resultat i, d´aquesta manera, garantir l´èxit. "
+    concept: "Concepte"
+    concept_description1: "Estimem el nostre treball i creiem en tot allò que fem. Només així, gaudint, podem oferir-te el millor resultat de nosaltres i superar les seves expectatives inicials, i assolir la satisfacció dels nostres clients. (m ágrada més en gerundi)"
+    concept_description2: "Creient, estimant i gaudint en tot allò que fem , podem oferir-te els millors resultats, superant espectatives inicials i assolint amb satisfacció els resultats esperats."
+    communication: "Comunicació"
+    communication_description: "Sabent escoltar i entendre les necessitats dels nostres clients, aportant idees innovadores i originals per a fer que l’acte sigui únic i irrepetible."
+    preparation: "Preparació"
+    preparation_description1: "Fem un seguiment personalitzat i ens encarreguem del disseny i la creació de les decoracions. Fem una recerca i una selecció de tots els proveidors necessaris per l’esdeveniment, gestionem totes les seves accions, els pagaments, les peticions… Per últim controlem que tots els proveidors que conformen l’esdeveniment estiguin organitzats i coordinats, d’aquesta manera l’acte assolirà els objectius inicials."
+    preparation_description2: "Fent en tot moment un seguiment personalitzat , ens encarreguem del disseny i la creació de les decoracions. Tanmateix, fem una recerca i una selecció de tots els proveïdors necessaris per l´esdeveniment , gestionant totes les seves accions, pagaments, comandes,... Per últim, ens assegurem que tots els proveïdors que participen en la celebració , estiguin ben organitzats i coordinats per afavorir l´objectiu que volem: un resultat exitós i únic."
+    the_day: "El dia del esdeveniment"
+    the_day_description1: "Una vegada gestionats els proveïdors que formaran part del dia de l'esdeveniment, informarem al client per a què coneguin amb detall la gestió, i les tasques que es portaran a terme durant l'esdeveniment.  ( és necessari això ?)"
+    the_day_description2: "The Green Vintage portarà el control del muntatge i desmuntatge, el timing, rebrà als assistents, ajudarà en tot moment en el necessari aquells amb necessitats especials, etc. I finalment, avaluarà els resultats en funció dels objectius proposats."
+
+
   team:
     title: Equip
     subheader: Mai vaig somiar en tenir èxit, vaig treballar per arribar-hi.
@@ -41,67 +67,92 @@ ca:
   portfolio:
     title: Portfoli
     subheader: Els desitjos es fan realitat
-  services:
-    title: Serveis
-    subheader: La diferència és essencial per a nosaltres
-    description: Esta pensant en organitzar un esdeveniment?
-    management: Doncs no dubti més, a The Green Vintage l'assesorem
-    call_to_action: En un any, desitjaràs haver començat <span class="violet">avui</span>
-    start_now: Començar ara!
-    private:
-      title: Esdeveniments per particulars
-      description: Creem moments, generem emocions. Nosaltres l'ajudem a generar aquests moments, per fer que es recordin i siguin especials. Posa el teu esdeveniment a les nostres mans, no et penediràs...
-      celebrations:
-        title: Celebracions
-        list:
-          - Casaments
-          - Batejos i comunions
-          - Festes d'aniversari
-          - Baby Showers
-          - Festes infantils
-          - Esdeveniments familiars
-          - Comiat de solter/a
-          - Festes temàtiques
-          - Posada de llarg
-      turistic:
-        title: Esdeveniments turístics
-        list:
-          - Rutes turístiques per Catalunya
-          - Rutes turístiques - enoturisme
-          - Rutes turístiques modernistes
-          - Rutes turístiques per pobles medievals
-      other:
-        title: Altres esdeveniments
-        list:
-          - Esdeveniments esportius
-          - Vetllades romàntiques
-          - Personal shopper
-    corporative:
-      title: Esdeveniments corporatius
-      description: Organització i creació d'esdeveniments per a empreses buscant les tendències actuals. Considerem que els esdeveniments corporatius són la plataforma idònia per portar la seva empresa a un altre nivell i nosaltres els ajudarem a aconseguir-ho.
-      informative:
-        title: Esdeveniments informatius
-        list:
-          - Assemblees
-          - Conferencies
-          - Jornades
-          - Congressos
-          - Simposis
-          - Reunions privades
-          - Workshops
-      promotion:
-        title: Esdeveniments promocionals
-        list:
-          - Fires i exposicions
-          - Inauguracions i aniversaris
-          - Presentacions de productes
-          - Showrooms
-      other:
-        title: Altres esdeveniments
-        list:
-          - Comunicació amb la premsa
-          - 'Offsites: Activitats de Teambuilding (paintball, excursions en quad, tallers de cuina, tallers d’art, paddle surf, etc.), recerca d’allotjaments i restaurants.'
-          - 'Dinars d’empresa: esmorzars, dinars, sopars, cocktails i festes privades'
+
+  corporative:
+    title: corporatius
+    message: Considerem que els esdeveniments són una eina estratègica de comunicació en viu que aporten valor a la teva tasca
+    description: Considerem que els serveis corporatius són la plataforma idònia per donar-se a conèixer, per  orientar , rentabilitzar la inversió i potenciar la marca de la  empresa. Pretenem donar un valor afegit i lligar-los a les últimes tendències en el sector MICE.
+
+    informative: Esdeveniments informatius
+    informative_description: Conferències, Jornades, Congressos, Simposis, Reunions privades i Workshops
+    promotional: Esdeveniments promocionals
+    promotional_description: Fires , exposicions, inauguracions , aniversaris, presentacions de productes i Showrooms
+    other: Altres esdeveniments
+    other_description: Viatges d’incentiu ,Teambuilding, festes i menjars d’empresa.
+
+    extras: Totes les tipologies d’esdeveniments poden tenir una relació estreta amb serveis auxiliars. The Green Vintage us garanteix un assessorament, un seguiment i la gestió de contractació de tots els serveis necessaris.
+
+    list:
+      - "Disseny i producció de cartells, stands, displays, photocalls, vinils, invitacions o qualsevol altre element gràfic."
+      - "Contractació d'escenaris i/o decorats, il·luminació i so."
+      - "Senyalització d'espais i retolacions."
+      - "Serveis multimèdia: pantalles, monitors, projector i megafonia."
+      - "Fotografia i vídeo corporatius."
+      - "Catering, hostesses i traductors o intèrprets."
+      - "Altres: serveis de transport, pirotècnia, shows musicals, animacions, etc."
+
+  private:
+    title: particulars
+    message: Els petits moments són els que t’emocionen
+    description: No existeix una sola fòrmula secreta per a la creació d'un esdeveniment perfecte. Pero el que si que existeix són les ganes de que aquests esdeveniments siguin especials i únicsper a tothom.
+
+  call_to_action: En un any, desitjaràs haver començat <span class="violet">avui</span>
+  start_now: Començar ara!
+
+    # private:
+    #   title: Esdeveniments per particulars
+    #   description: Creem moments, generem emocions. Nosaltres l'ajudem a generar aquests moments, per fer que es recordin i siguin especials. Posa el teu esdeveniment a les nostres mans, no et penediràs...
+    #   celebrations:
+    #     title: Celebracions
+    #     list:
+    #       - Casaments
+    #       - Batejos i comunions
+    #       - Festes d'aniversari
+    #       - Baby Showers
+    #       - Festes infantils
+    #       - Esdeveniments familiars
+    #       - Comiat de solter/a
+    #       - Festes temàtiques
+    #       - Posada de llarg
+    #   turistic:
+    #     title: Esdeveniments turístics
+    #     list:
+    #       - Rutes turístiques per Catalunya
+    #       - Rutes turístiques - enoturisme
+    #       - Rutes turístiques modernistes
+    #       - Rutes turístiques per pobles medievals
+    #   other:
+    #     title: Altres esdeveniments
+    #     list:
+    #       - Esdeveniments esportius
+    #       - Vetllades romàntiques
+    #       - Personal shopper
+    # corporative:
+    #   title: Esdeveniments corporatius
+    #   description: Organització i creació d'esdeveniments per a empreses buscant les tendències actuals. Considerem que els esdeveniments corporatius són la plataforma idònia per portar la seva empresa a un altre nivell i nosaltres els ajudarem a aconseguir-ho.
+    #   informative:
+    #     title: Esdeveniments informatius
+    #     list:
+    #       - Assemblees
+    #       - Conferencies
+    #       - Jornades
+    #       - Congressos
+    #       - Simposis
+    #       - Reunions privades
+    #       - Workshops
+    #   promotion:
+    #     title: Esdeveniments promocionals
+    #     list:
+    #       - Fires i exposicions
+    #       - Inauguracions i aniversaris
+    #       - Presentacions de productes
+    #       - Showrooms
+    #   other:
+    #     title: Altres esdeveniments
+    #     list:
+    #       - Comunicació amb la premsa
+    #       - 'Offsites: Activitats de Teambuilding (paintball, excursions en quad, tallers de cuina, tallers d’art, paddle surf, etc.), recerca d’allotjaments i restaurants.'
+    #       - 'Dinars d’empresa: esmorzars, dinars, sopars, cocktails i festes privades'
   contact:
     title: Contacte
     subheader: Si no ho fas ara, quan?

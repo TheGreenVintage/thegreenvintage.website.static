@@ -1,6 +1,6 @@
 ---
 layout: page
-section: home 
+section: home
 icon: home
 locale: es
 permalink: /es/home/
@@ -8,10 +8,6 @@ permalink: /es/home/
 
 {% include homeslider.html %}
 
-{% include homeservices.html %}
+{% include homewhatwedo.html %}
 
-{% include homesiteheader.html %}
-
-{% include homelastestwork.html %}
-
-{% include hometestimonials.html %}
+{% include homehowwework.html %}
