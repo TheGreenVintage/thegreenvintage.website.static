@@ -1,26 +1,28 @@
 <div class="intro">
 
-  <div id="services-container" class="tab-container" data-easytabs="true">
+  <div class="tab-container">
 
-    <ul id="tabs_5550b021b78ec" class="etabs">
+    <ul class="etabs">
       <li class="tab active in">
       <a href="#tab-objectives" data-toggle="tab" class="active">{{ 'private.objectives' | translate }}</a>
       </li>
       <li class="tab">
-      <a href="#tab-prepare" data-toggle="tab">{{ 'private.management' | translate }}</a>
+      <a href="#tab-management" data-toggle="tab">{{ 'private.management' | translate }}</a>
       </li>
       <li class="tab">
-      <a href="#tab-retouch" data-toggle="tab">{{ 'private.the_day' | translate }}</a>
+      <a href="#tab-the_day" data-toggle="tab">{{ 'private.the_day' | translate }}</a>
       </li>
       <li class="tab">
-      <a href="#tab-finalize" data-toggle="tab">{{ 'private.design' | translate }}</a>
+      <a href="#tab-design" data-toggle="tab">{{ 'private.design' | translate }}</a>
       </li>
     </ul>
 
-    <div id="myTabContent" class="panel-container"><div id="tab-objectives" class="tab-pane fade active in" style="display: block;">
+    <div class="panel-container">
+      <div id="tab-objectives" class="tab-pane fade active in" style="display: block;">
         <p>{{ 'private.objectives_description' | translate }}</p>
       </div>
-      <div id="tab-prepare" class="tab-pane fade" style="display: none;">
+
+      <div id="tab-management" class="tab-pane fade" style="display: none;">
         <p>{{ 'private.management_description' | translate }}</p>
         <p>{{ 'private.the_day_description' | translate }}</p>
         <ul>
@@ -30,14 +32,15 @@
           {% endfor %}
         </ul>
       </div>
-      <div id="tab-retouch" class="tab-pane fade" style="display: none;">
+
+      <div id="tab-the_day" class="tab-pane fade" style="display: none;">
         <p>{{ 'private.the_day_description' | translate }}</p>
       </div>
-      <div id="tab-finalize" class="tab-pane fade" style="display: none;">
+
+      <div id="tab-design" class="tab-pane fade" style="display: none;">
         <p>{{ 'private.design_description1' | translate }}</p>
         <p>{{ 'private.design_description2' | translate }}</p>
       </div>
     </div>
   </div>
-
-  <script>jQuery("#myTabContent div:first , #tabs_5550b021b78ec li:first").addClass("active in");</script>
+</div>
