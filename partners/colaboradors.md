@@ -2,8 +2,8 @@
 layout: page
 section: partners
 icon: camera
-locale: es
-permalink: /es/colaboradores/
+locale: ca
+permalink: /ca/colaboradors/
 ---
 
 {% include partners.html %}

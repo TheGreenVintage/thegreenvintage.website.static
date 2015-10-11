@@ -10,4 +10,4 @@ permalink: /ca/equip/
 
 {% include meetourteam.html %}
 
-{% include process.html %}
+{% include commitment.html %}

@@ -10,4 +10,4 @@ permalink: /en/team/
 
 {% include meetourteam.html %}
 
-{% include process.html %}
+{% include commitment.html %}

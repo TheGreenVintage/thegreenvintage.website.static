@@ -3,7 +3,7 @@
 
 {% for employee in site.data.employees %}
 
-<div class="one-third">
+<div class="one-third {% if forloop.index == site.data.employees.size %} last{% endif %}">
   <div><img class="alignnone size-medium wp-image-814" src="{{ employee.photo }}" title="{{ employee.name }}" alt="{{ employee.name }}" width="300" height="140"></div>
   <h5>{{ employee.name }} <span>{{ employee | translate: 'title' }}</span></h5>
   <p>{{ employee | translate: 'description' }}</p>

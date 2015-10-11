@@ -48,29 +48,26 @@ ca:
   team:
     title: Equip
     subheader: Mai vaig somiar en tenir èxit, vaig treballar per arribar-hi.
-    professionals: A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
-    howto: Com ho fem? Apostem pel servei personalitzat. D’aquesta manera, ens permet tenir més coneixements de les prioritats dels nostres clients, i adaptar-les al seu projecte.        
-    area: El nostre àmbit d’actuació es situa a tota la província de Barcelona i estem especialitzats en la comarca del Maresme i L’Àrea Metropolitana de Barcelona. Ens podem traslladar a qualsevol altre zona. Per a nosaltres les distàncies no són cap inconvenient.
-    who_title: Qui som?
-    who_description: A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
-    how_title: Com ho fem?
-    how_description: Apostem pel servei personalitzat. D’aquesta manera, ens permet tenir més coneixements de les prioritats dels nostres clients, i adaptar-les al seu projecte.
+
+    #professionals: A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
+    #howto: Com ho fem? Apostem pel servei personalitzat. D’aquesta manera, ens permet tenir més coneixements de les prioritats dels nostres clients, i adaptar-les al seu projecte.        
+    #area: El nostre àmbit d’actuació es situa a tota la província de Barcelona i estem especialitzats en la comarca del Maresme i L’Àrea Metropolitana de Barcelona. Ens podem traslladar a qualsevol altre zona. Per a nosaltres les distàncies no són cap inconvenient.
+    #who_title: Qui som?
+    #who_description: A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
+    #how_title: Com ho fem?
+    #how_description: Apostem pel servei personalitzat. D’aquesta manera, ens permet tenir més coneixements de les prioritats dels nostres clients, i adaptar-les al seu projecte.
+    #who_we_are: Qui som
+
     commitment: El nostre compromís
     commitment1: "<strong>Satisfacció: </strong> Fem un seguiment personalitzat del seu esdeveniment, perquè l’èxit és essencial per a nosaltres."
     commitment2: "<strong>Motivació:</strong> Ens agrada molt el nostre treball i creiem en tot allò que fem. Nomes així, gaudint, podem oferir-te el millor resultat de nosaltres i superar les seves expectatives inicials."
     commitment3: "<strong>Empatia:</strong> Sabem escoltar i entendre les necessitats dels nostres clients i del territori en el que ens trobem."
     commitment4: "<strong>Creativitat:</strong> Cerquem vies innovadores i originals perquè els nostres actes siguin inoblidables."
     commitment5: "<strong>Sinergia:</strong> Treballem en equip i en xarxa perquè l’esforç compartit millora el resultat."
-    who_we_are: Qui som
-  partners:
-    title: Col.laboradors
-  portfolio:
-    title: Portfoli
-    subheader: Els desitjos es fan realitat
 
   corporative:
     title: corporatius
-    message: Considerem que els esdeveniments són una eina estratègica de comunicació en viu que aporten valor a la teva tasca
+    subheader: Considerem que els esdeveniments són una eina estratègica de comunicació en viu que aporten valor a la teva tasca
     description: Considerem que els serveis corporatius són la plataforma idònia per donar-se a conèixer, per  orientar , rentabilitzar la inversió i potenciar la marca de la  empresa. Pretenem donar un valor afegit i lligar-los a les últimes tendències en el sector MICE.
 
     informative: Esdeveniments informatius
@@ -93,11 +90,49 @@ ca:
 
   private:
     title: particulars
-    message: Els petits moments són els que t’emocionen
+    subheader: Els petits moments són els que t’emocionen
     description: No existeix una sola fòrmula secreta per a la creació d'un esdeveniment perfecte. Pero el que si que existeix són les ganes de que aquests esdeveniments siguin especials i únicsper a tothom.
 
-  call_to_action: En un any, desitjaràs haver començat <span class="violet">avui</span>
-  start_now: Començar ara!
+    weddings: Celebracions - Casaments
+
+    objectives: Objectius
+    objectives_description: A The Green Vintage ens encarreguem de la coordinació, l'assessorament, la logística i la supervisió de les seves noces, per evitar qualsevol imprevist. Dissenyem un projecte personalitzat per a cadascun dels nostres clients, ja que el nostre principal objectiu és crear un moment únic. 
+
+    management: Organització Completa
+    management_description: "Coordinació des del primer minut fins al dia de la celebració. Aquest servei inclou:"
+    management_list:
+      - Disseny personalitzat i ambientació
+      - Selecció i coordinació de proveïdors
+      - El dia de les noces
+    the_day: El dia de les teves noces
+    the_day_description: Us acompanyem durant tot el dia, gestionant les tasques perquè tot surti segons el previst. Supervisem la decoració final , temps de la cerimònia i la recepció. Coordinem les activitats (entrada dels nuvis, primer ball, regals, brindis…), rebrem als convidats, ajudem a aquells convidats amb necessitats especials, etc.
+    design: Disseny i ambientació
+    design_description1: Necessites orientacions i consells per a l'organització de les teves noces? 
+    design_description2: Et proposarem un disseny exclusiu i personalitzat segons els vostres gustos, cuidant al màxim el detall.
+
+  partners:
+    title: Col.laboradors
+    message: La bona qualitat i la relació estreta amb els nostres col·laboradors, donen valor afegit al vostre esdeveniment.
+
+    spaces: Espais
+    spaces_description: "Per organitzar un bon esdeveniment, és important escollir l’espai adequat. Nosaltres us oferim diversos espais on poder desenvolupar els vostres projectes."
+
+    decorations: Decoracions
+    decorations_description: "Una bona ambientació, fa exclusiu el teu esdeveniment."
+
+    gastronomy: Gastronomia
+    gastronomy_description: "és un element diferenciador perquè el vostre esdeveniment sigui un èxit: bona qualitat dels aliments, un servei acurat, presentacions originals dels plats, detalls en la decoració i en el muntatge, són els ingredients que donen el sabor perquè aquest dia sigui recordat pels assistents."
+
+    photography: Fotografia
+    photography_description: "captar els moments importants de tot el desenvolupament de la celebració amb una qualitat excepcional i un toc de distinció i originalitat personal per un record per a tota la vida."
+
+  portfolio:
+    title: Portfoli
+    subheader: Els desitjos es fan realitat
+
+  services:
+    call_to_action: En un any, desitjaràs haver començat avui
+    start_now: Començar ara!
 
     # private:
     #   title: Esdeveniments per particulars
@@ -155,8 +190,7 @@ ca:
     #       - 'Dinars d’empresa: esmorzars, dinars, sopars, cocktails i festes privades'
   contact:
     title: Contacte
-    subheader: Si no ho fas ara, quan?
-    welcome: Si tens una idea que vols dur a terme amb nosaltres, omple el següent formulari. Estarem encantats d'organitzar el teu pròxim esdeveniment!
+    subheader: Si tens una idea que vols dur a terme amb nosaltres, omple el següent formulari. Estarem encantats d'organitzar el teu pròxim esdeveniment!
     in_contact: SEGUIM EN CONTACTE!
     send: Enviar
     message: Missatge
@@ -171,6 +205,35 @@ ca:
     private: Esdeveniment particular
     corporative: Esdeveniment corporatiu
     category: Categoria
+
+    templates:
+      title: Idees per al teu esdeveniment
+      corporative:
+        title: Corporatiu
+        subject: Esdeveniment corporatiu
+        text: >
+          Bon dia / tarda,
+          Sóc ... de l’empresa..., estem interessats en realitzar un/a ... . (Reunió, showroom, outsite, teambuilding, presentació de producte, viatge d'incentius). D’aquesta manera, ens agradaria rebre més informació de com treballeu i quines són les vostres tarifes.
+          Quedo a l’espera de les vostres notícies,
+          Moltes gràcies i salutacions,
+      private:
+        title: Casaments
+        subject: Esdeveniment particular
+        text: >
+          Bon dia / tarda,
+          Som ..., una parella que vol celebrar el seu casament el pròxim ....
+          Sol·licitem més informació dels serveis que oferiu i quines són les vostres tarifes
+          Quedo a l’espera de les vostres notícies,
+          Moltes gràcies i salutacions,
+      other:
+        title: Informació general
+        subject: Informació
+        text: >
+          Bon dia / tarda,
+          Sóc ..., estic interessat en rebre informació sobre ...(tarifes, lloguer de transports, decoracions, col·laboradors)
+          Quedo a l’espera de les vostres notícies,
+          Moltes gràcies i salutacions,
+
   contact-sent:
     title: Contacte
     subheader: Si no ho fas ara, quan?

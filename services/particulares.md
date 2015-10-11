@@ -8,8 +8,8 @@ permalink: /es/servicios/particulares/
 
 {% include private-services.html %}
 
-{% include typeservices.html %}
+{% include private-types.html %}
 
-{% include homehowwework.html %}
+{% include weddings.html %}
 
 {% include calltoaction.html %}

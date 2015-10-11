@@ -8,7 +8,7 @@ permalink: /ca/serveis/corporatius/
 
 {% include corporative-services.html %}
 
-{% include typeservices.html %}
+{% include corporative-types.html %}
 
 {% include homehowwework.html %}
 

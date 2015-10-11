@@ -6,4 +6,6 @@ locale: en
 permalink: /en/partners/
 ---
 
-{% include portfoliolist.html %}
+{% include partners.html %}
+
+{% include partnerstypes.html %}

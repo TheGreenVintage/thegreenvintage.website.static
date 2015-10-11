@@ -10,4 +10,4 @@ permalink: /es/equipo/
 
 {% include meetourteam.html %}
 
-{% include process.html %}
+{% include commitment.html %}
