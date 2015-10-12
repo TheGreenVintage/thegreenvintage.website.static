@@ -17,7 +17,7 @@
         </li>
         <li class="form-row">
           <span class="wpcf7-form-control-wrap your-subject">
-            <input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="{{ 'contact.subject_placeholder' | translate }}">
+            <input type="text" name="subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="{{ 'contact.subject_placeholder' | translate }}">
           </span>
         </li>
         <li class="form-row">
@@ -39,36 +39,37 @@
     <h3>{{ 'contact.templates.title' | translate }}</h3>
     <ul class="posts-list">
       <li>
-        <div class="featured">
-          <a href="http://wearethunderbuddies.com/glisseo/ridiculus-mattis-lorem-dolor-inceptos/">
+        <a class="contact-template" href="#" data-subject="{{ 'contact.templates.corporative.subject' | translate }}" data-message="{{ 'contact.templates.corporative.text' | translate }}">
+          <div class="featured">
             <span class="more" style="display: none;"></span>
             <img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/post1-70x70.jpg" alt="">
-          </a>
-        </div>
-        <div class="meta">
-          <h6><a href="http://wearethunderbuddies.com/glisseo/ridiculus-mattis-lorem-dolor-inceptos/" data-subject="{{ 'contact.templates.corporative.subject' | translate }}" data-text="{{ 'contact.templates.corporative.text' | translate }}">{{ 'contact.templates.corporative.title' | translate }}</a></h6>
-        </div>
+          </div>
+          <div class="meta">
+            <h6>{{ 'contact.templates.corporative.title' | translate }}</h6>
+          </div>
+        </a>
       </li>
       <li>
-        <div class="featured">
-          <a href="http://wearethunderbuddies.com/glisseo/lorem-ipsum-dolor/">
+        <a class="contact-template" href="#" data-subject="{{ 'contact.templates.private.subject' | translate }}" data-message="{{ 'contact.templates.private.text' | translate }}">
+          <div class="featured">
             <span class="more" style="display: none;"></span>
             <img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/p6-full1-70x70.jpg" alt="">
-          </a>
-        </div>
-        <div class="meta">
-          <h6><a href="http://wearethunderbuddies.com/glisseo/lorem-ipsum-dolor/" data-subject="{{ 'contact.templates.private.subject' | translate }}" data-text="{{ 'contact.templates.private.text' | translate }}">{{ 'contact.templates.private.title' | translate }}</a></h6>
-        </div>
+          </div>
+          <div class="meta">
+            <h6>{{ 'contact.templates.private.title' | translate }}</h6>
+          </div>
+        </a>
       </li>
       <li>
-        <div class="featured">
-          <a href="http://wearethunderbuddies.com/glisseo/mollis-amet-cras/">
+        <a class="contact-template" href="#" data-subject="{{ 'contact.templates.other.subject' | translate }}" data-message="{{ 'contact.templates.other.text' | translate }}">
+          <div class="featured">
             <span class="more" style="display: none;"></span>
-            <img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/p13-full-70x70.jpg" alt=""></a>
-        </div>
-        <div class="meta">
-          <h6><a href="http://wearethunderbuddies.com/glisseo/mollis-amet-cras/" data-subject="{{ 'contact.templates.other.subject' | translate }}" data-text="{{ 'contact.templates.other.text' | translate }}">{{ 'contact.templates.other.title' | translate }}</a></h6>
-        </div>
+            <img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/p13-full-70x70.jpg" alt="">
+          </div>
+          <div class="meta">
+            <h6>{{ 'contact.templates.other.title' | translate }}</h6>
+          </div>
+        </a>
       </li>
     </ul>
     <div class="clear"></div>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-no-wrapper
 section: partners
 icon: camera
 locale: es
@@ -8,4 +8,6 @@ permalink: /es/colaboradores/
 
 {% include partners.html %}
 
-{% include partnerstypes.html %}
+<div class="wrapper">
+  {% include partnerstypes.html %}
+</div>

@@ -48,6 +48,7 @@ ca:
   team:
     title: Equip
     subheader: Mai vaig somiar en tenir èxit, vaig treballar per arribar-hi.
+    who_we_are: Qui som
 
     #professionals: A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
     #howto: Com ho fem? Apostem pel servei personalitzat. D’aquesta manera, ens permet tenir més coneixements de les prioritats dels nostres clients, i adaptar-les al seu projecte.        
@@ -56,7 +57,6 @@ ca:
     #who_description: A The Green Vintage som un equip de professionals especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa neix amb el desig d’assessorar i planificar els petits moments de la vida, i fer que siguin extraordinaris i especials.
     #how_title: Com ho fem?
     #how_description: Apostem pel servei personalitzat. D’aquesta manera, ens permet tenir més coneixements de les prioritats dels nostres clients, i adaptar-les al seu projecte.
-    #who_we_are: Qui som
 
     commitment: El nostre compromís
     commitment1: "<strong>Satisfacció: </strong> Fem un seguiment personalitzat del seu esdeveniment, perquè l’èxit és essencial per a nosaltres."
@@ -66,7 +66,7 @@ ca:
     commitment5: "<strong>Sinergia:</strong> Treballem en equip i en xarxa perquè l’esforç compartit millora el resultat."
 
   corporative:
-    title: corporatius
+    title: Serveis corporatius
     subheader: Considerem que els esdeveniments són una eina estratègica de comunicació en viu que aporten valor a la teva tasca
     description: Considerem que els serveis corporatius són la plataforma idònia per donar-se a conèixer, per  orientar , rentabilitzar la inversió i potenciar la marca de la  empresa. Pretenem donar un valor afegit i lligar-los a les últimes tendències en el sector MICE.
 
@@ -89,7 +89,7 @@ ca:
       - "Altres: serveis de transport, pirotècnia, shows musicals, animacions, etc."
 
   private:
-    title: particulars
+    title: Serveis particulars
     subheader: Els petits moments són els que t’emocionen
     description: No existeix una sola fòrmula secreta per a la creació d'un esdeveniment perfecte. Pero el que si que existeix són les ganes de que aquests esdeveniments siguin especials i únicsper a tothom.
 
@@ -111,7 +111,7 @@ ca:
     design_description2: Et proposarem un disseny exclusiu i personalitzat segons els vostres gustos, cuidant al màxim el detall.
 
   partners:
-    title: Col.laboradors
+    title: Col·laboradors
     message: La bona qualitat i la relació estreta amb els nostres col·laboradors, donen valor afegit al vostre esdeveniment.
 
     spaces: Espais

@@ -2,17 +2,19 @@
 <div class="footer-wrapper">
   <div class="footer">
     <div class="one-fourth">
-      <h3>Search</h3><form class="searchform" method="get" action="http://wearethunderbuddies.com/glisseo">
-        <input type="text" id="s" name="s" value="type and hit enter" onfocus="this.value=&#39;&#39;" onblur="this.value=&#39;type and hit enter&#39;">
-      </form><div class="clear"></div><h3>Archives</h3>		<ul>
-        <li><a href="http://wearethunderbuddies.com/glisseo/2012/08/">August 2012</a>&nbsp;(1)</li>
-        <li><a href="http://wearethunderbuddies.com/glisseo/2012/07/">July 2012</a>&nbsp;(2)</li>
-        <li><a href="http://wearethunderbuddies.com/glisseo/2012/04/">April 2012</a>&nbsp;(2)</li>
-        <li><a href="http://wearethunderbuddies.com/glisseo/2012/03/">March 2012</a>&nbsp;(1)</li>
-        <li><a href="http://wearethunderbuddies.com/glisseo/2012/02/">February 2012</a>&nbsp;(1)</li>
-        <li><a href="http://wearethunderbuddies.com/glisseo/2012/01/">January 2012</a>&nbsp;(2)</li>
+      <h3>Archives</h3>
+      <ul>
+        {% assign sections = 'home corporative private portfolio partners team contact' | split: " " %}
+        {% for sname in sections %}
+        {% assign item = sname | section %}
+        <li>
+          <a href="{{item.permalink}}">{{ item.section | append:'.title' | translate }}</a>
+        </li>
+        {% endfor %}
+
       </ul>
-      <div class="clear"></div>    </div>
+      <div class="clear"></div>
+    </div>
     <div class="one-fourth">
       <h3>Latest Posts</h3><ul class="post-list"><li>	
         <h4>
