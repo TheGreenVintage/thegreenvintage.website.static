@@ -36,14 +36,16 @@ en:
     commitment4: <strong>Creativity:</strong> We look for original and innovative ways to make our actions unforgettable.
     commitment5: <strong>Synergy:</strong> We work as a team since the shared effort improves the result.
     who_we_are: Who we are
+  partners:
+    title: Partners
   portfolio:
     title: Portfolio
     subheader: Wishes do come true
   services:
     title: Services
     subheader: The difference is essential for us
-    zone: There’s no single secret formula to create a perfect event. However there exist the desire that these events will be special for everyone.
-    description: Are you thinking about to plan an event? The Vintage Green's Consulting.
+    description: Are you thinking about to plan an event?
+    management: The Vintage Green's consulting
     call_to_action: In a year, you'll wish you started  <span class="violet">today</span>
     start_now: Start now!
     private:
