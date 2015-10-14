@@ -1,54 +1,44 @@
-<div class="container">
-  <div class="header row">
-    <div class="span12">
-      <div class="navbar">
-        <div class="navbar-inner">
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-          <h1>
-            <a class="brand" href="/{{page.locale}}/home">The Green Vintage</a>
-          </h1>
-          <div class="nav-collapse collapse">
-            <ul class="nav pull-right">
-              {% assign sections = 'home services team contact portfolio' | split: " " %}
-              {% for sname in sections %}
-              {% assign item = sname | section %}
-              <li class="{% if page.section == item.section %}current-page{% endif %}">
-                <a href="{{item.permalink}}"><i class="icon-{{ item.icon }}"></i><br />{{ item.section | append:'.title' | translate }}</a>
-              </li>
-              {% endfor %}
+<!-- Begin Header -->
+<div class="header-wrapper">
+  <div class="header">
+    <!-- Begin Logo -->
+    <div class="logo"> <a href="/"><img src="/assets/images/logos/logo.png" alt="The Green Vintage" width="70"></a> </div>
+    <!-- End Logo -->
 
-              <li id="locale-switcher">
-              {% assign locales = 'en es ca' | split: " " %}
-              {% for locale in locales %}
-              {% for item in site.pages %}
-              {% if page.section == item.section and locale == item.locale %}
-              <a href="{{item.permalink}}" class="{{item.locale}}">{{ locale | prepend:'locales.' | translate }}</a>
-              {% endif %}
-              {% endfor %}
-              {% endfor %}
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
+    <!-- Begin Menu -->
+    <div id="menu" class="menu">
+      <ul id="tiny" class="">
+        {% assign sections = 'home corporative private portfolio partners team contact' | split: " " %}
+        {% for sname in sections %}
+        {% assign item = sname | section %}
+        <li class="{% if page.section == item.section %}current-page{% endif %}">
+          <a href="{{item.permalink}}">{{ item.section | append:'.title' | translate }}</a>
+        </li>
+        {% endfor %}
+
+        <li id="locale-switcher">
+        {% assign locales = 'en es ca' | split: " " %}
+        {% for locale in locales %}
+        {% for item in site.pages %}
+        {% if page.section == item.section and locale == item.locale %}
+        <a href="{{item.permalink}}" class="{{item.locale}}">{{ locale | prepend:'locales.' | translate }}</a>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+        </li>
+      </ul>
     </div>
+    <div class="clear"></div>
+    <!-- End Menu -->
   </div>
 </div>
+<!-- End Header -->
 
 {% if page.section != 'home' %}
-<div class="page-title">
-  <div class="container">
-    <div class="row">
-      <div class="span12">
-        <i class="icon-{{ page.icon }} page-title-icon"></i>
-        <h2>{{ page.section | append:'.title' | translate }} /</h2>
-        <p>{{ page.section | append:'.subheader' | translate }}</p>
-      </div>
-    </div>
+<div class="head-image">
+  <img src="http://wearethunderbuddies.com/glisseo/wp-content/themes/glisseo/style/images/head3.jpeg" alt="">
+  <div class="page-title">
+    <h1>{{ page.section | append:'.title' | translate }}</h1>
   </div>
 </div>
 {% endif %}

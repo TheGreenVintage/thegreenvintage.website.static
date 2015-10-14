@@ -1,0 +1,42 @@
+<h2>{{ 'home.how_we_work' | translate }}</h2>
+
+<div class="intro">
+  <p>{{ 'home.how_we_work_description1' | translate }}</p>
+  <p>{{ 'home.how_we_work_description2' | translate }}</p>
+
+  <div class="tab-container">
+
+    <ul class="etabs">
+      <li class="tab active in">
+      <a href="#tab-concept" data-toggle="tab" class="active">{{ 'home.concept' | translate }}</a>
+      </li>
+      <li class="tab">
+      <a href="#tab-prepare" data-toggle="tab">{{ 'home.communication' | translate }}</a>
+      </li>
+      <li class="tab">
+      <a href="#tab-retouch" data-toggle="tab">{{ 'home.preparation' | translate }}</a>
+      </li>
+      <li class="tab">
+      <a href="#tab-finalize" data-toggle="tab">{{ 'home.the_day' | translate }}</a>
+      </li>
+    </ul>
+
+    <div id="myTabContent" class="panel-container"><div id="tab-concept" class="tab-pane fade active in" style="display: block;">
+        <p>{{ 'home.concept_description1' | translate }}</p>
+        <p>{{ 'home.concept_description2' | translate }}</p>
+      </div>
+      <div id="tab-prepare" class="tab-pane fade" style="display: none;">
+        <p>{{ 'home.communication_description' | translate }}</p>
+        <p>{{ 'home.preparation_description1' | translate }}</p>
+      </div>
+      <div id="tab-retouch" class="tab-pane fade" style="display: none;">
+        <p>{{ 'home.preparation_description2' | translate }}</p>
+      </div>
+      <div id="tab-finalize" class="tab-pane fade" style="display: none;">
+        <p>{{ 'home.the_day_description1' | translate }}</p>
+        <p>{{ 'home.the_day_description2' | translate }}</p>
+      </div>
+    </div>
+  </div>
+
+  <script>jQuery("#myTabContent div:first , #tabs_5550b021b78ec li:first").addClass("active in");</script>

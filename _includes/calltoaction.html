@@ -1,15 +1,9 @@
-<!-- Call To Action -->
-<div class="call-to-action container">
-  <div class="row">
-    <div class="call-to-action-text span12">
-      <div class="ca-text">
-        <p>{{ 'services.call_to_action' | translate }}</p>
-      </div>
-      <div class="ca-button">
 
-    	{% assign contact = 'contact' | section %}
-        <a href="{{contact.permalink}}">{{ 'services.start_now' | translate }}</a>
-      </div>
-    </div>
-  </div>
-</div>
+<hr>
+
+<blockquote>
+  <p>{{ 'services.call_to_action' | translate }}</p>
+</blockquote>
+
+{% assign contact = 'contact' | section %}
+<a class="button" href="{{contact.permalink}}">{{ 'services.start_now' | translate }}</a>
