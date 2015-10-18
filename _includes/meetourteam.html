@@ -7,16 +7,9 @@
   <div><img class="alignnone size-medium wp-image-814" src="{{ employee.photo }}" title="{{ employee.name }}" alt="{{ employee.name }}" width="300" height="140"></div>
   <h5>{{ employee.name }} <span>{{ employee | translate: 'title' }}</span></h5>
   <p>{{ employee | translate: 'description' }}</p>
-  <p><em class='violet'>{{ employee | translate: 'phrase' }}</em></p>
-  <p><b>Email:</b> <a href="mailto:{{ employee.email }}">{{ employee.email }}</a></p>
-  <p><b>Tel.</b> <a href="tel:{{ employee.telephone }}">{{ employee.telephone }}</a></p>
-  <ul class="social team">
-    <li><a class="facebook" href="#" target="_blank" style="opacity: 1; "></a></li>
-    <li><a class="twitter" href="#" target="_blank" style="opacity: 1; "></a></li>
-    <li><a class="dribbble" href="#" target="_blank" style="opacity: 1; "></a></li>
-    <li><a class="linkedin" href="#" target="_blank" style="opacity: 1; "></a></li>
-    <li><a class="pinterest" href="#" target="_blank" style="opacity: 1; "></a></li>
-  </ul>
+
+  {% if employee.email %}<p><b>Email:</b> <a href="mailto:{{ employee.email }}">{{ employee.email }}</a></p>{% endif %}
+  {% if employee.telephone%}<p><b>Tel.</b> <a href="tel:{{ employee.telephone }}">{{ employee.telephone }}</a></p>{% endif %}
 </div>
 {% endfor %}
 <div class="clear"></div>
