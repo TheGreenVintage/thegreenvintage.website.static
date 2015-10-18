@@ -10,5 +10,4 @@ permalink: /ca/home/
 
 <div class="wrapper">
   {% include homewhatwedo.html %}
-  {% include homehowwework.html %}
 </div>

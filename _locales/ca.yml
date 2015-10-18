@@ -29,21 +29,6 @@ ca:
     private: Particular
     private_description: Els petits moments són els que t’emocione
 
-    how_we_work: Com treballem
-    how_we_work_description1: "Generant experiències mitjançant un seguiment personalitzat, donant valor afegit als esdeveniments per potenciar els vostres projectes ."
-    how_we_work_description2: "Treballant en equip i en xarxa perquè l’esforç compartit, millora el resultat i, d´aquesta manera, garantir l´èxit. "
-    concept: "Concepte"
-    concept_description1: "Estimem el nostre treball i creiem en tot allò que fem. Només així, gaudint, podem oferir-te el millor resultat de nosaltres i superar les seves expectatives inicials, i assolir la satisfacció dels nostres clients. (m ágrada més en gerundi)"
-    concept_description2: "Creient, estimant i gaudint en tot allò que fem , podem oferir-te els millors resultats, superant espectatives inicials i assolint amb satisfacció els resultats esperats."
-    communication: "Comunicació"
-    communication_description: "Sabent escoltar i entendre les necessitats dels nostres clients, aportant idees innovadores i originals per a fer que l’acte sigui únic i irrepetible."
-    preparation: "Preparació"
-    preparation_description1: "Fem un seguiment personalitzat i ens encarreguem del disseny i la creació de les decoracions. Fem una recerca i una selecció de tots els proveidors necessaris per l’esdeveniment, gestionem totes les seves accions, els pagaments, les peticions… Per últim controlem que tots els proveidors que conformen l’esdeveniment estiguin organitzats i coordinats, d’aquesta manera l’acte assolirà els objectius inicials."
-    preparation_description2: "Fent en tot moment un seguiment personalitzat , ens encarreguem del disseny i la creació de les decoracions. Tanmateix, fem una recerca i una selecció de tots els proveïdors necessaris per l´esdeveniment , gestionant totes les seves accions, pagaments, comandes,... Per últim, ens assegurem que tots els proveïdors que participen en la celebració , estiguin ben organitzats i coordinats per afavorir l´objectiu que volem: un resultat exitós i únic."
-    the_day: "El dia del esdeveniment"
-    the_day_description1: "Una vegada gestionats els proveïdors que formaran part del dia de l'esdeveniment, informarem al client per a què coneguin amb detall la gestió, i les tasques que es portaran a terme durant l'esdeveniment.  ( és necessari això ?)"
-    the_day_description2: "The Green Vintage portarà el control del muntatge i desmuntatge, el timing, rebrà als assistents, ajudarà en tot moment en el necessari aquells amb necessitats especials, etc. I finalment, avaluarà els resultats en funció dels objectius proposats."
-
 
   team:
     title: Equip
@@ -71,11 +56,11 @@ ca:
     description: Considerem que els serveis corporatius són la plataforma idònia per donar-se a conèixer, per  orientar , rentabilitzar la inversió i potenciar la marca de la  empresa. Pretenem donar un valor afegit i lligar-los a les últimes tendències en el sector MICE.
 
     informative: Esdeveniments informatius
-    informative_description: Conferències, Jornades, Congressos, Simposis, Reunions privades i Workshops
+    informative_description: Conferències, jornades, congressos, simposis, reunions privades i workshops
     promotional: Esdeveniments promocionals
-    promotional_description: Fires , exposicions, inauguracions , aniversaris, presentacions de productes i Showrooms
+    promotional_description: Fires, exposicions, inauguracions, aniversaris, presentacions de productes i showrooms
     other: Altres esdeveniments
-    other_description: Viatges d’incentiu ,Teambuilding, festes i menjars d’empresa.
+    other_description: Viatges d’incentius, teambuilding, festes i menjars d’empresa.
 
     extras: Totes les tipologies d’esdeveniments poden tenir una relació estreta amb serveis auxiliars. The Green Vintage us garanteix un assessorament, un seguiment i la gestió de contractació de tots els serveis necessaris.
 
@@ -88,15 +73,28 @@ ca:
       - "Catering, hostesses i traductors o intèrprets."
       - "Altres: serveis de transport, pirotècnia, shows musicals, animacions, etc."
 
+    how_we_work: Com treballem
+    how_we_work_description: "Treballem en equip i en xarxa perquè l’esforç compartit millora el resultat. Donem un valor afegit als esdeveniments per potenciar els vostres projectes i així assolir l’exit."
+    concept: "Concepte"
+    concept_description: "The Green Vintage  dona valor a la gestió dels seus d'esdeveniments per ajudar a aconseguir els objectius perseguits pels seus clients i per reforçar les seves marques. Tenim l'activitat creativa i intel·lectual per afrontar els reptes dels nous projectes, assegurant així que tot l'equip compleixi amb les expectatives del treball a desenvolupar i garantir …."
+    communication: "Comunicació"
+    communication_description1: "Som responsables de planejar la logística de tots els elements per al desenvolupament de tot l'esdeveniment, i ens involucrarem des del principi fins al final del procés. Us assistirem a la planificació del pressupost, la selecció del seu de l'esdeveniment, en les referències dels proveïdors, els temps del seu desenvolupament, l'acomodament dels convidats, i tot allò que se sol·liciti."
+    communication_description2: "L'Organitzador d'esdeveniments és un professional que coneix la indústria íntegrament, sap quins son els proveïdors de confiança, i on trobar les millors ofertes per mantenir l'esdeveniment dins del pressupost fixat. Sempre estarà amb contacte amb el client, sabent escoltar i aconsellar per a que tot s’adapti als seus interessos."
+    preparation: "Preparació"
+    preparation_description1: "Farem un seguiment personalitzat i exclusiu per a cada client, adaptant-nos al seu pressupost i als seus interessos i necessitats."
+    preparation_description2: "The Green Vintage està especialitzat en l'organització d'esdeveniments d'empresa i compta amb contactes, que en ocasions es tradueixen en col·laboracions i sinergies de gran valor per als clients. Nosaltres controlarem perfectament els timings , l'ordre del dia , així com totes les fases i elements que intervinguin en cada esdeveniment. Oferim un servei integral al client organitzant a tots els proveïdors implicats en el desenvolupament d'un esdeveniment per a empresa ( selecció d'ubicacions, catering, hostesses, lloguer de vehicles, transfers, hotels, restaurants, guies turístics…)."
+    the_day: "El dia del esdeveniment"
+    the_day_description: "El nostre deure fonamental és estar el dia de l'esdeveniment i assegurar-se que aquest transcorri segons els objectius fixats."
+
   private:
-    title: Serveis particulars
+    title: Casaments
     subheader: Els petits moments són els que t’emocionen
     description: No existeix una sola fòrmula secreta per a la creació d'un esdeveniment perfecte. Pero el que si que existeix són les ganes de que aquests esdeveniments siguin especials i únicsper a tothom.
 
     weddings: Celebracions - Casaments
 
     objectives: Objectius
-    objectives_description: A The Green Vintage ens encarreguem de la coordinació, l'assessorament, la logística i la supervisió de les seves noces, per evitar qualsevol imprevist. Dissenyem un projecte personalitzat per a cadascun dels nostres clients, ja que el nostre principal objectiu és crear un moment únic. 
+    objectives_description: A The Green Vintage ens encarreguem de la coordinació, l'assessorament, la logística i la supervisió de les seves noces, per evitar qualsevol imprevist. Dissenyem un projecte personalitzat per a cadascun dels nostres clients, ja que el nostre principal objectiu és crear un moment únic.
 
     management: Organització Completa
     management_description: "Coordinació des del primer minut fins al dia de la celebració. Aquest servei inclou:"
@@ -118,19 +116,20 @@ ca:
     spaces_description: "Per organitzar un bon esdeveniment, és important escollir l’espai adequat. Nosaltres us oferim diversos espais on poder desenvolupar els vostres projectes."
 
     decorations: Decoracions
-    decorations_description: "Una bona ambientació, fa exclusiu el teu esdeveniment."
+    decorations_description: "Una bona ambientació, fa exclusiu el teu esdeveniment. Per això és important saber com relacionarem els diferents elements: els colors, la il·luminació, els materials, el mobiliari, el color corporatiu de l’empresa… tot aquest conjunt d’elements generen emocions als assistents de l’esdeveniment."
 
     gastronomy: Gastronomia
-    gastronomy_description: "és un element diferenciador perquè el vostre esdeveniment sigui un èxit: bona qualitat dels aliments, un servei acurat, presentacions originals dels plats, detalls en la decoració i en el muntatge, són els ingredients que donen el sabor perquè aquest dia sigui recordat pels assistents."
+    gastronomy_description: "És un element diferenciador perquè el vostre esdeveniment sigui un èxit: bona qualitat dels aliments, un servei acurat, presentacions originals dels plats, detalls en la decoració i en el muntatge, són els ingredients que donen el sabor perquè aquest dia sigui recordat pels assistents."
 
     photography: Fotografia
-    photography_description: "captar els moments importants de tot el desenvolupament de la celebració amb una qualitat excepcional i un toc de distinció i originalitat personal per un record per a tota la vida."
+    photography_description: "Els professionals capten tots aquells moments importants de tot el desenvolupament de l’esdeveniment, amb una qualitat excepcional i un toc de distinció i originalitat."
 
   portfolio:
     title: Portfoli
     subheader: Els desitjos es fan realitat
 
   services:
+    title: Serveis
     call_to_action: En un any, desitjaràs haver començat avui
     start_now: Començar ara!
 

@@ -10,6 +10,6 @@ permalink: /ca/serveis/corporatius/
 
 {% include corporative-types.html %}
 
-{% include homehowwework.html %}
+{% include corporative-howwework.html %}
 
 {% include calltoaction.html %}
