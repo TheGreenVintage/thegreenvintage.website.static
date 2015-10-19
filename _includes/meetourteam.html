@@ -1,15 +1,12 @@
-<!-- Meet Our Team -->
-<h3>{{ 'team.who_we_are' | translate }}</h3>
+<div class="intro">
+  <p>{{ 'team.founders' | translate }}</p>
+  <p>{{ 'team.carreer' | translate }}</p>
+  <p>{{ 'team.create_company' | translate }}</p>
+  <p>{{ 'team.consolidate' | translate }}</p>
 
-{% for employee in site.data.employees %}
+  <div style="text-align: center; margin-bottom: 25px">
+    <img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/p10-full-228x170.jpg" style="width: 500px; display: inline-block">
+  </div>
 
-<div class="one-third {% if forloop.index == site.data.employees.size %} last{% endif %}">
-  <div><img class="alignnone size-medium wp-image-814" src="{{ employee.photo }}" title="{{ employee.name }}" alt="{{ employee.name }}" width="300" height="140"></div>
-  <h5>{{ employee.name }} <span>{{ employee | translate: 'title' }}</span></h5>
-  <p>{{ employee | translate: 'description' }}</p>
-
-  {% if employee.email %}<p><b>Email:</b> <a href="mailto:{{ employee.email }}">{{ employee.email }}</a></p>{% endif %}
-  {% if employee.telephone%}<p><b>Tel.</b> <a href="tel:{{ employee.telephone }}">{{ employee.telephone }}</a></p>{% endif %}
+  <p>{{ 'team.definition' | translate }}</p>
 </div>
-{% endfor %}
-<div class="clear"></div>

@@ -148,6 +148,9 @@ p {
 	padding-bottom: 20px;
 	letter-spacing: 0.3px;
 }
+strong {
+	font-weight: 400;
+}
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
 	color: #4f4f4f;
@@ -190,6 +193,9 @@ h5 span {
 h6 {
 	font-size: 12px;
 	line-height: 14px;
+}
+.tight {
+	margin: 0px auto 10px auto;
 }
 hr {
 	border: none;
@@ -350,7 +356,7 @@ ul {
 	overflow: hidden;
 }
 ul li {
-	background: transparent url(style/images/icon-bullet.png) no-repeat left 7px;
+	background: transparent url(style/images/icon-bullet.png) no-repeat left 12px;
 	padding: 0 0 0 20px;
 }
 

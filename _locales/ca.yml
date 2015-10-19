@@ -6,6 +6,8 @@ ca:
   not_found:
     title: No trobat
     subheader: Recurs no trobat
+  generic:
+    more_info: "Més informació"
   home:
     title: Inici
     subheader: Els <span class="violet">petits moments</span> són els que <span class="violet">t'emocionen</span>
@@ -43,6 +45,12 @@ ca:
     #how_title: Com ho fem?
     #how_description: Apostem pel servei personalitzat. D’aquesta manera, ens permet tenir més coneixements de les prioritats dels nostres clients, i adaptar-les al seu projecte.
 
+    founders: La Paula Bao Oliveda i la Gemma Oliveras Esteve són les fundadores de The Green Vintage. Són dues noies joves amb esperit dinàmic i emprenedor, que van cursar juntes els seus estudis a la Universitat CETT-UB Formació i Recerca en Hoteleria i Turisme. La Paula es va especialitzar en la Gestió i Direcció d’Esdeveniments i la Gemma en Gestió i Direcció Hotelera.
+    carreer: Al transcurs de la carrera universitària i les pràctiques impartides en aquell temps, van adonar-se’n que el sector dels esdeveniments era la seva passió.
+    create_company: Al finalitzar els seus estudis, l’any 2011, van començar a plantejar-se l’opció de crear la seva pròpia empresa d’organització i gestió d’esdeveniments, ja que havien vist que cadascuna aportava al projecte uns valors i unes aptituds, que unides eren una garantia d’èxit.
+    consolidate: Gràcies a l'esforç, dedicació i suport, l’empresa The Green Vintage s’ha anat consolidant i s’ha posicionat dins del mercat actual.
+    definition: The Green Vintage es defineix com una empresa que té cura del seu client de forma única i personal, sabem escoltar i entendre les seves necessitats aportant idees innovadores i originals i cuidant al màxim el detall.
+
     commitment: El nostre compromís
     commitment1: "<strong>Satisfacció: </strong> Fem un seguiment personalitzat del seu esdeveniment, perquè l’èxit és essencial per a nosaltres."
     commitment2: "<strong>Motivació:</strong> Ens agrada molt el nostre treball i creiem en tot allò que fem. Nomes així, gaudint, podem oferir-te el millor resultat de nosaltres i superar les seves expectatives inicials."
@@ -52,8 +60,8 @@ ca:
 
   corporative:
     title: Serveis corporatius
-    subheader: Considerem que els esdeveniments són una eina estratègica de comunicació en viu que aporten valor a la teva tasca
-    description: Considerem que els serveis corporatius són la plataforma idònia per donar-se a conèixer, per  orientar , rentabilitzar la inversió i potenciar la marca de la  empresa. Pretenem donar un valor afegit i lligar-los a les últimes tendències en el sector MICE.
+    subheader: Considerem que els esdeveniments són una eina estratègica de comunicació en viu que aporten valor a la teva marca
+    description: Els serveis corporatius són la plataforma idònia per donar-se a conèixer, per orientar, rentabilitzar la inversió i potenciar la marca de l’empresa. Donem un valor afegit i treballem amb les últimes tendències en el sector MICE.
 
     informative: Esdeveniments informatius
     informative_description: Conferències, jornades, congressos, simposis, reunions privades i workshops
@@ -89,7 +97,7 @@ ca:
   private:
     title: Casaments
     subheader: Els petits moments són els que t’emocionen
-    description: No existeix una sola fòrmula secreta per a la creació d'un esdeveniment perfecte. Pero el que si que existeix són les ganes de que aquests esdeveniments siguin especials i únicsper a tothom.
+    description: Organitzem i produïm casaments personalitzats. Tindreu a la vostra disposició un equip professional que entendrà el vostre estil, les vostres necessitats i els vostres interessos, creant així una comunicació per a que el teu casament sigui únic tant per vosaltres com per als vostres convidats.
 
     weddings: Celebracions - Casaments
 
@@ -126,12 +134,18 @@ ca:
 
   portfolio:
     title: Portfoli
-    subheader: Els desitjos es fan realitat
+    message: Aquesta és la millor manera d'explicar-vos el treball què fem. Aquí teniu alguns exemples d’esdeveniments que hem dissenyat i produït, a mida per a cada client.
 
   services:
     title: Serveis
+    message: Ens encarreguem d’organitzar esdeveniments corporatius i particulars.
     call_to_action: En un any, desitjaràs haver començat avui
     start_now: Començar ara!
+    corporative_title: Corporatiu
+    corporative_description: Posem a la seva disposició un complet equip de professionals per assegurar l'objectiu de l'esdeveniment de la seva empresa . Hem col·laborat amb petites i grans empreses en l'organització de tot tipus d'esdeveniments. Creativitat, innovació, dinamisme, proactivitat i atenció personalitzada són les bases del nostre treball.    (+info)
+    private_title: Casaments
+    private_description: El nostre objectiu és aportar idees úniques i diferents perquè el vostre casament sigui especial. Comptar amb una wedding planner és una garantia d'èxit i us donarà la tranquil·litat necessària perquè només us dediqueu a gaudir del vostre gran dia.  
+
 
     # private:
     #   title: Esdeveniments per particulars
