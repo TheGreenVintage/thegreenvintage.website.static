@@ -6,8 +6,8 @@ locale: ca
 permalink: /ca/colaboradors/
 ---
 
-{% include partners.html %}
-
 <div class="wrapper">
-  {% include partnerstypes.html %}
+  {% include partners.html %}
 </div>
+
+{% include partnerstypes.html %}

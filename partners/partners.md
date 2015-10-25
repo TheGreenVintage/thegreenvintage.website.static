@@ -6,8 +6,8 @@ locale: en
 permalink: /en/partners/
 ---
 
-{% include partners.html %}
-
 <div class="wrapper">
-  {% include partnerstypes.html %}
+  {% include partners.html %}
 </div>
+
+{% include partnerstypes.html %}

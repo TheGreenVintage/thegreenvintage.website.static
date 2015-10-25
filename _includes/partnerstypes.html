@@ -1,3 +1,68 @@
+<div class="zetaSlider zetaTop" id="zetaSlider">
+  <div class="thumbnail-wrapper col2">
+    <ul class="zetaThumbs clearfix" style="margin-top: 640px;">
+      <li data-id="people" class="item active">
+      <a href="gallery-people.html" class=""><span class="more" style="display: none;"></span><img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/10/5-228x170.jpg" alt="" class=""></a>
+      <div class="text">
+        <h4>{{ 'partners.spaces' | translate }}</h4>
+        <p>{{ 'partners.spaces_description' | translate }}</p>
+      </div>
+      </li>
+      <li data-id="macro" class="item">
+      <a href="gallery-macro.html" class=""><span class="more"></span><img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/10/gallery-macro-228x170.jpg" alt="" class=""></a>
+      <div class="text">
+        <h4>{{ 'partners.decorations' | translate }}</h4>
+        <p>{{ 'partners.decorations_description' | translate }}</p>
+      </div>
+      </li>
+      <li data-id="nature" class="item">
+      <a href="gallery-nature.html" class=""><span class="more"></span><img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/10/gallery-nature-228x170.jpg" alt="" class=""></a>
+      <div class="text">
+        <h4>{{ 'partners.gastronomy' | translate }}</h4>
+        <p>{{ 'partners.gastronomy_description' | translate }}</p>
+      </div>
+      </li>
+      <li data-id="stilllife" class="item">
+      <a href="gallery-still-life.html" class=""><span class="more"></span><img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/10/gallery-stilllife-228x170.jpg" alt="" class=""></a>
+      <div class="text">
+        <h4>{{ 'partners.photography' | translate }}</h4>
+        <p>{{ 'partners.photography_description' | translate }}</p>
+      </div>
+      </li>
+    </ul>
+  </div>
+  <div class="zetaHolder" style="display: block;">
+    <div class="zetaWrapper">
+      <div class="zetaEmpty isDraggingFalse" style="overflow: hidden; width: 5123px; display: block; left: 101px;">
+        <div style="display: block;">
+          <img src="gallery/people/1.jpg" alt="">
+          <span class="caption"><p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p></span>
+        </div>
+        <div style="display: block;">
+          <img src="gallery/people/2.jpg" alt="">
+        </div>
+        <div style="display: block;"><img src="gallery/people/3.jpg" alt=""></div><div style="display: block;"><img src="gallery/people/4.jpg" alt=""></div><div style="display: block;"><img src="gallery/people/5.jpg" alt=""></div><div style="display: block;"><img src="gallery/people/6.jpg" alt=""></div><div style="display: block;"><img src="gallery/people/7.jpg" alt=""></div></div>
+    </div>
+    <div class="zetaControls" style="display: block;"> <a class="zetaBtnClose" href="#">Close</a> <a class="zetaBtnPrev" href="#">Previous</a> <a class="zetaBtnNext" href="#">Next</a> </div>
+    <div class="zetaWarning" style="display: none;">
+      <div class="navigate">Navigate by</div>
+      <div class="drag">Dragging</div>
+      <div class="arrow">Arrows</div>
+      <div class="keys">Keyboard</div>
+      <div class="clear"></div>
+    </div>
+  </div>
+</div>
+<div class="clear"></div>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+  jQuery('#zetaSlider').zetaSlider({
+    warningMessage:true,
+    warningMessageTimeout:4000
+  });
+});
+</script>
+<!--
 <div class="one-fourth">
   <p><img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/10/5-228x170.jpg" alt=""></p>
   <h4>{{ 'partners.spaces' | translate }}</h4>
@@ -19,3 +84,4 @@
   <p>{{ 'partners.photography_description' | translate }}</p>
 </div>
 <div class="clear"></div>
+-->

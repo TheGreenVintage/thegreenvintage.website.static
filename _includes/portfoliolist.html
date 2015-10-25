@@ -6,19 +6,29 @@
     <div id="portfolio">
       <ul class="filter">
         <li><a class="active" href="#" data-filter="*">All</a></li>
-        <li><a href="#" data-filter=".advertorial">Advertorial</a></li>
-        <li><a href="#" data-filter=".fashion" class="">Fashion</a></li>
-        <li><a href="#" data-filter=".interior">Interior</a></li>
-        <li><a href="#" data-filter=".macro">Macro</a></li>
+        <li><a href="#" data-filter=".weddings">Casaments</a></li>
+        <li><a href="#" data-filter=".corporative" class="">Corporatius</a></li>
+        <li><a href="#" data-filter=".ideas">Idees</a></li>
       </ul>
       <ul class="items isotope" style="position: relative; overflow: hidden; height: 744px;">
-
-        <li class="item  macro isotope-item" rel="0" style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); opacity: 1;"> <a href="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/p1-full1.jpg" class="fancybox-media " rel="portfolio" data-title-id="pi_5550b054c2d4f"><span class="more"></span> <img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/p1-full1-228x170.jpg" alt=""> </a>
-        <div id="pi_5550b054c2d4f" class="info hidden">
-          <h2>Cras justo odio dapibus</h2>
-          <div class="fancybox-desc"><p>Vestibulum id ligula porta felis euismod semper. Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
+        {% for photo in site.data.portfolio reversed %}
+        <li class="item {{ photo.tag }} isotope-item" rel="0">
+          <a href="{{ '' | cdn }}assets/images/portfolio/{{photo.path}}" class="fancybox-media " rel="portfolio" data-title-id="pi_5550b054c2d4f">
+            <span class="more"></span>
+            <img src="{{ '' | cdn }}assets/images/portfolio/{{photo.path}}" width="270" height="130" alt="{{ photo | translate: 'title'}}">
+          </a>
+          <div id="pi_5550b054c2d4f" class="info hidden">
+            <h2>{{ photo | translate: 'title'}}</h2>
+            <div class="fancybox-desc"><p>{{ photo | translate: 'description'}}</p></div>
           </div>
-        </div>
+        </li>
+        {% endfor %}
+            <!-- 
+        <li class="item  macro isotope-item" rel="0" style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1); opacity: 1;"> <a href="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/p1-full1.jpg" class="fancybox-media " rel="portfolio" data-title-id="pi_5550b054c2d4f"><span class="more"></span> <img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/p1-full1-228x170.jpg" alt=""> </a>
+          <div id="pi_5550b054c2d4f" class="info hidden">
+            <h2>Cras justo odio dapibus</h2>
+            <div class="fancybox-desc"><p>Vestibulum id ligula porta felis euismod semper. Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p></div>
+          </div>
         </li>
         <li class="item  fashion isotope-item" rel="1" style="position: absolute; left: 0px; top: 0px; transform: translate3d(244px, 0px, 0px);"> <a href="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/p2-full1.jpg" class="fancybox-media " rel="portfolio" data-title-id="pi_5550b054c3261"><span class="more"></span> <img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/p2-full1-228x170.jpg" alt=""> </a>
         <div id="pi_5550b054c3261" class="info hidden">
@@ -125,6 +135,7 @@
           </div>
         </div>
         </li>
+            -->
       </ul>
     </div>
     <!-- End Portfolio --> 
