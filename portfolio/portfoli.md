@@ -5,4 +5,5 @@ locale: ca
 permalink: /ca/portfoli/
 ---
 
+{% include portfolio.html %}
 {% include portfoliolist.html %}

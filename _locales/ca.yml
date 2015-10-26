@@ -9,7 +9,7 @@ ca:
   generic:
     more_info: "Més informació"
     navigate: Navegar
-    dragging: Arrossegant
+    dragging: Moure
     arrows: Fletxes
     keyboard: Teclat
   home:
@@ -140,6 +140,14 @@ ca:
     title: Portfoli
     message: Aquesta és la millor manera d'explicar-vos el treball què fem. Aquí teniu alguns exemples d’esdeveniments que hem dissenyat i produït, a mida per a cada client.
 
+    corporative: Corporatius
+    corporative_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+    weddings: Casaments
+    weddings_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+    ideas: Idees
+    ideas_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
   services:
     title: Serveis
     message: Ens encarreguem d’organitzar esdeveniments corporatius i particulars.

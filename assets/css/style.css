@@ -365,6 +365,11 @@ ul.gramophone li {
 	margin-top: 15px;
 }
 
+ul.zetaThumbs li {
+	background: none;
+	padding: 0;
+}
+
 ol {
 	list-style: decimal;
 	list-style-position: inside;
