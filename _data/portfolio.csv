@@ -1,33 +1,37 @@
-title_en,description_en,title_es,description_es,title_ca,description_ca,path,tag,date
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/01_001.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/01_002.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/01_003.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/01_004.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/01_005.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/01_006.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/01_007.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/01_008.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/02_001.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/02_002.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/02_003.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/02_004.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/02_005.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/02_006.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/02_007.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/02_008.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/02_009.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/02_010.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/02_011.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/03_001.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/03_002.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/03_003.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/03_004.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/03_005.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/04_001.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/04_002.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/04_003.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,casaments/04_004.jpg,weddings,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,idees/1.jpg,ideas,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,idees/2.jpg,ideas,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,idees/3.jpg,ideas,12/07/2014
-Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,Lorem ipsum,idees/4.jpg,ideas,12/07/2014
+file,description_ca,description_es,description_en
+weddings/01_001.jpg,Decoració floral de cadires per a la cerimònia,Decoración floral de sillas para ceremonia,
+weddings/01_002.jpg,Decoració amb espelmes,Decoración con velas,
+weddings/01_003.jpg,Decoració cerimònia,Decoración ceremonia,
+weddings/01_004.jpg,Casament temàtic ,Boda temática mexicana,
+weddings/01_005.jpg,Atrezzo,Atrezzo,
+weddings/01_006.jpg,Decoració photocall,Decoración photocall,
+weddings/01_007.jpg,Material per photocall,Material para photocall,
+weddings/01_008.jpg,Photocall per una boda divertida,Un photocall para una boda divertida,
+weddings/01_009.jpg,Ball nupcial,Baile nupcial,
+weddings/02_001.jpg,Cotxe clàssic,Coche clásico,
+weddings/02_002.jpg,Casament a la Cerdanya,Boda en la Cerdaña,
+weddings/02_003.jpg,Ram de núvia,Ramo de novia,
+weddings/02_004.jpg,La núvia a casa,La novia en casa,
+weddings/02_005.jpg,Marxem de lluna de mel,Nos vamos de luna de miel,
+weddings/02_006.jpg,Cerimònia civil amb encant,Ceremonia civil con encanto,
+weddings/02_007.jpg,Si vull!,¡Si quiero!,
+weddings/02_008.jpg,Aperitiu ,Aperitivo,
+weddings/02_009.jpg,Visca els nuvis!,¡Viva los novios!,
+weddings/02_010.jpg,Banquet ,Banquete,
+weddings/02_011.jpg,Decoració floral,Decoración floral,
+weddings/03_001.jpg,Posta de sol a Sitges,Puesta de sol en Sitges,
+weddings/03_002.jpg,Cocktail a l'aire lliure,Cocktail al aire libre ,
+weddings/03_003.jpg,Photocall,Photocall,
+weddings/03_004.jpg,Cerimònia civil al mig de la pineda,Ceremonia civil en medio de la pineda,
+weddings/03_005.jpg,Decoració floral cerimònia,Decoración floral ceremonia,
+weddings/04_001.jpg,Cerimònia a Sant Pere de Vilamajor,Ceremonia a Sant Pere de Vilamajor,
+weddings/04_002.jpg,Aperitiu a l'aire lliure,Aperitivo al aire libre,
+weddings/04_003.jpg,Entrada de la núvia,Entrada de la novia ,
+weddings/04_004.jpg,Seating plan,Seating plan,
+ideas/1.jpg,Mocadors de llàgrimes de felicitat personalitzats,Pañuelos de lagrimas de felicidad personalizados,
+ideas/2.jpg,Invitacions G&F,Invitaciones G&F,
+ideas/3.jpg,Centre de taula,Centro de mesa,
+ideas/4.jpg,Decoracions de pots fet a mà,Decoraciones de botes hechos a mano,
+ideas/5.jpg,Detalls per convidades embarassades,Detalles para invitadas embarazadas,
+ideas/6.jpg,Espelmes floretes,,
+ideas/7.jpg,Pots flors grogues,,

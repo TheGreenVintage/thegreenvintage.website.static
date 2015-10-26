@@ -1,9 +1,27 @@
 <div class='content single-portfolio-content'>
 {% assign asection = page.section | replace: '-', '/' | append: '/' %}
+{% assign dsection = page.section | split: '-' | last %}
 {% assign album = 'assets/images/' | append: asection | walk %}
 {% for picture in album %}
+{% assign filename = picture | split: '/' | last %}
+{% assign dfilename = dsection | append: '/' | append: filename %}
 <div>
-  <img src="{{ picture | cdn }}">
+  <img src="{{ picture | cdn }}" alt="{{dfilename}}">
+  {% for description in site.data.portfolio %}
+    {% if description.file == dfilename %}
+    <span class="caption">
+      <p>{{ description | translate: 'description'}}</p>
+    </span>
+    {% endif %}
+  {% endfor %}
+
+  {% for description in site.data.partners %}
+    {% if description.file == dfilename %}
+    <span class="caption">
+      <p>{{ description | translate: 'description'}}</p>
+    </span>
+    {% endif %}
+  {% endfor %}
 </div>
 {% endfor %}
 </div>
