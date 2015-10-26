@@ -5,10 +5,10 @@ en:
     ca: Català
   not_found:
     title: Not found
-    subheader: Resource not found
+    message: Resource not found
   home:
     title: Home
-    subheader: <span class="violet">Your life</span> is made up of <span class="violet">little moments</span>
+    message: <span class="violet">Your life</span> is made up of <span class="violet">little moments</span>
     meetings: Business meetings
     meetings_phrase: Success
     parties: Private parties
@@ -21,7 +21,7 @@ en:
     lastest_work: Our Latest Work
   team:
     title: Team
-    subheader: I never dreamed to be successful, I worked to get it.
+    message: I never dreamed to be successful, I worked to get it.
     professionals: The Green Vintage is a team of professionals specialized in the management and organization of any type of event. The company was founded with the desire to assess and plan the small moments of life and make them special.        
     howto: How we do it? We are committed to personalized service. In this way, it allows us to have more knowledge about the priorities of our customers and adapt them to their project.  
     area: Our area is located in the province of Barcelona, in the region of Maresme and the Metropolitan Area of Barcelona. We can move to any area, for us the distances aren’t problem.       
@@ -40,10 +40,10 @@ en:
     title: Partners
   portfolio:
     title: Portfolio
-    subheader: Wishes do come true
+    message: Wishes do come true
   services:
     title: Services
-    subheader: The difference is essential for us
+    message: The difference is essential for us
     description: Are you thinking about to plan an event?
     management: The Vintage Green's consulting
     call_to_action: In a year, you'll wish you started  <span class="violet">today</span>
@@ -103,7 +103,7 @@ en:
           - 'Company meals: breakfasts, lunches, dinners, cocktails and private parties'
   contact:
     title: Contact
-    subheader: If you don't do it now, when?
+    message: If you don't do it now, when?
     welcome: If you’ve an idea you'd like to talk to us, here's the form. We’ll be happy to plan your next event!
     in_contact: KEEP IN TOUCH!
     send: Send
@@ -121,7 +121,7 @@ en:
     category: Category
   contact-sent:
     title: Contact
-    subheader: If you don't do it now, when?
+    message: If you don't do it now, when?
     sent_title: Your message was sent successfully
     sent_description: Thank you for contacting us!
   footer:

@@ -5,7 +5,7 @@ ca:
     ca: Català
   not_found:
     title: No trobat
-    subheader: Recurs no trobat
+    message: Recurs no trobat
   generic:
     more_info: "Més informació"
     navigate: Navegar
@@ -14,7 +14,7 @@ ca:
     keyboard: Teclat
   home:
     title: Inici
-    subheader: Els <span class="violet">petits moments</span> són els que <span class="violet">t'emocionen</span>
+    message: Els <span class="violet">petits moments</span> són els que <span class="violet">t'emocionen</span>
     intro: Organitzem esdeveniments creatius, som especialistes en personalitzar qualsevol celebració. generem valor als vostres actes, Vine a coneixe’ns, i veuràs que som diferents.
     what_we_do: Què fem?
     what_we_do_description: The Green Vintage és un equip jove i dinàmic, especialitzat en l'organització i creació d'esdeveniments. Oferim un assessorament personalitzat i coordinació, total o parcial, d'esdeveniments de celebracions corporatives i particulars.
@@ -26,7 +26,7 @@ ca:
 
   team:
     title: Equip
-    subheader: Mai vaig somiar en tenir èxit, vaig treballar per arribar-hi.
+    message: Mai vaig somiar en tenir èxit, vaig treballar per arribar-hi.
     who_we_are: Qui som
 
     founders: La Paula Bao Oliveda i la Gemma Oliveras Esteve són les fundadores de The Green Vintage. Són dues noies joves amb esperit dinàmic i emprenedor, que van cursar juntes els seus estudis a la Universitat CETT-UB Formació i Recerca en Hoteleria i Turisme. La Paula es va especialitzar en la Gestió i Direcció d’Esdeveniments i la Gemma en Gestió i Direcció Hotelera.
@@ -44,7 +44,7 @@ ca:
 
   corporative:
     title: Serveis corporatius
-    subheader: Considerem que els esdeveniments són una eina estratègica de comunicació en viu que aporten valor a la teva marca
+    message: Considerem que els esdeveniments són una eina estratègica de comunicació en viu que aporten valor a la teva marca
     description: Els serveis corporatius són la plataforma idònia per donar-se a conèixer, per orientar, rentabilitzar la inversió i potenciar la marca de l’empresa. Donem un valor afegit i treballem amb les últimes tendències en el sector MICE.
 
     informative: Esdeveniments informatius
@@ -80,7 +80,7 @@ ca:
 
   private:
     title: Casaments
-    subheader: Els petits moments són els que t’emocionen
+    message: Els petits moments són els que t’emocionen
     description: Organitzem i produïm casaments personalitzats. Tindreu a la vostra disposició un equip professional que entendrà el vostre estil, les vostres necessitats i els vostres interessos, creant així una comunicació per a que el teu casament sigui únic tant per vosaltres com per als vostres convidats.
 
     weddings: Celebracions - Casaments
@@ -195,7 +195,7 @@ ca:
     #       - 'Dinars d’empresa: esmorzars, dinars, sopars, cocktails i festes privades'
   contact:
     title: Contacte
-    subheader: Si tens una idea que vols dur a terme amb nosaltres, omple el següent formulari. Estarem encantats d'organitzar el teu pròxim esdeveniment!
+    message: Si tens una idea que vols dur a terme amb nosaltres, omple el següent formulari. Estarem encantats d'organitzar el teu pròxim esdeveniment!
     in_contact: SEGUIM EN CONTACTE!
     send: Enviar
     message: Missatge
@@ -241,7 +241,7 @@ ca:
 
   contact-sent:
     title: Contacte
-    subheader: Si no ho fas ara, quan?
+    message: Si no ho fas ara, quan?
     sent_title: "El seu missatge s'ha enviat correctament"
     sent_description: "Gràcies per possar-se en contacte amb nosaltres!"
   footer:

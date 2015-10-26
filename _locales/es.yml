@@ -5,10 +5,10 @@ es:
     ca: Català
   not_found:
     title: No encontrado
-    subheader: Recurso no encontrado
+    message: Recurso no encontrado
   home:
     title: Inicio
-    subheader: Los <span class="violet">pequeños momentos</span> son los que <span class="violet">te emocionan</span>
+    message: Los <span class="violet">pequeños momentos</span> son los que <span class="violet">te emocionan</span>
     meetings: Reuniones de empresa
     meetings_phrase: Éxito
     parties: Celebraciones particulares
@@ -21,7 +21,7 @@ es:
     lastest_work: Últimos trabajos
   team:
     title: Equipo
-    subheader: Nunca soñé en tener éxito, trabajé para conseguirlo.
+    message: Nunca soñé en tener éxito, trabajé para conseguirlo.
     professionals: The Green Vintage es un equipo de profesionales especializados en la gestión y organización de cualquier tipo de evento. La empresa nace con el deseo de asesorar y planificar los pequeños momentos de la vida y hacer que sean especiales.
     howto: ¿Cómo lo hacemos? Apostamos por el servicio personalizado. De esta manera, nos permite tener más conocimiento sobre las prioridades de nuestros clientes y adaptarlas a su proyecto.
     area: Nuestra zona de actuación se sitúa en toda la provincia de Barcelona, especializadas en la comarca del Maresme y la Área Metropolitana de Barcelona. Podemos trasladarnos a cualquier zona, para nosotros las distancias no son ningún inconveniente.
@@ -40,10 +40,10 @@ es:
     title: Collaboradores
   portfolio:
     title: Portfolio
-    subheader: Los deseos se hacen realidad
+    message: Los deseos se hacen realidad
   services:
     title: Servicios
-    subheader: La diferencia es esencial para nosotros
+    message: La diferencia es esencial para nosotros
     description: ¿Está pensando en planificar un evento?
     management: No dude más, en The Green Vintage le asesoramos
     call_to_action: En un año, desearás haber empezado <span class="violet">hoy</span>
@@ -104,7 +104,7 @@ es:
           - 'Comidas de empresa: desayunos, almuerzos, cenas, cocktails y fiestas privadas'
   contact:
     title: Contacto
-    subheader: Si no lo haces ahora, ¿Cúando?
+    message: Si no lo haces ahora, ¿Cúando?
     welcome: Si tienes una idea que quieras planear con nosotros, rellena el siguiente formulario. Estaremos encantados de organizar tu próximo evento!
     in_contact: ¡SEGUIMOS EN CONTACTO!
     send: Enviar
@@ -122,7 +122,7 @@ es:
     category: Categoría
   contact-sent:
     title: Contacto
-    subheader: Si no lo haces ahora, ¿Cúando?
+    message: Si no lo haces ahora, ¿Cúando?
     sent_title: Su mensaje se ha enviado correctamente
     sent_description: "Gracias por ponerse en contacte con nosotros!"
   footer:
