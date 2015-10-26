@@ -1,6 +1,6 @@
 <div class="zetaSlider zetaTop" id="zetaSlider">
   <div class="thumbnail-wrapper col2">
-    <ul class="zetaThumbs clearfix" style="margin-top: 640px;">
+    <ul class="zetaThumbs clearfix">
       <li data-id="spaces" class="item active">
       {% assign item = 'partners-spaces' | section %}
       <a href="{{item.permalink}}" class=""><span class="more" style="display: none;"></span><img src="/assets/images/partners/spaces/5.jpg" alt="" class=""></a>
@@ -35,17 +35,16 @@
       </li>
     </ul>
   </div>
-  <div class="zetaHolder" style="display: block;">
+  <div class="zetaHolder">
     <div class="zetaWrapper">
-      <div class="zetaEmpty isDraggingFalse" style="overflow: hidden; width: 5123px; display: block; left: 101px;">
-      </div>
+      <div class="zetaEmpty isDraggingFalse"></div>
     </div>
     <div class="zetaControls" style="display: block;"> <a class="zetaBtnClose" href="#">Close</a> <a class="zetaBtnPrev" href="#">Previous</a> <a class="zetaBtnNext" href="#">Next</a> </div>
     <div class="zetaWarning" style="display: none;">
-      <div class="navigate">Navigate by</div>
-      <div class="drag">Dragging</div>
-      <div class="arrow">Arrows</div>
-      <div class="keys">Keyboard</div>
+      <div class="navigate">{{ 'generic.navigate' | translate }}</div>
+      <div class="drag">{{ 'generic.dragging' | translate }}</div>
+      <div class="arrow">{{ 'generic.arrows' | translate }}</div>
+      <div class="keys">{{ 'generic.keyboard' | translate }}</div>
       <div class="clear"></div>
     </div>
   </div>
@@ -59,26 +58,3 @@ jQuery(document).ready(function() {
   });
 });
 </script>
-<!--
-<div class="one-fourth">
-  <p><img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/10/5-228x170.jpg" alt=""></p>
-  <h4>{{ 'partners.spaces' | translate }}</h4>
-  <p>{{ 'partners.spaces_description' | translate }}</p>
-</div>
-<div class="one-fourth">
-  <p><img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/10/gallery-macro-228x170.jpg" alt=""></p>
-  <h4>{{ 'partners.decorations' | translate }}</h4>
-  <p>{{ 'partners.decorations_description' | translate }}</p>
-</div>
-<div class="one-fourth">
-  <p><img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/10/gallery-nature-228x170.jpg" alt=""></p>
-  <h4>{{ 'partners.gastronomy' | translate }}</h4>
-  <p>{{ 'partners.gastronomy_description' | translate }}</p>
-</div>
-<div class="one-fourth last">
-  <p><img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/10/gallery-stilllife-228x170.jpg" alt=""></p>
-  <h4>{{ 'partners.photography' | translate }}</h4>
-  <p>{{ 'partners.photography_description' | translate }}</p>
-</div>
-<div class="clear"></div>
--->

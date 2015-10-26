@@ -1,7 +1,6 @@
 ---
-layout: page
-section: portfolio 
-icon: camera
+layout: page-no-wrapper
+section: portfolio
 locale: ca
 permalink: /ca/portfoli/
 ---

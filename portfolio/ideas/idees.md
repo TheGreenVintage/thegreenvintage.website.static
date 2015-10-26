@@ -1,8 +1,8 @@
 ---
 layout: page-no-wrapper
-section: partners-photography
+section: portfolio-ideas
 locale: ca
-permalink: /ca/colaboradors/fotografia
+permalink: /ca/portfolio/espais
 ---
 
 <div class="wrapper">

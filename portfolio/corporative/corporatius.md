@@ -1,8 +1,8 @@
 ---
 layout: page-no-wrapper
-section: partners-photography
+section: portfolio-corporative
 locale: ca
-permalink: /ca/colaboradors/fotografia
+permalink: /ca/portfolio/corporatius
 ---
 
 <div class="wrapper">

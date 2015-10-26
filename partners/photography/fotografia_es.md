@@ -6,5 +6,5 @@ permalink: /es/colaboradores/fotografia
 ---
 
 <div class="wrapper">
-  {% include partners-photography.html %}
+  {% include gallery.html %}
 </div>

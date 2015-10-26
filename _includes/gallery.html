@@ -1,0 +1,9 @@
+<div class='content single-portfolio-content'>
+{% assign asection = page.section | replace: '-', '/' | append: '/' %}
+{% assign album = 'assets/images/' | append: asection | walk %}
+{% for picture in album %}
+<div>
+  <img src="{{ picture | cdn }}">
+</div>
+{% endfor %}
+</div>

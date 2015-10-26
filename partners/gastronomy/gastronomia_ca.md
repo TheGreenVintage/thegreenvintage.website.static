@@ -6,5 +6,5 @@ permalink: /ca/colaboradors/gastronomia
 ---
 
 <div class="wrapper">
-  {% include partners-gastronomy.html %}
+  {% include gallery.html %}
 </div>

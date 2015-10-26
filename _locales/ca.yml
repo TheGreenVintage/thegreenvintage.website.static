@@ -8,6 +8,10 @@ ca:
     subheader: Recurs no trobat
   generic:
     more_info: "Més informació"
+    navigate: Navegar
+    dragging: Arrossegant
+    arrows: Fletxes
+    keyboard: Teclat
   home:
     title: Inici
     subheader: Els <span class="violet">petits moments</span> són els que <span class="violet">t'emocionen</span>

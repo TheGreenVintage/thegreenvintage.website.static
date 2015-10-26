@@ -6,5 +6,5 @@ permalink: /ca/colaboradors/decoracions
 ---
 
 <div class="wrapper">
-  {% include partners-decorations.html %}
+  {% include gallery.html %}
 </div>

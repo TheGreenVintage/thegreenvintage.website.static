@@ -6,5 +6,5 @@ permalink: /en/partners/gastronomy
 ---
 
 <div class="wrapper">
-  {% include partners-gastronomy.html %}
+  {% include gallery.html %}
 </div>

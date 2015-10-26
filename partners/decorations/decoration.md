@@ -6,5 +6,5 @@ permalink: /en/partners/decorations
 ---
 
 <div class="wrapper">
-  {% include partners-decorations.html %}
+  {% include gallery.html %}
 </div>

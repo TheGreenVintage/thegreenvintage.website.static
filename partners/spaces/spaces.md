@@ -6,5 +6,5 @@ permalink: /en/partners/spaces
 ---
 
 <div class="wrapper">
-  {% include partners-spaces.html %}
+  {% include gallery.html %}
 </div>
