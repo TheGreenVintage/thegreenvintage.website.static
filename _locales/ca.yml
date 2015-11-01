@@ -6,6 +6,8 @@ ca:
   not_found:
     title: No trobat
     message: Recurs no trobat
+  cookies:
+    title: Política de Cookies
   generic:
     more_info: "Més informació"
     navigate: Navegar
