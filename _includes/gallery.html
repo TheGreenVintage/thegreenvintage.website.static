@@ -7,21 +7,17 @@
 {% assign dfilename = dsection | append: '/' | append: filename %}
 <div>
   <img src="{{ picture | cdn }}" alt="{{dfilename}}">
-  {% for description in site.data.portfolio %}
-    {% if description.file == dfilename %}
-    <span class="caption">
-      <p>{{ description | translate: 'description'}}</p>
-    </span>
-    {% endif %}
-  {% endfor %}
+  {% assign description = site.data.partners | where: 'file', dfilename | first %}
 
-  {% for description in site.data.partners %}
-    {% if description.file == dfilename %}
-    <span class="caption">
-      <p>{{ description | translate: 'description'}}</p>
-    </span>
-    {% endif %}
-  {% endfor %}
+  {% unless description %}
+    {% assign description = site.data.portfolio | where: 'file', dfilename | first %}
+  {% endunless %}
+
+  {% if description %}
+  <span class="caption">
+    <p>{{ description | translate: 'description'}}</p>
+  </span>
+  {% endif %}
 </div>
 {% endfor %}
 </div>

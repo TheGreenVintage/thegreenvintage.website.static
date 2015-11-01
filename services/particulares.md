@@ -12,4 +12,4 @@ permalink: /es/servicios/particulares/
 
 {% include weddings.html %}
 
-{% include calltoaction.html %}
+{% include private-calltoaction.html %}

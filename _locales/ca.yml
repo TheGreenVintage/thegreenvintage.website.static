@@ -68,16 +68,17 @@ ca:
     how_we_work: Com treballem
     how_we_work_description: "Treballem en equip i en xarxa perquè l’esforç compartit millora el resultat. Donem un valor afegit als esdeveniments per potenciar els vostres projectes i així assolir l’exit."
     concept: "Concepte"
-    concept_description: "The Green Vintage  dona valor a la gestió dels seus d'esdeveniments per ajudar a aconseguir els objectius perseguits pels seus clients i per reforçar les seves marques. Tenim l'activitat creativa i intel·lectual per afrontar els reptes dels nous projectes, assegurant així que tot l'equip compleixi amb les expectatives del treball a desenvolupar i garantir …."
+    concept_description: "The Green Vintage  dona valor a la gestió dels seus d'esdeveniments per ajudar a aconseguir els objectius perseguits pels seus clients i per reforçar les seves marques. Tenim l'activitat creativa i intel·lectual per afrontar els reptes dels nous projectes, assegurant així que tot l'equip compleixi amb les expectatives del treball a desenvolupar i garantir l'èxit."
     communication: "Comunicació"
     communication_description1: "Som responsables de planejar la logística de tots els elements per al desenvolupament de tot l'esdeveniment, i ens involucrarem des del principi fins al final del procés. Us assistirem a la planificació del pressupost, la selecció del seu de l'esdeveniment, en les referències dels proveïdors, els temps del seu desenvolupament, l'acomodament dels convidats, i tot allò que se sol·liciti."
     communication_description2: "L'Organitzador d'esdeveniments és un professional que coneix la indústria íntegrament, sap quins son els proveïdors de confiança, i on trobar les millors ofertes per mantenir l'esdeveniment dins del pressupost fixat. Sempre estarà amb contacte amb el client, sabent escoltar i aconsellar per a que tot s’adapti als seus interessos."
     preparation: "Preparació"
     preparation_description1: "Farem un seguiment personalitzat i exclusiu per a cada client, adaptant-nos al seu pressupost i als seus interessos i necessitats."
-    preparation_description2: "The Green Vintage està especialitzat en l'organització d'esdeveniments d'empresa i compta amb contactes, que en ocasions es tradueixen en col·laboracions i sinergies de gran valor per als clients. Nosaltres controlarem perfectament els timings , l'ordre del dia , així com totes les fases i elements que intervinguin en cada esdeveniment. Oferim un servei integral al client organitzant a tots els proveïdors implicats en el desenvolupament d'un esdeveniment per a empresa ( selecció d'ubicacions, catering, hostesses, lloguer de vehicles, transfers, hotels, restaurants, guies turístics…)."
+    preparation_description2: "The Green Vintage està especialitzat en l'organització d'esdeveniments d'empresa i compta amb contactes, que sovint es tradueixen en col·laboracions i sinergies de gran valor per als clients. Nosaltres controlarem perfectament els timings , l'ordre del dia , així com totes les fases i elements que intervinguin en cada esdeveniment. Oferim un servei integral al client organitzant a tots els proveïdors implicats en el desenvolupament d'un esdeveniment per a empresa ( selecció d'ubicacions, càtering, hostesses, lloguer de vehicles, transfers, hotels, restaurants, guies turístics…)."
     the_day: "El dia del esdeveniment"
-    the_day_description: "El nostre deure fonamental és estar el dia de l'esdeveniment i assegurar-se que aquest transcorri segons els objectius fixats."
-
+    the_day_description1: "El nostre deure fonamental és estar el dia de l'esdeveniment i assegurar-se que aquest esdevingui segons els objectius fixats."
+    the_day_description2: "Controlem i coordinem tots els proveïdors externs que participen en l’esdeveniment."
+    the_day_description3: "Gestionem el timing, les intervencions dels assistents, el servei de càtering, etc. Fem que tot quedi ben lligat perquè sigui tot un èxit."
   private:
     title: Casaments
     message: Els petits moments són els que t’emocionen
@@ -131,12 +132,13 @@ ca:
   services:
     title: Serveis
     message: Ens encarreguem d’organitzar esdeveniments corporatius i particulars.
-    call_to_action: En un any, desitjaràs haver començat avui
     start_now: Començar ara!
     corporative_title: Corporatiu
     corporative_description: Posem a la seva disposició un complet equip de professionals per assegurar l'objectiu de l'esdeveniment de la seva empresa . Hem col·laborat amb petites i grans empreses en l'organització de tot tipus d'esdeveniments. Creativitat, innovació, dinamisme, proactivitat i atenció personalitzada són les bases del nostre treball.    (+info)
+    corporative_call_to_action: Garantia d'èxit, comencem?
     private_title: Casaments
     private_description: El nostre objectiu és aportar idees úniques i diferents perquè el vostre casament sigui especial. Comptar amb una wedding planner és una garantia d'èxit i us donarà la tranquil·litat necessària perquè només us dediqueu a gaudir del vostre gran dia.  
+    private_call_to_action: En un any, desitjaràs haver començat avui
 
 
     # private:
