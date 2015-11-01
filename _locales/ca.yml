@@ -122,10 +122,10 @@ ca:
     message: Aquesta és la millor manera d'explicar-vos el treball què fem. Aquí teniu alguns exemples d’esdeveniments que hem dissenyat i produït, a mida per a cada client.
 
     corporative: Corporatius
-    corporative_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    corporative_description: "L'objectiu és crear un esdeveniment que aporti valor i posicionament de la seva empresa dins del mercat."
 
     weddings: Casaments
-    weddings_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    weddings_description: "Els petits moments són els que t'emocionen."
 
     ideas: Idees
     ideas_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
@@ -200,13 +200,9 @@ ca:
     message: Si tens una idea que vols dur a terme amb nosaltres, omple el següent formulari. Estarem encantats d'organitzar el teu pròxim esdeveniment!
     in_contact: SEGUIM EN CONTACTE!
     send: Enviar
-    message: Missatge
     message_placeholder: El teu missage...
-    subject: Assumpte
     subject_placeholder: Assumpte...
-    email: Correu electrònic
     email_placeholder: Introdueix el teu correu electrònic
-    name: Nom
     name_placeholder: Introdueix el teu nom...
     select: Selecciona una opció...
     private: Esdeveniment particular
@@ -220,7 +216,10 @@ ca:
         subject: Esdeveniment corporatiu
         text: >
           Bon dia / tarda,
-          Sóc ... de l’empresa..., estem interessats en realitzar un/a ... . (Reunió, showroom, outsite, teambuilding, presentació de producte, viatge d'incentius). D’aquesta manera, ens agradaria rebre més informació de com treballeu i quines són les vostres tarifes.
+          Sóm de l’empresa..., estem interessats en realitzar un/a ...
+          Número d’assistents:
+          Data prevista:
+          Ens agradaria rebre més informació sobre…..
           Quedo a l’espera de les vostres notícies,
           Moltes gràcies i salutacions,
       private:
@@ -228,7 +227,8 @@ ca:
         subject: Esdeveniment particular
         text: >
           Bon dia / tarda,
-          Som ..., una parella que vol celebrar el seu casament el pròxim ....
+          Som una parella que vol celebrar el seu casament el pròxim ...
+          Número d’assistents:
           Sol·licitem més informació dels serveis que oferiu i quines són les vostres tarifes
           Quedo a l’espera de les vostres notícies,
           Moltes gràcies i salutacions,
@@ -237,7 +237,7 @@ ca:
         subject: Informació
         text: >
           Bon dia / tarda,
-          Sóc ..., estic interessat en rebre informació sobre ...(tarifes, lloguer de transports, decoracions, col·laboradors)
+          Sóc ..., estic interessat en rebre informació sobre ...
           Quedo a l’espera de les vostres notícies,
           Moltes gràcies i salutacions,
 
