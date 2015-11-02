@@ -1,8 +1,8 @@
 ---
 layout: page-no-wrapper
-section: portfolio-ideas
-locale: es
-permalink: /es/portfolio/espacios
+section: services-ideas
+locale: en
+permalink: /en/weddings/ideas
 ---
 
 <div class="wrapper">

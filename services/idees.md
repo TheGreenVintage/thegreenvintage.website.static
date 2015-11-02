@@ -1,8 +1,8 @@
 ---
 layout: page-no-wrapper
-section: portfolio-ideas
+section: services-ideas
 locale: ca
-permalink: /ca/portfolio/espais
+permalink: /ca/casaments/idees
 ---
 
 <div class="wrapper">

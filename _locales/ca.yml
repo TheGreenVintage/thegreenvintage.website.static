@@ -129,8 +129,9 @@ ca:
     weddings: Casaments
     weddings_description: "Els petits moments són els que t'emocionen."
 
+    # TODO: Move that
     ideas: Idees
-    ideas_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    ideas_description: "Us proporcionem diferents idees. La decoració defineix la teva personalitat."
   services:
     title: Serveis
     message: Ens encarreguem d’organitzar esdeveniments corporatius i particulars.

@@ -1,15 +1,17 @@
 ---
-layout: page
+layout: page-no-wrapper
 section: private
-icon: tasks
 locale: es
-permalink: /es/servicios/particulares/
+permalink: /es/servicios/bodas/
 ---
 
-{% include private-services.html %}
-
-{% include private-types.html %}
+<div class="wrapper">
+  {% include private-services.html %}
+  {% include private-types.html %}
+</div>
 
 {% include weddings.html %}
 
-{% include private-calltoaction.html %}
+<div class="wrapper">
+  {% include private-calltoaction.html %}
+</div>
