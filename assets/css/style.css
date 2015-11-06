@@ -454,21 +454,19 @@ blockquote p {
 .header-wrapper {
 	width: 100%;
 	height: 90px;
-	background: #212121 url(style/images/header.png) repeat-x center bottom;
+	background: #212121;
 	color: #fff;
 	position: relative;
 	z-index: 1000;
-	-webkit-box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.5);
-	box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.5);
 }
 .header {
 	width: 960px;
 	margin: 0px auto;
 }
 .logo {
-  width: 80px;
+  width: 150px;
   display: inline-block;
-  padding: 10px;
+  padding: 30px 0px;
 }
 .wrapper {
 	width: 960px;
@@ -476,6 +474,14 @@ blockquote p {
 }
 .head-image {
 	width: 100%;
+  background-image: url(/assets/images/other/banner-black6.png);
+  background-position: bottom right;
+  background-color: #212121;
+  display: block;
+  height: 225px;
+  background-size: auto 250px;
+  background-repeat: no-repeat;
+  border-bottom: 1px solid #D0D0D0;
 }
 .head-image img {
 	width: 100%;
@@ -484,11 +490,13 @@ blockquote p {
 .page-title {
 	width: 960px;
 	margin: 0 auto;
-	position: relative;
+  position: absolute;
+  top: 325px;
+  right: 25vw;
 }
 .head-image h1 {
 	position: absolute;
-	bottom: 20px;
+	bottom: 12px;
 	right: 0;
 	background: rgba(0, 0, 0, 0.8);
 	color: #cbcbcb;
