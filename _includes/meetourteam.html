@@ -1,6 +1,9 @@
 <!-- Meet Our Team -->
 <h3>{{ 'team.who_we_are' | translate }}</h3>
 
+{% for pin in site.data.kakas %}
+  <p>{{ pin.Pin }}</p>
+{% endfor %}
 {% for employee in site.data.employees %}
 
 <div class="one-third {% if forloop.index == site.data.employees.size %} last{% endif %}">

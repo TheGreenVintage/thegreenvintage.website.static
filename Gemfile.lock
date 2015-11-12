@@ -16,6 +16,7 @@ GEM
     ffi (1.9.6)
     hitimes (1.2.2)
     i18n (0.6.9)
+    iniparse (1.4.1)
     jekyll (2.5.3)
       classifier-reborn (~> 2.0)
       colorator (~> 0.1)
@@ -70,5 +71,9 @@ PLATFORMS
 
 DEPENDENCIES
   i18n
+  iniparse
   jekyll
   jekyll-sitemap
+
+BUNDLED WITH
+   1.10.6
