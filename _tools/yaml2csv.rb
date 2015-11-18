@@ -3,7 +3,15 @@
 require 'csv'
 require 'yaml'
 
-yml = YAML.load_file('./ca.yml')
+master = 'ca'
+locales = Dir['_locales/*.yml'].map do |f|
+  YAML.load_file(f)
+end
+
+master_locale = locales.select do |locale|
+  !locale[master].nil?
+end.first
+
 translations = {}
 
 def process_hash(translations, current_key, hash)
@@ -17,12 +25,28 @@ def process_hash(translations, current_key, hash)
   end
 end
 
-process_hash(translations, '', yml['ca'])
+process_hash(translations, '', master_locale[master])
 
 csv_string = CSV.generate do |csv|
-  csv << ["key", "ca", "es", "en"]
+  # Header
+  row = locales.map do |locale|
+    locale.keys.first
+  end
+
+  row.unshift('key')
+  csv << row
+
+  # Values
   translations.each do |key, value|
-    csv << [key, value]
+    row = locales.map do |locale|
+      name = locale.keys.first
+      trols = {}
+      process_hash(trols, '', locale[name]) # This is insane, I know...
+      trols[key]
+    end
+
+    row.unshift(key)
+    csv << row
   end
 end
 
