@@ -6,5 +6,5 @@ permalink: /en/portfolio/weddings
 ---
 
 <div class="wrapper">
-  {% include gallery.html %}
+  {% include gallery.html reverse=true %}
 </div>
