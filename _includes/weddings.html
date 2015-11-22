@@ -1,25 +1,24 @@
 <div class="wrapper intro">
-  <p>A The Green Vintage ens encarreguem de la coordinació, l'assessorament, la logística i la supervisió de les seves noces, per evitar qualsevol imprevist. Dissenyem un projecte personalitzat per a cadascun dels nostres clients, ja que el nostre principal objectiu és crear un moment únic.</p>
+  <p>{{ 'private.objectives_description' | translate }}</p>
 
-  <h1>Organització completa</h1>
+  <h1>{{ 'private.management' | translate }}</h1>
 
-  <p>Coordinació des del primer minut fins al dia de la celebració. Aquest servei inclou:</p>
+  <p>{{ 'private.management_description' | translate }}</p>
 
-  <h2>Planificació:</h2>
+  <h2>{{ 'private.planification' | translate }}</h2>
   <ul>
-    <li>Selecció i coordinació de proveïdors, sol·licitud de pressupostos i negociació</li>
-    <li>Visites a espais i/o restaurants</li>
-    <li>Control i seguiment de la llista de convidats i gestió dels seus allotjaments</li>
-    <li>Gestió del seatting</li>
-    <li>Gestió del dia de les teves noces</li>
+    {% assign list = 'private.planificaction_list' | translate %}
+    {% for type in list %}
+    <li>{{ type }}</li>
+    {% endfor %}
   </ul>
 
-  <h2>Decoració, disseny i muntatge:</h2>
+  <h2>{{ 'private.design' | translate }}</h2>
   <ul>
-    <li>Disseny de les decoracions dels espais</li>
-    <li>Muntatge dels elements de decoració</li>
-    <li>Disseny floral de tot l’esdeveniment</li>
-    <li>Recerca de proveïdors d’invitacions, photocalls, cartells, dissenyadors de logotips, etc.</li>
+    {% assign list = 'private.design_list' | translate %}
+    {% for type in list %}
+    <li>{{ type }}</li>
+    {% endfor %}
   </ul>
 </div>
 
@@ -62,21 +61,20 @@ jQuery(document).ready(function() {
 });
 </script>
 
-<p class="intro" style="text-align: center">{{ 'portfolio.ideas_description' | translate }}</p>
+<p class="intro" style="text-align: center">{{ 'private.ideas' | translate }}</p>
 
 <div class="wrapper intro">
-  <h2>Organització del dia de les teves noces</h2>
+  <h2>{{ 'private.the_day' | translate }}</h2>
 
-  <p>En aquest cas, vosaltres us encarregaríeu de la gestió dels contractes de proveïdors i la comunicació al llarg del procés de planificació, però sempre romandrem disponibles per respondre preguntes i donar consells.</p>
-  <p>Un mes abans de les noces, tornaríem a treballar conjuntament per organitzar els últiims detalls i acabar de concretar tota la informació que ens proporcioneu, amb els diferents proveïdors perquè els dies previs pugueu estar relaxats.</p>
+  <p>{{ 'private.the_day_description1' | translate }}</p>
+  <p>{{ 'private.the_day_description2' | translate }}</p>
 
-  The Green Vintage coordinarà:
+  {{ 'private.the_day_management' | translate }}
   <ul>
-    <li>Recepció dels convidats i atendre les seves necessitats</li>
-    <li>Gestió del timing (cerimònia, entrada dels nuvis, entrega de regals, brindis, entrada del pastís, músiques, ball nupcial)</li>
-    <li>Control del seatting</li>
-    <li>Gestió dels proveïdors externs (càterings, fotògrafs, vídeo, grups musicals, DJ’s, animació infantil)</li>
-    <li>Supervisar les diverses decoracions florals, mobiliari, decoracions extres i els seus muntatges</li>
+    {% assign list = 'private.the_day_management_list' | translate %}
+    {% for type in list %}
+    <li>{{ type }}</li>
+    {% endfor %}
   </ul>
 </div>
 

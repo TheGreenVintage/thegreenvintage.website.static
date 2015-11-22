@@ -23,6 +23,9 @@ languages = headers.map do |header|
     loop do
 
       if key_path.length == 1
+        value.strip!
+        value = YAML.load(value) if key_path.first.end_with? '_list'
+
         hash[key_path.first] = value
       else
         step_hash = hash[key_path.first] || {}

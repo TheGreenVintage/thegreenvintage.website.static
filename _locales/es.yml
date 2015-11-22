@@ -1,3 +1,5 @@
+# Do not edit this generated file
+---
 es:
   locales:
     en: English
@@ -6,128 +8,289 @@ es:
   not_found:
     title: No encontrado
     message: Recurso no encontrado
+  cookies:
+    title: Política de Cookies
+  generic:
+    more_info: Más información
+    navigate: Navegar
+    dragging: Mover
+    arrows: Flechas
+    keyboard: Teclado
   home:
     title: Inicio
-    message: Los <span class="violet">pequeños momentos</span> son los que <span class="violet">te emocionan</span>
-    meetings: Reuniones de empresa
-    meetings_phrase: Éxito
-    parties: Celebraciones particulares
-    parties_phrase: ¡Brindis!
-    teambuilding: Actividades de teambuilding
-    teambuilding_phrase: Interactúen
-    weddings: Bodas
-    weddings_phrase: ¡Sí, quiero!
-    testimonials: Testimonios
-    lastest_work: Últimos trabajos
+    message: Los <span class="violet">pequeños momentos</span> son los que <span class="violet">te
+      emocionan</span>
+    intro: Somos un equipo joven y dinámico, especializado en la organización y creación
+      de eventos. Ofrecemos un asesoramiento personalizado y coordinación, total o
+      parcial, de celebraciones corporativas y particulares.
+    what_we_do: TODO
+    what_we_do_description: TODO
+    corporative: TODO
+    corporative_description: TODO
+    private: TODO
+    private_description: TODO
+    customers: Empresas que han confiado en nosotros
   team:
     title: Equipo
     message: Nunca soñé en tener éxito, trabajé para conseguirlo.
-    professionals: The Green Vintage es un equipo de profesionales especializados en la gestión y organización de cualquier tipo de evento. La empresa nace con el deseo de asesorar y planificar los pequeños momentos de la vida y hacer que sean especiales.
-    howto: ¿Cómo lo hacemos? Apostamos por el servicio personalizado. De esta manera, nos permite tener más conocimiento sobre las prioridades de nuestros clientes y adaptarlas a su proyecto.
-    area: Nuestra zona de actuación se sitúa en toda la provincia de Barcelona, especializadas en la comarca del Maresme y la Área Metropolitana de Barcelona. Podemos trasladarnos a cualquier zona, para nosotros las distancias no son ningún inconveniente.
-    who_title: ¿Quiénes somos?
-    who_description: The Green Vintage es un equipo de profesionales especializados en la gestión y organización de cualquier tipo de evento. La empresa nace con el deseo de asesorar y planificar los pequeños momentos de la vida y hacer que sean especiales.
-    how_title: Como lo hacemos?
-    how_description: Apostamos por el servicio personalizado. De esta manera, nos permite tener más conocimiento sobre las prioridades de nuestros clientes y adaptarlas a su proyecto.
-    commitment: Nuestro compromiso
-    commitment1: "<strong>Satisfacción: </strong> Hacemos un seguimiento personalizado de su evento, ya que el éxito es esencial para nosotros."
-    commitment2: "<strong>Motivación:</strong> Nos gusta nuestro trabajo y creemos en todo lo que hacemos. Solo así, podemos ofrecerte el mejor resultado y superar sus expectativas iniciales."
-    commitment3: "<strong>Empatía:</strong> Sabemos escuchar y entender las necesidades de nuestros clientes y del territorio en el que nos encontramos."
-    commitment4: "<strong>Creatividad:</strong> Buscamos vías innovadoras y originales para que nuestros actos sean inolvidables."
-    commitment5: "<strong>Sinergia:</strong> Trabajamos en equipo ya que el esfuerzo compartido mejora el resultado."
     who_we_are: Quiénes somos
+    founders: Paula Bao Oliveda y Gemma Oliveras Esteve son las fundadoras de <em>The
+      Green Vintage</em>.Son dos chicas jóvenes con espíritu dinámico y emprendedor,
+      que cursaron juntas sus estudios en la Universidad CETT-UB Formación e Investigación
+      en Hostelería y Turismo. Paula se especializó en la Gestión y Dirección de Eventos
+      y Gemma en Gestión y Dirección Hotelera.
+    carreer: En el transcurso de su carrera universitaria y las prácticas impartidas
+      en aquel tiempo, se dieron cuenta que el sector de los eventos era su pasión.
+    create_company: Al finalizar sus estudios, en 2011, empezaron a plantearse la
+      opción de crear su propia empresa de organización y gestión de eventos, puesto
+      que habían visto que cada una aportaba al proyecto unos valores y unas aptitudes,
+      que unidos son una garantía de éxito.
+    consolidate: Gracias al esfuerzo, dedicación y apoyo, la empresa <em>The Green
+      Vintage</em> se ha ido consolidando y se ha posicionado dentro del mercado actual.
+    definition: <em>The Green Vintage</em> se define como una empresa que cuida a
+      su cliente de forma única y personal, escuchando y entendiendo las necesidades
+      de cada uno, aportando ideas innovadoras y originales y, sobretodo, cuidando
+      al máximo cada detalle.
+    commitment: Nuestro compromiso
+    commitment1: '<strong>Satisfacción: </strong> Hacemos un seguimiento personalizado
+      de su evento, ya que el éxito es esencial para nosotros.'
+    commitment2: <strong>Motivación:</strong> Nos gusta nuestro trabajo y creemos
+      en todo lo que hacemos. Solo así, podemos ofrecerte el mejor resultado y superar
+      sus expectativas iniciales.
+    commitment3: <strong>Empatía:</strong> Sabemos escuchar y entender las necesidades
+      de nuestros clientes y del territorio en el que nos encontramos.
+    commitment4: <strong>Creatividad:</strong> Buscamos vías innovadoras y originales
+      para que nuestros actos sean inolvidables.
+    commitment5: <strong>Sinergia:</strong> Trabajamos en equipo ya que el esfuerzo
+      compartido mejora el resultado.
+  corporative:
+    title: Servicios corporativos
+    message: Consideramos que los eventos son una herramienta estratégica de comunicación
+      en vivo que aportan valor a su marca
+    description: Los servicios corporativos son la plataforma idónea para darse a
+      conocer, para orientar, rentabilizar la inversión y potenciar la marca de la
+      empresa. Damos un valor añadido y trabajamos con las últimas tendencias en el
+      sector MICE.
+    informative: Eventos informativos
+    informative_description: Conferencias, jornadas, congresos, simposios, reuniones
+      privadas y workshops
+    promotional: Eventos promocionales
+    promotional_description: Ferias, exposiciones, inauguraciones, aniversarios, presentaciones
+      de productos y showrooms
+    other: Otros eventos
+    other_description: Viajes de incentivos, teambuilding, fiestas y comidas de empresa
+    extras: Todas las tipologías de eventos pueden tener una relación estrecha con
+      servicios auxiliares. <em>The Green Vintage</em> os garantiza un asesoramiento,
+      un seguimiento y la gestión de contratación de todos los servicios necesarios.
+    service_list:
+    - Diseño y producción de carteles, stands, displays, photocalls, vinilos, invitaciones
+      o cualquiera otro elemento gráfico
+    - Contratación de escenarios y/o decorados, iluminación y sonido
+    - Señalización de espacios y rotulaciones
+    - 'Servicios multimedia: pantallas, monitores, proyector y megafonía'
+    - Fotografía y vídeo corporativos
+    - Catering, azafatas, traductores o intérpretes
+    - 'Otros: servicios de transporte, pirotecnia, shows musicales, animaciones, etc.'
+    how_we_work: Cómo trabajamos
+    how_we_work_description: Trabajamos en equipo y en red porque el esfuerzo compartido
+      mejora el resultado. Damos un valor añadido a los eventos para potenciar vuestros
+      proyectos y así lograr el éxito.
+    concept: Concepto
+    concept_description: <em>The Green Vintage</em> da valor a la gestión de sus eventos
+      para ayudar a conseguir los objetivos perseguidos por sus clientes y para reforzar
+      sus marcas. Tenemos la actividad creativa e intelectual para afrontar los retos
+      de los nuevos proyectos, asegurando así que todo el equipo cumpla con las expectativas
+      del trabajo a desarrollar y garantizar éxito.
+    communication: Comunicación
+    communication_description1: Somos responsables de planear la logística de todos
+      los elementos para el desarrollo de todo el acontecimiento, y nos involucramos
+      desde el principio hasta el final del proceso. Os asistiremos en la planificación
+      del presupuesto, la selección de su evento, en las referencias de los proveedores,
+      los tiempos de su desarrollo, la recepción de los invitados, y todo aquello
+      que se solicite.
+    communication_description2: El organizador de eventos es un profesional que conoce
+      la industria íntegramente, sabe cuáles son los proveedores de confianza, y donde
+      encontrar las mejores ofertas para mantener el evento dentro del presupuesto
+      fijado. Siempre estará en contacto con el cliente, sabe escuchar y aconsejar
+      para que todo se adapte a sus intereses.
+    preparation: Preparación
+    preparation_description1: Haremos un seguimiento personalizado y exclusivo para
+      cada cliente, adaptándonos a su presupuesto, intereses y necesidades.
+    preparation_description2: <em>The Green Vintage</em> está especializado en la
+      organización de eventos de empresa y cuenta con contactos, que en ocasiones
+      se traducen en colaboraciones y sinergias de gran valor para los clientes. Nosotros
+      controlaremos perfectamente los timings, la orden del día, así como todas las
+      fases y elementos que intervengan durante todo el evento. Ofrecemos un servicio
+      integral al cliente organizando a todos los proveedores implicados en el desarrollo
+      de un evento para empresa (selección de ubicaciones, catering, azafatas, alquiler
+      de vehículos, transfers, hoteles, restaurantes, guías turísticos).
+    the_day: El día del evento
+    the_day_description1: Nuestro deber fundamental es estar el día del evento y asegurarse
+      que éste transcurra según los objetivos fijados.
+    the_day_description2: Controlamos y coordinamos todos los proveedores externos
+      que participan en evento.
+    the_day_description3: Gestionamos el timing, las intervenciones de los asistentes,
+      el servicio de catering, etc. Hacemos una buena planificación y un seguimiento
+      exhaustivo para que el evento este totalmente coordinado.
+  private:
+    title: Bodas
+    message: Los pequeños momentos son los que te emocionan
+    description: Organizamos y producimos bodas personalizadas. Ponemos a vuestra
+      disposición un equipo profesional que entenderá vuestro estilo, vuestras necesidades
+      y vuestros intereses, creando así una comunicación para que tu enlace sea único
+      tanto para vosotros como para vuestros invitados.
+    weddings: Celebraciones - Bodas
+    objectives_description: En <em>The Green Vintage</em> nos encargamos de la coordinación,
+      el asesoramiento, la logística y la supervisión de su boda, para evitar cualquier
+      imprevisto. Diseñamos un proyecto personalizado para cada uno de nuestros clientes,
+      puesto que nuestro principal objetivo es cuidar al máximo el detalle, haciendo
+      de vuestro día, el mejor.
+    management: Organización completa
+    management_description: 'Coordinación desde el primer minuto hasta el día de la
+      celebración. Este servicio incluye:'
+    planification: 'Planificación:'
+    planificaction_list:
+    - Selección y coordinación de proveedores, solicitud de presupuestos y negociación
+    - Visitas en espacios y/o restaurantes
+    - Control y seguimiento de la lista de invitados y gestión de sus alojamientos
+    - 'Gestión del seating '
+    - Gestión del día de tu boda
+    design: 'Decoración, diseño y montaje:'
+    design_list:
+    - Diseño de las decoraciones de los espacios
+    - Montaje de los elementos de decoración
+    - Diseño floral de todo el evento
+    - Investigación de proveedores de invitaciones, photocalls, carteles, diseñadores
+      de logotipos, etc.
+    ideas: Os proporcionamos diferentes ideas. La decoración define tu personalidad.
+    the_day: Organización del día de tu boda
+    the_day_description1: En este caso, vosotros os encargaríais de la gestión de
+      los contratos de proveedores y la comunicación a lo largo del proceso de planificación,
+      pero siempre permaneceremos disponibles para responder preguntas y dar consejos.
+    the_day_description2: Un mes antes de la boda, volveríamos a trabajar conjuntamente
+      para organizar los últimos detalles y acabar de concretar toda la información
+      que nos proporcionáis, con los diferentes proveedores para que los días previos
+      podáis estar relajados.
+    the_day_management: '<em>The Green Vintage</em> coordinará:'
+    the_day_management_list:
+    - Recepción de los invitados y atender sus necesidades
+    - Gestión del timing (ceremonia, entrada de los novios, entrega de regalos, brindis,
+      entrada del pastel, músicas, baile nupcial)
+    - Control del seating
+    - Gestión de los proveedores externos (càterings, fotógrafos, vídeo, grupos musicales,
+      DJ’s, animación infantil)
+    - Supervisar las diversas decoraciones florales
+    - mobiliario
+    - decoraciones extras y sus montajes"
   partners:
-    title: Collaboradores
+    title: Colaboradores
+    message: La buena calidad y la relación estrecha con nuestros colaboradores, dan
+      valor añadido a vuestro evento
+    spaces: Espacios
+    spaces_description: Para organizar un buen evento, es importante escoger el espacio
+      adecuado. Nosotros os ofrecemos varios espacios donde poder desarrollar vuestros
+      proyectos
+    decorations: Decoraciones
+    decorations_description: 'Una buena ambientación, hace exclusivo tu evento. Por
+      eso es importante saber cómo relacionar los diferentes elementos: colores, iluminación,
+      materiales, mobiliario, color corporativo de la empresa… todo este conjunto
+      de elementos generan emociones a los asistentes del evento'
+    gastronomy: Gastronomía
+    gastronomy_description: 'Es un elemento diferenciador para que vuestro acontecimiento
+      sea un éxito: buena calidad de los alimentos, un servicio cuidadoso, presentaciones
+      originales de los platos, detalles en la decoración y en el montaje, son los
+      ingredientes que dan sabor para que este día sea recordado por los asistentes'
+    photography: Fotografía
+    photography_description: Los profesionales captan todos aquellos momentos importantes
+      de todo el desarrollo del evento, con una calidad excepcional y un toque de
+      distinción y originalidad
   portfolio:
     title: Portfolio
-    message: Los deseos se hacen realidad
+    message: Esta es la mejor manera de explicaros el trabajo qué hacemos. Aquí tenéis
+      algunos ejemplos de eventos que hemos diseñado y producido, a medida para cada
+      cliente
+    corporative: Corporativos
+    corporative_description: El objetivo es crear un acontecimiento que aporte valor
+      y posicionamiento de su empresa dentro del mercado.
+    weddings: Bodas
+    weddings_description: Los pequeños momentos son los que te emocionan
   services:
     title: Servicios
-    message: La diferencia es esencial para nosotros
-    description: ¿Está pensando en planificar un evento?
-    management: No dude más, en The Green Vintage le asesoramos
-    call_to_action: En un año, desearás haber empezado <span class="violet">hoy</span>
+    message: Nos encargamos de organizar eventos corporativos y particulares
     start_now: ¡Empezar ahora!
-    private:
-      title: Eventos para particulares
-      description: Creamos momentos, generamos emociones. Nosotros te ayudamos a generar estos momentos, para hacer que se recuerden y sean especiales. Pon tu evento en buenas manos, y no te arrepentirás...
-      celebrations:
-        title: Celebraciones
-        list:
-          - Bodas
-          - Bautizos y comuniones
-          - Fiestas de cumpleaños
-          - Baby Showers
-          - Fiestas infantiles
-          - Eventos familiares
-          - Despedida de soltero/a
-          - Fiestas temáticas
-          - Puesta de largo
-      turistic:
-        title: Eventos turísticos
-        list:
-          - Rutas turísticas por Catalunya
-          - Rutas turísticas - enoturismo
-          - Rutas turísticas modernistas
-          - Rutas turísticas por pueblos medievales
-      other:
-        title: Altres esdeveniments
-        list:
-          - Eventos deportivos
-          - Veladas románticas
-          - Personal shopper
-    corporative:
-      title: Eventos corporativos
-      description: Organización y creación de eventos para empresa buscando las últimas tendencias. Consideramos que los eventos corporativos son la plataforma idónea para llevar su empresa a otro nivel y nosotros les ayudaremos a conseguirlo.
-      informative:
-        title: Eventos informativos
-        list:
-          - Asambleas
-          - Conferencias
-          - Jornadas
-          - Congresos
-          - Simposios
-          - Reuniones privadas
-          - Workshops
-      promotion:
-        title: Eventos promocionales
-        list:
-          - Ferias y exposiciones
-          - Inauguraciones y aniversarios
-          - Presentaciones de productos
-          - Showrooms
-      other:
-        title: Otros eventos
-        list:
-          - Comunicación con la prensa
-          - 'Offsites: Actividades de Teambuilding (paintball, excursiones en quad, talleres de cocina, talleres de arte, paddle surf, etc.), búsqueda de alojamientos y restaurantes.'
-          - 'Comidas de empresa: desayunos, almuerzos, cenas, cocktails y fiestas privadas'
+    corporative_title: Corporativo
+    corporative_description: Ponemos a su disposición un completo equipo de profesionales
+      para asegurar el objetivo del evento de su empresa . Hemos colaborado con pequeñas
+      y grandes empresas en la organización de todo tipo de acontecimientos. Creatividad,
+      innovación, dinamismo, proactividad y atención personalizada son las bases de
+      nuestro trabajo.
+    corporative_call_to_action: Garantía de éxito, empezamos?
+    private_title: Bodas
+    private_description: Nuestro objetivo es aportar ideas únicas y diferentes para
+      que vuestro enlace sea especial. Contar con una wedding planner es una garantía
+      de éxito y os dará la tranquilidad necesaria para que sólo os dediquéis a disfrutar
+      de vuestro gran día.
+    private_call_to_action: En un año, desearás haber empezado hoy
   contact:
     title: Contacto
-    message: Si no lo haces ahora, ¿Cúando?
-    welcome: Si tienes una idea que quieras planear con nosotros, rellena el siguiente formulario. Estaremos encantados de organizar tu próximo evento!
-    in_contact: ¡SEGUIMOS EN CONTACTO!
+    message: Si tienes una idea que quieres llevar a cabo con nosotros, rellena el
+      siguiente formulario. Estaremos encantados de organizar tu próximo evento!
+    in_contact: Seguimos en contacto
     send: Enviar
-    message: Mensaje
     message_placeholder: Tu mensaje...
-    subject: Asunto
     subject_placeholder: Asunto...
-    email: Correo electrónico
     email_placeholder: Introduce tu correo electrónico
-    name: Nombre
     name_placeholder: Introduce tu nombre...
     select: Selecciona una opción...
     private: Evento particular
     corporative: Evento corporativo
     category: Categoría
+    templates:
+      title: Ideas para tu evento
+      corporative:
+        title: Corporativo
+        subject: Eventos corporativos
+        text: "Buenos días / tarde,\n\nSoy ……………… de la empresa...……, estamos interesados
+          al realizar un/a ………. \n\nNúmero de asistentes:\nFecha prevista:\n\nNos
+          gustaría recibir más información sobre…..\n\nQuedo a la espera de vuestras
+          noticias,\n\n\nMuchas gracias y saludos,"
+      private:
+        title: Bodas
+        subject: Eventos privados
+        text: |-
+          Buenos días / tarde,
+
+          Somos ..., una pareja que quiere celebrar su boda el próximo …
+
+          Número de asistentes:
+
+          Solicitamos más información de los servicios que ofrecéis y cuales son sus tarifas
+
+          Quedo a la espera de vuestras noticias,
+
+
+          Muchas gracias y saludos,
+      other:
+        title: Información general
+        subject: Información
+        text: |-
+          Buenos días / tarde,
+
+          Soy ……………………, estoy interesado a recibir información sobre...
+          Quedo a la espera de vuestras noticias,
+
+          Muchas gracias y saludos,
   contact-sent:
     title: Contacto
     message: Si no lo haces ahora, ¿Cúando?
     sent_title: Su mensaje se ha enviado correctamente
-    sent_description: "Gracias por ponerse en contacte con nosotros!"
+    sent_description: Gracias por ponerse en contacte con nosotros!
   footer:
     about_us: Sobre nosotros
-    the_green_vintage_is: The Green Vintage es un equipo de profesionales especializados en la gestión y organización de cualquier tipo de evento. La empresa nace con el deseo de asesorar y planificar los pequeños momentos de la vida y hacer que sean especiales.
+    the_green_vintage_is: <em>The Green Vintage</em> es un equipo de profesionales
+      especializados en la gestión y organización de cualquier tipo de evento. La
+      empresa nace con el deseo de asesorar y planificar los pequeños momentos de
+      la vida y hacer que sean especiales.
     all_rights_reserved: Todos los derechos reservados.
     contact_us: Contáctanos
     sections: Secciones
