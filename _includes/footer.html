@@ -1,9 +1,10 @@
 <!-- Begin Footer -->
 <div class="footer-wrapper">
+  <img class="footer-banner" src="/assets/images/other/banner-black5.png" alt="The Green Vintage" width="450">
   <div class="footer">
-    <div class="one-fourth">
-      <h3>Archives</h3>
+    <div class="one-half">
       <ul>
+        <h3>{{ 'footer.sections' | translate }}</h3>
         {% assign sections = 'home corporative private portfolio partners team contact' | split: " " %}
         {% for sname in sections %}
         {% assign item = sname | section %}
@@ -11,36 +12,19 @@
           <a href="{{item.permalink}}">{{ item.section | append:'.title' | translate }}</a>
         </li>
         {% endfor %}
-
       </ul>
       <div class="clear"></div>
     </div>
-    <div class="one-fourth">
-      <h3>Latest Posts</h3><ul class="post-list"><li>	
-        <h4>
-          <a class="posttitle" href="http://wearethunderbuddies.com/glisseo/ridiculus-mattis-lorem-dolor-inceptos/">Fermentum Pharetra Tortror Porta</a>	
-        </h4>
-        <div class="meta">16 Aug, 2012</div>
-        </li><li>	
-        <h4>
-          <a class="posttitle" href="http://wearethunderbuddies.com/glisseo/nibh-fusce-parturient-tristique/">Nibh Fusce Parturient Tristique</a>	
-        </h4>
-        <div class="meta">12 Jul, 2012</div>
-        </li><li>	
-        <h4>
-          <a class="posttitle" href="http://wearethunderbuddies.com/glisseo/296/">Etiam Condimentum Pellentesque</a>	
-        </h4>
-        <div class="meta">8 Jul, 2012</div>
-    </li></ul><div class="clear"></div>    </div>
-    <div class="one-fourth">
-      <h3>Twitter</h3>				<div id="twitter-wrapper"><div class="twitter" id="twitter_tweets-widget-2">
-          <ul>
-            <li><span class="twitterPrefix"><span class="twitterStatus">Glisseo - Responsive Multipurpose WordPress Theme update to version 1.4.2 . &nbsp;<a href="http://t.co/2qqBH2ll1J" target="_blank">http://t.co/2qqBH2ll1J</a>&nbsp; #elemisdesign</span><br><em class="twitterTime"><a href="http://twitter.com/tbthemes/statuses/497969022432854016">9 months ago </a></em></span></li>
-            <li><span class="twitterPrefix"><span class="twitterStatus">Oh what i'd do without you " Chrome Dev Tools" . I Love you too ;) .</span><br><em class="twitterTime"><a href="http://twitter.com/tbthemes/statuses/465856722813198336">12 months ago </a></em></span></li>
-      </ul></div><span class="username"><a href="http://twitter.com/tbthemes">→ Follow @tbthemes</a></span></div>
-      <div class="clear"></div>    </div>
-    <div class="one-fourth last">
-      <h3>Tag List</h3><ul class="tag-list"> <li><a href="http://wearethunderbuddies.com/glisseo/tag/envato/">envato</a></li> <li><a href="http://wearethunderbuddies.com/glisseo/tag/journal/">journal</a></li> <li><a href="http://wearethunderbuddies.com/glisseo/tag/layout/">layout</a></li> <li><a href="http://wearethunderbuddies.com/glisseo/tag/photography-2/">photography</a></li> <li><a href="http://wearethunderbuddies.com/glisseo/tag/print/">print</a></li> <li><a href="http://wearethunderbuddies.com/glisseo/tag/stuff/">stuff</a></li></ul><div class="clear"></div>    
+    <div class="contact one-half last">
+      <h3>{{ 'footer.contact_us' | translate }}</h3>
+      <p>Tel: <a href="tel:644 207 579">644 207 579</a> - <a href="tel:644 289 898">644 289 898</a></p>
+      <p>Email: <a href="mailto:info@thegreenvintage.com">info@thegreenvintage.com</a></p>
+      <ul class="social">
+        <li><a class="facebook" href="https://www.facebook.com/TGVintage"></a></li>
+        <li><a class="twitter" href="https://www.twitter.com/Green_Vintage_"></a></li>
+        <li><a class="pinterest" href="https://www.pinterest.com/thegreenvintage/"></a></li>
+        <li><a class="instagram" href="https://instagram.com/thegreenvintage/"></a></li>
+      </ul>
     </div>
     <div class="clear"></div>
   </div>
@@ -49,18 +33,8 @@
 <!-- Begin Site Generator -->
 <div class="site-generator-wrapper">
   <div class="site-generator">
-    <div class="copyright one-half">
-      <div class="textwidget">
-        <p>© 2015 The Green Vintage - {{ 'footer.all_rights_reserved' | translate }}</p>
-      </div>
-      <div class="clear"></div>    </div>
-    <div class="copyright one-half last">
-      <ul class="social">
-        <li><a class="rss" href="http://wearethunderbuddies.com/glisseo/#"></a></li>
-        <li><a class="facebook" href="https://www.facebook.com/TGVintage"></a></li>
-        <li><a class="twitter" href="https://www.twitter.com/Green_Vintage_"></a></li>
-        <li><a class="pinterest" href="https://www.pinterest.com/thegreenvintage/"></a></li>
-      </ul>
+    <div class="copyright">
+      <p>© 2015 The Green Vintage - {{ 'footer.all_rights_reserved' | translate }}</p>
     </div>
     <div class="clear"></div>
   </div>
