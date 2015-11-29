@@ -18,18 +18,31 @@ es:
     keyboard: Teclado
   home:
     title: Inicio
-    message: Los <span class="violet">pequeños momentos</span> son los que <span class="violet">te
-      emocionan</span>
-    intro: Somos un equipo joven y dinámico, especializado en la organización y creación
-      de eventos. Ofrecemos un asesoramiento personalizado y coordinación, total o
-      parcial, de celebraciones corporativas y particulares.
-    what_we_do: TODO
-    what_we_do_description: TODO
-    corporative: TODO
-    corporative_description: TODO
-    private: TODO
-    private_description: TODO
-    customers: Empresas que han confiado en nosotros
+    message: ¿Crecemos juntos? conócenos… y convertimos su próximo evento en una experiencia
+      ¡única!
+    what_we_do: Somos un equipo que trabaja con una gran capacidad de adaptación a
+      los cambios para desarrollar su evento, siempre vamos de la mano con las nuevas
+      tecnologías y con las estrategias de comunicación. Nuestra implicación y las
+      buenas ganas de hacer son nuestro mayor valor. El saber escuchar y entender
+      las necesidades de nuestros clientes y del territorio en el que nos encontramos
+      son bases fundamentales para garantizar el éxito.
+    bring: ¿Qué aportan nuestros eventos?
+    bring_description: hola que tal
+    bring_list:
+    - Promoción del producto o servicio
+    - Difusión de conocimientos
+    - Creación de nuevos grupos
+    - Capacidad asociativa
+    - Conocimiento social
+    bring2_list:
+    - Fuente de recursos
+    - Comunicación en vivo
+    - Clientes potenciales
+    - Incrementar la notoriedad de la marca
+    - Mejorar el rendimiento, motivación y habilidades de grupo
+    success: Nuestro objetivo es crecer de manera personal y profesional junto con
+      nuestros clientes y su ÉXITO
+    customers: 'Por ese motivo, las siguientes empresas han confiado en nosotros:'
   team:
     title: Equipo
     message: Nunca soñé en tener éxito, trabajé para conseguirlo.
@@ -294,6 +307,3 @@ es:
     all_rights_reserved: Todos los derechos reservados.
     contact_us: Contáctanos
     sections: Secciones
-  common:
-    slogan: Los pequeños momentos son los que te emocionan
-    readmore: Leer más

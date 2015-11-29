@@ -18,23 +18,34 @@ ca:
     keyboard: Teclat
   home:
     title: Inici
-    message: Els <span class="violet">petits moments</span> són els que <span class="violet">t'emocionen</span>
-    intro: Som un equip jove i dinàmic, especialitzat en l'organització i creació
-      d'esdeveniments. Oferim un assessorament personalitzat i coordinació, total
-      o parcial, de celebracions corporatives i particulars.
-    what_we_do: TODO
-    what_we_do_description: <em>The Green Vintage</em> és un equip jove i dinàmic,
-      especialitzat en l'organització i creació d'esdeveniments. Oferim un assessorament
-      personalitzat i coordinació, total o parcial, d'esdeveniments de celebracions
-      corporatives i particulars.
-    corporative: Corporatiu
-    corporative_description: perspectiva i visió pel pel teu esdeveniment
-    private: Particular
-    private_description: Els petits moments són els que t’emocionen
-    customers: Empreses que han confiat amb nosaltres
+    message: Creixem junts? Vine a coneixe'ns i convertirem el seu proper esdeveniment
+      en una experiència única!
+    what_we_do: Som un equip que treballa amb una gran capacitat d'adaptació als canvis
+      per desenvolupar el seu esdeveniment, sempre anem de la mà amb les noves tecnologies
+      i amb les estratègies de comunicació. La nostra implicació i les bones ganes
+      de fer són el nostre major valor. El saber escoltar i entendre les necessitats
+      dels nostres clients i del territori en el qual ens trobem són bases fonamentals
+      per garantir l'èxit.
+    bring: Què aporten els nostres esdeveniments?
+    bring_description: hola que tal
+    bring_list:
+    - Promoció del producte o servei
+    - Difusió de coneixements
+    - Creació de nous grups
+    - Capacitat associativa
+    - Coneixement social
+    bring2_list:
+    - Font de recursos
+    - Comunicació en viu
+    - Clients potencials
+    - Incrementar la notorietat de la marca
+    - Millorar el rendiment, motivació i habilitats de grup
+    success: El nostre objectiu és créixer de manera personal i professional juntament
+      amb els nostres clients i el seu ÈXIT
+    customers: 'Per aquest motiu, les següents empreses han confiat en nosaltres:'
   team:
     title: Equip
-    message: Mai vaig somiar en tenir èxit, vaig treballar per arribar-hi.
+    message: Mai vaig somiar en tenir èxit, vaig treballar per arribar-hi
     who_we_are: Qui som
     founders: La Paula Bao Oliveda i la Gemma Oliveras Esteve són les fundadores de
       <em>The Green Vintage</em>. Són dues noies joves amb esperit dinàmic i emprenedor,
@@ -308,6 +319,3 @@ ca:
     all_rights_reserved: Tots els drets reservats.
     contact_us: Contacta'ns
     sections: Seccions
-  common:
-    slogan: Els petits moments són els que t'emocionen
-    readmore: Llegir més

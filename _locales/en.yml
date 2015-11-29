@@ -18,21 +18,33 @@ en:
     keyboard: Keyboard
   home:
     title: Home
-    message: <span class="violet">Your life</span> is made up of <span class="violet">little
-      moments</span>
-    intro: We are young and dynamic team, specialized in Planning Events. We offer
-      personalized assessment and partial or total coordination for corporate and
-      private events.
-    what_we_do: TODO
-    what_we_do_description: TODO
-    corporative: TODO
-    corporative_description: TODO
-    private: TODO
-    private_description: TODO
-    customers: Some of the companies that trusted us
+    message: We grow together! <em>The Green Vintage</em> turn your next event into
+      a unique, exciting, and good experience
+    what_we_do: We are a team that works with a great capacity to adapt to changes
+      to develop your event, and we always make use of new technologies and communication
+      strategies. Our greatest asset and what defines us are commitment and desire
+      to do good. The ability to listen and understand the needs of our customers
+      and the territory in which we are fundamentals to ensure success.
+    bring: What bring our events ?
+    bring_description: hola que tal
+    bring_list:
+    - Product or service promotion
+    - Knowledge dissemination
+    - Creating new groups
+    - Associative network capacity
+    - Social knowledge
+    bring2_list:
+    - Resources
+    - Live communication
+    - Potential customers
+    - Increase brand awareness
+    - Develop and motivate team members
+    success: Our goal is to grow personally and professionally with our customers
+      and their success
+    customers: 'For this reason, some of the companies that trusted us:'
   team:
     title: Team
-    message: I never dreamed to be successful, I worked to get it.
+    message: I never dreamed to be successful, I worked to get it
     who_we_are: Who we are
     founders: Paula Bao Oliveda and Gemma Oliveras Esteve are the co-founders of <em>The
       Green Vintage</em>. They Are two young and dynamic professionals with  an enterprising
@@ -296,6 +308,3 @@ en:
     all_rights_reserved: All rights reserved.
     contact_us: Contact us
     sections: Sections
-  common:
-    slogan: The small moments are the ones thrill you
-    readmore: Read more

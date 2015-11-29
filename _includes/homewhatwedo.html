@@ -1,17 +1,30 @@
-<div class="intro uppercase center">{{ 'home.intro' | translate}}</div>
-<h2>{{ 'home.what_we_do' | translate}}</h2>
-<div class="intro">{{ 'home.what_we_do_description' | translate}}</div>
-<div class="one-sixth">&nbsp;</div>
-<div class="one-third">
-  <div><img class="margin" alt="" src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2014/04/s1.jpg"></div>
-  <h5>{{ 'home.corporative' | translate}}</h5>
-  <p>{{ 'home.corporative_description' | translate}}</p>
-</div>
-<div class="one-third">
-  <div><img class="margin" alt="" src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2014/04/s3.jpg"></div>
-  <h5>{{ 'home.private' | translate}}</h5>
-  <p>{{ 'home.private_description' | translate}}</p>
-</div>
-<div class="one-sixth last">&nbsp;</div>
+<div class="intro uppercase center">{{ 'home.message' | translate}}</div>
+<div class="intro">{{ 'home.what_we_do' | translate}}</div>
+<h2>{{ 'home.bring' | translate}}</h2>
+<div class="intro">{{ 'home.bring_description' | translate}}</div>
 
+<div class="one-half">
+  <div class="intro">
+    <ul class="gramophone">
+      {% assign list = 'home.bring_list' | translate %}
+      {% for type in list %}
+      <li>{{ type }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+<div class="one-half">
+  <div class="intro">
+    <ul class="gramophone">
+      {% assign list = 'home.bring2_list' | translate %}
+      {% for type in list %}
+      <li>{{ type }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
 <div class="clear"></div>
+
+<blockquote>
+  <p>{{ 'home.success' | translate }}</p>
+</blockquote>
