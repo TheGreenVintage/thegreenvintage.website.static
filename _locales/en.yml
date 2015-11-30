@@ -18,15 +18,21 @@ en:
     keyboard: Keyboard
   home:
     title: Home
-    message: We grow together! <em>The Green Vintage</em> turn your next event into
-      a unique, exciting, and good experience
-    what_we_do: We are a team that works with a great capacity to adapt to changes
-      to develop your event, and we always make use of new technologies and communication
-      strategies. Our greatest asset and what defines us are commitment and desire
-      to do good. The ability to listen and understand the needs of our customers
-      and the territory in which we are fundamentals to ensure success.
-    bring: What bring our events ?
-    bring_description: hola que tal
+    message: Shall we expand together? Meet us and  <em>The Green Vintage</em> will
+      turn your next event into a unique and exciting  experience
+    what_we_do: We are a team that works with a great capacity to adapt and develop
+      your event as per your requirements. We use all the technologies and the best
+      communication strategies. Our main target which defines us is our commitment
+      to do the best professional work. The ability to listen and to understand your
+      needs and requirements together with our area knowledge are the fundamental
+      basis to ensure your success.
+    bring_description: Events connect people and brands with their stakeholders in
+      the most natural way. Communication live, face to face, and the creation of
+      real-life experiences from living messages, makes people to experience, that
+      message becomes effective and to achieve the desired response.
+    bring2_description: 'Events manage to remain in the memory of your target audience,
+      they have become events unique to your brand and differential, and it is for
+      that reason that will provide:'
     bring_list:
     - Product or service promotion
     - Knowledge dissemination
@@ -41,7 +47,7 @@ en:
     - Develop and motivate team members
     success: Our goal is to grow personally and professionally with our customers
       and their success
-    customers: 'For this reason, some of the companies that trusted us:'
+    customers: 'Most of the companies trusted us, among them:'
   team:
     title: Team
     message: I never dreamed to be successful, I worked to get it

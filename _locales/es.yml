@@ -18,16 +18,22 @@ es:
     keyboard: Teclado
   home:
     title: Inicio
-    message: ¿Crecemos juntos? conócenos… y convertimos su próximo evento en una experiencia
-      ¡única!
+    message: ¿Crecemos juntos? ¡Conócenos! <em>The Green Vintage</em> convertirá su
+      próximo evento en una experiencia ¡única!
     what_we_do: Somos un equipo que trabaja con una gran capacidad de adaptación a
       los cambios para desarrollar su evento, siempre vamos de la mano con las nuevas
       tecnologías y con las estrategias de comunicación. Nuestra implicación y las
       buenas ganas de hacer son nuestro mayor valor. El saber escuchar y entender
       las necesidades de nuestros clientes y del territorio en el que nos encontramos
       son bases fundamentales para garantizar el éxito.
-    bring: ¿Qué aportan nuestros eventos?
-    bring_description: hola que tal
+    bring_description: Los eventos conectan a las personas y a las marcas con sus
+      públicos de interés de la forma más natural. La comunicación en directo, el
+      cara a cara, y la creación de experiencias reales a partir de mensajes vivos,  hace
+      que las personas experimenten, que el mensaje se vuelva efectivo y que se logre
+      la respuesta buscada.
+    bring2_description: 'Los eventos logran permanecer en la memoria de su público
+      objetivo, se han convertido en actos diferenciales y únicos para su marca. Por
+      ese motivo, nuestros eventos aportan:'
     bring_list:
     - Promoción del producto o servicio
     - Difusión de conocimientos
@@ -42,7 +48,7 @@ es:
     - Mejorar el rendimiento, motivación y habilidades de grupo
     success: Nuestro objetivo es crecer de manera personal y profesional junto con
       nuestros clientes y su ÉXITO
-    customers: 'Por ese motivo, las siguientes empresas han confiado en nosotros:'
+    customers: 'Las siguientes empresas han confiado en nosotros:'
   team:
     title: Equipo
     message: Nunca soñé en tener éxito, trabajé para conseguirlo.

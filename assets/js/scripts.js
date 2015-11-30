@@ -1,4 +1,15 @@
 /*-----------------------------------------------------------------------------------*/
+/*	CONTACT TEMPLATES
+/*-----------------------------------------------------------------------------------*/
+jQuery(document).ready(function() {
+  jQuery('.contact-template').click(function (e){
+    jQuery('input[name=subject]').val(jQuery(this).data('subject'));
+    jQuery('textarea[name=message]').val(jQuery(this).data('message'));
+    e.preventDefault();
+  });
+});
+
+/*-----------------------------------------------------------------------------------*/
 /*	SLIDER
 /*-----------------------------------------------------------------------------------*/ 
 
