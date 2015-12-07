@@ -35,7 +35,7 @@
         {% assign item = site.pages | where: 'section', page.section | where: 'locale', locale | first %}
 
           {% if item %}
-          <a href="{{item.permalink}}" class="{{item.locale}}">{{ locale | prepend:'locales.' | translate }}</a>
+          <a href="{{item.permalink}}" class="{{item.locale}}"><img src="/assets/images/flags/{{ locale }}.png" title="{{ locale | prepend:'locales.' | translate }}" alt="{{ locale | prepend:'locales.' | translate }}"/></a>
           {% endif %}
 
         {% endfor %}
