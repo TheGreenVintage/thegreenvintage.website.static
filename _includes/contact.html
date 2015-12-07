@@ -1,7 +1,11 @@
 <div class="intro uppercase center">
   {{ 'contact.message' | translate }}
 </div>
-<div class="three-fourth"> <div class="wpcf7" id="wpcf7-f1214-p1201-o1">
+
+<div class="one-sixth">
+  &nbsp;
+</div>
+<div class="two-third"> <div class="wpcf7" id="wpcf7-f1214-p1201-o1">
     <div class="screen-reader-response"></div>
     <form action="/contact/support" data-success="{{contactsent.permalink}}" method="post" class="wpcf7-form" novalidate="novalidate">
       <ol>
@@ -13,6 +17,11 @@
         <li class="form-row">
           <span class="wpcf7-form-control-wrap your-email">
             <input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="{{ 'contact.email_placeholder' | translate }}">
+          </span>
+        </li>
+        <li class="form-row">
+          <span class="wpcf7-form-control-wrap your-telephone">
+            <input type="email" name="telephone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-telephone" aria-required="true" aria-invalid="false" placeholder="{{ 'contact.telephone_placeholder' | translate }}">
           </span>
         </li>
         <li class="form-row">
@@ -34,98 +43,7 @@
   </div>
 </div>
 
-<div class="one-fourth last">
-  <div class="widget-1  first sidebox">
-    <h3>{{ 'contact.templates.title' | translate }}</h3>
-    <ul class="posts-list">
-      <li>
-        <a class="contact-template" href="#" data-subject="{{ 'contact.templates.corporative.subject' | translate }}" data-message="{{ 'contact.templates.corporative.text' | translate }}">
-          <div class="featured">
-            <img src="/assets/images/contact/corporative.jpg" alt="{{ 'contact.templates.corporative.title' | translate }}" width="70">
-          </div>
-          <div class="meta">
-            <h6>{{ 'contact.templates.corporative.title' | translate }}</h6>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a class="contact-template" href="#" data-subject="{{ 'contact.templates.private.subject' | translate }}" data-message="{{ 'contact.templates.private.text' | translate }}">
-          <div class="featured">
-            <img src="/assets/images/contact/weddings.jpg" alt="{{ 'contact.templates.private.title' | translate }}" width="70">
-          </div>
-          <div class="meta">
-            <h6>{{ 'contact.templates.private.title' | translate }}</h6>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a class="contact-template" href="#" data-subject="{{ 'contact.templates.other.subject' | translate }}" data-message="{{ 'contact.templates.other.text' | translate }}">
-          <div class="featured">
-            <img src="/assets/images/contact/informative.jpg" alt="{{ 'contact.templates.other.title' | translate }}" width="70">
-          </div>
-          <div class="meta">
-            <h6>{{ 'contact.templates.other.title' | translate }}</h6>
-          </div>
-        </a>
-      </li>
-    </ul>
-    <div class="clear"></div>
-  </div>
+<div class="one-sixth last">
+  &nbsp;
 </div>
 <div class="clear"></div>
-
-<!--
-<div class="contact-us container">
-  <div class="row">
-    <div class="span3"></div>
-    <div class="contact-form span6">
-      <p>{{ 'contact.welcome' | translate }}</p>
-      <h4><span class="violet">{{ 'contact.in_contact' | translate }}</span></h4>
-
-      {% assign contactsent = 'contact-sent' | section %}
-      <form method="POST" action="/contact/support" data-success="{{contactsent.permalink}}">
-
-        {% if message.errors %}
-        <p>The following errors occured:</p>
-        <ul>
-          {% for error in message.errors %}
-          <li>{{error[0] | capitalize}} -  {{error[1]}}</li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-
-        <label for="name" class="nameLabel">{{ 'contact.name' | translate }}</label>
-        <input id="name" name="name" type="text" placeholder="{{ 'contact.name_placeholder' | translate }}">
-        <label for="email" class="emailLabel">{{ 'contact.email' | translate }}</label>
-        <input id="email" name="email" type="text" placeholder="{{ 'contact.email_placeholder' | translate }}">
-
-        <label for="category" class="categoryLabel">{{ 'contact.category' | translate }}</label>
-        <select id="category" name="category" style="
-            background: white;
-            border-radius: 0;
-           	-webkit-appearance: none;
-            -moz-appearance: none;
-            padding: 0 10px;
-            width: 92%;
-            height: 35px;
-            border: 1px solid #ddd;
-            color: #ccc;
-            font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-            font-size: 13px;
-            font-style: italic;
-        ">
-          <option value="none">{{ 'contact.select' | translate }}</option>
-          <option value="particular">{{ 'contact.private' | translate }}</option>
-          <option value="corporative">{{ 'contact.corporative' | translate }}</option>
-        </select>
-        <label for="subject">{{ 'contact.subject' | translate }}</label>
-        <input id="subject" name="subject" type="text" placeholder="{{ 'contact.subject_placeholder' | translate }}">
-        <label for="message" class="messageLabel">{{ 'contact.message' | translate }}</label>
-        <textarea id="message" name="message" placeholder="{{ 'contact.message_placeholder' | translate }}"></textarea>
-        <button type="submit">{{ 'contact.send' | translate }}</button>
-      </form>
-    </div>
-    <div class="span3"></div>
-  </div>
-</div>
--->
