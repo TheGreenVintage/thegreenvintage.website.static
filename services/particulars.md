@@ -12,6 +12,6 @@ permalink: /ca/serveis/casaments/
 
 {% include weddings.html %}
 
-<div class="wrapper">
+<div class="wrapper wrapper-left">
   {% include private-calltoaction.html %}
 </div>

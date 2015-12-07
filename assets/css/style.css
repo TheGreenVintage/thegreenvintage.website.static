@@ -485,6 +485,9 @@ blockquote p {
 	width: 960px;
 	margin: 50px auto;
 }
+.wrapper-left {
+	text-align: left;
+}
 .head-image {
 	width: 100%;
   display: block;
@@ -640,6 +643,7 @@ blockquote p {
 	-moz-transition: all 200ms ease-in;
 }
 .menu ul li.active a, .menu ul li a:hover, .menu ul li a.selected {
+  color: #66AC82;
 }
 .menu ul li.active ul li a {
 	color: #3b3b3b;
@@ -1505,6 +1509,7 @@ div.wpcf7-mail-sent-ok {
 	border: none;
 }
 .tab a.active, .tab a:hover {
+  color: #66AC82;
 }
 .tab-container .panel-container {
 	border-top: 1px solid #c5c5c5;
