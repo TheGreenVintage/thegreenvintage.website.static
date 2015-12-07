@@ -450,7 +450,7 @@ blockquote p {
 }
 .intro.uppercase {
 	text-transform: uppercase;
-  font-size: 30px;
+  font-size: 26px;
   line-height: 60px;
 	margin-bottom: 50px;
 }
@@ -519,6 +519,9 @@ blockquote p {
 	padding: 3px 10px 5px;
 	text-transform: uppercase;
 	font-weight: 300;
+}
+.logos-wrapper img {
+	margin: auto;
 }
 
 /* ----------------------------------------------------------------------------------- */
@@ -671,6 +674,7 @@ blockquote p {
 	position: relative;
 	z-index: 1;
 	padding: 15px 0 10px;
+	margin-top: 100px;
 }
 .footer-wrapper .footer-banner {
   position: absolute;
