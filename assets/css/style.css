@@ -491,14 +491,37 @@ blockquote p {
   height: 225px;
   border-bottom: 1px solid #D0D0D0;
 }
-.head-image-corporative {
+.head-image-services {
   background-image: url(/assets/images/home/2.jpg);
   background-position: 0px -250px;
   background-repeat: no-repeat;
 }
+.head-image-corporative {
+  background-image: url(/assets/images/other/header5.jpg);
+  background-repeat: no-repeat;
+  background-size: 1665px;
+}
 .head-image-weddings {
   background-image: url(/assets/images/other/header7.jpg);
   background-size: 2000px;
+}
+.head-image-portfolio {
+  background-image: url(/assets/images/other/header8.jpg);
+  background-size: 2225px;
+  background-position: -175px;
+  background-repeat: no-repeat;
+}
+.head-image-partners {
+  background-image: url(/assets/images/other/header9.jpg);
+  background-repeat: no-repeat;
+}
+.head-image-team {
+  background-image: url(/assets/images/other/header10.jpg);
+  background-repeat: no-repeat;
+}
+.head-image-contact {
+  background-image: url(/assets/images/other/header11.jpg);
+  background-repeat: no-repeat;
 }
 .head-image img {
 	width: 100%;

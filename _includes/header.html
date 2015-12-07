@@ -49,10 +49,30 @@
 <!-- End Header -->
 
 {% if page.section != 'home' %}
+{% assign header_type = 'services' %}
+
+{% if page.section == 'corporative' %}
 {% assign header_type = 'corporative' %}
+{% endif %}
 
 {% if page.section == 'private' %}
 {% assign header_type = 'weddings' %}
+{% endif %}
+
+{% if page.section == 'portfolio' %}
+{% assign header_type = 'portfolio' %}
+{% endif %}
+
+{% if page.section == 'partners' %}
+{% assign header_type = 'partners' %}
+{% endif %}
+
+{% if page.section == 'team' %}
+{% assign header_type = 'team' %}
+{% endif %}
+
+{% if page.section == 'contact' %}
+{% assign header_type = 'contact' %}
 {% endif %}
 
 <div class="head-image head-image-{{header_type}}">
