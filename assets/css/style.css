@@ -492,7 +492,9 @@ blockquote p {
   border-bottom: 1px solid #D0D0D0;
 }
 .head-image-corporative {
-  background-image: url(/assets/images/other/header5.jpg);
+  background-image: url(/assets/images/home/2.jpg);
+  background-position: 0px -250px;
+  background-repeat: no-repeat;
 }
 .head-image-weddings {
   background-image: url(/assets/images/other/header6.jpg);
