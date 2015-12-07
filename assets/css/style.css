@@ -497,7 +497,8 @@ blockquote p {
   background-repeat: no-repeat;
 }
 .head-image-weddings {
-  background-image: url(/assets/images/other/header6.jpg);
+  background-image: url(/assets/images/other/header7.jpg);
+  background-size: 2000px;
 }
 .head-image img {
 	width: 100%;
