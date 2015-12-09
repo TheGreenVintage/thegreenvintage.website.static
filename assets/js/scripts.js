@@ -2,7 +2,7 @@
 /*	CONTACT FORM
 /*-----------------------------------------------------------------------------------*/ 
 jQuery(document).ready(function() {
-  var form = $('.contact-form form');
+  var form = jQuery('.contact-form form');
 
   form.find('input[type=text]').first().focus();
 
@@ -10,7 +10,7 @@ jQuery(document).ready(function() {
 
     var postdata = form.serialize();
 
-    $.ajax({
+    jQuery.ajax({
       type: 'POST',
       url: form.attr('action'),
       data: postdata,
