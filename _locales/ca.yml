@@ -61,27 +61,24 @@ ca:
     carreer: Al transcurs de la carrera universitària i les pràctiques impartides
       en aquell temps, van adonar-se’n que el sector dels esdeveniments era la seva
       passió.
-    create_company: Al finalitzar els seus estudis, l’any 2011, van començar a plantejar-se
+    create_company: En finalitzar els seus estudis, l’any 2011, van començar a plantejar-se
       l’opció de crear la seva pròpia empresa d’organització i gestió d’esdeveniments,
       ja que havien vist que cadascuna aportava al projecte uns valors i unes aptituds,
       que unides eren una garantia d’èxit.
     consolidate: Gràcies a l'esforç, dedicació i suport, l’empresa <em>The Green Vintage</em>
       s’ha anat consolidant i s’ha posicionat dins del mercat actual.
-    definition: "<em>The Green Vintage</em> es defineix com una empresa que té cura
-      del seu client de forma única i personal, sabem escoltar i entendre les seves
-      necessitats aportant idees innovadores i originals i cuidant al màxim el detall."
     commitment: El nostre compromís
     commitment1: "<strong>Satisfacció: </strong> Fem un seguiment personalitzat del
-      seu esdeveniment, perquè l’èxit és essencial per a nosaltres."
+      seu esdeveniment, perquè l’èxit és essencial per a nosaltres"
     commitment2: "<strong>Motivació:</strong> Ens agrada molt el nostre treball i
       creiem en tot allò que fem. Nomes així, gaudint, podem oferir-te el millor resultat
-      de nosaltres i superar les seves expectatives inicials."
+      de nosaltres i superar les seves expectatives inicials"
     commitment3: "<strong>Empatia:</strong> Sabem escoltar i entendre les necessitats
-      dels nostres clients i del territori en el que ens trobem."
+      dels nostres clients i del territori en el que ens trobem"
     commitment4: "<strong>Creativitat:</strong> Cerquem vies innovadores i originals
-      perquè els nostres actes siguin inoblidables."
+      perquè els nostres actes siguin inoblidables"
     commitment5: "<strong>Sinergia:</strong> Treballem en equip i en xarxa perquè
-      l’esforç compartit millora el resultat."
+      l’esforç compartit millora el resultat"
   corporative:
     title: Serveis corporatius
     message: Considerem que els esdeveniments són una eina estratègica de comunicació
@@ -94,9 +91,9 @@ ca:
       privades i workshops
     promotional: Esdeveniments promocionals
     promotional_description: Fires, exposicions, inauguracions, aniversaris, presentacions
-      de productes i showrooms
+      de producte i showrooms
     other: Altres esdeveniments
-    other_description: Viatges d’incentius, teambuilding, festes i menjars d’empresa.
+    other_description: Viatges d’incentiu, team building, festes i menjars d’empresa
     extras: Totes les tipologies d’esdeveniments poden tenir una relació estreta amb
       serveis auxiliars. <em>The Green Vintage</em> us garanteix un assessorament,
       un seguiment i la gestió de contractació de tots els serveis necessaris.
@@ -107,7 +104,7 @@ ca:
     - Senyalització d'espais i retolacions
     - 'Serveis multimèdia: pantalles, monitors, projector i megafonia'
     - Fotografia i vídeo corporatius
-    - Catering, hostesses i traductors o intèrprets
+    - Càtering, hostesses i traductors o intèrprets
     - 'Altres: serveis de transport, pirotècnia, shows musicals, animacions, etc.'
     how_we_work: Com treballem
     how_we_work_description: Treballem en equip i en xarxa perquè l’esforç compartit
@@ -118,11 +115,11 @@ ca:
       seus d'esdeveniments per ajudar a aconseguir els objectius perseguits pels seus
       clients i per reforçar les seves marques. Tenim l'activitat creativa i intel·lectual
       per afrontar els reptes dels nous projectes, assegurant així que tot l'equip
-      compleixi amb les expectatives del treball a desenvolupar i garantir l'èxit."
+      compleixi amb les expectatives establertes."
     communication: Comunicació
     communication_description1: Som responsables de planejar la logística de tots
       els elements per al desenvolupament de tot l'esdeveniment, i ens involucrarem
-      des del principi fins al final del procés. Us assistirem a la planificació del
+      des de l'inici fins al final del procés. Us assistirem a la planificació del
       pressupost, la selecció del seu esdeveniment, en les referències dels proveïdors,
       els temps del seu desenvolupament, l'acomodament dels convidats, i tot allò
       que se sol·liciti.
@@ -143,8 +140,8 @@ ca:
       a empresa (selecció d'ubicacions, càtering, hostesses, lloguer de vehicles,
       transfers, hotels, restaurants, guies turístics)."
     the_day: El dia del esdeveniment
-    the_day_description1: El nostre deure fonamental és estar el dia de l'esdeveniment
-      i assegurar-se que aquest esdevingui segons els objectius fixats.
+    the_day_description1: El nostre deure fonamental és assegurar-se que l'esdeveniment
+      segueixi els objectius fixats.
     the_day_description2: Controlem i coordinem tots els proveïdors externs que participen
       en l’esdeveniment.
     the_day_description3: Gestionem el timing, les intervencions dels assistents,
@@ -155,7 +152,7 @@ ca:
     message: Els petits moments són els que t’emocionen
     description: Organitzem i produïm casaments personalitzats. Posem a la vostra
       disposició un equip professional que entendrà el vostre estil, les vostres necessitats
-      i els vostres interessos, creant així una comunicació per a que el teu casament
+      i els vostres interessos, creant així una comunicació per a què el teu casament
       sigui únic tant per vosaltres com per als vostres convidats.
     weddings: Celebracions - Casaments
     objectives_description: A <em>The Green Vintage</em> ens encarreguem de la coordinació,
@@ -171,7 +168,7 @@ ca:
     - Selecció i coordinació de proveïdors, sol·licitud de pressupostos i negociació
     - Visites a espais i/o restaurants
     - Control i seguiment de la llista de convidats i gestió dels seus allotjaments
-    - Gestió del seatting
+    - Gestió del seating
     - Gestió del dia de les teves noces
     design: 'Decoració, disseny i muntatge:'
     design_list:
@@ -180,7 +177,7 @@ ca:
     - Disseny floral de tot l’esdeveniment
     - " Recerca de proveïdors d’invitacions, photocalls, cartells, dissenyadors de
       logotips, etc. "
-    ideas: Us proporcionem diferents idees. La decoració defineix la teva personalitat.
+    ideas: Us proporcionem diferents idees. La decoració defineix la teva personalitat
     the_day: El dia de les teves noces
     the_day_description1: En aquest cas, vosaltres us encarregaríeu de la gestió dels
       contractes de proveïdors i la comunicació al llarg del procés de planificació,
@@ -194,7 +191,7 @@ ca:
     - 'Recepció dels convidats i atendre les seves necessitats '
     - 'Gestió del timing (cerimònia, entrada dels nuvis, entrega de regals, brindis,
       entrada del pastís, músiques, ball nupcial) '
-    - 'Control del seatting '
+    - 'Control del seating '
     - 'Gestió dels proveïdors externs (càterings, fotògrafs, vídeo, grups musicals,
       DJ’s, animació infantil) '
     - Supervisar les diverses decoracions florals, mobiliari, decoracions extres i
@@ -222,7 +219,7 @@ ca:
       de tot el desenvolupament de l’esdeveniment, amb una qualitat excepcional i
       un toc de distinció i originalitat
   portfolio:
-    title: Portfoli
+    title: Portafoli
     message: Aquesta és la millor manera d'explicar-vos el treball què fem. Aquí teniu
       alguns exemples d’esdeveniments que hem dissenyat i produït, a mida per a cada
       client
@@ -230,7 +227,7 @@ ca:
     corporative_description: L'objectiu és crear un esdeveniment que aporti valor
       i posicionament de la seva empresa dins del mercat
     weddings: Casaments
-    weddings_description: Els petits moments són els que t'emocionen.
+    weddings_description: Els petits moments són els que t'emocionen
   services:
     title: Serveis
     message: Ens encarreguem d’organitzar esdeveniments corporatius i particulars
@@ -251,7 +248,7 @@ ca:
   contact:
     title: Contacte
     message: Si tens una idea que vols dur a terme amb nosaltres, omple el següent
-      formulari. Estarem encantats d'organitzar el teu pròxim esdeveniment!
+      formulari. Estarem encantats d'organitzar el seu pròxim esdeveniment!
     in_contact: SEGUIM EN CONTACTE!
     send: Enviar
     message_placeholder: El teu missage

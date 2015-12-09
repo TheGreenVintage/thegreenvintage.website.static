@@ -66,22 +66,18 @@ es:
       que unidos son una garantía de éxito.
     consolidate: Gracias al esfuerzo, dedicación y apoyo, la empresa <em>The Green
       Vintage</em> se ha ido consolidando y se ha posicionado dentro del mercado actual.
-    definition: "<em>The Green Vintage</em> se define como una empresa que cuida a
-      su cliente de forma única y personal, escuchando y entendiendo las necesidades
-      de cada uno, aportando ideas innovadoras y originales y, sobretodo, cuidando
-      al máximo cada detalle."
     commitment: Nuestro compromiso
     commitment1: "<strong>Satisfacción: </strong> Hacemos un seguimiento personalizado
-      de su evento, ya que el éxito es esencial para nosotros."
+      de su evento, ya que el éxito es esencial para nosotros"
     commitment2: "<strong>Motivación:</strong> Nos gusta nuestro trabajo y creemos
       en todo lo que hacemos. Solo así, podemos ofrecerte el mejor resultado y superar
-      sus expectativas iniciales."
+      sus expectativas iniciales"
     commitment3: "<strong>Empatía:</strong> Sabemos escuchar y entender las necesidades
-      de nuestros clientes y del territorio en el que nos encontramos."
+      de nuestros clientes y del territorio en el que nos encontramos"
     commitment4: "<strong>Creatividad:</strong> Buscamos vías innovadoras y originales
-      para que nuestros actos sean inolvidables."
+      para que nuestros actos sean inolvidables"
     commitment5: "<strong>Sinergia:</strong> Trabajamos en equipo ya que el esfuerzo
-      compartido mejora el resultado."
+      compartido mejora el resultado"
   corporative:
     title: Servicios corporativos
     message: Consideramos que los eventos son una herramienta estratégica de comunicación
@@ -95,15 +91,15 @@ es:
       privadas y workshops
     promotional: Eventos promocionales
     promotional_description: Ferias, exposiciones, inauguraciones, aniversarios, presentaciones
-      de productos y showrooms
+      de producto y showrooms
     other: Otros eventos
-    other_description: Viajes de incentivos, teambuilding, fiestas y comidas de empresa
+    other_description: Viajes de incentivo, team building, fiestas y comidas de empresa
     extras: Todas las tipologías de eventos pueden tener una relación estrecha con
       servicios auxiliares. <em>The Green Vintage</em> os garantiza un asesoramiento,
       un seguimiento y la gestión de contratación de todos los servicios necesarios.
     service_list:
     - Diseño y producción de carteles, stands, displays, photocalls, vinilos, invitaciones
-      o cualquiera otro elemento gráfico
+      o cualquier otro elemento gráfico
     - Contratación de escenarios y/o decorados, iluminación y sonido
     - Señalización de espacios y rotulaciones
     - 'Servicios multimedia: pantallas, monitores, proyector y megafonía'
@@ -119,11 +115,11 @@ es:
       eventos para ayudar a conseguir los objetivos perseguidos por sus clientes y
       para reforzar sus marcas. Tenemos la actividad creativa e intelectual para afrontar
       los retos de los nuevos proyectos, asegurando así que todo el equipo cumpla
-      con las expectativas del trabajo a desarrollar y garantizar éxito."
+      con las expectativas establecidas."
     communication: Comunicación
     communication_description1: Somos responsables de planear la logística de todos
-      los elementos para el desarrollo de todo el acontecimiento, y nos involucramos
-      desde el principio hasta el final del proceso. Os asistiremos en la planificación
+      los elementos para el desarrollo de todo el evento, y nos involucramos desde
+      el principio hasta el final del proceso. Os asistiremos en la planificación
       del presupuesto, la selección de su evento, en las referencias de los proveedores,
       los tiempos de su desarrollo, la recepción de los invitados, y todo aquello
       que se solicite.
@@ -144,8 +140,8 @@ es:
       de un evento para empresa (selección de ubicaciones, catering, azafatas, alquiler
       de vehículos, transfers, hoteles, restaurantes, guías turísticos)."
     the_day: El día del evento
-    the_day_description1: Nuestro deber fundamental es estar el día del evento y asegurarse
-      que éste transcurra según los objetivos fijados.
+    the_day_description1: Nuestro deber fundamental es asegurarse que el evento transcurra
+      según los objetivos fijados.
     the_day_description2: Controlamos y coordinamos todos los proveedores externos
       que participan en evento.
     the_day_description3: Gestionamos el timing, las intervenciones de los asistentes,
@@ -164,13 +160,13 @@ es:
       imprevisto. Diseñamos un proyecto personalizado para cada uno de nuestros clientes,
       puesto que nuestro principal objetivo es cuidar al máximo el detalle, haciendo
       de vuestro día, el mejor.
-    management: Organización completa
+    management: Organización Completa
     management_description: 'Coordinación desde el primer minuto hasta el día de la
       celebración. Este servicio incluye:'
     planification: 'Planificación:'
     planificaction_list:
     - Selección y coordinación de proveedores, solicitud de presupuestos y negociación
-    - Visitas en espacios y/o restaurantes
+    - Visitas a espacios y/o restaurantes
     - Control y seguimiento de la lista de invitados y gestión de sus alojamientos
     - 'Gestión del seating '
     - Gestión del día de tu boda
@@ -179,9 +175,9 @@ es:
     - Diseño de las decoraciones de los espacios
     - Montaje de los elementos de decoración
     - Diseño floral de todo el evento
-    - Investigación de proveedores de invitaciones, photocalls, carteles, diseñadores
-      de logotipos, etc.
-    ideas: Os proporcionamos diferentes ideas. La decoración define tu personalidad.
+    - Búsqueda de proveedores de invitaciones, photocalls, carteles, diseñadores de
+      logotipos, etc.
+    ideas: Os proporcionamos diferentes ideas. La decoración define tu personalidad
     the_day: Organización del día de tu boda
     the_day_description1: En este caso, vosotros os encargaríais de la gestión de
       los contratos de proveedores y la comunicación a lo largo del proceso de planificación,
@@ -196,11 +192,10 @@ es:
     - Gestión del timing (ceremonia, entrada de los novios, entrega de regalos, brindis,
       entrada del pastel, músicas, baile nupcial)
     - Control del seating
-    - Gestión de los proveedores externos (càterings, fotógrafos, vídeo, grupos musicales,
+    - Gestión de los proveedores externos (caterings, fotógrafos, vídeo, grupos musicales,
       DJ’s, animación infantil)
-    - Supervisar las diversas decoraciones florales
-    - mobiliario
-    - decoraciones extras y sus montajes"
+    - Supervisar las diversas decoraciones florales, mobiliario, decoraciones extras
+      y sus montajes
   partners:
     title: Colaboradores
     message: La buena calidad y la relación estrecha con nuestros colaboradores, dan
@@ -215,7 +210,7 @@ es:
       materiales, mobiliario, color corporativo de la empresa… todo este conjunto
       de elementos generan emociones a los asistentes del evento'
     gastronomy: Gastronomía
-    gastronomy_description: 'Es un elemento diferenciador para que vuestro acontecimiento
+    gastronomy_description: 'Es un elemento diferenciador para que vuestro evento
       sea un éxito: buena calidad de los alimentos, un servicio cuidadoso, presentaciones
       originales de los platos, detalles en la decoración y en el montaje, son los
       ingredientes que dan sabor para que este día sea recordado por los asistentes'
@@ -229,8 +224,8 @@ es:
       algunos ejemplos de eventos que hemos diseñado y producido, a medida para cada
       cliente
     corporative: Corporativos
-    corporative_description: El objetivo es crear un acontecimiento que aporte valor
-      y posicionamiento de su empresa dentro del mercado.
+    corporative_description: El objetivo es crear un evento que aporte valor y posicionamiento
+      de su empresa dentro del mercado
     weddings: Bodas
     weddings_description: Los pequeños momentos son los que te emocionan
   services:
@@ -240,7 +235,7 @@ es:
     corporative_title: Corporativo
     corporative_description: Ponemos a su disposición un completo equipo de profesionales
       para asegurar el objetivo del evento de su empresa . Hemos colaborado con pequeñas
-      y grandes empresas en la organización de todo tipo de acontecimientos. Creatividad,
+      y grandes empresas en la organización de todo tipo de eventos. Creatividad,
       innovación, dinamismo, proactividad y atención personalizada son las bases de
       nuestro trabajo.
     corporative_call_to_action: Garantía de éxito, empezamos?
@@ -253,7 +248,7 @@ es:
   contact:
     title: Contacto
     message: Si tienes una idea que quieres llevar a cabo con nosotros, rellena el
-      siguiente formulario. Estaremos encantados de organizar tu próximo evento!
+      siguiente formulario. ¡Estaremos encantados de organizar su próximo evento!
     in_contact: Seguimos en contacto
     send: Enviar
     message_placeholder: Tu mensaje
