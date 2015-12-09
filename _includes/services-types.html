@@ -1,0 +1,31 @@
+<div class="wrapper">
+  <div class="intro uppercase center">{{ 'services.message' | translate }}</div>
+
+  {% assign corporative = 'corporative' | section %}
+  <div class="one-half">
+    <a href="{{corporative.permalink}}"><img src="/assets/images/services/corporative.jpg" alt="{{ 'services.corporative_title' | translate }}"></a>
+  </div>
+  <div class="one-half last">
+    <h2 class="tight">
+      <a href="{{corporative.permalink}}">{{ 'services.corporative_title' | translate }}</a>
+    </h2>
+    <div class="intro">{{ 'services.corporative_description' | translate }}</div>
+    <a href="{{corporative.permalink}}">{{ 'generic.more_info' | translate }}</a>
+  </div><div class="clear"></div>
+
+  <p style="height: 50px">
+    &nbsp;
+  </p>
+
+  {% assign private = 'private' | section %}
+  <div class="one-half">
+    <h2 class="tight">
+      <a href="{{private.permalink}}">{{ 'services.private_title' | translate }}</a>
+    </h2>
+    <div class="intro">{{ 'services.private_description' | translate }}</div>
+    <a href="{{private.permalink}}">{{ 'generic.more_info' | translate }}</a>
+  </div>
+  <div class="one-half last">
+    <a href="{{private.permalink}}"><img src="/assets/images/services/weddings.jpg" alt="{{ 'services.private_title' | translate }}"></a>
+  </div><div class="clear"></div>
+</div>

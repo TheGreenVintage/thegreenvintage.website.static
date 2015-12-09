@@ -1,13 +1,9 @@
 ---
 layout: page
 section: services
-icon: tasks
+subsections: corporative private
 locale: es
 permalink: /es/servicios/
 ---
 
-{% include services.html %}
-
-{% include typeservices.html %}
-
-{% include calltoaction.html %}
+{% include services-types.html %}

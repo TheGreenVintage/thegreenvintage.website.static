@@ -1,0 +1,88 @@
+<div class="wrapper intro">
+  <p>{{ 'private.objectives_description' | translate }}</p>
+
+  <h1>{{ 'private.management' | translate }}</h1>
+
+  <p>{{ 'private.management_description' | translate }}</p>
+
+  <h2>{{ 'private.planification' | translate }}</h2>
+  <ul>
+    {% assign list = 'private.planificaction_list' | translate %}
+    {% for type in list %}
+    <li>{{ type }}</li>
+    {% endfor %}
+  </ul>
+
+  <h2>{{ 'private.design' | translate }}</h2>
+  <ul>
+    {% assign list = 'private.design_list' | translate %}
+    {% for type in list %}
+    <li>{{ type }}</li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="zetaSlider zetaTop" id="zetaSlider">
+  <div class="thumbnail-wrapper">
+    <ul class="zetaThumbs clearfix" style="width: 100%">
+      <li class="item one-third">
+        &nbsp;
+      </li>
+      <li data-id="weddings" class="item one-third">
+        {% assign item = 'services-ideas' | section %}
+        <a href="{{item.permalink}}" class=""><img src="/assets/images/services/wedding-ideas.jpg" alt="" class=""></a>
+      </li>
+      <li class="item one-third last">
+        &nbsp;
+      </li>
+    </ul>
+  </div>
+  <div class="zetaHolder">
+    <div class="zetaWrapper">
+      <div class="zetaEmpty isDraggingFalse"></div>
+    </div>
+    <div class="zetaControls" style="display: block;"> <a class="zetaBtnClose" href="#">Close</a> <a class="zetaBtnPrev" href="#">Previous</a> <a class="zetaBtnNext" href="#">Next</a> </div>
+    <div class="zetaWarning" style="display: none;">
+      <div class="navigate">{{ 'generic.navigate' | translate }}</div>
+      <div class="drag">{{ 'generic.dragging' | translate }}</div>
+      <div class="arrow">{{ 'generic.arrows' | translate }}</div>
+      <div class="keys">{{ 'generic.keyboard' | translate }}</div>
+      <div class="clear"></div>
+    </div>
+  </div>
+</div>
+<div class="clear"></div>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+  jQuery('#zetaSlider').zetaSlider({
+    warningMessage:true,
+    warningMessageTimeout:4000
+  });
+});
+</script>
+
+<p class="intro" style="text-align: center">{{ 'private.ideas' | translate }}</p>
+
+<div class="wrapper intro">
+  <h2>{{ 'private.the_day' | translate }}</h2>
+
+  <p>{{ 'private.the_day_description1' | translate }}</p>
+  <p>{{ 'private.the_day_description2' | translate }}</p>
+
+  {{ 'private.the_day_management' | translate }}
+  <ul>
+    {% assign list = 'private.the_day_management_list' | translate %}
+    {% for type in list %}
+    <li>{{ type }}</li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div style="text-align: center;">
+<script type="text/javascript" src="http://cdn1.bodas.net/_js/wp-rated.js?v=4"></script>
+<div id="wp-rated" style="display: inline-block;">
+    <a href="http://www.bodas.net/organizacion-bodas/the-green-vintage--e55528/opiniones" title="Recomendado en bodas.net"><img alt="Recomendado en bodas.net" id="wp-rated-img" src="http://cdn1.bodas.net/img/badges/2015/badge-simple_es_ES.jpg"/></a>
+</div>
+<script>wpShowRatedv2('55528');</script>
+
+<a href="http://www.bodamas.com/empresas/ideas-para-bodas/wedding-planner/barcelona/los-pequenos-momentos-son-los-que-te-emocionan/" style="display: inline-block; margin: 25px 50px;"><img src="http://www.bodamas.com/_v2/img/logo_superior.png" alt="bodamas"></a>

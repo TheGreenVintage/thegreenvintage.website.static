@@ -1,35 +1,43 @@
-<!-- Footer -->
-<footer style="margin: 30px auto 0 auto">
-    <div class="container">
-	<div class="row">
-	    <div class="widget span8">
-		<h4>{{ 'footer.about_us' | translate }}</h4>
-		<p>{{ 'footer.the_green_vintage_is' | translate }}</p>
-    		{% assign team = 'team' | section %}
-		<p><a href="{{team.permalink}}">{{ 'common.readmore' | translate }}...</a></p>
-	    </div>
-	    <div class="widget span4">
-		<h4>{{ 'footer.contact_us' | translate }}</h4>
-		{% comment %}
-		<p><i class="icon-map-marker"></i> Address: Via Principe Amedeo 9, 10100, Torino, TO, Italy</p>
-		{% endcomment %}
-    <p><i class="icon-phone"></i> Tel: <a href="tel:+34 679 400 576">679 400 576</a> - <a href="tel:+34 644 282 929">644 282 929</a>
-	      <p><i class="icon-envelope-alt"></i> Email: <a href="mailto:info@thegreenvintage.com">info@thegreenvintage.com</a></p>
-	    </div>
-	</div>
-	<div class="footer-border"></div>
-	<div class="row">
-	    <div class="copyright span6">
-		<p>Copyright 2015 The Green Vintage - {{ 'footer.all_rights_reserved' | translate }}</p>
-	    </div>
-		<div class="locale span3">
-
-	    </div>
-	  
-	    <div class="social span3">
-		<a class="facebook" href="https://www.facebook.com/TGVintage"></a>
-		<a class="twitter" href="https://www.twitter.com/Green_Vintage_"></a>
-	    </div>
-	</div>
+<!-- Begin Footer -->
+<div class="footer-wrapper">
+  <img class="footer-banner" src="/assets/images/other/banner-black5.png" alt="The Green Vintage" width="450">
+  <div class="footer">
+    <div class="one-half">
+      <ul>
+        <h3>{{ 'footer.sections' | translate }}</h3>
+        {% assign sections = 'home corporative private portfolio partners team contact' | split: " " %}
+        {% for sname in sections %}
+        {% assign item = sname | section %}
+        <li>
+          <a href="{{item.permalink}}">{{ item.section | append:'.title' | translate }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+      <div class="clear"></div>
     </div>
-</footer>
+    <div class="contact one-half last">
+      <h3>{{ 'footer.contact_us' | translate }}</h3>
+      <p>Tel: <a href="tel:+34 679 400 576">679 400 576</a> - <a href="tel:+34 644 282 929">644 282 929</a></p>
+      <p>Email: <a href="mailto:info@thegreenvintage.com">info@thegreenvintage.com</a></p>
+      <ul class="social">
+        <li><a class="facebook" href="https://www.facebook.com/TGVintage"></a></li>
+        <li><a class="twitter" href="https://www.twitter.com/Green_Vintage_"></a></li>
+        <li><a class="pinterest" href="https://www.pinterest.com/thegreenvintage/"></a></li>
+        <li><a class="instagram" href="https://instagram.com/thegreenvintage/"></a></li>
+      </ul>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+<!-- End Footer -->
+
+<!-- Begin Site Generator -->
+<div class="site-generator-wrapper">
+  <div class="site-generator">
+    <div class="copyright">
+      <p>© 2015 The Green Vintage - {{ 'footer.all_rights_reserved' | translate }}</p>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+<!-- End Site Generator -->
