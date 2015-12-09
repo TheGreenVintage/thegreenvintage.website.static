@@ -5,8 +5,9 @@
 <div class="one-sixth">
   &nbsp;
 </div>
-<div class="two-third"> <div class="wpcf7" id="wpcf7-f1214-p1201-o1">
+<div class="two-third"> <div class="contact-form" id="wpcf7-f1214-p1201-o1">
     <div class="screen-reader-response"></div>
+    {% assign contactsent = 'contact-sent' | section %}
     <form action="/contact/support" data-success="{{contactsent.permalink}}" method="post" class="wpcf7-form" novalidate="novalidate">
       <ol>
         <li class="form-row">
