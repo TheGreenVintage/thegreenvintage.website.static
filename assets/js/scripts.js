@@ -1,4 +1,31 @@
 /*-----------------------------------------------------------------------------------*/
+/*	CONTACT FORM
+/*-----------------------------------------------------------------------------------*/ 
+jQuery(document).ready(function() {
+  var form = $('.contact-form form');
+
+  form.find('input[type=text]').first().focus();
+
+  form.submit(function() {
+
+    var postdata = form.serialize();
+
+    $.ajax({
+      type: 'POST',
+      url: form.attr('action'),
+      data: postdata,
+      dataType: 'json'
+    }).fail(function(error){
+      alert('Error:' + error);
+    }).done(function(data){
+      window.location = form.data('success');
+    });
+
+    return false;
+  });
+});
+
+/*-----------------------------------------------------------------------------------*/
 /*	SLIDER
 /*-----------------------------------------------------------------------------------*/ 
 
