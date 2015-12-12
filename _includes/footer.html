@@ -17,7 +17,11 @@
     </div>
     <div class="contact one-half last">
       <h3>{{ 'footer.contact_us' | translate }}</h3>
-      <p>Tel: <a href="tel:+34 679 400 576">679 400 576</a> - <a href="tel:+34 644 282 929">644 282 929</a></p>
+      <p>
+        {% assign contact = 'contact' | section %}
+        <a href="{{contact.permalink}}">{{ 'footer.contact' | translate }}</a>
+      </p>
+      <p>Tel: <a href="tel:+34 679 400 576">(+34) 679 400 576</a> / <a href="tel:+34 644 282 929">(+34) 644 282 929</a></p>
       <p>Email: <a href="mailto:info@thegreenvintage.com">info@thegreenvintage.com</a></p>
       <ul class="social">
         <li><a class="facebook" href="https://www.facebook.com/TGVintage"></a></li>
@@ -25,6 +29,18 @@
         <li><a class="pinterest" href="https://www.pinterest.com/thegreenvintage/"></a></li>
         <li><a class="instagram" href="https://instagram.com/thegreenvintage/"></a></li>
       </ul>
+      <div id="locale-switcher">
+      {% assign locales = 'en es ca' | split: " " %}
+      {% for locale in locales %}
+
+      {% assign item = site.pages | where: 'section', page.section | where: 'locale', locale | first %}
+
+        {% if item %}
+        <a href="{{item.permalink}}" class="{{item.locale}}"><img src="/assets/images/flags/{{ locale }}.png" title="{{ locale | prepend:'locales.' | translate }}" alt="{{ locale | prepend:'locales.' | translate }}"/></a>
+        {% endif %}
+
+      {% endfor %}
+      </div>
     </div>
     <div class="clear"></div>
   </div>
@@ -35,7 +51,12 @@
 <div class="site-generator-wrapper">
   <div class="site-generator">
     <div class="copyright">
-      <p>© 2015 The Green Vintage - {{ 'footer.all_rights_reserved' | translate }}</p>
+      <p>
+        © 2015 The Green Vintage -
+        {{ 'footer.all_rights_reserved' | translate }} -
+        {% assign cookies = 'cookies' | section %}
+        <a href="{{cookies.permalink}}">{{ 'cookies.title' | translate }}</a>
+      </p>
     </div>
     <div class="clear"></div>
   </div>

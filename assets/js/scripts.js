@@ -143,7 +143,7 @@ jQuery(document).ready(function() {
 /*-----------------------------------------------------------------------------------*/
 jQuery(document).ready(function() {
 	selectnav('tiny', {
-		label: '--- Navigation --- ',
+		label: jQuery('#tiny').data('label'),
 		indent: '-'
 	});
 });

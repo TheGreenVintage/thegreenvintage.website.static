@@ -410,7 +410,7 @@ pre {
 	border: 1px solid #d6d6d6;
 }
 blockquote.important{
-  margin: 50px 125px 30px;
+  margin: 40px 0px;
 }
 blockquote p {
 	text-transform: uppercase;
@@ -463,10 +463,14 @@ blockquote p {
   color: #66AC82;
   font-weight: 400;
 }
+.space {
+  margin: 40px 0px;
+}
 .one-third p {
 	font-size: 15px;
 	font-weight: 300;
 	letter-spacing: 0.5px;
+  line-height: 30px;
 }
 .header-wrapper {
 	width: 100%;
@@ -691,8 +695,8 @@ blockquote p {
 	margin: 0 auto 25px;
 }
 
-#locale-switcher{
-  top: -12px;
+#locale-switcher a {
+  display: inline-block;
 }
 
 /* ----------------------------------------------------------------------------------- */
@@ -762,10 +766,11 @@ blockquote p {
 	padding: 0;
 	border: none;
 }
-.footer a {
+.footer a, .site-generator a {
 	color: #c5c5c5;
 }
-.footer a:hover, .footer .post-list a:hover {
+.footer a:hover, .footer .post-list a:hover, .site-generator a:hover {
+  color: #66AC82;
 }
 ul {
 	padding-left: 0;
@@ -800,14 +805,14 @@ ul {
 .social {
 	padding: 0;
 	margin-bottom: 4px;
-	float: right;
 	-webkit-transform: translateZ(0);
 }
 .social li {
-	float: left;
 	padding: 0;
 	margin-left: 8px;
 	background: none;
+  text-align: right;
+  display: inline-block;
 }
 .social a {
 	background-color: transparent;
