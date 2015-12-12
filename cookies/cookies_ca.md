@@ -5,211 +5,160 @@ locale: ca
 permalink: /ca/cookies/
 ---
 
-<h3>Información esencial sobre Cookies </h3>
-
-<p>El presente sitio thegreenvintage.com, titularidad de <b>The Green Vintage</b>. Esta web utiliza cookies propias y de terceros para mejorar la experiencia de usuario y ofrecer contenidos adaptados a sus intereses, mediante la personalización de espacios publicitarios. Con el registro en la web y/o la mera navegación (con el navegador habilitado para aceptar cookies) el usuario acepta la instalación de cookies, salvo que se oponga a ello, tal y como se informa nuestra Política de Cookies.</p>
-
-<h3>Política de Cookies </h3>
-
-<p>Esta web utiliza cookies propias y de terceros para mejorar la experiencia de usuario y ofrecer contenidos adaptados a sus intereses, mediante la personalización de espacios publicitarios. Con el registro en la web y/o la mera navegación (con el navegador habilitado para aceptar cookies), el usuario acepta la instalación de cookies, salvo que se oponga, según se detalla en esta Política de Cookies.</p>
-
-<p>Nuestra Política de Cookies está sujeta a actualizaciones periódicas. Su propósito es ayudarle a comprender el uso que hacemos de las cookies, la finalidad de las cookies utilizadas, así como las opciones que tiene el usuario para gestionarlas.</p>
-
-<p>Los usuarios pueden acceder a esta información en todo momento a través del link habilitado en la web (información legal ) . Asimismo, podrán modificar sus preferencias sobre la aceptación de cookies a través de las opciones de su navegador.</p>
-
-<p>La Política de Cookies de <b>The Green Vintage</b> comprende tanto el dominio thegreenvintage.com, como otra serie de dominios titularidad de <b>The Green Vintage</b>, (operativos actualmente o que puedan habilitarse en un futuro) para ofrecer servicios similares o complementarios a los de thegreenvintage.com.</p>     
-
-<h4>¿Qué es una Cookie?</h4>
-
-<p>Una “Cookie” es un pequeño archivo de texto que un sitio web almacena en el navegador del usuario. Las cookies facilitan el uso y la navegación por una página web y son esenciales para el funcionamiento de internet, aportando innumerables ventajas en la prestación de servicios interactivos.</p>
-
-<p>Las cookies se utilizan, por ejemplo, para gestionar la sesión del usuario (reduciendo el número de veces que tiene que incluir su contraseña), mejorar los servicios ofrecidos, o para adecuar los contenidos de una página web a sus preferencias.</p> <p>Las cookies pueden ser de “sesión”, por lo que se borrarán una vez el usuario abandone la página web que las generó o “persistentes”, que permanecen en su ordenador hasta una fecha determinada.</p> <p>Asimismo las Cookies pueden ser “propias”, gestionadas por el dominio al que el usuario accede y del que solicita un determinado servicio (en este caso los dominios titularidad de <b>The Green Vintage</b>) o “cookies de terceros”, enviadas al equipo de usuario desde un dominio diferente al que se accede.</p> 
-
-<h4>Cookies utilizadas:</h4>
-
-<p>En todo momento, y al menos, durante la instalación o puesta al día del navegador, el usuario tiene la posibilidad de aceptar o rechazar la instalación de cookies, o bien rechazar la instalación de un determinado tipo de cookies, como las cookies de publicidad y de terceros. Además, después de cada sesión puede eliminar todas o algunas de las cookies almacenadas. Asimismo el usuario puede activar:</p>
-
+<h1>En relació a les Cookies durant la navegació</h1>
+<p>Una cookie (o galeta informàtica) és una petita informació enviada per un lloc web i emmagatzemada al navegador de l'usuari, de manera que el lloc web pot consultar l'activitat prèvia de l'usuari.
+Les seves principals funcions són:</p>
 <ul>
-  <li>La navegación privada, mediante la cual su navegador deja de guardar el historial de navegación, contraseñas de sitios web, cookies y otra información de las páginas que visita, o</li>
-  <li>La función de no rastrear, por la que el navegador pide a los sitios web que visita que no rastreen sus hábitos de navegación, para por ejemplo, servirle publicidad de su interés en los sitios que visita.</li>
+    <li>Conseguir informació sobre els hàbits de navegació de l'usuari, entre d'altres.</li>
 </ul>
 
-<p>Le recomendamos que consulte la ayuda de su navegador para informarse de las diferentes opciones sobre cómo gestionar las cookies. A continuación incluimos los vínculos para gestionar cookies en los navegadores más relevantes:</p>
-
-<ul>
-  <li><a title="Se abre nueva ventana" onclick="window.open(this.href); return false;" href="http://windows.microsoft.com/es-ES/windows-vista/Block-or-allow-cookies">Internet Explorer</a></li>
-  <li><a title="Se abre nueva ventana" onclick="window.open(this.href); return false;" href="http://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we">Firefox</a></li>
-  <li><a title="Se abre nueva ventana" onclick="window.open(this.href); return false;" href="http://support.apple.com/kb/HT1677?viewlocale=es_ES">Safari</a></li>
-  <li><a title="Se abre nueva ventana" onclick="window.open(this.href); return false;" href="https://support.google.com/chrome/answer/95647?hl=es">Google Chrome</a></li>
-</ul>
-
-<p>Tenga en cuenta que el bloqueo de cookies puede afectar a todas o algunas de las funcionalidades de nuestra web.</p>
-
-<h3>Garantías y opciones sobre las Cookies </h3>
-
-<h4>Cookies para el funcionamiento de la web </h4>
-
-<p class="resaltado">Cookies  en la venta de billetes.</p>
-
-<p>Estrictamente necesarias para autenticación de usuario, identificación de idioma,  autenticación del usuario, mantenimiento de la sesión cuando se navega por la página de venta de billetes, contratación de un producto o servicio y para establecer las preferencias del idioma seleccionadas por el usuario .</p>                        
-
-<table class="">
-<caption>
-Venta de Billetes
-</caption>
-<thead>
-<tr>
-<th class="" scope="col">Tipo</th>
-<th class="" scope="col">Titular</th>
-<th class="" scope="col">Duración</th>
-<th class="" scope="col">Finalidad</th>
-</tr>
-</thead>
-<tbody>
-<tr class=" even">
-<td class="">gpv_p6</td>
-<td class="">thegreenvintage.com<br>
-s_code.js</td>
-<td class="">30 minutos</td>
-<td class="">Venta Forma de Pago</td>
-</tr>
-<tr class="">
-<td class="">s_cc</td>
-<td class="">thegreenvintage.com<br>
-s_code.js</td>
-<td class="">Sesión</td>
-<td class="">Permite el funcionamiento del software de análisis
-de Adobe SiteCatalyst. Analiza la información del visitante
-como el navegador usado, número de visitantes y qué páginas
-visita.<br>
-<br>
-Determina si las cookies están activadas.</td>
-</tr>
-<tr class=" even">
-<td class="">s_fid</td>
-<td class="">thegreenvintage.com<br>
-s_code.js</td>
-<td class="">730 días</td>
-<td class="">Se usa para identificar a los usuarios si la
-cookie s_vi no se ha podido establecer.</td>
-</tr>
-<tr class="">
-<td class="">s_nr</td>
-<td class="">thegreenvintage.com<br>
-s_code.js</td>
-<td class="">30 días</td>
-<td class="">Permite el funcionamiento del software de análisis
-de Adobe SiteCatalyst. Analiza la información del visitante
-como el navegador usado, número de visitantes y qué páginas
-visita.<br>
-Almacena la fecha de la visita del usuario y si es una nueva o
-visita o es la primera.</td>
-</tr>
-<tr class=" even">
-<td class="">s_sq</td>
-<td class="">thegreenvintage.com<br>
-s_code.js</td>
-<td class="">Sesión</td>
-<td class="">Permite el funcionamiento del software de análisis
-de Adobe SiteCatalyst. Analiza la información del visitante
-como el navegador usado, número de visitantes y qué páginas
-visita.<br>
-Almacena la información del anterior link que pulsó el
-visitante.</td>
-</tr>
-<tr class="">
-<td class="">s_vi</td>
-<td class="">renfe.d3.sc.omtrdc.net</td>
-<td class="">730 días</td>
-<td class="">Permite el funcionamiento del software de análisis
-de Adobe SiteCatalyst. Analiza la información del visitante
-como el navegador usado, número de visitantes y qué páginas
-visita.<br>
-Id único del visitante.</td>
-</tr>
-<tr class=" even">
-<td class="">__g_c</td>
-<td class="">venta.thegreenvintage.com<br>
-Gomez_Brouser.js</td>
-<td class="">Sesión</td>
-<td class=""></td>
-</tr>
-<tr class="">
-<td class="">__g_u</td>
-<td class="">venta.thegreenvintage.com<br>
-Gomez_Brouser.js</td>
-<td class="">24 horas</td>
-<td class=""></td>
-</tr>
-<tr class=" even">
-<td class="">JSESSIONID</td>
-<td class="">venta.thegreenvintage.com</td>
-<td class="">Sesión</td>
-<td class="">Id de la sesión de java</td>
-</tr>
-<tr class="">
-<td class="">org.springframework.<br>
-web.servlet.i18n.<br>
-CookieLocaleResolver.<br>
-LOCALE</td>
-<td class="">venta.thegreenvintage.com</td>
-<td class="">10 horas</td>
-<td class="">Almacena el idioma seleccionado para la
-aplicación.</td>
-</tr>
-<tr class=" even">
-<td class="">tipoUsuario</td>
-<td class="">venta.thegreenvintage.com</td>
-<td class="">Sesión</td>
-<td class="">Almacena el tipo de usuario.</td>
-</tr>
-<tr class="">
-<td class="">tipoUsuario</td>
-<td class="">venta.thegreenvintage.com</td>
-<td class="">Sesión</td>
-<td class="">Almacena el tipo de usuario.</td>
-</tr>
-<tr class=" even">
-<td class="">url_logout</td>
-<td class="">venta.thegreenvintage.com</td>
-<td class="">Sesión</td>
-<td class="">Almacena la ruta a la que se irá al hacer
-logout.</td>
-</tr>
-<tr class="">
-<td class="">mensajeErrorSesion</td>
-<td class="">venta.thegreenvintage.com</td>
-<td class="">Sesión</td>
-<td class="">Mensaje que se muestra cuando se produce un error
-de sesión.</td>
-</tr>
-<tr class=" even">
-<td class="">UID</td>
-<td class="">scorecardresearch.com</td>
-<td class="">720 días</td>
-<td class="">Se utiliza junto con UIDR para conocer el número
-de visitantes.</td>
-</tr>
-<tr class="">
-<td class="">UIDR</td>
-<td class="">scorecardresearch.com</td>
-<td class="">720 días</td>
-<td class="">Se utiliza junto con UID para conocer el número de
-visitantes.</td>
-</tr>
-</tbody>
+<h1>Cookies de tercers thegreenvintage.com</h1>
+<table class="cookies-table">
+    <thead>
+        <tr>
+            <th>Tipus de Cookie</th>
+            <th>Empresa</th>
+            <th>Finalitat</th>
+            <th>Informació</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                __utma<br>
+                __utmb<br>
+                __utmc<br>
+                __utmz<br>
+                __atuvc<br>
+                PREF
+            </td>
+            <td>Google</td>
+            <td>Navegació anònima que permet saber què es consulta i com es navega.</td>
+            <td><a href="http://www.google.es/intl/es/analytics/privacyoverview.html" target="_blank">http://www.google.es/intl/es/analytics/privacyoverview.html</a></td>
+        </tr>
+    </tbody>
 </table>
+<br>
+<p><b>Gestionar cookies</b></p>
 
-<h4>Cookies de terceros</h4>
+<p><b>Pots permetre, bloquejar o eliminar les cookies instal·lades al teu equip mitjançant la configuració de les opcions del navegador instal·lat al teu ordinador.</b><br>
 
-<p class="resaltado">Cookies Analíticas</p>
+</p><p>Si no estàs segur de quin tipus i versió de navegador fas servir per accedir a internet:</p>
 
-<table><caption>Analíticas</caption> <thead>             <tr><th scope="col">Tipo</th><th scope="col">Titular</th><th scope="col">Duración</th><th scope="col">Finalidad</th></tr>             </thead><tbody>             <tr class=" even  ">             <td>Análisis</td>                         <td>Site Catalyst Adobe analytics - omniture</td>                         <td>Persistente</td>                         <td>Informes estadísticos </td>             </tr>  </tbody></table> 
+<ul>
+    <li>Per Windows: has de clicar a <b>"Ajuda"</b> a la part superior de la finestra del teu navegador i seleccionar l'opció <b>"Sobre el"</b>.</li>
+    <li>Per Mac: amb la finestra del navegador oberta, s'ha de clicar al menú d'Apple i seleccionar l'opció <b>"Sobre el..."</b>.</li>
+</ul>
 
-<p class="resaltado">Cookies usadas por complementos externos de contenidos </p>     <table><caption>Complementos externos de Contenidos</caption> <thead>              <tr><th scope="col">Tipo</th><th scope="col">Titular</th><th scope="col">Duración</th><th scope="col">Finalidad</th></tr>              </thead><tbody>              <tr class=" even  ">              <td>Youtube</td>                           <td>www.youtube.com/</td> <td>Persistente</td>                           <td>Preferencias de Youtube</td>              </tr> <tr>              <td>Google maps</td>                           <td>maps.google.es</td> <td>Sesión</td>                           <td>Datos de geolocalización</td>              </tr>   </tbody></table>  
+<h1>Com gestionar les cookies a Windows</h1>
 
-<p class="resaltado">Cookies usadas por redes sociales</p>     <table><caption>Redes Sociales</caption> <thead>              <tr><th scope="col">Tipo</th><th scope="col">Titular</th><th scope="col">Duración</th><th scope="col">Finalidad</th></tr>              </thead><tbody>              <tr class=" even">              <td>Twiter</td>                           <td>api.twitter.com</td> <td>Sesión</td>                           <td>ID Twitter de invitado</td>              </tr>    </tbody></table>
+<p><b>Google Chrome</b><br>
+</p><ol>
+    <li>Fes clic al menú de Chrome situat a la barra d'eines del navegador.</li>
+    <li>Selecciona <b>"Configuració"</b>.</li>
+    <li>Fes clic a <b>"Mostrar opcions avançades..."</b></li>
+    <li>A la secció <b>"Privacitat"</b>, fes clic al botó <b>"Configuració de contingut..."</b>.</li>
+    <li>A la secció <b>"Cookies"</b>, pots configurar les opcions que s'indiquen a continuació: Eliminar cookies, bloquejar o permetre les cookies de forma predeterminada, incloure excepcions de cookies de dominos o llocs web específics.</li>
+    <li>Si necessites més detalls pots consultar l'ajuda de Google Chrome.</li>
+</ol>
 
-<p><b>The Green Vintage</b> no se hace responsable del contenido y veracidad de las políticas de privacidad de los terceros incluidas en esta política de cookies.</p>
+<br>
 
+<p><b>Microsoft Internet Explorer 7.0 y 8.0</b></p>
+<ol>
+    <li>Fes clic al botó <b>"Eines"</b> i després a <b>"Opcions d'Internet"</b>.</li>
+    <li>Fes clic a la fitxa <b>"Privacitat"</b> i, a continuació, mou el control lliscant a una posició intermitja entre els extrems superior i inferior, de forma que no es bloquegin ni permetin totes les cookies.</li>
+    <li>Fes clic a <b>"Llocs"</b>.</li>
+    <li>Al quadre <b>"Direcció del lloc web"</b>, escriu la direcció d'un lloc web i, després, fes clic a <b>"Bloquejar"</b> o <b>"Permetre"</b>.</li>
+    <li>Mentre escriu, anirà apareixent una llista de les planes web que ja hagi visitat. Si fa clic en un element de la llista, es mostrarà al quadre Direcció del lloc web.</li>
+    <li>Al finalitzar, fes clic a <b>"Acceptar"</b>.</li>
+    <li>Torna a col·locar el control lliscant a la seva posició original i fes clic a <b>"Acceptar"</b>.</li>
+    <li>Pots consultar l'ajuda de Windows per més informació.</li>
+</ol>
 
+<br>
+
+<p><b>Mozilla Firefox</b></p>
+<ol>
+    <li>A la part superior de la finestra de Firefox, fes clic al botó Firefox i selecciona <b>"Opcions"</b>.</li>
+    <li>Selecciona el panell <b>"Privacitat"</b>.</li>
+    <li>A <b>"Firefox podrà:"</b> escull <b>"Fer servir una configuració personalitzada per l'historial"</b>.</li>
+    <li>Marca l'opció <b>"Acceptar cookies"</b> per activar-les i desmarca-la per desactivar-les.</li>
+    <li>Si no vols rebre cookies de tercers desmarca <b>"Acceptar cookies de tercers"</b>.</li>
+    <li>Pots consultar l'ajuda de Mozilla per més informació.</li>
+&nbsp;</ol>
+
+<br>
+
+<p><b>Safari</b></p>
+<ol>
+    <li>Fes clic a <b>"Safari"</b> a la part superior de la finestra del teu navegador i selecciona l'opció <b>"Preferències"</b>.</li>
+    <li>Fes clic a <b>"Privacitat"</b>.</li>
+    <li>A l'apartat <b>"Bloquejar cookies"</b> selecciona una de les següents opcions segons t'interessi: <b>"De publicitat i tercers"</b>, <b>"Sempre"</b>, o <b>"Mai"</b>.</li>
+&nbsp;</ol>
+
+<br>
+
+<p><b>Opera</b></p>
+<ol>
+    <li>Fes clic a <b>"Configuració"</b> a la part superior de la finestra del navegador i selecciona <b>"Opcions"</b>.</li>
+    <li>A continuació selecciona la pestanya <b>"Avançat"</b> i a la llista de l'esquerra selecciona <b>"Cookies"</b>.</li>
+    <li>A continuació selecciona <b>"Acceptar cookies"</b>.</li>
+    <li>Disposa de tres opcions segons la preferència <b>"Acceptar cookies"</b>.</li>
+</ol>
+
+<br>
+
+<h1>Com gestionar les cookies a Mac</h1>
+
+<p><b>Google Chrome</b><br>
+</p><ol>
+    <li>Fes clic al menú de Chrome situat a la barra d'eines del navegador.</li>
+    <li>Selecciona <b>"Configuració"</b>.</li>
+    <li>Fes clic a <b>"Mostrar opcions avançades..."</b></li>
+    <li>A la secció <b>"Privacitat"</b>, fes clic al botó <b>"Configuració de contingut..."</b>.</li>
+    <li>A la secció <b>"Cookies"</b>, pots configurar les opcions que s'indiquen a continuació: Eliminar cookies, bloquejar o permetre les cookies de forma predeterminada, incloure excepcions de cookies de dominis o llocs web específics.</li>
+</ol>
+
+<br>
+
+<p><b>Microsoft Internet Explorer</b><br>
+</p><ol>
+    <li>Fes clic a <b>"Explorer"</b> a la part superior de la finestra del seu navegador i selecciona les opcions de <b>"Preferències"</b>.</li>
+    <li>Desplaça't fins abaix fins que aparegui <b>"Cookies"</b> a Arxius rebuts.</li>
+    <li>Selecciona l'opció <b>"No preguntar mai"</b>.</li>
+    <li>Fes clic en <b>"Acceptar"</b>.</li>
+</ol>
+
+<br>
+
+<p><b>Mozilla Firefox</b><br>
+
+</p><ol>
+    <li>A la barra de menús, fes clic al menú Firefox i selecciona <b>"Preferències..."</b>.</li>
+    <li>Selecciona el panell Privacitat.</li>
+    <li>A <b>"Firefox podrà:"</b> has d'escollir <b>"Utilitzar una configuració personalitzada per l'historial"</b>.</li>
+    <li>Marca l'opció <b>"Acceptar cookies"</b> per activar-les, i desmarca-la per desactivar-les.</li>
+    <li>Si no vols rebre cookies de tercers desmarca <b>"Acceptar cookies de tercers"</b>.</li>
+</ol>
+
+<br>
+
+<p><b>Safari</b></p>
+
+<ol>
+    <li>Fes clic a <b>"Safari"</b> a la part superior de la finestra del teu navegador i selecciona l'opció <b>"Preferències"</b>.</li>
+    <li>Fes clic a <b>"Privacitat"</b>.</li>
+    <li>A l'apartat <b>"Bloquejar cookies"</b> selecciona una de les següents opcions segons t'interessi: <b>"De publicitat i tercers"</b>, <b>"Sempre"</b>, o <b>"Mai"</b>.</li>
+</ol>
+
+<br>
+
+<p><b>Opera</b></p>
+
+<ol>
+    <li>Fes clic a <b>"Opera"</b> a la part superior de la finestra del navegador i selecciona <b>"Opcions"</b>.</li>
+    <li>A continuació selecciona la pestanya <b>"Avançat"</b> i a la llista de l'esquerra selecciona <b>"Cookies"</b>.</li>
+    <li>A continuació, seleccion <b>"Acceptar cookies"</b>.</li>
+    <li>Disposa de tres opcions segons la teva preferència: <b>"Acceptar cookies"</b>, <b>"Acceptar cookies només del lloc visitat"</b> i <b>"No acceptar cookies mai"</b>.</li>
+</ol>

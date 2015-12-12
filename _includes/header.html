@@ -7,7 +7,7 @@
 
     <!-- Begin Menu -->
     <div id="menu" class="menu">
-      <ul id="tiny" class="">
+      <ul id="tiny" data-label="{{ 'generic.navigation' | translate }}">
         {% assign sections = 'home services portfolio partners team contact' | split: " " %}
         {% for sname in sections %}
         {% assign item = sname | section %}
@@ -27,19 +27,6 @@
           {% endif %}
         </li>
         {% endfor %}
-
-        <li id="locale-switcher">
-        {% assign locales = 'en es ca' | split: " " %}
-        {% for locale in locales %}
-
-        {% assign item = site.pages | where: 'section', page.section | where: 'locale', locale | first %}
-
-          {% if item %}
-          <a href="{{item.permalink}}" class="{{item.locale}}"><img src="/assets/images/flags/{{ locale }}.png" title="{{ locale | prepend:'locales.' | translate }}" alt="{{ locale | prepend:'locales.' | translate }}"/></a>
-          {% endif %}
-
-        {% endfor %}
-        </li>
       </ul>
     </div>
     <div class="clear"></div>

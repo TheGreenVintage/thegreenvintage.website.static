@@ -4,6 +4,9 @@
 
 <blockquote class="important">
   <p>{{ 'home.success' | translate }}</p>
+
+  {% assign contact = 'contact' | section %}
+  <a class="button" href="{{contact.permalink}}">{{ 'home.start_now' | translate }}</a>
 </blockquote>
 
 <div class="intro">{{ 'home.bring2_description' | translate}}</div>

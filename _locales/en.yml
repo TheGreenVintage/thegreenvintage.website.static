@@ -10,18 +10,23 @@ en:
     message: Resource not found
   cookies:
     title: Cookie policy
+    message: This website uses cookies to ensure you get the best experience on our
+      website
+    got_it: Got it!
+    learn_more: More information
   generic:
-    more_info: More information
     navigate: Browse
     dragging: Move
     arrows: Arrows
     keyboard: Keyboard
+    navegation: Navegation
+    more_info: More information
   home:
     title: Home
     message: Shall we expand together? Meet us and  <em>The Green Vintage</em> will
       turn your next event into a unique and exciting  experience
-    what_we_do: We are a team that works with a great capacity to adapt and develop
-      your event as per your requirements. We use all the technologies and the best
+    what_we_do: We are a team that works with a great capacity we adapt and devolp
+      your events as to your requierments. We use all the technologies and the best
       communication strategies. Our main target which defines us is our commitment
       to do the best professional work. The ability to listen and to understand your
       needs and requirements together with our area knowledge are the fundamental
@@ -47,10 +52,11 @@ en:
     - Develop and motivate team members
     success: Our goal is to grow personally and professionally with our customers
       and their success
+    start_now: Start now!
     customers: 'Most of the companies trusted us, among them:'
   team:
     title: Team
-    message: I never dreamed to be successful, I worked to get it
+    message: We never dreamed to be successful, We worked to get it
     who_we_are: Who we are
     founders: Paula Bao Oliveda and Gemma Oliveras Esteve are the co-founders of <em>The
       Green Vintage</em>. They are two young and dynamic professionals with  an enterprising
@@ -104,7 +110,9 @@ en:
     - 'Multimedia services: screens, monitors, projector and PA system '
     - 'Corporate photography and video '
     - 'Catering, hostesses and interpreters or translators '
-    - 'Others: transport services, fireworks, musical shows, animation, etc.'
+    - Search hotels and restaurants
+    - Private transport, shuttles and transfers services
+    - 'Others: fireworks, musical shows, animation, etc.'
     how_we_work: How we work
     how_we_work_description: We work as a team and network for shared effort improves
       the result. We add value to your projects by the promotion and organization
@@ -114,13 +122,13 @@ en:
       to achieve the targets pursued by you by strengthen your brand. We have the
       skills to create new creative project to ensure your success."
     communication: Comunication
-    communication_description1: We are responsible to plan all the logistics to develop  the
-      whole event, we are strongly involved on your project during all phases of the
-      process. We will provide with a budget planning, by choosing the best qualified
-      suppliers for your event, we will follow the timing of the event, together with
-      all the necessary services related to give a warm welcome to your guests. Furthermore,
-      we can add all extra services you might request different from the ones described
-      above.
+    communication_description1: We are responsible to plan and manage all the logistics
+      to develop  the whole event, we are strongly involved on your project during
+      all phases of the process. We will provide with a budget planning, by choosing
+      the best qualified suppliers for your event, we will follow the timing of the
+      event, together with all the necessary services related to give a warm welcome
+      to your guests. Furthermore, we can add all extra services you might request
+      different from the ones described above.
     communication_description2: The event planner is a professional who knows the
       industry, knows the most qualified and trustable suppliers, and supervise the
       setup, deal and solve any problem, and ensure that everything is properly organized.
@@ -215,12 +223,12 @@ en:
       moments during the whole development of the event, with an outstanding quality
       and a touch of class and originality
   portfolio:
-    title: Portafolio
-    message: This is the best way to show what we do. Please find some examples of
-      the events we have designed and done adapted to each client requirements
+    title: Portfolio
+    message: This is the best way to show what we do. Here you will find some examples
+      of the events we have manage
     corporative: Corporative
-    corporative_description: The target and the aim is to create an event that provides
-      added value and positioning of your company in the market
+    corporative_description: The aim is to create an event that provides added value
+      and positioning your company in the market
     weddings: Weddings
     weddings_description: Your life is made up of little moments
   services:
@@ -265,6 +273,7 @@ en:
     the_green_vintage_is: "<em>The Green Vintage</em> is a team of professionals specialized
       in the management and organization of any type of event. The company was founded
       with the desire to assess and plan the small moments of life and make them special."
-    all_rights_reserved: All rights reserved.
+    all_rights_reserved: All rights reserved
     contact_us: Contact us
+    contact: Explain us your proposal
     sections: Sections

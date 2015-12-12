@@ -10,12 +10,16 @@ es:
     message: Recurso no encontrado
   cookies:
     title: Política de Cookies
+    message: Esta web utiliza cookies para ofrecerte una mejor experiencia y servicio
+    got_it: Acepto
+    learn_more: Más información
   generic:
-    more_info: Más información
     navigate: Navegar
     dragging: Mover
     arrows: Flechas
     keyboard: Teclado
+    navegation: Navegación
+    more_info: Más información
   home:
     title: Inicio
     message: "¿Crecemos juntos? ¡Conócenos! <em>The Green Vintage</em> convertirá
@@ -48,10 +52,11 @@ es:
     - Mejorar el rendimiento, motivación y habilidades de grupo
     success: Nuestro objetivo es crecer de manera personal y profesional junto con
       nuestros clientes y su ÉXITO
+    start_now: "¡Empezar ahora!"
     customers: 'Las siguientes empresas han confiado en nosotros:'
   team:
     title: Equipo
-    message: Nunca soñé en tener éxito, trabajé para conseguirlo.
+    message: Nunca soñamos en tener éxito, trabajamos para conseguirlo
     who_we_are: Quiénes somos
     founders: Paula Bao Oliveda y Gemma Oliveras Esteve son las fundadoras de <em>The
       Green Vintage</em>. Son dos chicas jóvenes con espíritu dinámico y emprendedor,
@@ -105,7 +110,9 @@ es:
     - 'Servicios multimedia: pantallas, monitores, proyector y megafonía'
     - Fotografía y vídeo corporativos
     - Catering, azafatas, traductores o intérpretes
-    - 'Otros: servicios de transporte, pirotecnia, shows musicales, animaciones, etc.'
+    - Búsqueda de alojamientos y restaurantes
+    - Servicios de transporte privado, traslados y transfers
+    - 'Otros: pirotecnia, shows musicales, animaciones, etc.'
     how_we_work: Cómo trabajamos
     how_we_work_description: Trabajamos en equipo y en red porque el esfuerzo compartido
       mejora el resultado. Damos un valor añadido a los eventos para potenciar vuestros
@@ -219,7 +226,7 @@ es:
       de todo el desarrollo del evento, con una calidad excepcional y un toque de
       distinción y originalidad
   portfolio:
-    title: Portfolio
+    title: Portafolio
     message: Esta es la mejor manera de explicaros el trabajo qué hacemos. Aquí tenéis
       algunos ejemplos de eventos que hemos diseñado y producido, a medida para cada
       cliente
@@ -247,8 +254,8 @@ es:
     private_call_to_action: En un año, desearás haber empezado hoy
   contact:
     title: Contacto
-    message: Si tienes una idea que quieres llevar a cabo con nosotros, rellena el
-      siguiente formulario. ¡Estaremos encantados de organizar su próximo evento!
+    message: Si tiene una idea que quiere llevar a cabo con nosotros, rellene el siguiente
+      formulario. ¡Estaremos encantados de organizar su próximo evento!
     in_contact: Seguimos en contacto
     send: Enviar
     message_placeholder: Tu mensaje
@@ -262,7 +269,7 @@ es:
     category: Categoría
   contact-sent:
     title: Contacto
-    message: Si no lo haces ahora, ¿Cúando?
+    message: Si no lo hace ahora, ¿Cúando?
     sent_title: Su mensaje se ha enviado correctamente
     sent_description: Gracias por ponerse en contacte con nosotros!
   footer:
@@ -271,6 +278,7 @@ es:
       especializados en la gestión y organización de cualquier tipo de evento. La
       empresa nace con el deseo de asesorar y planificar los pequeños momentos de
       la vida y hacer que sean especiales."
-    all_rights_reserved: Todos los derechos reservados.
+    all_rights_reserved: Todos los derechos reservados
     contact_us: Contáctanos
+    contact: Explícanos tu propuesta
     sections: Secciones
