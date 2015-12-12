@@ -2350,7 +2350,7 @@ a img.aligncenter {
 }
 
 /* Cookies */
-.cc_container a.cc_more_info {
+.cc_container a.cc_more_info, .cc_container a.cc_more_info:visited {
  color: #66AC82;
 }
 .cc_container a.cc_more_info:hover {
