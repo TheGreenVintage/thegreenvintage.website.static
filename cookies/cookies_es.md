@@ -5,83 +5,160 @@ locale: es
 permalink: /es/cookies/
 ---
 
-<h1>
-Política de Cookies
-</h1>
-<h2>
-Cookies
-</h2>
+<h1>En relación a las Cookies durante la navegación</h1>
+<p>Una cookie (o galleta informática) es una pequeña información enviada por un sitio web y almacenada en el navegador del usuario, de manera que el sitio web puede consultar la actividad previa del usuario.
+Sus principales funciones son:</p>
+<ul>
+    <li>Conseguir información sobre los hábitos de navegación del usuario, entre otras.</li>
+</ul>
+<br>
+<h1>Cookies de terceros thegreenvintage.com</h1>
+<table class="cookies-table">
+    <thead>
+        <tr>
+            <th>Tipo de Cookie</th>
+            <th>Empresa</th>
+            <th>Finalidad</th>
+            <th>Información</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                __utma<br>
+                __utmb<br>
+                __utmc<br>
+                __utmz<br>
+                __atuvc<br>
+                PREF
+            </td>
+            <td>Google</td>
+            <td>Navegación de forma anónima que permite saber qué se consulta y cómo se navega.</td>
+            <td><a href="http://www.google.es/intl/es/analytics/privacyoverview.html" target="_blank">http://www.google.es/intl/es/analytics/privacyoverview.html</a></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p><b>Gestionar cookies</b></p>
 
-Utilizamos cookies para facilitar el uso de nuestra página web. Las cookies son pequeños ficheros
-de información que nos permiten comparar y entender cómo nuestros usuarios navegan a través de
-nuestra página web, y de esta manera poder mejorar consecuentemente el proceso de navegación.
-Las cookies que utilizamos no almacenan dato personal alguno, ni ningún tipo de información que
-pueda identificarle. En caso de no querer recibir cookies, por favor configure su navegador de
-Internet para que las borre del disco duro de su ordenador, las bloquee o le avise en caso de
-instalación de las mismas. Para continuar sin cambios en la configuración de las cookies,
-simplemente continúe en la página web.
-Puedes obtener más información sobre las cookies y su uso en www.aboutcookies.org.
-Los tipos de cookies que utilizamos
-Cookies estrictamente necesarias:
-Estas cookies son necesarias para el correcto uso de la página web, permitiendo el acceso a
-secciones que cuentan con filtros de seguridad. Sin estas cookies, muchos de los servicios
-disponibles no estarían operativos.
-Cookies de Navegación:
-Estas cookies recogen información sobre el uso que las visitas hacen de la web, por ejemplo páginas
-vistas, errores de carga... Es información genérica y anónima, donde no se incluyen datos
-personales, ni se recoge información que identifique a los visitantes; siendo el objetivo último
-mejorar el funcionamiento de la web.
-Al visitar nuestra página web, acepta la instalación de estas cookies en su dispositivo.
-Cookies Funcionales:
-Estas cookies permiten recordar información (como su nombre de usuario, idioma o la región en la
-que se encuentra) y características más personales. Por ejemplo, la posibilidad de ofrecer contenido
-personalizado basado en la información y criterios que hayas proporcionado voluntariamente. Estas
-cookies también pueden utilizarse para recordar los cambios realizados en el tamaño del texto,
-fuentes y otras partes personalizables de la página web. También se utilizan para ofrecer algunos
-servicios solicitados, como ver un video o comentar en un blog. La información que recopilan estas
-cookies puede ser anónima y no podrá ser seguida su actividad en otras páginas web.
-Al visitar nuestra página web, aceptas la instalación de estas cookies en tu dispositivo.
-Cómo administrar las cookies en los ordenadores
-Si quieres permitir el uso de cookies de nuestro site, por favor sigue las siguientes instrucciones.
-Google Chrome
-1. Al abrir el navegador, pincha “herramientas” en la parte superior y selecciona la pestaña de
-“opciones”.
-2. Dentro de opciones, pincha “privacidad”.
-3. Marca “permitir la administración de cookies”. 
-Microsoft Internet Explorer 6.0, 7.0, 8.0, 9.0
-1. Al abrir el navegador, pincha “herramientas” en la parte superior y selecciona la pestaña de
-“opciones”.
-2. Revisa la pestaña de “Privacidad” asegurándote está configurada con un nivel de seguridad
-medio o inferior.
-3. Si la configuración de Internet no es media se estarán bloqueando las cookies.
-Mozilla Firefox
-1. Al abrir el navegador, pincha “herramientas” en la parte superior y selecciona la pestaña de
-“opciones”.
-2. Selecciona el icono de Privacidad
-3. Pincha en cookies, y marca: “permitir la instalación de cookies”.
-Safari
-1. Al abrir el navegador, pincha “herramientas” en la parte superior y selecciona la pestaña de
-“opciones”.
-2. Pincha en la pestaña de “Seguridad” y revisa si la opción “Bloquear el acceso de cookies de
-terceros” está marcada o no.
-3. Pincha en “guardar”.
-La instalación de cookies en Mac
-Si tienes un Mac y quieres permitir el acceso de nuestras cookies en tu ordenador, por favor sigue
-las siguientes instrucciones:
-Microsoft Internet Explorer 5.0 en OSX
-1. Entra en “Explorer” y selecciona “Preferencias” en la barra de navegación.
-2. Haz scroll hacia abajo hasta que veas “Cookies” justo debajo de archivos recibidos.
-3. Marca “No volver a preguntar”.
-Safari en OSX
-1. Entra en Safari y selecciona “Preferencias” en la barra de navegación.
-2.Pincha en la pestaña de “Seguridad” y marcae la opción “aceptar cookies”
-3. Selecciona la opción: “Sólo desde el site actual en que estoy navegando”
-Mozilla y Netscape en OSX
-1. Entra en “Mozilla” o “Netscape” y en la parte superior de tu navegador, marca la opción de
-“Preferencias”
-2. Haz scroll hacia abajo hasta que veas “Cookies” justo debajo de “Privacidad y Seguridad”.
-3. Marca la opción “Permitir el acceso de cookies sólo desde el site actual”
-Opera
-1. Entra en “Opera” y selecciona “Menu” y “Ajustes” en la barra de navegación.
-2. Selecciona “Preferencias” y pincha en la pestaña de “Avanzado”.
-3. Marca la opción “Aceptar cookies”
+<p><b>Puedes permitir, bloquear o eliminar las cookies instaladas en tu equipo mediante la configuración de las opciones del navegador instalado en tu ordenador.</b><br>
+
+</p><p>Si no estás seguro sobre qué tipo y versión de navegador usas para acceder a internet:</p>
+
+<ul>
+    <li>Para Windows: click en <b>"Ayuda"</b> en la parte superior de la ventana de tu navegador y selecciona la opción <b>"Acerca de"</b>.</li>
+    <li>Para Mac: con la venta del navegador abierta, click en el menú de Apple y selecciona la opción <b>"Acerca de…"</b>.</li>
+</ul>
+
+<h1>Cómo gestionar las cookies en Windows</h1>
+
+<p><b>Google Chrome</b><br>
+</p><ol>
+    <li>Haz clic en el menú de Chrome Chrome situado en la barra de herramientas del navegador.</li>
+    <li>Selecciona <b>"Configuración</b><b>.</b></li><b>
+    </b><li><b>Haz clic en "Mostrar opciones avanzadas…</b></li>
+    <li>En la sección <b>"Privacidad", haz clic en el botón "Configuración de contenido…</b>.</li>
+    <li>En la sección <b>"Cookies"</b>, puedes configurar las opciones que se indican a continuación: Eliminar cookies, bloquear o permitir las cookies de forma predeterminada, incluir excepciones de cookies de dominios o sitios web específicos.</li>
+    <li>Para mayor detalle consulta la ayuda de Google Chrome.</li>
+</ol>
+
+<br>
+
+<p><b>Microsoft Internet Explorer 7.0 y 8.0</b></p>
+<ol>
+    <li>Haz clic en el botón <b>"Herramientas"</b> y después en <b>"Opciones de Internet"</b>.</li>
+    <li>Haz clic en la ficha <b>"Privacidad"</b> y, a continuación, mueve el control deslizante a una posición intermedia entre los extremos superior e inferior, de manera que no se bloqueen ni permitan todas las cookies.</li>
+    <li>Haz clic en <b>"Sitios"</b>.</li>
+    <li>En el cuadro <b>"Dirección del sitio web"</b>, escribe la dirección de un sitio web y, después, haz clic en <b>"Bloquear"</b> o <b>"Permitir"</b>.</li>
+    <li>Mientras escribes, irá apareciendo una lista de las páginas web que ya has visitado. Si haces clic en un elemento de la lista, se mostrará en el cuadro Dirección del sitio web.</li>
+    <li>Al finalizar, haz clic en <b>"Aceptar"</b>.</li>
+    <li>Vuelve a colocar el control deslizante en su posición original y haz clic en <b>"Aceptar"</b>.</li>
+    <li>Puedes consultar la ayuda de Windows para más información</li>
+</ol>
+
+<br>
+
+<p><b>Mozilla Firefox</b></p>
+<ol>
+    <li>En la parte superior de la ventana de Firefox, haz clic en el botón Firefox y selecciona <b>"Opciones"</b>.</li>
+    <li>Selecciona el panel <b>"Privacidad"</b>.</li>
+    <li>En <b>"Firefox podrá:"</b> elige <b>"Usar una configuración personalizada para el historial"</b>.</li>
+    <li>Marca la opción <b>"Aceptar cookies"</b> para activarlas, y desmárcala para desactivarlas.</li>
+    <li>Si no quieres recibir cookies de teceros desmarca <b>"Aceptar cookies de terceros"</b>.</li>
+    <li>Puedes consultar la ayuda de Mozilla para más información</li>
+&nbsp;</ol>
+
+<br>
+
+<p><b>Safari</b></p>
+<ol>
+    <li>Haz clic en <b>"Safari"</b> en la parte superior de la ventana de tu navegador y selecciona la opción <b>"Preferencias"</b>.</li>
+    <li>Haz clic en <b>"Privacidad"</b>.</li>
+    <li>En el apartado <b>"Bloquear cookies"</b> selecciona una de las siguientes opciones según te interese: <b>"De publicidad y terceros"</b>, <b>"Siempre"</b>, o <b>"Nunca"</b>.</li>
+&nbsp;</ol>
+
+<br>
+
+<p><b>Opera</b></p>
+<ol>
+    <li>Haz clic en <b>"Configuración"</b> en la parte superior de la ventana del navegador y selecciona <b>"Opciones"</b>.</li>
+    <li>A continuación selecciona la pestaña <b>"Avanzado"</b> y en la lista de la izquierda selecciona <b>"Cookies"</b>.</li>
+    <li>A continuación, selecciona <b>"Aceptar cookies"</b>.</li>
+    <li>Dispones de tres opciones según tu preferencia: <b>"Aceptar cookies"</b>.</li>
+</ol>
+
+<br>
+
+<h1>Cómo gestionar las cookies en Mac</h1>
+
+<p><b>Google Chrome</b><br>
+</p><ol>
+    <li>Haz clic en el menú de Chrome Chrome situado en la barra de herramientas del navegador.</li>
+    <li>Selecciona <b>"Configuración"</b>.</li>
+    <li>Haz clic en <b>"Mostrar opciones avanzadas…"</b>.</li>
+    <li>En la sección <b>"Privacidad"</b>, haz clic en el botón <b>"Configuración de contenido…"</b>.</li>
+    <li>En la sección <b>"Cookies"</b>, puedes configurar las opciones que se indican a continuación: Eliminar cookies, bloquear o permitir las cookies de forma predeterminada, incluir excepciones de cookies de dominios o sitios web específicos.</li>
+</ol>
+
+<br>
+
+<p><b>Microsoft Internet Explorer</b><br>
+</p><ol>
+    <li>Haz clic en <b>"Explorer"</b> en la parte superior de la ventana de tu navegador y selecciona las opciones de <b>"Preferencias"</b>.</li>
+    <li>Desplázate hacia abajo hasta que aparezca <b>"Cookies"</b> en Archivos recibidos.</li>
+    <li>Selecciona la opción <b>"Nunca preguntar"</b>.</li>
+    <li>Haz clic en <b>"Aceptar"</b>.</li>
+</ol>
+
+<br>
+
+<p><b>Mozilla Firefox</b><br>
+
+</p><ol>
+    <li>En la barra de menús, haz clic en el menú Firefox y selecciona "Preferencias…".</li>
+    <li>Selecciona el panel Privacidad.</li>
+    <li>En <b>"Firefox podrá:"</b> elige <b>"Usar una configuración personalizada para el historial"</b>.</li>
+    <li>Marca la opción <b>"Aceptar cookies"</b> para activarlas, y desmárcala para desactivarlas.</li>
+    <li>Si no quieres recibir cookies de teceros desmarca <b>"Aceptar cookies de terceros"</b>.</li>
+</ol>
+
+<br>
+
+<p><b>Safari</b></p>
+
+<ol>
+    <li>Haz clic en <b>"Safari"</b> en la parte superior de la ventana de tu navegador y selecciona la opción <b>"Preferencias"</b>.</li>
+    <li>Haz clic en <b>"Privacidad"</b>.</li>
+    <li>En el apartado <b>"Bloquear cookies"</b> selecciona una de las siguientes opciones según te interese: <b>"De publicidad y terceros"</b>, <b>"Siempre"</b>, o "Nunca".</li>
+</ol>
+
+<br>
+
+<p><b>Opera</b></p>
+
+<ol>
+    <li>Haz clic en <b>"Opera"</b> en la parte superior de la ventana del navegador y selecciona <b>"Opciones"</b>.</li>
+    <li>A continuación selecciona la pestaña <b>"Avanzado"</b> y en la lista de la izquierda selecciona <b>"Cookies"</b>.</li>
+    <li>A continuación, selecciona <b>"Aceptar cookies"</b>.</li>
+    <li>Dispones de tres opciones según tu preferencia: <b>"Aceptar cookies"</b>, "Aceptar cookies sólo del sitio visitado" y <b>"No aceptar cookies nunca"</b>.</li>
+</ol>
