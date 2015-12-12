@@ -2348,3 +2348,14 @@ a img.aligncenter {
   white-space: nowrap;
   opacity: 1;
 }
+
+/* Cookies */
+a.cc_more_info {
+ color: #66AC82;
+}
+a.cc_more_info:hover {
+ color: #FFF;
+}
+a.cc_btn.cc_btn_accept_all {
+    background: #66AC82;
+}
