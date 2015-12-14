@@ -53,7 +53,7 @@ ca:
     success: El nostre objectiu és créixer de manera personal i professional juntament
       amb els nostres clients i el seu ÈXIT
     start_now: Començar ara!
-    customers: 'Les següents empreses han confiat en nosaltres:'
+    customers: Alguns dels clients que ja han confiat amb nosaltres
   team:
     title: Equip
     message: Mai vam somiar en tenir èxit, vam treballar per arribar-hi
@@ -73,17 +73,17 @@ ca:
     consolidate: Gràcies a l'esforç, dedicació i suport, l’empresa <em>The Green Vintage</em>
       s’ha anat consolidant i s’ha posicionat dins del mercat actual.
     commitment: El nostre compromís
-    commitment1: "<strong>Satisfacció: </strong> Fem un seguiment personalitzat del
-      seu esdeveniment, perquè l’èxit és essencial per a nosaltres"
-    commitment2: "<strong>Motivació:</strong> Ens agrada molt el nostre treball i
-      creiem en tot allò que fem. Nomes així, gaudint, podem oferir-te el millor resultat
-      de nosaltres i superar les seves expectatives inicials"
-    commitment3: "<strong>Empatia:</strong> Sabem escoltar i entendre les necessitats
-      dels nostres clients i del territori en el que ens trobem"
-    commitment4: "<strong>Creativitat:</strong> Cerquem vies innovadores i originals
-      perquè els nostres actes siguin inoblidables"
-    commitment5: "<strong>Sinergia:</strong> Treballem en equip i en xarxa perquè
-      l’esforç compartit millora el resultat"
+    commitment1: '<strong>Satisfacció: </strong> Fem un seguiment personalitzat del
+      seu esdeveniment, perquè l’èxit és essencial per a nosaltres'
+    commitment2: <strong>Motivació:</strong> Ens agrada molt el nostre treball i creiem
+      en tot allò que fem. Nomes així, gaudint, podem oferir-te el millor resultat
+      de nosaltres i superar les seves expectatives inicials
+    commitment3: <strong>Empatia:</strong> Sabem escoltar i entendre les necessitats
+      dels nostres clients i del territori en el que ens trobem
+    commitment4: <strong>Creativitat:</strong> Cerquem vies innovadores i originals
+      perquè els nostres actes siguin inoblidables
+    commitment5: <strong>Sinergia:</strong> Treballem en equip i en xarxa perquè l’esforç
+      compartit millora el resultat
   corporative:
     title: Serveis corporatius
     message: Considerem que els esdeveniments són una eina estratègica de comunicació
@@ -118,11 +118,11 @@ ca:
       millora el resultat. Donem un valor afegit als esdeveniments per potenciar els
       vostres projectes i així assolir l’exit.
     concept: Concepte
-    concept_description: "<em>The Green Vintage</em>  dona valor a la gestió dels
-      seus d'esdeveniments per ajudar a aconseguir els objectius perseguits pels seus
-      clients i per reforçar les seves marques. Tenim l'activitat creativa i intel·lectual
+    concept_description: <em>The Green Vintage</em>  dona valor a la gestió dels seus
+      d'esdeveniments per ajudar a aconseguir els objectius perseguits pels seus clients
+      i per reforçar les seves marques. Tenim l'activitat creativa i intel·lectual
       per afrontar els reptes dels nous projectes, assegurant així que tot l'equip
-      compleixi amb les expectatives establertes."
+      compleixi amb les expectatives establertes.
     communication: Comunicació
     communication_description1: Som responsables de planejar la logística de tots
       els elements per al desenvolupament de tot l'esdeveniment, i ens involucrarem
@@ -138,14 +138,14 @@ ca:
     preparation: Preparació
     preparation_description1: Farem un seguiment personalitzat i exclusiu per a cada
       client, adaptant-nos al seu pressupost i als seus interessos i necessitats.
-    preparation_description2: "<em>The Green Vintage</em> està especialitzat en l'organització
+    preparation_description2: <em>The Green Vintage</em> està especialitzat en l'organització
       d'esdeveniments d'empresa i compta amb contactes, que sovint es tradueixen en
       col·laboracions i sinergies de gran valor per als clients. Nosaltres controlarem
       perfectament els timings , l'ordre del dia , així com totes les fases i elements
       que intervinguin en cada esdeveniment. Oferim un servei integral al client organitzant
       a tots els proveïdors implicats en el desenvolupament d'un esdeveniment per
       a empresa (selecció d'ubicacions, càtering, hostesses, lloguer de vehicles,
-      transfers, hotels, restaurants, guies turístics)."
+      transfers, hotels, restaurants, guies turístics).
     the_day: El dia del esdeveniment
     the_day_description1: El nostre deure fonamental és assegurar-se que l'esdeveniment
       segueixi els objectius fixats.
@@ -179,11 +179,11 @@ ca:
     - Gestió del dia de les teves noces
     design: 'Decoració, disseny i muntatge:'
     design_list:
-    - " Disseny de les decoracions dels espais"
+    - ' Disseny de les decoracions dels espais'
     - Muntatge dels elements de decoració
     - Disseny floral de tot l’esdeveniment
-    - " Recerca de proveïdors d’invitacions, photocalls, cartells, dissenyadors de
-      logotips, etc. "
+    - ' Recerca de proveïdors d’invitacions, photocalls, cartells, dissenyadors de
+      logotips, etc. '
     ideas: Us proporcionem diferents idees. La decoració defineix la teva personalitat
     the_day: El dia de les teves noces
     the_day_description1: En aquest cas, vosaltres us encarregaríeu de la gestió dels
@@ -193,7 +193,7 @@ ca:
       per organitzar els últims detalls i acabar de concretar tota la informació que
       ens proporcioneu, amb els diferents proveïdors perquè els dies previs pugueu
       estar relaxats.
-    the_day_management: "<em>The Green Vintage</em> coordinarà:"
+    the_day_management: '<em>The Green Vintage</em> coordinarà:'
     the_day_management_list:
     - 'Recepció dels convidats i atendre les seves necessitats '
     - 'Gestió del timing (cerimònia, entrada dels nuvis, entrega de regals, brindis,
@@ -217,10 +217,10 @@ ca:
       la il·luminació, els materials, el mobiliari, el color corporatiu de l’empresa…
       tot aquest conjunt d’elements generen emocions als assistents de l’esdeveniment'
     gastronomy: Gastronomia
-    gastronomy_description: "És un element diferenciador perquè el vostre esdeveniment
+    gastronomy_description: 'És un element diferenciador perquè el vostre esdeveniment
       sigui un èxit: bona qualitat dels aliments, un servei acurat, presentacions
       originals dels plats, detalls en la decoració i en el muntatge, són els ingredients
-      que donen el sabor perquè aquest dia sigui recordat pels assistents"
+      que donen el sabor perquè aquest dia sigui recordat pels assistents'
     photography: Fotografia
     photography_description: Els professionals capten tots aquells moments importants
       de tot el desenvolupament de l’esdeveniment, amb una qualitat excepcional i
@@ -258,11 +258,11 @@ ca:
       ESTAREM ENCANTATS D'ORGANITZAR EL SEU PRÒXIM ESDEVENIMENT!
     in_contact: SEGUIM EN CONTACTE!
     send: Enviar
-    message_placeholder: El teu missage
+    message_placeholder: Missatge
     subject_placeholder: Assumpte
-    telephone_placeholder: Introdueix el teu telèfon
-    email_placeholder: Introdueix el teu correu electrònic
-    name_placeholder: Introdueix el teu nom
+    telephone_placeholder: Introdueixi el seu telèfon
+    email_placeholder: Introdueixi el seu correu electrònic
+    name_placeholder: Introdueixi el seu nom
     select: Selecciona una opció
     private: Esdeveniment particular
     corporative: Esdeveniment corporatiu
