@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{% if page.locale %}{{ site.locales[page.locale] }}{% else %}{{ site.locales[site.locale] }}{% endif %}">
+<html lang="{% if page.locale %}{{ site.locales[page.locale] }}{% else %}{{ site.locales[site.locale] }}{% endif %}" prefix="og: http://ogp.me/ns#">
 
     {% include head.html %}
 
