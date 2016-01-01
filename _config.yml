@@ -2,7 +2,6 @@
 title: The Green Vintage
 email: info@thegreenvintage.com
 locale: en
-description: The Green Vintage is a team of professionals specialized in the management and organization of any type of event. The company was founded with the desire to assess and plan the small moments of life and make them special.
 keywords: barcelona maresme events eventos esdeveniments services servicios serveis bodas bodes weddings corporative corporativos corporatius catalunya cataluña
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.thegreenvintage.com" # the base hostname & protocol for your site
@@ -10,9 +9,9 @@ cdn: '' # cdn.thegreenvintage.com
 exclude: [Gemfile, Gemfile.lock, vendor]
 
 locales:
-  - en
-  - es
-  - ca
+  en: en_US
+  es: es_ES
+  ca: ca_ES
 
 # Build settings
 markdown: kramdown
