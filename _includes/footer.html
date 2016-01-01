@@ -30,8 +30,7 @@
         <li><a class="instagram" href="https://instagram.com/thegreenvintage/"></a></li>
       </ul>
       <div id="locale-switcher">
-      {% assign locales = 'en es ca' | split: " " %}
-      {% for locale in locales %}
+      {% for locale in site.locales %}
 
       {% assign item = site.pages | where: 'section', page.section | where: 'locale', locale | first %}
 
