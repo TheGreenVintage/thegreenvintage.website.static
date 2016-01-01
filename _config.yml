@@ -9,7 +9,7 @@ cdn: '' # cdn.thegreenvintage.com
 exclude: [Gemfile, Gemfile.lock, vendor]
 
 locales:
-  en: en_US
+  en: en_GB
   es: es_ES
   ca: ca_ES
 
