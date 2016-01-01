@@ -32,10 +32,10 @@
       <div id="locale-switcher">
       {% for locale in site.locales %}
 
-      {% assign item = site.pages | where: 'section', page.section | where: 'locale', locale | first %}
+      {% assign item = site.pages | where: 'section', page.section | where: 'locale', locale[0] | first %}
 
         {% if item %}
-        <a href="{{item.permalink}}" class="{{item.locale}}"><img src="/assets/images/flags/{{ locale }}.png" title="{{ locale | prepend:'locales.' | translate }}" alt="{{ locale | prepend:'locales.' | translate }}"/></a>
+        <a href="{{item.permalink}}" class="{{item.locale}}"><img src="/assets/images/flags/{{ locale[0] }}.png" title="{{ locale[0] | prepend:'locales.' | translate }}" alt="{{ locale[0] | prepend:'locales.' | translate }}"/></a>
         {% endif %}
 
       {% endfor %}

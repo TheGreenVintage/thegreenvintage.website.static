@@ -8,6 +8,11 @@ es:
   not_found:
     title: No encontrado
     message: Recurso no encontrado
+  meta:
+    description: The Green Vintage es un equipo de profesionales especializados en
+      la gestión y organización de cualquier tipo de evento. La empresa nace con el
+      deseo de asesorar y planificar los pequeños momentos de la vida y hacer que
+      sean especiales.
   cookies:
     title: Política de Cookies
     message: Esta web utiliza cookies para ofrecerte una mejor experiencia y servicio
@@ -22,8 +27,8 @@ es:
     more_info: Más información
   home:
     title: Inicio
-    message: ¿Crecemos juntos? ¡Conócenos! <em>The Green Vintage</em> convertirá su
-      próximo evento en una experiencia ¡única!
+    message: "¿Crecemos juntos? ¡Conócenos! <em>The Green Vintage</em> convertirá
+      su próximo evento en una experiencia ¡única!"
     what_we_do: Somos un equipo que trabaja con una gran capacidad de adaptación a
       los cambios para desarrollar su evento, siempre vamos de la mano con las nuevas
       tecnologías y con las estrategias de comunicación. Nuestra implicación y las
@@ -52,7 +57,7 @@ es:
     - Mejorar el rendimiento, motivación y habilidades de grupo
     success: Nuestro objetivo es crecer de manera personal y profesional junto con
       nuestros clientes y su ÉXITO
-    start_now: ¡Empezar ahora!
+    start_now: "¡Empezar ahora!"
     customers: Algunos de los clientes que ya han confiado en nosotros
   team:
     title: Equipo
@@ -72,17 +77,17 @@ es:
     consolidate: Gracias al esfuerzo, dedicación y apoyo, la empresa <em>The Green
       Vintage</em> se ha ido consolidando y se ha posicionado dentro del mercado actual.
     commitment: Nuestro compromiso
-    commitment1: '<strong>Satisfacción: </strong> Hacemos un seguimiento personalizado
-      de su evento, ya que el éxito es esencial para nosotros'
-    commitment2: <strong>Motivación:</strong> Nos gusta nuestro trabajo y creemos
+    commitment1: "<strong>Satisfacción: </strong> Hacemos un seguimiento personalizado
+      de su evento, ya que el éxito es esencial para nosotros"
+    commitment2: "<strong>Motivación:</strong> Nos gusta nuestro trabajo y creemos
       en todo lo que hacemos. Solo así, podemos ofrecerte el mejor resultado y superar
-      sus expectativas iniciales
-    commitment3: <strong>Empatía:</strong> Sabemos escuchar y entender las necesidades
-      de nuestros clientes y del territorio en el que nos encontramos
-    commitment4: <strong>Creatividad:</strong> Buscamos vías innovadoras y originales
-      para que nuestros actos sean inolvidables
-    commitment5: <strong>Sinergia:</strong> Trabajamos en equipo ya que el esfuerzo
-      compartido mejora el resultado
+      sus expectativas iniciales"
+    commitment3: "<strong>Empatía:</strong> Sabemos escuchar y entender las necesidades
+      de nuestros clientes y del territorio en el que nos encontramos"
+    commitment4: "<strong>Creatividad:</strong> Buscamos vías innovadoras y originales
+      para que nuestros actos sean inolvidables"
+    commitment5: "<strong>Sinergia:</strong> Trabajamos en equipo ya que el esfuerzo
+      compartido mejora el resultado"
   corporative:
     title: Servicios corporativos
     message: Consideramos que los eventos son una herramienta estratégica de comunicación
@@ -118,11 +123,11 @@ es:
       mejora el resultado. Damos un valor añadido a los eventos para potenciar vuestros
       proyectos y así lograr el éxito.
     concept: Concepto
-    concept_description: <em>The Green Vintage</em> da valor a la gestión de sus eventos
-      para ayudar a conseguir los objetivos perseguidos por sus clientes y para reforzar
-      sus marcas. Tenemos la actividad creativa e intelectual para afrontar los retos
-      de los nuevos proyectos, asegurando así que todo el equipo cumpla con las expectativas
-      establecidas.
+    concept_description: "<em>The Green Vintage</em> da valor a la gestión de sus
+      eventos para ayudar a conseguir los objetivos perseguidos por sus clientes y
+      para reforzar sus marcas. Tenemos la actividad creativa e intelectual para afrontar
+      los retos de los nuevos proyectos, asegurando así que todo el equipo cumpla
+      con las expectativas establecidas."
     communication: Comunicación
     communication_description1: Somos responsables de planear la logística de todos
       los elementos para el desarrollo de todo el evento, y nos involucramos desde
@@ -138,14 +143,14 @@ es:
     preparation: Preparación
     preparation_description1: Haremos un seguimiento personalizado y exclusivo para
       cada cliente, adaptándonos a su presupuesto, intereses y necesidades.
-    preparation_description2: <em>The Green Vintage</em> está especializado en la
+    preparation_description2: "<em>The Green Vintage</em> está especializado en la
       organización de eventos de empresa y cuenta con contactos, que en ocasiones
       se traducen en colaboraciones y sinergias de gran valor para los clientes. Nosotros
       controlaremos perfectamente los timings, la orden del día, así como todas las
       fases y elementos que intervengan durante todo el evento. Ofrecemos un servicio
       integral al cliente organizando a todos los proveedores implicados en el desarrollo
       de un evento para empresa (selección de ubicaciones, catering, azafatas, alquiler
-      de vehículos, transfers, hoteles, restaurantes, guías turísticos).
+      de vehículos, transfers, hoteles, restaurantes, guías turísticos)."
     the_day: El día del evento
     the_day_description1: Nuestro deber fundamental es asegurarse que el evento transcurra
       según los objetivos fijados.
@@ -193,7 +198,7 @@ es:
       para organizar los últimos detalles y acabar de concretar toda la información
       que nos proporcionáis, con los diferentes proveedores para que los días previos
       podáis estar relajados.
-    the_day_management: '<em>The Green Vintage</em> coordinará:'
+    the_day_management: "<em>The Green Vintage</em> coordinará:"
     the_day_management_list:
     - Recepción de los invitados y atender sus necesidades
     - Gestión del timing (ceremonia, entrada de los novios, entrega de regalos, brindis,
@@ -238,7 +243,7 @@ es:
   services:
     title: Servicios
     message: Nos encargamos de organizar eventos corporativos y particulares
-    start_now: ¡Empezar ahora!
+    start_now: "¡Empezar ahora!"
     corporative_title: Corporativo
     corporative_description: Ponemos a su disposición un completo equipo de profesionales
       para asegurar el objetivo del evento de su empresa . Hemos colaborado con pequeñas
@@ -274,10 +279,10 @@ es:
     sent_description: Gracias por ponerse en contacte con nosotros!
   footer:
     about_us: Sobre nosotros
-    the_green_vintage_is: <em>The Green Vintage</em> es un equipo de profesionales
+    the_green_vintage_is: "<em>The Green Vintage</em> es un equipo de profesionales
       especializados en la gestión y organización de cualquier tipo de evento. La
       empresa nace con el deseo de asesorar y planificar los pequeños momentos de
-      la vida y hacer que sean especiales.
+      la vida y hacer que sean especiales."
     all_rights_reserved: Todos los derechos reservados
     contact_us: Contáctanos
     contact: Cuéntanos tu propuesta

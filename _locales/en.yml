@@ -8,6 +8,10 @@ en:
   not_found:
     title: Not found
     message: Resource not found
+  meta:
+    description: The Green Vintage is a team of professionals specialized in the management
+      and organization of any type of event. The company was founded with the desire
+      to assess and plan the small moments of life and make them special.
   cookies:
     title: Cookie policy
     message: This website uses cookies to ensure you get the best experience on our
@@ -25,8 +29,8 @@ en:
     title: Home
     message: Shall we expand together? Meet us and  <em>The Green Vintage</em> will
       turn your next event into a unique and exciting  experience
-    what_we_do: We are a team that works with a great capacity we adapt and devolp
-      your events as to your requierments. We use all the technologies and the best
+    what_we_do: We are a team that works with a great capacity we adapt and develop
+      your events as to your requirements. We use all the technologies and the best
       communication strategies. Our main target which defines us is our commitment
       to do the best professional work. The ability to listen and to understand your
       needs and requirements together with our area knowledge are the fundamental
@@ -72,17 +76,17 @@ en:
     consolidate: All these efforts, dedication and support has turned <em>The Green
       Vintage</em> to a consolidated and positioned company in the current market.
     commitment: Our commitment
-    commitment1: <strong>Satisfaction:</strong> Do a personalized monitoring of your
-      event, since success is essential to us
-    commitment2: <strong>Motivation:</strong> We love our job and we believe in everything
+    commitment1: "<strong>Satisfaction:</strong> Do a personalized monitoring of your
+      event, since success is essential to us"
+    commitment2: "<strong>Motivation:</strong> We love our job and we believe in everything
       that we do. Only in this way, we can offer you the best result and exceed their
-      initial expectations
-    commitment3: <strong>Empathy:</strong> We know listen and understand the needs
-      of our customers and the territory in which we find ourselves
-    commitment4: <strong>Creativity:</strong> We look for original and innovative
-      ways to make our actions unforgettable
-    commitment5: <strong>Synergy:</strong> We work as a team since the shared effort
-      improves the result
+      initial expectations"
+    commitment3: "<strong>Empathy:</strong> We know listen and understand the needs
+      of our customers and the territory in which we find ourselves"
+    commitment4: "<strong>Creativity:</strong> We look for original and innovative
+      ways to make our actions unforgettable"
+    commitment5: "<strong>Synergy:</strong> We work as a team since the shared effort
+      improves the result"
   corporative:
     title: Corporative services
     message: We believe that the corporate events are a live communication strategic
@@ -118,9 +122,9 @@ en:
       the result. We add value to your projects by the promotion and organization
       of a successful event.
     concept: Concept
-    concept_description: <em>The Green Vintage</em> adds value to your events management
+    concept_description: "<em>The Green Vintage</em> adds value to your events management
       to achieve the targets pursued by you by strengthen your brand. We have the
-      skills to create new creative project to ensure your success.
+      skills to create new creative project to ensure your success."
     communication: Comunication
     communication_description1: We are responsible to plan and manage all the logistics
       to develop  the whole event, we are strongly involved on your project during
@@ -137,7 +141,7 @@ en:
     preparation: Preparation
     preparation_description1: We do a personalized and unique tracking for each customer,
       adapting the budget to your needs and interests.
-    preparation_description2: <em>The Green Vintage</em> as event management company,
+    preparation_description2: "<em>The Green Vintage</em> as event management company,
       maintains worldwide strategic relationships, we have a  large  background which
       brings the necessary resources to execute meetings and events at any level.
       We control all phases of event management such the initiation, the planning,
@@ -145,7 +149,7 @@ en:
       closure. Effective management continues throughout the project life, from inception
       to completion. We offer a reliable customer service by organizing all suppliers
       involved on the development of an event for business (choice of locations, catering,
-      hostesses, car hire, transfers, hotels, restaurants, tour guides, etc.)
+      hostesses, car hire, transfers, hotels, restaurants, tour guides, etc.)"
     the_day: On the event’s day
     the_day_description1: Our fundamental duty is to assure the event is successful
       and fulfills your expectations and targets.
@@ -161,10 +165,10 @@ en:
       interests, we create good feed-back to do your wedding unique for you and for
       your guests.
     weddings: Celebrations - Weddings
-    objectives_description: <em>The Green Vintage</em> will be on charge of the coordination,
+    objectives_description: "<em>The Green Vintage</em> will be on charge of the coordination,
       logistics, assessment and supervision of your wedding, to avoid any unforeseen
       event. We design a personalized custom project for each of our clients, because
-      our priority is to create a unique moment.
+      our priority is to create a unique moment."
     management: Complet Setup
     management_description: 'Coordination from the first minute until the day of the
       celebration. This service includes:'
@@ -190,9 +194,9 @@ en:
       to arrange the last details by concluding the specific information you will
       provide related to  \nthe different suppliers, on this way, you will be relaxed
       on these last days."
-    the_day_management: '<em>The Green Vintage</em> coordinates:'
+    the_day_management: "<em>The Green Vintage</em> coordinates:"
     the_day_management_list:
-    - ' Reception of guests and look after their needs '
+    - " Reception of guests and look after their needs "
     - 'Management of the timing (ceremony, the bride and groom entrance, gift delivery,
       toast, cake entry, music, bridal dance) '
     - 'Control of seating '
@@ -270,9 +274,9 @@ en:
     sent_description: Thank you for contacting us!
   footer:
     about_us: About us
-    the_green_vintage_is: <em>The Green Vintage</em> is a team of professionals specialized
+    the_green_vintage_is: "<em>The Green Vintage</em> is a team of professionals specialized
       in the management and organization of any type of event. The company was founded
-      with the desire to assess and plan the small moments of life and make them special.
+      with the desire to assess and plan the small moments of life and make them special."
     all_rights_reserved: All rights reserved
     contact_us: Contact us
     contact: Explain us your proposal

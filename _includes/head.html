@@ -10,7 +10,7 @@
     {% if page.excerpt %}
       {% assign pagedescripion = page.excerpt | strip_html | strip_newlines | truncate: 160 %}
     {% else %}
-      {% assign pagedescripion = site.description %}
+      {% assign pagedescripion = 'meta.description' | translate %}
     {% endif %}
 
     <title>{{ site.title }} - {{ pagetitle }}</title>
@@ -31,8 +31,8 @@
     <meta property="og:logo" content="{{site.url}}/assets/images/logos/logo_green-vintage_green.png" />
 
     {% for locale in site.locales %}
-    {% assign item = site.pages | where: 'section', page.section | where: 'locale', locale | first %}
-    <link rel="alternate" hreflang="{{ locale }}" href="{{site.url}}{{item.permalink}}">
+    {% assign item = site.pages | where: 'section', page.section | where: 'locale', locale[0] | first %}
+    <link rel="alternate" hreflang="{{ locale[1] }}" href="{{site.url}}{{item.permalink}}">
     {% endfor %}
 
     <link rel="shortcut icon" href="/favicon.ico">
