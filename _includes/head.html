@@ -20,6 +20,10 @@
     <meta name="author" content="{{ site.title }}">
     <meta name="robots" content="index, follow">
 
+    {% if page.section == 'home' %}
+      {% assign pagetitle = site.title %}
+    {% endif %}
+
     <!-- Open Graph -->
     <meta property="og:title" content="{{ pagetitle }}"/>
     <meta property="og:url" content="{{site.url}}{{page.permalink}}"/>
