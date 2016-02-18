@@ -1,7 +1,7 @@
 #!/bin/bash
 
 for X in `ls -1 | grep -v thumb.jpg`; do
-  echo "Compresing ${X}..."
+  echo "Resizing ${X}..."
   convert  -resize 800x -strip -interlace Plane -quality 85 "$X" "$X"
 done
 
