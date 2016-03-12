@@ -48,6 +48,13 @@ jQuery(document).ready(function() {
 						});	
 			});
 
+jQuery(document).ready(function() {
+  jQuery('#zetaSlider').zetaSlider({
+    warningMessage:true,
+    warningMessageTimeout:4000
+  });
+});
+
 /*-----------------------------------------------------------------------------------*/
 /*	TOGGLE
 /*-----------------------------------------------------------------------------------*/
