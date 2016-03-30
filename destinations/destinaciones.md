@@ -1,8 +1,8 @@
 ---
 layout: page-no-wrapper
-section: portfolio
-locale: en
-permalink: /en/portfolio/
+section: destinations
+locale: es
+permalink: /en/destinaciones/
 ---
 
 {% include portfolio.html %}

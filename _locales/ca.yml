@@ -116,12 +116,12 @@ ca:
     pax: Mínim de persones
   teambuilding:
     title: Team Building
-    description: |-
+    message: La nostra missió ha estat millorar la felicitat i el rendiment del seu
+      equip!
+    description_1: |-
       La felicitat i la satisfacció dels empleats són essencials per a la productivitat. El treball en equip és un procés que desenvolupa la comunicació en un grup i per tant té un enllaç directe a la construcció d'una força laboral més feliç i més productiva.
 
       Creem aquestes experiències que promoguin la relació de l'equip i la comunicació en un ambient relaxat i natural. Aquest enfocament crea riques i educatives activitats que deixen una bona sensació d'equip.
-    message: La nostra missió ha estat millorar la felicitat i el rendiment del seu
-      equip!
     colum_1: '["Desenvolupament d''habilitats"," Millora la Comunicació“,”Promou el
       treball en equip”]'
     colum_2: '["Objectius i metes clarament definides", "Millora la col·laboració",
@@ -129,7 +129,8 @@ ca:
     description_2: Comptem amb una àmplia selecció de propostes. Si vostè està buscant
       activitats d'adrenalina, culinàries, creatives, d'aventura... mira la nostra
       infinitat d'idees!
-  destination:
+  destinations:
+    title: Viatges d'incentiu
     message: Esdeveniments creatius i personalitzats
     description: Les nostres reunions, esdeveniments i programes de viatges d'incentiu
       comencen amb un profund coneixement dels objectius estratègics de la seva empresa,
@@ -185,50 +186,6 @@ ca:
     custom_title: Altres destinacions
     custom_description: Té alguna altra destinació en ment? Podem fer-ho. Personalitzem
       i donem vida als seus desitjos.
-  Lisbon:
-    title_2: Lisboa, capital que combina cultura, història i bona gastronomia
-    message: Lisboa, capital de Portugal, màgica i única, destinació perfecte per
-      als seus viatges d’incentiu i esdeveniments.
-    description: |-
-      Lisboa és la capital de l'Europa continental situada més al sud-oest, és un lloc on la mescla de l'Europa moderna i el seu il·lustre passat adquireix un sabor únic, gairebé impossible de descriure en una frase. Dinàmica, cultural, plena de vida són la marca d'una ciutat fascinant. Fires, festes, festivals i esdeveniments culturals són una part constant de la capital portuguesa.
-
-      Lisboa, va ser construïda sobre set turons, Castelo, Graça, Muntanya, Penha de França, S. Pedro de Alcântara, Santa Catarina i Estrela de Lisboa s'estén en forma d'un amfiteatre de la riba nord del riu Tajo. Aquesta històrica capital té caràcter encantador, on 800 anys d'una àmplia gamma d'influències culturals, juntament amb les últimes tendències i estils de vida, han generat contrastos veritablement espectaculars.
-    venues_ title: Els nostres esdeveniments en diferents espais i venues
-    venues_description: |-
-      Lisboa és considerada una de les destinacions més populars per als congressos internacionals. A més, les estadístiques diuen que la capital portuguesa arriba a assolir més de 100 esdeveniments internacionals a l'any.
-
-      A Lisboa, hi ha una varietat de llocs espectaculars: organitzar un esdeveniment en monuments de la UNESCO, estadis, casinos, centres d'exposicions, sales de concert, hotels sorprenents, palaus amb encant, museus o fins i tot al Oceanario. Milers d'opcions perquè el seu esdeveniment sigui únic i original.
-    activities_ title: Experiències per gaudir
-    activities_ description: Sol, platja, activitats, cultura, gastronomia i música?
-      És per això que Lisboa és una destinació convenient per a qualsevol programa
-      d'incentiu que ofereix una gran varietat d'activitats.
-    venue_start: Digui'ns el que vostè necessita
-  Barcelona:
-    title_2: Barcelona, un autèntic museu a l'aire lliure
-    message: Barcelona es posiciona com una de les ciutats més visitades d'Europa.
-      Ocupa actualment el 5è lloc en  el  rànquing  mundial  en major nombre de congressos
-      internacionals.
-    message_short: "<em>International Congress and Convention Association</em> (ICCA)"
-    description: 'Catalunya i Barcelona s''ha convertit en una de les primeres destinacions
-      turístiques d''Espanya. Barcelona situada entre el mar Mediterrani i la serra
-      de Collserola. Ciutat cosmopolita que integra en el seu traçat urbà restes romanes,
-      barris medievals i els més bells exemples del Modernisme i les avantguardes
-      del segle XX. Per això, la UNESCO ha declarat Patrimoni de la Humanitat les
-      següents obres: Parc Güell, la Casa Milà, la Casa Vicenç, Sagrada Família, la
-      Casa *Batlló, el Palau de la Música Catalana, l''Hospital de Sant Pau.'
-    venues_ title: Els nostres esdeveniments en diferents espais i venues
-    venues_description: |-
-      Admirar la seva arquitectura, degustar la seva sorprenent gastronomia, gaudir de l'ampli ventall d'activitats que ens ofereix i descobrir els últims avanços tecnològics són part del seu atractiu. Sens  dubte, una  destinació única per a un esdeveniment excepcional.
-
-      Barcelona, ha  estat escollida per segon any consecutiu com a millor destinació de reunions i conferències d’Europa al certamen <em>World Travel Awards</em> 2015
-    activities_ title: Experències per gaudir
-    activities_ description: Barcelona és una ciutat capdavantera en l'àmbit tecnològic
-      i sostenible, una ciutat cosmopolita, dinàmica i creativa que pot generar diverses
-      experiències. Viu-les en primera persona! Són experiències lligades amb el patrimoni,
-      les tradicions, la gastronomia, la cultura, la diversió, els oficis o les noves
-      tecnologies.
-    venue_start: Digui'ns el que vostè necessita
-    activities_start: Veure el nostre portafoli
   contact:
     title: Contacte
     message: SI TÉ UNA IDEA QUE VOL DUR A TERME AMB NOSALTRES, OMPLI EL SEGÜENT FORMULARI.

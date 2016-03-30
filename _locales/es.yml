@@ -116,11 +116,11 @@ es:
     pax: mínimo de personas
   teambuilding:
     title: Team Building
-    description: |-
+    message: Nuestra misión ha sido mejorar la felicidad y el rendimiento de su equipo!
+    description_1: |-
       La felicidad y la satisfacción de los empleados son esenciales para la productividad. El trabajo en equipo es un proceso que desarrolla la comunicación en un grupo y por lo tanto tiene un enlace directo a la construcción de una fuerza laboral más feliz y más productiva.
 
       Creamos estas experiencias que promuevan la relación del equipo y la comunicación en un ambiente relajado y natural. Este enfoque crea ricas y educativas actividades que dejan una buena sensación de equipo.
-    message: Nuestra misión ha sido mejorar la felicidad y el rendimiento de su equipo!
     colum_1: '["Desarrollo de habilidades ","Mejora la comunicación“, ”Promueve el
       trabajo en equipo”]'
     colum_2: '["Objetivos y metas claramente definidos", "Mejora la colaboración",
@@ -128,7 +128,8 @@ es:
     description_2: Contamos con una amplia selección de propuestas. Si usted está
       buscando actividades de adrenalina, culinarias, creativas, de aventura... mira
       nuestro sinfín de ideas!
-  destination:
+  destinations:
+    title: Viajes de incentivo
     message: Eventos creativos y personalizados
     description: Nuestras reuniones, eventos y programas de viajes de incentivo comienzan
       con un profundo conocimiento de los objetivos estratégicos de su empresa, y
@@ -179,52 +180,6 @@ es:
     custom_title: Otras destinaciones
     custom_description: "¿Tiene alguna otra destinación en mente? Podemos hacerlo.
       Personalizamos y damos vida a sus deseos."
-  Lisbon:
-    title_2: Lisboa, la Capital que combina cultura, historia y buena gastronomía
-    message: Lisboa, la  capital de Portugal, mágica y única, destinación perfecta
-      para sus viajes de incentivo y eventos.
-    description: |-
-      Lisboa es la capital de la Europa continental situada más al suroeste, es un lugar donde la mezcla de la Europa moderna y su ilustre pasado adquiere un sabor único, casi imposible de describir en una frase. Dinámica, cultural, llena de vida son la marca de una ciudad fascinante y multifacética.  Ferias, fiestas, festivales y eventos culturales son una parte constante de la capital portuguesa.
-
-      Lisboa, fue construida sobre siete colinas, Castelo, Graça, Monte, Penha de França, S. Pedro de Alcântara, Santa Catarina y Estrela de Lisboa se extiende en forma de un anfiteatro de la orilla norte del río Tajo. Esta histórica capital tiene carácter infrecuente y encanto, donde 800 años de una amplia gama de influencias culturales, junto con las últimas tendencias y estilos de vida, han generado contrastes verdaderamente espectaculares.
-    venues_ title: Nuestros eventos en diferentes espacios y venues
-    venues_description: |-
-      Lisboa es considerado uno de los destinos más populares para los congresos internacionales. Además, las estadísticas dicen que la capital portuguesa llega a abarcar más de 100 eventos internacionales al año.
-
-      En Lisboa y alrededores, hay una variedad de lugares espectaculares: organizar un evento en monumentos de la UNESCO, en estadios, casinos y centros de exposiciones, salas de concierto, hoteles sorprendentes, palacios con encanto, museos o incluso en el Oceanario de Lisboa. Miles de opciones para que su evento sea único y original.
-    activities_ title: Experiencias para disfrutar
-    activities_ description: Sol, playa, actividades, cultura, comida y música? Es
-      por ello que Lisboa es un destino conveniente para cualquier programa de incentivos
-      que ofrece una gran variedad de actividades.
-    venue_start: Díganos lo que usted necesita
-  Barcelona:
-    title_2: Barcelona, un auténtico museo al aire libre
-    message: Barcelona se posiciona como una de las ciudades más visitadas de Europa.
-      Ocupa actualmente el 5o puesto en el ranking mundial en mayor número de congresos
-      internacionales.
-    message_short: "<em>International Congress and Convention Association</em> (ICCA)"
-    description: 'Cataluña y Barcelona se ha convertido en uno de los primeros destinos
-      turísticos de España. Barcelona situada entre el mar Mediterráneo y la sierra
-      de Collserola. Ciudad cosmopolita que integra en su trazado urbano restos romanos,
-      barrios medievales y los más bellos ejemplos del Modernismo y las vanguardias
-      del siglo XX.  Por ello, la UNESCO ha declarado  Patrimonio de la Humanidad
-      las siguientes obras: Parc Güell, la Casa Milà, la Casa Vicens, Sagrada Familia,
-      la Casa Batlló, el Palau de la Música Catalana, el Hospital de Sant Pau.'
-    venues_ title: Nuestros eventos en diferentes espacios y venues
-    venues_description: "Admirar su arquitectura, degustar su sorprendente gastronomía,
-      disfrutar del amplio abanico de   actividades que nos ofrece y descubrir los
-      últimos avances tecnológicos son parte de su atractivo.  Sin duda, un destino
-      único para un evento excepcional. \n\nBarcelona, ha sido elegida por segundo
-      año consecutivo como mejor destino de reuniones y  conferencias de Europa en
-      el certamen <em>World Travel Awards</em> 2015"
-    activities_ title: experiencias para disfrutar
-    activities_ description: Barcelona es una ciudad líder en el ámbito tecnológico
-      y sostenible, una ciudad cosmopolita, dinámica y creativa que puede generar
-      varias experiencias. !Vívelas en primera persona! Son experiencias relacionadas
-      con el patrimonio, las tradiciones, la gastronomía, la cultura, la diversión,
-      los oficios o las nuevas tecnologías.
-    venue_start: Díganos lo que usted necesita
-    activities_start: Ver nuestro portafolio
   contact:
     title: Contacto
     message: Si tiene una idea que quiere llevar a cabo con nosotros, rellene el siguiente

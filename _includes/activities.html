@@ -1,0 +1,15 @@
+{% for destination in site.data.destionations %}
+<h1>{{destination.name}}</h1>
+<div class="grid-wrapper">
+  <ul class="items">
+    {% assign activities = site.data.activities | where: 'destination', destination.name %}
+    {% for activity in activities %}
+    <li rel="7">
+      <a href="http://wearethunderbuddies.com/glisseo/portfolio_1349969562/cras-justo-odio-dapibus-6/">
+        <img src="http://wearethunderbuddies.com/glisseo/wp-content/uploads/2012/08/p8-full1-228x170.jpg" title="{{ activity | translate: 'title' }}" alt="{{ activity | translate: 'title' }}">
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endfor %}

@@ -8,7 +8,7 @@
     <!-- Begin Menu -->
     <div id="menu" class="menu">
       <ul id="tiny" data-label="{{ 'generic.navigation' | translate }}">
-        {% assign sections = 'home services portfolio partners team contact' | split: " " %}
+        {% assign sections = 'home destinations teambuilding team contact' | split: " " %}
         {% for sname in sections %}
         {% assign item = sname | section %}
         <li class="{% if page.section == item.section or item.subsections contains page.section %}active{% endif %}">

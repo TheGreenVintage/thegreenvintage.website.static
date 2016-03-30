@@ -115,11 +115,11 @@ en:
     pax: minimum of people
   teambuilding:
     title: Team Building
-    description: |-
+    message: Improving your team’s happiness and productivity has been our mission!
+    description_1: |-
       Employee satisfaction and happiness are essential to productivity. Team building is a relationship-building process that develops communication in a group – and therefore has a direct link to building a happier and more productive workforce.
 
       We create these experiences that promote team bonding and communication in a relaxed environment. This approach creates rich, educational and engaging team building activities that leave your team feeling  engaged, rewarded and refreshed.
-    message: Improving your team’s happiness and productivity has been our mission!
     colum_1: '["Development of skills”, “Improved communication", "Better working
       relationships"]'
     colum_2: '["Clearly defines objectives and goals", "Better collaboration", "Increased
@@ -127,7 +127,8 @@ en:
     description_2: We have a vast selection of team building activities available
       for you to browse through. Whether you are looking for an adrenaline, culinary
       , creative activities… - we have it covered. Get into our ideas!
-  destination:
+  destinations:
+    title: Incentive travel
     message: Customized and Creative Corporate Events
     description: Our meetings, events and incentive travel programs begin with a deep
       understanding of your strategic business goals, and we transform that understanding
@@ -181,49 +182,6 @@ en:
     custom_title: Custom-made
     custom_description: Do you have any other idea? We can make it. We customize and
       give life to your wishes.
-  Lisbon:
-    title_2: Lisbon, the capital that combines culture, history and great food
-    message: The capital of Portugal, illuminated and safe, is the perfect destination
-      for your corporate travel.
-    description: |-
-      Lisbon the most southwestern located continental Europe capital city, it’s a place where the mix of modern Europe and its illustrious past takes on a unique flavor, almost impossible to describe in one sentence. Lisbon's cultural dynamics and its night life are the mark of a city that leads a fascinating and multifaceted existence. Lisbon is a city that is bursting with life. Cultural events, feasts, festivals and fairs are a constant part of the Portuguese capital.
-
-      Lisbon, was built on seven hills, Castelo, Graça, Monte, Penha de França, S. Pedro de Alcântara, Santa Catarina and Estrela' Lisbon extends in the shape of an amphitheater along the northern banks of the majestic Tejo River. This historic capital has uncommon character and charm, where 800 years of a wide range of cultural influences, together with the latest trends and lifestyles, create truly spectacular contrasts.
-    venues_ title: Our events in different places and venues
-    venues_description: |-
-      Lisbon is considered one of the most popular destination for international congress. Furthermore, statistics says the capital of Portugal hosts close to 100 international corporate events per year.
-
-      In Lisbon and surroundings, there is a range of spectacular venues: management an event at UNESCO’s monuments, casinos, football stadiums, exhibition centres, concert halls, hotels, museus, charming palaces and also in Oceanarium. Wide range of places to make your event different.
-    activities_ title: Lisboa experiences to enjoy
-    activities_ description: Sun, beach, activities, culture, food and musicl? That’s
-      why Lisbon is a suitable destination for any incentive program and offers a
-      wide range of activities.
-    venue_start: Tell us what you need
-  Barcelona:
-    title_2: Barcelona, a real open-air museum
-    message: Barcelona is positioned as one of the top cities in Europe. Is again
-      amongst the top five cities in the world holding most congresses.
-    message_short: "<em>International Congress and Convention Association</em> (ICCA)"
-    description: 'Catalonia and Barcelona has become one of the first tourist destination
-      of Spain. Barcelona sited between the Mediterranean Sea and the Serra de Collserola.
-      Is one of the world''s leading tourist, economic, trade fair and cultural centers,
-      and its influence in commerce, education, entertainment, media, fashion, science,
-      and the arts all contribute to its status as one of the world''s major global
-      cities. Barcelona is the home of many points of interest declared World Heritage
-      Sites by UNESCO: <em> Parc Güell, Casa Milà, Casa Vicens, Sagrada Familia, Casa
-      Batlló, Palau de la Música Catalana, Hospital de Sant Pau</em>.'
-    venues_ title: Our events in different places and venues
-    venues_description: Barcelona is the world's mobile technology and smart city
-      capital and it is a unique destination for an exceptional event. For the second
-      consecutive year Barcelona has been chosen as the best destination for meetings
-      and conferences in Europe, announced at the 2015 World Travel Awards.
-    activities_ title: Barcelona experiences to enjoy
-    activities_ description: Barcelona is at the cutting edge of technology and sustainability.
-      It is a cosmopolitan, dynamic and creative city that can offer you different
-      experiences. Experiences associated with the city's heritage, traditions, gastronomy,
-      culture, crafts and new technologies. Live it!
-    venue_start: Tell us what you need
-    activities_start: See our portfolio
   contact:
     title: Contact
     message: If you have any idea you'd like to be created please talk to us and fulfill
