@@ -8,6 +8,4 @@ permalink: /es/equipo/
 
 {% include aboutus.html %}
 
-{% include meetourteam.html %}
-
 {% include commitment.html %}
