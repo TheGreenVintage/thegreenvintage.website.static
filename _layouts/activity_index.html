@@ -1,6 +1,55 @@
 ---
 layout: default
+section: activity
 ---
+
+<style type='text/css'>
+#rev_slider_1_1, #rev_slider_1_1_wrapper { width:960px; height:450px;}
+
+@media only screen and (min-width: 940px)  {
+  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:960px; height:450px;}
+}
+
+
+@media only screen and (min-width: 780px) and (max-width: 939px) {
+  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:770px; height:360px;}
+}
+
+
+@media only screen and (min-width: 510px) and (max-width: 779px) {
+  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:500px; height:234px;}
+}
+
+
+@media only screen and (min-width: 0px) and (max-width: 509px) {
+  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:310px; height:145px;}
+}
+
+</style>
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+  <!-- START REVOLUTION SLIDER 4.6.91 responsitive mode -->
+  <div id="rev_slider_1_1" class="rev_slider" style="display:none;">
+    <ul>	<!-- SLIDE  -->
+      <li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-saveperformance="off">
+      <!-- MAIN IMAGE -->
+      <img src="/assets/images/team-building/{{ page.activity.photo1 }}" alt="small-pslider1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+      <!-- LAYERS -->
+      </li>
+      <!-- SLIDE  -->
+      <li data-transition="slideleft" data-slotamount="7" data-masterspeed="300" data-saveperformance="off">
+      <!-- MAIN IMAGE -->
+      <img src="/assets/images/team-building/{{ page.activity.photo2 }}" alt="small-pslider2" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+      <!-- LAYERS -->
+      </li>
+      <!-- SLIDE  -->
+      <li data-transition="slideleft" data-slotamount="7" data-masterspeed="300" data-saveperformance="off">
+      <!-- MAIN IMAGE -->
+      <img src="/assets/images/team-building/{{ page.activity.photo3 }}" alt="small-pslider3" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+      <!-- LAYERS -->
+      </li>
+    </ul>
+    <div class="tp-bannertimer tp-bottom"></div>	</div>
+</div>
 
 <div class="wrapper">
 
