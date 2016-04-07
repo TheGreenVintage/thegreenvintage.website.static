@@ -1,7 +1,6 @@
 ---
 layout: page
 section: teambuilding
-icon: camera
 locale: ca
 permalink: /ca/team-building/
 ---

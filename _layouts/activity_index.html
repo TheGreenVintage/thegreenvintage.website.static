@@ -1,0 +1,89 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+
+  <h1 class="title">{{ page.activity | translate: 'title' }}</h1>
+  <div class="two-third">
+    {{ page.activity | translate: 'description' | newline_to_br | strip_newlines }}
+
+    {% assign included = page.activity | translate: 'included' | newline_to_br | split: '<br />' %}
+    {% assign included_size = included | size %}
+
+    {% if included_size > 0 %}
+      <h3>{{ 'activities.included' | translate }}:</h3>
+      <ul>
+        {% for item in included %}
+        <li>
+          {{ item }}
+        </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    {% assign not_included = page.activity | translate: 'not_included' | newline_to_br | split: '<br />' %}
+    {% assign not_included_size = not_included | size %}
+
+    {% if not_included_size > 0 %}
+      <h3>{{ 'activities.not_included' | translate }}:</h3>
+      <ul>
+        {% for item in not_included %}
+        <li>
+          {{ item }}
+        </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+  <div class="one-third last">
+    <!-- Begin Meta -->
+    <div class="item-info">
+      <ul class="portfolio-meta">
+        {% assign languages = page.activity.language | split: ',' %}
+        <li><span>{{ 'activities.pax' | translate }}:</span> {{ page.activity.pax }}</li>
+        <li><span>{{ 'activities.duration' | translate }}:</span> {{ page.activity.duration }} {{ 'activities.hours' | translate }}</li>
+
+        {% if page.activity.preu %}
+        <li><span>{{ 'activities.price.title' | translate }}:</span> {{ page.activity.preu }} &euro;</li>
+        {% endif %}
+
+        <li>
+          <span>{{ 'activities.languages.title' | translate }}:</span>
+          {% for language in languages %}
+            {% assign clean_language = language | slugify %}
+            {{  'activities.languages.' | append: clean_language | translate }}
+          {% endfor %}
+        </li>
+        <li><span>{{ 'activities.accesibility.title' | translate }}:</span> {{ 'activities.accesibility.' | append: page.activity.accesibility | translate }}</li>
+      </ul>
+      <div class="portfolio-nav">
+        {% assign prev_activity = page.activities | where: 'destination', page.activity.destination | sample %}
+        <span class="prev"><a href="/{{ page.locale}}/activities/{{ prev_activity | translate: 'title' | slugify }}" rel="next"></a></span>
+
+        {% assign teambuilding = 'teambuilding' | section %}
+        <span class="up"><a href="{{ teambuilding.permalink }}" title="All Items"></a></span>
+
+        {% assign next_activity = page.activities | where: 'destination', page.activity.destination | sample %}
+        <span class="next"><a href="/{{ page.locale}}/activities/{{ next_activity | translate: 'title' | slugify }}" rel="prev"></a></span>
+      </div>
+    </div>
+    <!-- End Meta -->
+  </div>
+  <div class="clear"></div>
+
+  <div class="related">
+    <h3>{{ 'activities.related' | translate }}</h3>
+    <ul>
+      {% assign related_activities = site.data.activities | sample:4 %}
+      {% for related_activity in related_activities %}
+        <li>
+        <div class="featured">
+          <a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}">
+            <img src="/assets/images/team-building/thumbnails/{{ related_activity.photo1 }}" title="{{ related_activity | translate: 'title' }}" alt="{{ related_activity | translate: 'title' }}">
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

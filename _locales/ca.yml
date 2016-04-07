@@ -25,6 +25,7 @@ ca:
     navigation: Navegació
     more_info: Més informació
   common:
+    destinations_tittle: En què et podem ajudar?
     destinations_meetings: Idees per a reunions i venues únics
     destinations_activities: Experiències a mesura
     destinations_hotels: Gran varietat d’allotjaments
@@ -44,9 +45,9 @@ ca:
       amb els nostres clients i el seu ÈXIT
     start_now: Mira les nostres activitats
     activities_title: Les nostres activitats
-    activities_description: Més creativitat. Millor comunicació. Major productivitat.
+    activities_message: Més creativitat. Millor comunicació. Major productivitat.
       Incrementa la motivació del seu equip.
-    activities_message: Explora la nostra gamma d'activitats, i poseu-vos en contacte
+    activities_description: Explora la nostra gamma d'activitats, i poseu-vos en contacte
       amb nosaltres per adaptar les millors opcions per satisfer els seus objectius.
     destinations_title: Destinacions & Esdeveniments
     destinations_description: "<em>The Green Vintage</em> és el seu aliat a l’hora
@@ -61,6 +62,8 @@ ca:
     contact: Explica'ns la teva proposta
     sections: Seccions
     destination: Destinacions
+    adress: Carrer Casp, 79 Sobreàtic
+    location: Barcelona, 08013
   team:
     title: Sobre nosaltres
     message: Experts en gestió de destinacions (DMC)
@@ -82,10 +85,12 @@ ca:
       l’esforç compartit millora el resultat"
   activities:
     languages:
+      title: Idiomes
       es: Espanyol
       ca: Català
       en: Anglès
-      de: Francès
+      de: Alemany
+      fr: Francès
       pt: Portuguès
     accesibility:
       title: Accessibilitat
@@ -98,22 +103,10 @@ ca:
       title: Preu
       ask: A consultar
     duration: Duració
+    hours: Hores
     related: Altres activitats
-    contact:
-      Quiz: Demana més informació dels nostres jocs amb Ipads
-      Graffitis: Demana més informació dels nostres tallers
-      Batucada: Demana més informació dels nostres tallers
-      Kitesurf: Demana més informació de les nostres activitats
-      Montserrat: Demana més informació de les nostres excursions
-      Karts: Demana més informació de les nostres activitats
-      Yoga: Demana més informació de les nostres activitats
-      Oil: Demana més informació de les diverses degustacions que oferim
-      Souvenir: Demana més informació dels nostres tallers
-      Monster: Demana més informació de les nostres activitats
-      Musclarium: Demana més informació de les nostres excursions
-      Wine: Demana més informació dels nostres tallers
-    'contact ': Enviar comentari
     pax: Mínim de persones
+  El nostre proc: Enviar comentari
   teambuilding:
     title: Team Building
     message: La nostra missió ha estat millorar la felicitat i el rendiment del seu
@@ -162,7 +155,7 @@ ca:
       celebrar alguna cosa especial, donar a conèixer la seva marca i/o producte,
       entre altres coses. Cuidem al màxim el detall i l'equip sempre buscarà que el
       seu esdeveniment sigui un èxit."
-    process_title: EL NOSTRE PROCÉS
+    process_title: El nostre procés
     process_description: "[“BRIEFING: Formulari de consulta que ens ajuda a comprendre
       les seves necessitats”, “CONFIRMACIÓ: ens posarem en contacte amb vostè via
       email per confirmar la seva sol·licitud”, “BRAINSTORM: El nostre equip reunirà
@@ -173,24 +166,15 @@ ca:
       durant l'esdeveniment, excursions, reunions, transport, llocs, restaurants,
       hotels...etc que vostè mateix haurà de signar”,”EXECUTAR: Coordinar y supervisar
       que tot surti segons el previst. I poder gestionar qualsevol petició addicional”]"
-    countries: Les nostres destinacions
-    bcn_title: Barcelona
-    bcn_description: Barcelona, inspiració de cantants, pintors, arquitectes i artistes,
-      és el símbol del disseny, el modernisme i de l'avantguardisme per excel·∙lència.
-      Una ciutat mediterrània, cosmopolita, dinàmica i innovadora, plena de contrastos,
-      color, llum i diversitat.
-    lisbon_title: Lisboa
-    lisbon_description: Lisboa és una ciutat màgica, on el passat imperial, la seva
-      història, els seus paisatges i la seva gent, fan de la ciutat un lloc especial
-      ple d'infinites possibilitats.
+    where: Destinacions
     custom_title: Altres destinacions
     custom_description: Té alguna altra destinació en ment? Podem fer-ho. Personalitzem
       i donem vida als seus desitjos.
   contact:
     title: Contacte
-    message: SI TÉ UNA IDEA QUE VOL DUR A TERME AMB NOSALTRES, OMPLI EL SEGÜENT FORMULARI.
-      ESTAREM ENCANTATS D'ORGANITZAR EL SEU PRÒXIM ESDEVENIMENT!
-    in_contact: SEGUIM EN CONTACTE!
+    message: Si té una idea que vol dur a terme amb nosaltres, ompli el següent formulari.
+      Estarem encantats d'organitzar el seu pròxim esdeveviment!
+    in_contact: Seguim en contacte
     send: Enviar
     message_placeholder: Missatge
     subject_placeholder: Assumpte

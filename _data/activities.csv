@@ -1,142 +1,243 @@
-photo1,photo2,photo3,tag,duration,pax,price,language,accesibility,destination,title_ca,description_ca,localization_ca,included_ca,not_included_ca,title_es,description_es,localization_es,included_es,not_included_es,title_en,description_en,localization_en,included_en,not_included_en
-1.jpg,2.jpg,3.jpg,Karts,"1,5",10,,"es, ca, en",no,barcelona,Mini Gran Premi Karts,"Cursa de karts en grup a Barcelona,  amb clasificatoria prèvia, per determinar l'ordre de sortida, premis i molt més. Una experiència única!",Barcelona ,"[""30 minuts a la pista"", "" 3 sesiones"", "" Warm up"",""Classificatòrias"", ""Carrera""]",,Mini Gran Premio Karts,"Trepidante carrera de karts en grupo en Barcelona, con tanda clasificatoria previa, para determinar el orden en la parrilla de salida, medallas y mucho más. ¡Una experiencia completa para ti!",Barcelona,"[""30 minutos en pista"", "" 3 sesiones"", "" Warm up"",""Clasificatorias"", ""Carrera""]",,Mini Grand Prix Karts,"Fast-paced career in karts in group in Barcelona, with preliminary qualifying round, to determine the order on the grill of exit, medals and much more. A complete experience for you!",Barcelona,"[""30 minuts"", "" 3 sesions"", "" Warm up"",""Qualify"", ""Race""]",
+photo1,photo2,photo3,tag,duration,pax,price,language,accesibility,destination,title_ca,description_ca,localization_ca,included_ca,not_included_ca,title_es,description_es,localization_es,included_es,not_included_es,title_en,description_en,localization_en,included_en,not_included_en,contact_ca,contact_es,contact_en
+1.jpg,2.jpg,3.jpg,Karts,"1,5",10,,"es, ca, en",no,barcelona,Mini Gran Premi Karts,"Cursa de karts en grup a Barcelona,  amb clasificatoria prèvia, per determinar l'ordre de sortida, premis i molt més. Una experiència única!",Barcelona ,"30 minuts a la pista
+3 sesiones
+Warm up
+Classificatòrias
+Carrera",,Mini Gran Premio Karts,"Trepidante carrera de karts en grupo en Barcelona, con tanda clasificatoria previa, para determinar el orden en la parrilla de salida, medallas y mucho más. ¡Una experiencia completa para ti!",Barcelona,"30 minutos en pista
+3 sesiones
+Warm up
+Clasificatorias
+Carrera",,Mini Grand Prix Karts,"Fast-paced career in karts in group in Barcelona, with preliminary qualifying round, to determine the order on the grill of exit, medals and much more. A complete experience for you!",Barcelona,"30 minuts
+3 sesions
+Warm up
+Qualify
+Race",,Demana més informació de les nostres activitats,Pide más información de nuestras actividades,Ask for more information about our activities
 4.jpg,5.jpg,6.jpg,Montserrat,10,15,,"es, ca, en",ask,barcelona,"Montserrat, cuina catalana i vi","L'excursió s'inicia a Barcelona, Plaça Catalunya. Amb autobús, cap al Parc Nacional de Montserrat, a només una hora de Barcelona. Coneixereu el Monestir i Santuari de Montserrat, i gaudireu d’unes magnífiques vistes. Després de la visita guiada, hi haurà temps lliure per explorar el lloc pel vostre compte.
 
-Abans de visitar el celler, tastareu un magnífic menú gastronòmic de temporada al club-restaurant d'Oller del Mas. Després d'un bon àpat, visitarem una de les bodegues més famoses de la regió amb denominació d'origen Pla de Bages, protegida entre els murs d'un antic castell del segle X. El guia us introduirà al fascinant món de la producció del vi: visitaràs els vinyers, la planta de producció i la sala de barrils.",Montserrat + bodega,"[""Trajecte d'anada i tornada en autocar"", ""Acompanyament d'un guia professional"", ""Visita al Santuari i Parc Nacional de Montserrat"", ""Ruta guiada pel celler d'Oller del Mas, visitant la planta de producció, el castell i les seves vinyes"", ""Menú complet de menjar tradicional català al Golf de l'Oller (3 plats a triar)"", ""Tast de formatges i vins (3 vins d'alta qualitat)""]",,"Montserrat, cocina catalana y vino","La excursión se inicia en Barcelona, Plaza Catalunya. En autobús, hacia el Parque Nacional de Montserrat, a tan solo una hora de Barcelona. El guía os mostrará los lugares más destacados del Monasterio y la montaña. Entre ellos se encuentran la Basílica, la Virgen Negra de Montserrat (<em>La Moreneta</em>) y los enclaves de más interés para poder admirar las vistas y tomar fotografías. Tras la visita guiada, habrá tiempo libre para explorar el lugar por vuestra cuenta. 
+Abans de visitar el celler, tastareu un magnífic menú gastronòmic de temporada al club-restaurant d'Oller del Mas. Després d'un bon àpat, visitarem una de les bodegues més famoses de la regió amb denominació d'origen Pla de Bages, protegida entre els murs d'un antic castell del segle X. El guia us introduirà al fascinant món de la producció del vi: visitaràs els vinyers, la planta de producció i la sala de barrils.",Montserrat + bodega,"Trajecte d'anada i tornada en autocar Acompanyament d'un guia professional
+Visita al Santuari i Parc Nacional de Montserrat
+Ruta guiada pel celler d'Oller del Mas, visitant la planta de producció, el castell i les seves vinyes
+Menú complet de menjar tradicional català al Golf de l'Oller (3 plats a triar)
+Tast de formatges i vins (3 vins d'alta qualitat)",,"Montserrat, cocina catalana y vino","La excursión se inicia en Barcelona, Plaza Catalunya. En autobús, hacia el Parque Nacional de Montserrat, a tan solo una hora de Barcelona. El guía os mostrará los lugares más destacados del Monasterio y la montaña. Entre ellos se encuentran la Basílica, la Virgen Negra de Montserrat (<em>La Moreneta</em>) y los enclaves de más interés para poder admirar las vistas y tomar fotografías. Tras la visita guiada, habrá tiempo libre para explorar el lugar por vuestra cuenta. 
 
 Antes de visitar la bodega, disfrutareis en el club-restaurante de Oller del Mas de un magnífico menú gastronómico de temporada.  Después de una buena comida, visitaremos las bodegas de Oller del Mas, es una de las mejores bodegas en la región con denominación de origen Pla de Bages y se encuentra en el interior de un castillo del siglo X. 
 
 El guía os introducirá en el fascinante mundo de la producción del vino: visitarás los viñedos, la planta de producción y la sala de barricas. 
-",Montserrat + bodega,"[""Trayecto de ida y vuelta en autocar"","" Acompañamiento de un guía profesional"", ""Visita al Santuario y el Parque Nacional de Montserrat"","" Ruta guiada por la bodega Oller del Mas, visitando la planta de producción, el castillo y sus viñas"", ""Menú completo de comida tradicional catalana en el Golf de l'Oller (3 platos a elegir)"", ""Cata de quesos y vinos (3 vinos de alta calidad)""]",,Enjoy the Montserrat Food & Wine Tour,"The tour begins in Barcelona, Plaza Catalunya from where we take a bus/minivan to the Monastery and National Park of Montserrat, just an hour drive from the city center. 
+",Montserrat + bodega,"Trayecto de ida y vuelta en autocar
+Acompañamiento de un guía profesional
+Visita al Santuario y el Parque Nacional de Montserrat
+Ruta guiada por la bodega Oller del Mas, visitando la planta de producción, el castillo y sus viñas
+Menú completo de comida tradicional catalana en el Golf de l'Oller (3 platos a elegir)
+Cata de quesos y vinos (3 vinos de alta calidad)",,Enjoy the Montserrat Food & Wine Tour,"The tour begins in Barcelona, Plaza Catalunya from where we take a bus/minivan to the Monastery and National Park of Montserrat, just an hour drive from the city center. 
 Once you arrive to your first destination, your guide will lead you to the main highlights of the Monastery and the mountain. These include the Basilica, the Black Virgin of Montserrat (la Moreneta) and the best spots to admire the views and take pictures. After the guided visit, you will have some free time to explore the site on your own.
 Before visiting the winery, you will stop at Oller del Mas country club to enjoy a premium three-course traditional Catalan menu, paired with one of their best organic wines. 
-Then you will be transported to Oller del Mas Castle, located just under half an hour drive away from the Monastery. Oller del Mas is one of the trendy wineries in Pla de Bages region (D.O.) and it is located in a 10th century castle. You will be introduced to the amazing world of wine-making by your tour guide – you will visit the vineyards, the production plant and the old cellar, located inside the castle.",Montserrat Natural Park + winery,"[""Return trip on a comfortable air-conditioned coach or minibus"", ""Professional guide"", ""Tour of the shrine and Montserrat Natural Park"", ""Guided tour of the Oller del Mas winery, including the production plant, castle and vineyards"", ""3-course traditional Catalan menu with wine"", ""Cheese and wine tasting (3 premium wines)""]",
-,,,Kitesurf,3,5,99,"ca, es, en, de, fr",no,barcelona,INICIACIÓ Al KITESURF + BBQ,"Ideal per a grups reduïts que desitgin treballar en equip al mateix temps que aprenen i practiquen l'esport de moda a les nostres platges. 
+Then you will be transported to Oller del Mas Castle, located just under half an hour drive away from the Monastery. Oller del Mas is one of the trendy wineries in Pla de Bages region (D.O.) and it is located in a 10th century castle. You will be introduced to the amazing world of wine-making by your tour guide – you will visit the vineyards, the production plant and the old cellar, located inside the castle.",Montserrat Natural Park + winery,"Return trip on a comfortable air-conditioned coach or minibus
+Professional guide
+Tour of the shrine and Montserrat Natural Park
+Guided tour of the Oller del Mas winery, including the production plant, castle and vineyards
+3-course traditional Catalan menu with wine
+Cheese and wine tasting (3 premium wines)",,Demana més informació de les nostres excursions,Pide más información de nuestras excursiones,Ask for more information about our tours
+35.jpg,36.jpg,43.jpg,Kitesurf,3,5,99,"ca, es, en, de, fr",no,barcelona,Iniciació al kitesurf +  Bbq,"Ideal per a grups reduïts que desitgin treballar en equip al mateix temps que aprenen i practiquen l'esport de moda a les nostres platges. 
 
 I per acabar i reposar forces, una barbacoa a primera línia de platja on els participants col·laboren en la preparació de la carn i el pa amb tomàquet comentant les anècdotes dels seus inicis en el Kitesurf. 
 
-Adrenalina + diversió, una gran combinació..",Costa del Garraf,"[""Benvinguda, briefing, organització del grup en equips"","" Aigües, BBQ informal i participativa"",""Accés als vestuaris amb dutxes, zona tancada amb clau o taquilles per deixar els seus efectes personals"", ""Assegurança de RC"", ""Tot el material per al correcte desenvolupament d'aquesta activitat""]","[""Begudes"", ""Parasols i hamaques"", ""Dj,""Lloguer de GoPros, reportatge audiovisual"", ""Transport"", ""Exclusivitats""]",INICIACIÓN AL KITESURF + BBQ,"Ideal para grupos reducidos que deseen trabajar en equipo al tiempo que aprenden y practican el deporte de moda en nuestras playas.
+Adrenalina + diversió, una gran combinació..",Costa del Garraf,"Benvinguda, briefing, organització del grup en equips 
+Aigües, BBQ informal i participativa
+Accés als vestuaris amb dutxes, zona tancada amb clau o taquilles per deixar els seus efectes personals
+Assegurança de RC
+Tot el material per al correcte desenvolupament d'aquesta activitat","Begudes
+Parasols i hamaques
+Dj
+Lloguer de GoPros i reportatge audiovisual
+Transport
+Exclusivitats",INICIACIÓN AL KITESURF + BBQ,"Ideal para grupos reducidos que deseen trabajar en equipo al tiempo que aprenden y practican el deporte de moda en nuestras playas.
 
 Y para acabar y reponer fuerzas, una barbacoa en primera línea de playa donde los participantes colaboran en la preparación de la carne y el pan con tomate comentando las anécdotas de sus inicios en el Kitesurf. 
 
 Adrenalina + diversión, una gran combinación...
-",Costa del Garraf,"[""Bienvenida, briefing, organización del grupo en equipos"",""Aguas, BBQ informal y participativa"", ""Acceso a los vestuarios con duchas, zona cerrada con llave o taquillas para dejar sus efectos personales"","" Seguro de RC"", ""Todo el material para el correcto desarrollo de esta actividad""","[""Bebidas"", ""Sombrillas y tumbonas"",""Dj"", ""Alquiler de GoPros, reportaje audiovisual "", ""Transporte"", ""Exclusividades""]",INTRODUCTION TO KITESURFING & BBQ,"Ideal for small groups wishing to work as a team at the same time learn and practice the sport in our beaches.
+",Costa del Garraf,"Bienvenida, briefing, organización del grupo en equipos
+Aguas, BBQ informal y participativa
+Acceso a los vestuarios con duchas, zona cerrada con llave o taquillas para dejar sus efectos personales
+Seguro de RC
+Todo el material para el correcto desarrollo de esta actividad","Bebidas
+Sombrillas y tumbonas
+Dj
+Alquiler de GoPros, reportaje audiovisual
+Transporte
+Exclusividades",Introduction to kitesurfing & Bbq,"Ideal for small groups wishing to work as a team at the same time learn and practice the sport in our beaches.
 
 Finally,  barbecue on the beach where participants collaborate in the preparation of the meat and the bread with tomato while commenting on the anecdotes of his beginnings in kitesurfing. 
 
-Adrenaline fun, a great combination...",Garraf Coast,"[""Welcome, briefing, organization of the group in teams"", ""Water, BBQ informal and participatory,"" Access to locker rooms with showers, area closed with key or lockers to leave your personal belongings"", RC insurance, ""All the material for the proper development of this activity""]","[""Drinks"", ""Umbrellas abd deck chairs"", ""Dj"", ""Rental GoPros"", audiovisual report"", ""Transport"", ""Exclusives""]"
-7.jpg,,,batucada,"1,3",10,,"es, ca, en",yes,barcelona,Taller de batucada,"El Taller té com a objectiu apropar a persones a l'univers de la percussió, iniciant-les en la pràctica musical, aprenent diferents ritmes brasilers, executant-los en grup, desenvolupant les capacitats creatives, musicals, el lideratge positiu, la ruptura de paradigmes, el treball en equip, l'escolta, etc. 
+Adrenaline fun, a great combination...",Garraf Coast,"Welcome, briefing, organization of the group in teams
+Water, BBQ informal and participatory
+Access to locker rooms with showers, area closed with key or lockers to leave your personal belongings"", RC insurance, ""All the material for the proper development of this activity","Drinks
+Umbrellas abd deck chairs
+Dj
+Rental GoPros and audiovisual report
+Transport
+Exclusives",Demana més informació de les nostres activitats,Pide más información de nuestras actividades,Ask for more information about our activities
+7.jpg,44.jpg,45.jpg,batucada,"1,3",10,,"es, ca, en",yes,barcelona,Taller de batucada,"El Taller té com a objectiu apropar a persones a l'univers de la percussió, iniciant-les en la pràctica musical, aprenent diferents ritmes brasilers, executant-los en grup, desenvolupant les capacitats creatives, musicals, el lideratge positiu, la ruptura de paradigmes, el treball en equip, l'escolta, etc. 
 
 Els participants tindran un taller amb instruments i seran dirigits per un professional que els ajudarà en tot moment. Serà una experiència divertida i emocionant amb un enfocament lúdic i integrador.
 
 
-","Sales, oficines, espais a l’aire lliure si la climatologia acompanya","[""Intruments"", ""Instructor""]",,Taller de batucada,"El Taller tiene como objetivo acercar a personas al universo de la percusión, iniciándolas en la práctica musical, aprendiendo diferentes ritmos brasileños, ejecutándolos en grupo, desarrollando las capacidades creativas, musicales, el liderazgo positivo, la ruptura de paradigmas, el trabajo en equipo, la escucha, etc.
+","Sales, oficines, espais a l’aire lliure si la climatologia acompanya","Intruments
+Instructor",,Taller de batucada,"El Taller tiene como objetivo acercar a personas al universo de la percusión, iniciándolas en la práctica musical, aprendiendo diferentes ritmos brasileños, ejecutándolos en grupo, desarrollando las capacidades creativas, musicales, el liderazgo positivo, la ruptura de paradigmas, el trabajo en equipo, la escucha, etc.
 
-Los participantes tendrán un taller con instrumentos y serán dirigidos por un profesional que les ayudará en todo momento. Será una experiencia divertida y emocionante con un enfoque lúdico e integrador.","Salas, oficinas, espacio outdoor si la climatología acompaña","[""Intrumentos"", ""Instructor""]",,Workshop of batucada,"The workshop aims to bring people to the universe of percussion, initiating them in musical practice, learning different Brazilian rhythms, developing creative, musical abilities, the breaking of paradigms, positive leadership, work in equipment, listening, etc.
+Los participantes tendrán un taller con instrumentos y serán dirigidos por un profesional que les ayudará en todo momento. Será una experiencia divertida y emocionante con un enfoque lúdico e integrador.","Salas, oficinas, espacio outdoor si la climatología acompaña","Intrumentos
+Instructor",,Workshop of batucada,"The workshop aims to bring people to the universe of percussion, initiating them in musical practice, learning different Brazilian rhythms, developing creative, musical abilities, the breaking of paradigms, positive leadership, work in equipment, listening, etc.
 
-Participants will have a workshop with instruments and will be led by a professional who will help them at all times. It will be a fun and exciting experience!","Meeting rooms, office, outdoor spaces if the weather is nice ","[""Intruments"", ""Instructor""]",
+Participants will have a workshop with instruments and will be led by a professional who will help them at all times. It will be a fun and exciting experience!","Meeting rooms, office, outdoor spaces if the weather is nice ","Intruments
+Instructor",,Demana més informació dels nostres tallers,Pide más información de nuestros talleres,Ask for more information about our workshop
 ,,,graffitis,2,10,,"es, ca, en",yes,barcelona,Creativitat amb grafitis,"Activitat creativa en equip capaç de submergir a qualsevol empresa en experiències úniques d'art, introduint-se en mons creatius desconeguts.
 L'experiència comença amb una introducció al món del grafiti des dels seus inicis i li ensenyaran les tècniques bàsiques de com utilitzar un spray per poder iniciar-se en aquesta cultura underground. Extraurà l'artista que existeix en cadascun de vosaltres! Durant l'activitat crearem un vídeo per al record de la seva empresa.","El grafiti es pot realitzar tant en interiors o a l'aire lliure i és l'activitat perfecta per alliberar estrès, fomentar la comunicació i el treball en equip amb un ambient d'hip-hop.
-","[""Material necessari i especialista""]",,Creatividad con grafitis,"Actividad creativa en equipo capaz de sumergir a cualquier empresa en experiencias únicas de arte, introduciéndose en mundos creativos desconocidos.
+",Material necessari i especialista,,Creatividad con grafitis,"Actividad creativa en equipo capaz de sumergir a cualquier empresa en experiencias únicas de arte, introduciéndose en mundos creativos desconocidos.
 La experiencia comienza con una introducción al mundo del graffiti desde sus inicios y le enseñarán las técnicas básicas de cómo utilizar un spray para poder iniciarse en esta cultura underground. Extraerá el artista que existe en cada uno de vosotros!
 Durante la actividad crearemos un vídeo para el recuerdo de su empresa.","El graffiti se puede realizar tanto en interiores o al aire libre y es la actividad perfecta para liberar estrés, fomentar la comunicación y el trabajo en equipo con un ambiente de hip hop.
-","[""Material necesario y especialista""]",,Creativity with graffiti,"Creative activity in team able to submerge any company into  unique art experiences.
+",Material necesario y especialista,,Creativity with graffiti,"Creative activity in team able to submerge any company into  unique art experiences.
 The experience begins with an introduction to the world of graffiti since its inception and they will teach you the basic techniques of how to use a spray to be able to start in this underground culture. Will extract the artist that exists in every one of you!
 During the activity, we will create a video for the memory of your company.","Graffiti can be either indoors or outdoors and is the perfect activity to relieve stress, promote communication and teamwork with a hip hop environment.
-","[""Material and professional""]",
+",Material and professional,,Demana més informació dels nostres tallers,Pide más información de nuestros talleres,Ask for more information about our workshop
 8.jpg,9.jpg,10.jpg,Quiz,2,10,,"es, ca, en",yes,barcelona,Desafiament Quiz Trivial,"El trivial d'empresa Desafiament Quiz és un joc interactiu que permet de forma original i divertida donar a conèixer nous productes o marques, cohesió de grup, reforçar la cultura de l'organització…
 Per començar aquesta activitat, es dividirà als assistents en grups i se'ls lliurarà una tablet. Hi ha un presentador que dirigeix i controla, enviant les preguntes simultàniament a tots els dispositius dels concursants i presentat les classificacions finals en pantalla.
 
 Riures, aplaudiments, i crits d’eufòria... són emocions que es viuen durant el joc i que fan que aquesta activitat empresarial sigui tot un èxit.
-","Sales, oficines, espais a l’aire lliure si la climatologia acompanya","[""Ipad per grup"", ""En qualsevol localització i lloc d'Espanya"", ""Més de 150 equips"", ""Nombre il·limitat de preguntes"","" Temps i classificació"", ""Continguts 100 % adaptables""]",,Desafío Quiz Trivial,"El trivial de empresa Desafío Quiz es un juego interactivo que permite de forma original y divertida dar a conocer nuevos productos o marcas, cohesión de grupo, reforzar la cultura de la organización...
+","Sales, oficines, espais a l’aire lliure si la climatologia acompanya","Ipad per grup
+En qualsevol localització i lloc d'Espanya
+Més de 150 equips
+Nombre il·limitat de preguntes
+Temps i classificació
+Continguts 100 % adaptables",,Desafío Quiz Trivial,"El trivial de empresa Desafío Quiz es un juego interactivo que permite de forma original y divertida dar a conocer nuevos productos o marcas, cohesión de grupo, reforzar la cultura de la organización...
 
 Para empezar esta actividad, se dividirá a los asistentes en grupos y se les entregará una tablet. Hay un presentador que dirige y controla, enviando las preguntas simultáneamente a todos los dispositivos de los concursantes y presentado las clasificaciones finales en pantalla.
 
 Risas, aplausos y gritos de euforia... son emociones que se viven durante el juego y que hacen que esta actividad empresarial sea todo un éxito.
-","Salas, oficinas, espacio outdoor si la climatología acompaña","["" Ipad por grupo"", ""En cualquier localización y lugar de España"", ""Más de 150 equipos"", ""Número ilimitado de preguntas"", ""Tiempo y clasificación"", ""Contenidos 100 % adaptables""]",,Trivia Quiz Challenge,"Trivia Quiz Challenge is an interactive game way to promote new products, connecting people through shared interests, reinforcing the culture of the organization… 
+","Salas, oficinas, espacio outdoor si la climatología acompaña","Ipad por grupo
+En cualquier localización y lugar de España
+Más de 150 equipos
+Número ilimitado de preguntas
+Tiempo y clasificación
+Contenidos 100 % adaptables",,Trivia Quiz Challenge,"Trivia Quiz Challenge is an interactive game way to promote new products, connecting people through shared interests, reinforcing the culture of the organization… 
 To begin this activity, attendees will be divided into groups and were given a tablet. There is a speaker who directs and controls, sending questions simultaneously to all devices contestants and presented in the final standings screen.
-Laughter, applause and shouts of euphoria… these emotional experiences are vital to successful game.","Meeting rooms, office, outdoor spaces if the weather is nice ","[""Ipad for group"", ""In any location and place of Spain"", ""More than 150 teams"", ""Unlimited number of questions"", ""Time and classification""]
-100% customizable content",
-11.jpg,12.jpg,13.jpg,Monster,"3,3",1,,"es, ca, en,fr, de",,barcelona,SPEED MONSTER & PAELLA,"Sent l'adrenalina córrer per tot el teu cos!!!
+Laughter, applause and shouts of euphoria… these emotional experiences are vital to successful game.","Meeting rooms, office, outdoor spaces if the weather is nice ","Ipad for group
+In any location and place of Spain
+More than 150 teams
+Unlimited number of questions
+Time and classification
+100% customizable content",,Demana més informació dels nostres jocs amb Ipads,Pide más información de nuestros juegos con Ipads,Ask for more information about our business game with ipads
+11.jpg,12.jpg,13.jpg,Monster,"3,3",1,,"es, ca, en,fr, de",no,barcelona,Speed monster & Paella,"Sent l'adrenalina córrer per tot el teu cos!!!
 Amb el Monster els girs de 360º, frenades i derrapatges sobre el mar estan garantides. Una novetat a Espanya importada de Nova Zelanda amb més de 450CV… T'atreveixes??
 Immortalitza el moment sol·licitant el servei de fotos o vídeo!
 
-Acabem l'activitat degustant una paella a un restaurant de la Barceloneta on les vistes són garantia d'una gratificant experiència.",Port Olímpic - Barceloneta,"["" 20 minuts amb la barca Monster"", ""El  menú (amanida: enciam, tomàquet, espàrrecs, ceba cruixent, tonyina i vinagreta de soja, paella marinera o mixta o arròs negre de marisc, crema catalana, 1 refresc o copa de vi de la casa o copa de cervesa de barril o aigua, cafè o infusió, més un somriure ""]",,SPEED MONSTER & PAELLA,"¡¡Siente la adrenalina correr por todo tu cuerpo!!!
+Acabem l'activitat degustant una paella a un restaurant de la Barceloneta on les vistes són garantia d'una gratificant experiència.",Port Olímpic - Barceloneta,"20 minuts amb la barca Monster
+El menú: amanida (enciam, tomàquet, espàrrecs, ceba cruixent, tonyina i vinagreta de soja), paella marinera o mixta o arròs negre de marisc, crema catalana, 1 refresc o copa de vi de la casa o copa de cervesa de barril o aigua, cafè o infusió, més un somriure",,SPEED MONSTER & PAELLA,"¡¡Siente la adrenalina correr por todo tu cuerpo!!!
 Con el Monster los giros de 360º, frenadas y derrapes sobre el mar están garantizadas. Una novedad en España importada de Nueva Zelanda con más de 450CV… ¿¿Te atreves??
 Inmortaliza el momento solicitando el servicio de fotos o vídeo!
 
 Acabamos la actividad degustando una paella en un restaurante de la Barceloneta donde las vistas son garantía de una gratificante experiencia.
-",Puerto Olímpico- Barceloneta,"["" 20 minutos con la barca Monster"", ""El  menú (ensalada: lechuga, tomate, esparragos, cebolla crujiente, atún y vinagreta de soja, paella marinera o mixta o arroz negro de marisco, crema catalana, 1 refresco o copa de vino de la casa o copa de cerveza de barril o agua, café o infusión, más una sonrisa ""]",,SPEED MONSTER & PAELLA,"Feel the adrenaline!!!
+",Puerto Olímpico- Barceloneta,"20 minutos con la barca Monster
+El  menú (ensalada: lechuga, tomate, esparragos, cebolla crujiente, atún y vinagreta de soja, paella marinera o mixta o arroz negro de marisco, crema catalana, 1 refresco o copa de vino de la casa o copa de cerveza de barril o agua, café o infusión, más una sonrisa ",,Speed monster & Paella,"Feel the adrenaline!!!
 With Monster turns of 360º, braking and skidding on the sea are guaranteed. A novelty in Spain imported from New Zealand over 450CV... do you dare?
 Immortalizes the moment asking for photos or video service!
 
-We could end the activity enjoy a paella at a restaurant in la Barceloneta where the views are a guarantee of a rewarding experience.",Olimpic Port - Barceloneta,"["" 20 minuts with Monster boat"", ""The  menú (salat: lettuce, tomato, asparagus, onion, tuna y soya sauce, paella marinera o mixta o spanish dark rice, catalan cream, 1 soft-drink o wine glass of our restaurant o  beer glass o water, coffee o tea, and a big smile ""]",
-,,,Yoga,"1,5",5,,"ca, es, en, de",no,barcelona,Pren-te un descans i relaxa't,"Per gestionar l'estrès del treball, un taller de ioga és una activitat ideal per desconnectar i relaxar-se.
+We could end the activity enjoy a paella at a restaurant in la Barceloneta where the views are a guarantee of a rewarding experience.",Olimpic Port - Barceloneta,"20 minuts with Monster boat
+The  menú (salat: lettuce, tomato, asparagus, onion, tuna y soya sauce, paella marinera o mixta o spanish dark rice, catalan cream, 1 soft-drink o wine glass of our restaurant o  beer glass o water, coffee o tea, and a big smile ",,Demana més informació de les nostres activitats,Pide más información de nuestras actividades,Ask for more information about our activities
+38.jpg,37.jpg,39.jpg,Yoga,"1,5",5,,"ca, es, en, de",no,barcelona,Pren-te un descans i relaxa't,"Per gestionar l'estrès del treball, un taller de ioga és una activitat ideal per desconnectar i relaxar-se.
 Els participants d’aquest taller emprendran un viatge de tornada a casa, a la seva essència, al contacte amb els seus veritables desitjos, treballaran la concentració i l'atenció, coneixeran la respiració i podran treballar-la perquè aporti serenitat mental. 
 Incrementarà la seva actitud positiva i augmentaran la qualitat de les relacions amb l'equip de treball, descobriran el poder transformador que aporta el ioga.
-","Sales, oficines, espais a l’aire lliure si la climatologia acompanya","[""Professors titulats"", ""Materials: Coixí de meditació o estoretes"", ""Diferents estils: hatha, vinyasa, kundalini, Bikram""]",,Tómate un respiro y relájate,"Para manejar el estrés del trabajo, un taller de yoga es una actividad ideal para desconectar y relajarse.
+","Sales, oficines, espais a l’aire lliure si la climatologia acompanya","Professors titulats
+Materials: Coixí de meditació o estoretes
+Diferents estils: hatha, vinyasa, kundalini, Bikram",,Tómate un respiro y relájate,"Para manejar el estrés del trabajo, un taller de yoga es una actividad ideal para desconectar y relajarse.
 Los participantes en este taller emprenderán un viaje de vuelta a casa, a su esencia, al contacto con sus verdaderos deseos, trabajarán la concentración y la atención, conocerán la respiración y podrán trabajarla para que aporte serenidad mental. 
 Incrementará su actitud positiva y aumentarán la calidad de las relaciones con el equipo de trabajo, descubrirán el poder transformador del ioga.
-","Salas, oficinas, espacio outdoor si la climatología acompaña","[""Profesores títulados"", ""Materiales: Cojín de meditación o esterilla"", "" Distintos estilos: hatha, vinyasa, kundalini, bikram""]
+","Salas, oficinas, espacio outdoor si la climatología acompaña","Profesores títulados
+Materiales: Cojín de meditación o esterilla
+Distintos estilos: hatha, vinyasa, kundalini, bikram
 ",,Keep calm & relax yourself,"To handle the stress of the job, a yoga workshop is ideal to relax.
 Participants will undertake a return trip home, to its essence, we will work concentration and attention and mental serenity.
 Increase your positive attitude and they will increase the quality of the relations with the team, they will discover the transforming power of the ioga.
-","Meeting rooms, office, outdoor spaces if the weather is nice ","[""Yoga Alliance Certified Yoga Teacher"", ""Materials: meditation pillow or mat,"" ""Different styles: hatha, vinyasa, kundalini, bikram""]",
-,,,Souvenir,"2,3",1,,"ca, es, en",yes,barcelona,Taller del trencadís,"De forma ràpida i divertida s'aprèn la tècnica inventada per Gaudí. El taller del Trencadis és una activitat artística i creativa que potencia la satisfacció i superació personal , augmenta la concentració i la memòria i al mateix temps proporciona gran relaxació.
+","Meeting rooms, office, outdoor spaces if the weather is nice ","Yoga Alliance Certified Yoga Teacher
+Materials: meditation pillow or mat,"" ""Different styles: hatha, vinyasa, kundalini, bikram",,Demana més informació de les nostres activitats,Pide más información de nuestras actividades,Ask for more information about our activities
+46.jpg,47.jpg,48jpg,Souvenir,"2,3",1,,"ca, es, en",yes,barcelona,Taller del trencadís,"De forma ràpida i divertida s'aprèn la tècnica inventada per Gaudí. El taller del Trencadis és una activitat artística i creativa que potencia la satisfacció i superació personal , augmenta la concentració i la memòria i al mateix temps proporciona gran relaxació.
 
 Crearem les sensacions que ens transmet el trencadís mitjançant la utilització de dissenys orgànics i geomètrics, la interpretació del color i la composició.
-Fes el millor record!!!",Barcelona,"[""Material necessari i artista""]",,Taller del trencadís,"De forma rápida y divertida se aprende la técnica inventada por  Gaudí. El taller de Trencadis  es una  actividad  artística y creativa  que potencia la satisfacción y superación personal , aumenta la concentración y la memoria y al mismo tiempo proporciona gran relajación  y sosiego.
+Fes el millor record!!!",Barcelona,Material necessari i artista,,Taller del trencadís,"De forma rápida y divertida se aprende la técnica inventada por  Gaudí. El taller de Trencadis  es una  actividad  artística y creativa  que potencia la satisfacción y superación personal , aumenta la concentración y la memoria y al mismo tiempo proporciona gran relajación  y sosiego.
 
 Crearemos las sensaciones que nos transmite el trencadís mediante la utilización de diseños orgánicos y geométricos, la interpretación del color y la composición.
-¡¡¡ Haz el mejor recuerdo!!!",Barcelona,"[""Material necesario y artista""]",,Create your own souvenir!,"You will learn the technique invented by Gaudí. Trencadís workshop is an artistic and creative activity which enhances satisfaction and personal growth, increases concentration and memory and at the same time provides relaxation and calm.
+¡¡¡ Haz el mejor recuerdo!!!",Barcelona,Material necesario y artista,,Create your own souvenir!,"You will learn the technique invented by Gaudí. Trencadís workshop is an artistic and creative activity which enhances satisfaction and personal growth, increases concentration and memory and at the same time provides relaxation and calm.
 
-Get the best souvenir of your trip!!",Barcelona,"[""Material and artist""]",
+Get the best souvenir of your trip!!",Barcelona,Material and artist,,Demana més informació dels nostres tallers,Pide más información de nuestros talleres,Ask for more information about our workshop
 14.jpg,15.jpg,16.jpg,wine,4,5,,"ca, es, en",yes,barcelona,Una copeta de vi a pinzellades,"Et proposem pintar amb un material no convencional. Els pigments que provenen del vi. 
 El taller creatiu, consisteix en l'experimentació i la creació d'una obra d'art a partir del vi. 
 
-Aquesta activitat anirà acompanyada d'un tast de vins de la zona. Cadascú podrà emportar-se l'obra realitzada durant el taller.",Tant a espais interiors com a bodegues,"[""Material necessari i artista"" ""Dues copes de vi per a la degustació""]","[""Transport""]",El arte del vino,"Te proponemos pintar con un material no convencional. Los pigmentos que provienen del vino. 
+Aquesta activitat anirà acompanyada d'un tast de vins de la zona. Cadascú podrà emportar-se l'obra realitzada durant el taller.",Tant a espais interiors com a bodegues,"Material necessari i artista
+Dues copes de vi per a la degustació",Transport,El arte del vino,"Te proponemos pintar con un material no convencional. Los pigmentos que provienen del vino. 
 El taller creativo, consiste en la experimentación y la creación de una obra de arte a partir del vino. 
 
-Esta actividad irá acompañada de una cata de vinos de la zona. Cada cual podrá llevarse la obra realizada durante el taller.",Tanto en espacios interiores cómo en bodegas,"[""Material necesario y artista"" ""Dos copas de vino para la degustación""]","[""Transport""]",Wine art,"We'll paint with a non-conventional material. The pigments that come from the wine.
+Esta actividad irá acompañada de una cata de vinos de la zona. Cada cual podrá llevarse la obra realizada durante el taller.",Tanto en espacios interiores cómo en bodegas,"Material necesario y artista
+Dos copas de vino para la degustación",Transport,Wine art,"We'll paint with a non-conventional material. The pigments that come from the wine.
 The creative workshop, consists of experimentation and the creation of a work of art from the wine.
 
-This activity will be accompanied by a tasting of wines from the area. You can take your artwork with you!",Indoor spaces or bodega,"[""Material and artist"" "" Two wine glass""]","[""Transport""]"
-17.jpg,18.jpg,19.jpg,tours,10,2,,"ca, es",Yes,barcelona,DEGUSTACIÓ DE LES JOIES DEL MAR,"L'excursió consisteix a descobrir una de les meravelles del Parc Natural del Delta de l’Ebre. Coneix el procés de producció i criança dels musclos i ostres en una musclera. En el restaurant, realitzareu la degustació de les autèntiques joies de la badia que aniran acompanyades d’un marinatge de cava i vi de la terra alta que et faran gaudir d’una experiència realment inoblidable. 
-El restaurant està situat en un lloc idíl·lic, on gaudir de la natura, de l’entorn i d’una excel·lent gastronomia. Per accedir-hi, agafareu una Golondrina al Port de Sant Carles de la Ràpita.",Sant Carles de la Ràpita,"[""Golondrina"", ""Visita a les muscleres"", ""El menú: degustació de musclos i ostres, polp de la badia, mariscada, rebosteria típica del delta, crema de Licor d'arròs i begudes (1 ampolla de vi per cada 3 persones + 1 copa de cava + cafès)","[""Transport (demana pressupost)""]",DEGUSTACIÓN DE LAS JOYAS DEL MAR,"La excursión consiste en descubrir una de las maravillas del Parque Natural del Delta del Ebro. Conozca el proceso de producción y crianza de los mejillones y ostras en una mejillonera.
+This activity will be accompanied by a tasting of wines from the area. You can take your artwork with you!",Indoor spaces or bodega,"Material and artist"" "" Two wine glass",Transport,Demana més informació dels nostres tallers,Pide más información de nuestros talleres,Ask for more information about our workshop
+17.jpg,18.jpg,19.jpg,tours,10,2,,"ca, es",yes,barcelona,Degustació de les joies del mar,"L'excursió consisteix a descobrir una de les meravelles del Parc Natural del Delta de l’Ebre. Coneix el procés de producció i criança dels musclos i ostres en una musclera. En el restaurant, realitzareu la degustació de les autèntiques joies de la badia que aniran acompanyades d’un marinatge de cava i vi de la terra alta que et faran gaudir d’una experiència realment inoblidable. 
+El restaurant està situat en un lloc idíl·lic, on gaudir de la natura, de l’entorn i d’una excel·lent gastronomia. Per accedir-hi, agafareu una Golondrina al Port de Sant Carles de la Ràpita.",Sant Carles de la Ràpita,"Golondrina
+Visita a les muscleres
+El menú: degustació de musclos i ostres, polp de la badia, mariscada, rebosteria típica del delta, crema de Licor d'arròs i begudes (1 ampolla de vi per cada 3 persones + 1 copa de cava + cafès)",Transport (demana pressupost),DEGUSTACIÓN DE LAS JOYAS DEL MAR,"La excursión consiste en descubrir una de las maravillas del Parque Natural del Delta del Ebro. Conozca el proceso de producción y crianza de los mejillones y ostras en una mejillonera.
 En el restaurante, realizareis la degustación de las auténticas joyas de la bahía que irán acompañadas de una cata de cava y vino de la tierra alta que te harán disfrutar de una experiencia realmente inolvidable.
-El restaurante está situado en un lugar idílico, donde disfrutar de la naturaleza, del entorno y de una excelente gastronomía. Para acceder, cogeréis una Golondrina en el Puerto de <em>Sant Carles de la Ràpita</em>.",Sant Carles de la Ràpita,"[""Golondrina"", ""Visita a las mejilloneras"", ""Menú: degustación de mejillones y ostras, pulpo de la bahía, mariscada, repostería típica del Delta, crema de licor de arroz y bebidas (1 botella de vino por cada 3 personas + 1 copa de cava + cafés)","[""Transporte (pide presupuesto)""]",TASTING THE JEWELS OF THE BAY,"Excursion is to discover one of the wonders place of the Natural Park of the Ebro Delta. You will also be able to observe the production process and the harvesting of our mussels and oysters.
+El restaurante está situado en un lugar idílico, donde disfrutar de la naturaleza, del entorno y de una excelente gastronomía. Para acceder, cogeréis una Golondrina en el Puerto de <em>Sant Carles de la Ràpita</em>.",Sant Carles de la Ràpita,"Golondrina
+Visita a las mejilloneras
+Menú: degustación de mejillones y ostras, pulpo de la bahía, mariscada, repostería típica del Delta, crema de licor de arroz y bebidas (1 botella de vino por cada 3 personas + 1 copa de cava + cafés)",Transporte (pide presupuesto),Tasting the jewels of the bay,"Excursion is to discover one of the wonders place of the Natural Park of the Ebro Delta. You will also be able to observe the production process and the harvesting of our mussels and oysters.
 
  The team responsible for the Musclarium will explain the history and present day importance of this crop, which is so ingrained in our region, with the aid and support of an interesting audiovisual presentation.
 
 Climb up onto a mussel bed and savour the true gems of the bay. Mussels and oysters accompanied by cava and wine from the Terra Alta region will ensure that you enjoy an unforgettable experience
 
-The restaurant is located in excellent place to relax, enjoy great service, good food, and nature.",Sant Carles de la Ràpita,"[""Motor launch"", ""Mussels beds visit"", ""Menú: tasting mussels and oysters, octopus of the bay, seafood platter, typical desserts, rice cream liquor and drinks (1 bottle of wine for every 3 people + 1 glass of cava + coffees)","[""Transport (to ask)""]"
-20.jpg,21.jpg,22.jpg,oil,2,10,,"ca, es",,barcelona,OleoEnamórate,"A una emblemàtica Masia del Segle XII, on ja es produïa vi i oli en l'antiguitat, t'explicarem la nostra experiència i passió per aconseguir un Oli d'Oliva Verge Extra de qualitat.
+The restaurant is located in excellent place to relax, enjoy great service, good food, and nature.",Sant Carles de la Ràpita,"Motor launch
+Mussels beds visit
+Menú: tasting mussels and oysters, octopus of the bay, seafood platter, typical desserts, rice cream liquor and drinks (1 bottle of wine for every 3 people + 1 glass of cava + coffees)",Transport (to ask),Demana més informació de les nostres excursions,Pide más información de nuestras excursiones,Ask for more information about our tours
+21.jpg,20.jpg,22.jpg,oil,2,10,,"ca, es",no,barcelona,OleoEnamórate,"A una emblemàtica Masia del Segle XII, on ja es produïa vi i oli en l'antiguitat, t'explicarem la nostra experiència i passió per aconseguir un Oli d'Oliva Verge Extra de qualitat.
 
 Benvinguda i inici de la visita amb una breu introducció històrica de la Masia. Mentre visitem els camps, la nostra petita almàssera i la premsa antiga, ens endinsarem en els processos de l'elaboració que intervenen en la producció de l'oli i com aquests afecten a la qualitat final.
 Explicació de les diferents qualitats d'oli d'oliva que podem trobar al mercat (Verge Extra, Verge, d'Oliva o <em>d’Orujo</em> d'Oliva) i breu introducció a la metodologia de tast, on degustarem dos olis de qualitats diferents. 
 
-Maridatge i degustació de tres o quatre tapes amb el nostre Oli d'Oliva Verge Extra.",Bigues i Riells,"[""Guia"", ""Prova de dues tipologies d'oli de qualitat"", "" Degustació de tapes""]","[""Transport (demana pressupost)""]",OleoEnamórate,"En una emblemática Masía del Siglo XII, donde ya se producía vino y aceite en la antigüedad, te explicaremos nuestra experiencia y pasión por conseguir un Aceite de Oliva Virgen Extra de calidad, o lo que es lo mismo, un AOVE Premium.
+Maridatge i degustació de tres o quatre tapes amb el nostre Oli d'Oliva Verge Extra.",Bigues i Riells,"Guia
+Prova de dues tipologies d'oli de qualitat
+Degustació de tapes",Transport (demana pressupost),OleoEnamórate,"En una emblemática Masía del Siglo XII, donde ya se producía vino y aceite en la antigüedad, te explicaremos nuestra experiencia y pasión por conseguir un Aceite de Oliva Virgen Extra de calidad, o lo que es lo mismo, un AOVE Premium.
 
 Bienvenida e inicio de la visita con una breve introducción histórica de la Masía.Mientras visitamos los campos, nuestra pequeña almazara y la prensa antigua, nos adentraremos en los procesos de la elaboración que intervienen en la producción del aceite y como éstos afectan a la calidad final.
 Explicación de las diferentes calidades de aceite de oliva que podemos encontrar en el mercado (Virgen Extra, Virgen, de Oliva o de Orujo de Oliva) y breve introducción a la metodología de cata, donde cataremos dos aceites de calidades diferentes. 
 
-Maridaje y degustación de tres o cuatro tapas con nuestro Aceite de Oliva Virgen Extra.",Bigues i Riells,"[""Guía"", ""Prueba de dos tipos de aceite de calidad"", "" Degustación de tapas""]","[""Transporte (pide presupuesto)""]",OleoEnamórate,"In an emblematic house from the XII century, where already produced oil and wine in old times, we will explain our experience and passion for a quality Extra Virgin Olive Oil.
+Maridaje y degustación de tres o cuatro tapas con nuestro Aceite de Oliva Virgen Extra.",Bigues i Riells,"Guía
+Prueba de dos tipos de aceite de calidad
+Degustación de tapas",Transporte (pide presupuesto),OleoEnamórate,"In an emblematic house from the XII century, where already produced oil and wine in old times, we will explain our experience and passion for a quality Extra Virgin Olive Oil.
 
 Welcome and brief historical introduction of the Masia. We go into the processes that are involved in the production of oil and how these affect the final quality.
-We ‘ll explain the different qualities of olive oil that can be found on the market and little introduction to the methodology of tasting, where we taste two oils of different qualities with typical spanish tapas.",Bigues i Riells,"[""Guided tour"", ""Tutored olive oil tasting, guided by an expert: 2 extra virgin olive oils of different varieties will be tasted"", ""
-Tasting Spanish Tapas""] 
-","[""Transport (to ask)""]"
+We ‘ll explain the different qualities of olive oil that can be found on the market and little introduction to the methodology of tasting, where we taste two oils of different qualities with typical spanish tapas.",Bigues i Riells,"Guided tour
+Tutored olive oil tasting, guided by an expert: 2 extra virgin olive oils of different varieties will be tasted
+Tasting Spanish Tapas 
+",Transport (to ask),Demana més informació de les nostres excursions,Pide más información de nuestras excursiones,Ask for more information about our tours
 23.jpg,24.jpg,25.jpg,Safari,10,5,,"es, en, fr, de, pt",ask,lisbon,Jeep Safari,"Els romans van anomenar al poble de Sintra ""La muntanya de la lluna"". És un lloc que evoca sensació de màgia i misteri. Desde boscos màgics a palaus romàntics.
 
-Recorreguts amb jeeps per Sintra, els pilots ens explicaran sobre la fauna, la flora, les llegendes tradicionals, la història i la cultura dels diferents llocs que visitarem. (Sintra, Palacio de Pena, Cap dóna Roca...) Acabarem l'excursió amb un menjar a un local típic de Sintra).",Sintra,"[""Ruta guiada"", ""Recollida al hotel"", "" Jeep 4X4"", "" Conductors"", ""Menjar típic""] 
+Recorreguts amb jeeps per Sintra, els pilots ens explicaran sobre la fauna, la flora, les llegendes tradicionals, la història i la cultura dels diferents llocs que visitarem. (Sintra, Palacio de Pena, Cap dóna Roca...) Acabarem l'excursió amb un menjar a un local típic de Sintra).",Sintra,"Ruta guiada
+Recollida al hotel
+Jeep 4X4
+Conductors
+Menjar típic de la zona
 ",,Jeep Safari,"Los romanos llamaron al pueblo de Sintra ""La montaña de la luna"". Es un lugar que evoca sensación de mágia y misterio. Des de bosques mágicos a palacios románticos.
-Recorridos con jeeps por Sintra, los pilotos nos explicarán sobre la fauna, la flora, las leyendas tradicionales, la historia y la cultura de los diferentes sitios que visitaremos. (Sintra, Palacio de Pena, Cabo da Roca...) Acabaremos la excursión con una comida en un local típico de Sintra).",Sintra,"[""Tour guiado"", ""Recogida en el hotel"", "" Jeep 4X4"", "" Conductores"", ""Comida típica""] 
+Recorridos con jeeps por Sintra, los pilotos nos explicarán sobre la fauna, la flora, las leyendas tradicionales, la historia y la cultura de los diferentes sitios que visitaremos. (Sintra, Palacio de Pena, Cabo da Roca...) Acabaremos la excursión con una comida en un local típico de Sintra).",Sintra,"Tour guiado
+Recogida en el hotel
+Jeep 4X4
+Conductores
+Comida típica 
 ",,Jeep Safari,"The Romans called it “The Mountain of the Moon”. Few places in the world can evoke a sense of magic and mystery as does Sintra. From magical forests to romantic palaces Sintra never fails to seduce. Magical, adventurous and charming this place is a unique.
 
-During the tour the drivers will give explanations about Fauna, Flora, Legends & Traditions, History and Culture of the places where the jeeps passes. (Pena Palace, Sintra village, Cabo da Roca). We will finish the tour in a typical local restaurant taking lunch.",Sintra,"[""Guided tour"", ""Pick up at the hotel"", "" Jeep 4X4"", "" Drivers"", ""Typical lunch""] 
-",
-,,,Wine,10,5,,"es, en, fr, de, pt",ask,lisbon,Ruta del vi,"Sortint de Lisboa pel pont Basc dóna Gamma , tindrà l'oportunitat d'admirar la bella badia de riu Tajo. Ens dirigirem a les muntanyes de la regió de vi de l’Arrábida, passant per molts vinyers.
+During the tour the drivers will give explanations about Fauna, Flora, Legends & Traditions, History and Culture of the places where the jeeps passes. (Pena Palace, Sintra village, Cabo da Roca). We will finish the tour in a typical local restaurant taking lunch.",Sintra,"Guided tour
+Pick up at the hotel
+Jeep 4X4
+Drivers
+Typical lunch
+",,Demana més informació de les nostres excursions,Pide más información de nuestras excursiones,Ask for more information about our tours
+40.jpg,41.jpg,42.jpg,Wine,10,5,,"es, en, fr, de, pt",ask,lisbon,Ruta del vi,"Sortint de Lisboa pel pont Vasc dóna Gamma , tindrà l'oportunitat d'admirar la bella badia de riu Tajo. Ens dirigirem a les muntanyes de la regió de vi de l’Arrábida, passant per molts vinyers.
 
 Farem una parada a una bella finca de vins situada al parc de l’Arrábida, on degustarem vins i visitarem el celler més emblemàtic de Portugal, que inclou un palau del segle XV.
 
@@ -145,8 +246,12 @@ Tindrà temps per prendre fotos espectaculars des del punt més alt del Parc Nat
 Finalment deixarem temps perquè visitin el pintoresc poble de Sensimbra,  per què puguin pescar, relaxar-se i menjar peix fresc. 
 
 De tornada a Lisboa realitzarem una parada en el Crist Rei (estàtua inspirada en el Crist Redemptor de Rio).
-",Sud de Lisboa,"[""Ruta guiada"", ""Recollida a l'hotel"", "" Degustació de vins"", "" Visita a la bodega i al Palau"", ""Visita Cristo Rei""] 
-","[""menjars""]",Ruta del vino,"Saliendo de Lisboa por el puente Vasco da Gama , tendrá la oportunidad de admirar la hermosa bahía de río Tajo. Nos dirigiremos a lo largo de las montañas de la región de vino de la Arrábida, pasando por muchos viñedos, árboles de corcho y oliva.
+",Sud de Lisboa,"Ruta guiada
+Recollida a l'hotel
+Degustació de vins
+Visita a la bodega i al Palau
+Visita Cristo Rei 
+",Menjars,Ruta del vino,"Saliendo de Lisboa por el puente Vasco da Gama , tendrá la oportunidad de admirar la hermosa bahía de río Tajo. Nos dirigiremos a lo largo de las montañas de la región de vino de la Arrábida, pasando por muchos viñedos, árboles de corcho y oliva.
 
 Haremos una parada en una hermosa finca de vinos en el corazón del parque de Arrábida, dónde degustaremos vinos y visitaremos la bodega más emblemática de Portugal, que incluye un palacio del siglo XV.
 
@@ -155,34 +260,76 @@ Tendrá tiempo para tomar fotos espectaculares desde el punto más alto del Parq
 Por último dejaremos tiempo para que visiten el pintoresco pueblo de Sensimbra, puedan pescar, relajarse y comer pescado fresco. 
 
 De vuelta a Lisboa realizaremos una parada en el Cristo Rei (estatua inspirada en el Cristo Redentor de Rio)
-",Sur de Lisboa,"[""Tour guiado"", ""Recogida en el hotel"", "" Cata de Vinos"", "" Visita a la bodega y al palacio"", ""Visita Cristo Rei""] 
-","[""comidas""]",Wine tour,"Leaving Lisbon by Vasco da Gama bridge, you’ll have the chance to admire the beautiful Tagus river bay. After arriving in Palmela, we’ll ascend its Castle Tower for an amazing group photo opportunity. We will then drive along the mountains of the  Arrábida wine region, passing by many vineyards, cork and olive trees.
+",Sur de Lisboa,"Tour guiado
+Recogida en el hote
+Cata de Vinos
+Visita a la bodega y al palacio
+Visita Cristo Rei 
+",Comidas,Wine tour,"Leaving Lisbon by Vasco da Gama bridge, you’ll have the chance to admire the beautiful Tagus river bay. After arriving in Palmela, we’ll ascend its Castle Tower for an amazing group photo opportunity. We will then drive along the mountains of the  Arrábida wine region, passing by many vineyards, cork and olive trees.
 
 We will stop at a beautiful wine farm in the heart of Arrábida Park, where it is time to taste some wine and visit one of Portugal’s most iconic winery, which includes a XV palace, the most well preserved from its time.
 Afterwards you’ll have a great chance to take spectacular photos from the highest point of the Arrábida Natural Park with breathtaking views over the Atlantic Ocean.
 
-Time for lunch at the picturesque fishing village of Sesimbra and relax with some fresh fish and seafood dishes.  Last, we will stop at Cristo Rei (inspired by Rio de Janeiro’s statue of Cristo Redentor) ",Lisbon South,"[""Guided tour"", ""Pick up at the hotel"", "" Wine Taste"", "" Visit at wine farm and palace"", ""Visit Cristo Rei""] 
-","[""lunch""]"
+Time for lunch at the picturesque fishing village of Sesimbra and relax with some fresh fish and seafood dishes.  Last, we will stop at Cristo Rei (inspired by Rio de Janeiro’s statue of Cristo Redentor) ",Lisbon South,"Guided tour
+Pick up at the hotel
+Wine Taste
+Visit at wine farm and palace
+Visit Cristo Rei 
+",lunch,Demana més informació de les nostres excursions,Pide más información de nuestras excursiones,Ask for more information about our tours
 26.jpg,27.jpg,28.jpg,App,4,10,,"es, en, fr, de, pt",ask,lisbon,Crea el teu documental,"Durant l'activitat hauran de crear un documental de la ciutat per equips. Hauran de visitar els millors llocs, restaurants, museus, i hauran de demanar consell a diferents persones locals, i crear un documental d'uns 5 minuts de durada.
 
-A cada equip se li donarà una ruta específica en un IPAD per passar per diversos punts de la ciutat i hauran d’intentar crear el millor documental dins de l'empresa. Amb ajuda dels organitzadors i de les persones locals que es podran trobar durant l'activitat. Al finalitzar, hauran de decidir quin és el millor documental.",Lisboa,"[""Material per a l'activitat"", ""Recollida a l'hotel"" , ""Companyia d'assegurança de responsabilitat civil i de lesions personals"", ""Edició i composició d'una pel·lícula"", ""Mapa amb tots els llocs"", ""Cintes de colors per a cada equip"", ""Personal especialitzat per controlar l'activitat""]","[""menjars""]",Crea tu documental,"Durante la actividad tendrán que crear un documental de la ciudad por equipos. Tendrán que visitar los mejores lugares, restaurantes, museos, tendrán que pedir consejo a diferentes personas locales, y crear un documental de unos 5 minutos de duración.
+A cada equip se li donarà una ruta específica en un IPAD per passar per diversos punts de la ciutat i hauran d’intentar crear el millor documental dins de l'empresa. Amb ajuda dels organitzadors i de les persones locals que es podran trobar durant l'activitat. Al finalitzar, hauran de decidir quin és el millor documental.",Lisboa,"Material per a l'activitat
+Recollida a l'hotel
+Companyia d'assegurança de responsabilitat civil i de lesions personals
+Edició i composició d'una pel·lícula
+Mapa amb tots els llocs
+Cintes de colors per a cada equip
+Personal especialitzat per controlar l'activitat",Menjars,Crea tu documental,"Durante la actividad tendrán que crear un documental de la ciudad por equipos. Tendrán que visitar los mejores lugares, restaurantes, museos, tendrán que pedir consejo a diferentes personas locales, y crear un documental de unos 5 minutos de duración.
 
 A cada equipo se le dará una ruta específica en un IPAD para pasar por varios puntos de la ciudad y a intentar crear el mejor documental dentro de la empresa. Con ayuda de los organizadores y de las personas locales que se podrán encontrar durante la actividad. Al final de la actividad se valorará que equipo ha hecho el mejor documental.
-",Lisboa,"[""Material para la actividad"", ""Recogida en el hotel"" , ""Compañía de seguro de responsabilidad civil y seguro de lesiones personales"", ""Edición y composición de una película"", ""Mapa con todos los lugares"", ""Cintas de colores para cada equipo"", ""Personal especializado para controlar la actividad""]","[""comidas""]",DO IT YOURSELF,"We will make teams. During the activity, they will have to create a documentary of the city. They will have to visit the best attractions, restaurants, museums, they will  do a documentary of about 5 minutes.
+",Lisboa,"Material para la actividad
+Recogida en el hotel
+Compañía de seguro de responsabilidad civil y seguro de lesiones personales
+Edición y composición de una película
+Mapa con todos los lugares
+Cintas de colores para cada equipo
+Personal especializado para controlar la actividad",Comidas,Do it yourself,"We will make teams. During the activity, they will have to create a documentary of the city. They will have to visit the best attractions, restaurants, museums, they will  do a documentary of about 5 minutes.
 
-Will be each team a specific route on an IPAD to pass through several points in the city and try to create the best documentary within the company. With the help of organizers and local people that they can find during the activity.",Lisbon,"[""Material for the activity"",""Pick up at the hotel"", ""Company's liability insurance and insurance for personal injury"", ""Editing and composition of a film"", ""Map with all the places, ""Ribbons of colors for each team"", ""Qualified personnel to control the activity""]","[""lunch""]"
-29.jpg,30.jpg,31.jpg,Air,1,5,,"es, en, fr, de, pt",ask,lisbon,Lisboa des de l'aire,"Passeig en helicòpter per poder veure Lisboa des de l'aire. Ruta: heliport, barri de Belém (monestir de Jerónimos de Belém) centre de Lisboa, Castell S.Jorge i tornar a l'heliport passant pel monument de Christ. És una manera única i exclusiva per conèixer des de l'aire els símbols més emblemàtics de la ciutat. No oblidi la seva càmera! Mentre un grup està volant l'altre tindrà l'oportunitat de visitar el museu nacional de cotxes antics.",Lisboa,"[""15 minuts de vol"", ""Recollida a l'hotel"" , ""Pilots"", ""Visita al Museu"", ""Guia""]","[""menjars""]",Lisboa desde el aire,"Paseo en helicóptero para poder ver Lisboa des del aire. Ruta: helipuerto, barrio de Belém (monasterio de Jerónimos de Belém) centro Lisboa Castillo S.Jorge y volver al helipuerto pasando el monumento de Christ. Es una manera única y exclusiva para conocer desde el aire los símbolos más emblemáticos de la ciudad. No olvide su cámara! Mientras un grupo está volando el otro tendrá la oportunidad de visitar el museo nacional de coches antiguos.",Lisboa,"[""15 minutos de vuelo"", ""Recogida en el hotel"" , ""Pilotos"", ""Visita al Museo"", ""Guía""]","[""comidas""]",Libon by air,"We propose a helicopter ride along the most emblematic Lisbon landmarks, with the following route: heliport, Belém Quarter ( Belém Tower Discoveries Monument Jerónimos Monastery) 25 April Bridge, Downtown Lisbon Castle S.Jorge and back to Heliport passing the Christ Monument.
+Will be each team a specific route on an IPAD to pass through several points in the city and try to create the best documentary within the company. With the help of organizers and local people that they can find during the activity.",Lisbon,"Material for the activity
+Pick up at the hotel
+Company's liability insurance and insurance for personal injury
+Editing and composition of a film
+Map with all the places, ""Ribbons of colors for each team
+Qualified personnel to control the activity",lunch,Demana més informació de les nostres activitats,Pide más información de nuestras actividades,Ask for more information about our activities
+29.jpg,30.jpg,31.jpg,Air,1,5,,"es, en, fr, de, pt",ask,lisbon,Lisboa des de l'aire,"Passeig en helicòpter per poder veure Lisboa des de l'aire. Ruta: heliport, barri de Belém (monestir de Jerónimos de Belém) centre de Lisboa, Castell S.Jorge i tornar a l'heliport passant pel monument de Christ. És una manera única i exclusiva per conèixer des de l'aire els símbols més emblemàtics de la ciutat. No oblidi la seva càmera! Mentre un grup està volant l'altre tindrà l'oportunitat de visitar el museu nacional de cotxes antics.",Lisboa,"15 minuts de vol
+Recollida a l'hotel
+Pilots
+Visita al Museu
+Guia",Menjars,Lisboa desde el aire,"Paseo en helicóptero para poder ver Lisboa des del aire. Ruta: helipuerto, barrio de Belém (monasterio de Jerónimos de Belém) centro Lisboa Castillo S.Jorge y volver al helipuerto pasando el monumento de Christ. Es una manera única y exclusiva para conocer desde el aire los símbolos más emblemáticos de la ciudad. No olvide su cámara! Mientras un grupo está volando el otro tendrá la oportunidad de visitar el museo nacional de coches antiguos.",Lisboa,"Cocineros
+Material para cocinar
+Bebidas
+Degustación de lo que se ha cocinado",Comidas,Libon by air,"We propose a helicopter ride along the most emblematic Lisbon landmarks, with the following route: heliport, Belém Quarter ( Belém Tower Discoveries Monument Jerónimos Monastery) 25 April Bridge, Downtown Lisbon Castle S.Jorge and back to Heliport passing the Christ Monument.
 This is a unique and exclusive way to get to know from the air Lisbon’s most iconic symbols. Don’t forget your camera!
 
-While the other group flies around Lisbon, the other half will have the chance to visit one of the world’s most important and relevant antique coach exhibition, the National Coach Museum, located in the Belém quarter.",Lisbon,"[""flying 15 minutes"", ""Pick up at hotel"" , ""Drivers"", ""Visit Museum"", ""Guide""]","[""lunch""]"
+While the other group flies around Lisbon, the other half will have the chance to visit one of the world’s most important and relevant antique coach exhibition, the National Coach Museum, located in the Belém quarter.",Lisbon,"Flying 15 minutes
+Pick up at hotel
+Drivers
+Visit Museum
+Guide",lunch,Demana més informació de les nostres activitats,Pide más información de nuestras actividades,Ask for more information about our activities
 32.jpg,33.jpg,34.jpg,Cooking,2,10,,"es, en, fr, de, pt",ask,lisbon,Cuina un plat típic,"La idea és ensenyar alguns dels millors plats de la gastronomia portuguesa. Aquesta és una experiència que permet alts nivells d'interacció entre els membres del grup en un ambient divertit i relaxat.
 
 Per assegurar que tothom participa i gaudeix, dividirem el grup en grups més petits. Tothom treballarà al mateix temps en cada subgrup, amb el seu propi xef, fent una part del menú que se servirà als participants.
 És una divertida experiència, sempre escoltant música i bebent vi, grans grups empresarials, aprendre i gaudir les tradicions i sabors típics portuguesos!
-",Lisboa,"[""Cuiners"", ""Material per a cuinar"" , ""Begudess"",""Degustació dels plats cuinats""]",,Cocina un plato típico,"La idea es enseñar algunos de los mejores platos de la gastronomía portuguesa. Esta es una experiencia que permite altos niveles de interacción entre los miembros del grupo en un ambiente divertido y relajado.
+",Lisboa,"Cuiners
+Material per a cuinar
+Begudes
+Degustació dels plats cuinats",,Cocina un plato típico,"La idea es enseñar algunos de los mejores platos de la gastronomía portuguesa. Esta es una experiencia que permite altos niveles de interacción entre los miembros del grupo en un ambiente divertido y relajado.
 
 Para asegurar que todo el mundo participa y disfruta, dividiremos el grupo en grupos más pequeños. Todo el mundo trabajará al mismo tiempo en cada subgrupo, con su propio chef, haciendo una parte del menú que se servirá a los participantes.
-Es una divertida experiencia, siempre escuchando música y bebiendo vino, grandes grupos empresariales, aprender y disfrutar las tradiciones y sabores típicos portugueses!",Lisboa,"[""Cocineros"", ""Material para cocinar"" , ""Bebidas"",""Degustación de lo que se ha cocinado""]",,Cooking a typical dish,"The Portuguese Cooking Experience was designed to show and teach some of the greatest dishes of the Portuguese gastronomy. This is an experience that allows high levels of interaction among the group members in a fun and relaxed atmosphere.
+Es una divertida experiencia, siempre escuchando música y bebiendo vino, grandes grupos empresariales, aprender y disfrutar las tradiciones y sabores típicos portugueses!",Lisboa,"Cocineros"", ""Material para cocinar"" , ""Bebidas"",""Degustación de lo que se ha cocinado",,Cooking a typical dish,"The Portuguese Cooking Experience was designed to show and teach some of the greatest dishes of the Portuguese gastronomy. This is an experience that allows high levels of interaction among the group members in a fun and relaxed atmosphere.
 
 To ensure that everybody participates and enjoys, we split the group into smaller groups. Everybody works at the same time in each sub-group, with their own chef, doing a part of the menu that will be served to the participants.  
-It is a highly fun experience, always listening to music and drinking wine, great for corporate groups, learning and enjoying the typical Portuguese flavors and traditions!",Lisbon,"[""Chefs"", ""Cooking material"" , ""Drinks"",""Taste""]",
+It is a highly fun experience, always listening to music and drinking wine, great for corporate groups, learning and enjoying the typical Portuguese flavors and traditions!",Lisbon,"Chefs
+Cooking material
+Drinks
+Taste",,Demana més informació dels nostres tallers,Pide más información de nuestros talleres,Ask for more information about our workshop

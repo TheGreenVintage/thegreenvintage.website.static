@@ -26,6 +26,7 @@ en:
     navigation: Navegation
     more_info: More information
   common:
+    destinations_tittle: How can we help you?
     destinations_meetings: Great ideas for venues and meetings
     destinations_activities: Tailored experiences that fit your needs
     destinations_hotels: Wide range of accommodation
@@ -44,10 +45,10 @@ en:
       and their success
     start_now: See our activities
     activities_title: Our activities
-    activities_description: More creativity. Better communication. More creativity.
-      Higher productivity. Let’s take your team to the next level.
-    activities_message: Explore our fantastic range of team building activities and
-      contact us to discuss the best options to meet your objectives.
+    activities_message: More creativity. Better communication. More creativity. Higher
+      productivity. Let’s take your team to the next level.
+    activities_description: Explore our fantastic range of team building activities
+      and contact us to discuss the best options to meet your objectives.
     destinations_title: Destinations & Events
     destinations_description: Are you planning a meeting, conference or special event
       and need local expertise and support? Then, you need a Destination Management
@@ -60,6 +61,8 @@ en:
     contact: Explain us your proposal
     sections: Sections
     destination: Destinations
+    adress: Carrer Casp, 79 Penthouse
+    location: Barcelona, 08013
   team:
     title: About us
     message: Destinations Manager Experts with a Personal Touch
@@ -81,10 +84,12 @@ en:
       improves the result"
   activities:
     languages:
+      title: Languages
       es: Spanish
       ca: Catalan
       en: English
-      de: French
+      de: Germany
+      fr: French
       pt: Portuguese
     accesibility:
       title: Accesibility
@@ -97,22 +102,10 @@ en:
       title: Price
       ask: To ask
     duration: Duration
+    hours: Hours
     related: Other activities
-    contact:
-      Quiz: ASK FOR MORE INFORMATION ABOUT OUR BUSINESS GAME WITH IPADS
-      Graffitis: ASK FOR MORE INFORMATION ABOUT OUR WORKSHOP
-      Batucada: ASK FOR MORE INFORMATION ABOUT OUR WORKSHOP
-      Kitesurf: ASK FOR MORE INFORMATION ABOUT OUR ACTIVITIES
-      Montserrat: ASK FOR MORE INFORMATION ABOUT OUR TOURS
-      Karts: ASK FOR MORE INFORMATION ABOUT OUR ACTIVITIES
-      Yoga: ASK FOR MORE INFORMATION ABOUT OUR ACTIVITIES
-      Oil: ASK FOR MORE INFORMATION ABOUT OUR TASTING EXPERIENCES
-      Souvenir: ASK FOR MORE INFORMATION ABOUT OUR WORKSHOP
-      Monster: ASK FOR MORE INFORMATION ABOUT OUR SPEED ACTIVITIES
-      Musclarium: ASK FOR MORE INFORMATION ABOUT OUR TOURS
-      Wine: ASK FOR MORE INFORMATION ABOUT OUR WORKSHOPS
-    'contact ': Submit comment
     pax: minimum of people
+  El nostre proc: Submit comment
   teambuilding:
     title: Team Building
     message: Improving your team’s happiness and productivity has been our mission!
@@ -159,7 +152,7 @@ en:
       organization and goals. Events are the perfect way to get creative, build excitement,
       celebrate something special, showroom... And we're your detail orientated, dedicated
       team who will always accept responsibility for the success of your event."
-    process_title: OUR PROCESS
+    process_title: Our process
     process_description: '["BRIEFING: Our inquiry form helps us to understand your
       needs", "CONFIRMATION: We’ll confirm your request and get in touch if we have
       any questions", "BRAINSTORM: Our team will gather ideas to create your unique
@@ -170,15 +163,7 @@ en:
       arrange financial transfers, and will put holds on hotel rooms, restaurants,
       venues, excursions, transportation and staff", "EXECUTE: We will coordinate
       all the actions to ensure success"]'
-    countries: Our destinations
-    bcn_title: Barcelona
-    bcn_description: Located on the Mediterranean sea. Barcelona is a symbol of architecture,
-      design, history, tradition, culture, modernity, nightlife and cuisine are some
-      of the key words to describe the city.
-    lisbon_title: Lisbon
-    lisbon_description: Lisbon is a magical city, where the imperial past and an independent
-      present come together to make the city unique, a special place full of infinite
-      possibilities.
+    where: Si no ho fa ara, quan?
     custom_title: Custom-made
     custom_description: Do you have any other idea? We can make it. We customize and
       give life to your wishes.
@@ -186,7 +171,7 @@ en:
     title: Contact
     message: If you have any idea you'd like to be created please talk to us and fulfill
       the following form. We’ll be glad to plan your next event!
-    in_contact: KEEP IN TOUCH!
+    in_contact: Keep in touch!
     send: Send
     message_placeholder: Your message
     subject_placeholder: Your subject

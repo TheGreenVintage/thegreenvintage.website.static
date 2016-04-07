@@ -2,6 +2,7 @@
 
 for X in `ls -1 | grep -v thumb.jpg`; do
   echo "Resizing ${X}..."
+  convert  -resize 228x -strip -interlace Plane -quality 75 "$X" "${X%.jpg}_thumb.jpg"
   convert  -resize 800x -strip -interlace Plane -quality 85 "$X" "$X"
 done
 

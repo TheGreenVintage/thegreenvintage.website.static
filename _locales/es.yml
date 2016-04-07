@@ -25,6 +25,7 @@ es:
     navigation: Navegación
     more_info: Más información
   common:
+    destinations_tittle: "¿En qué te podemos ayudar?"
     destinations_meetings: Ideas para reuniones y venues únicos
     destinations_activities: Experiencias a medida
     destinations_hotels: Gran variedad de alojamientos
@@ -44,9 +45,9 @@ es:
       nuestros clientes y su ÉXITO
     start_now: Ver nuestras actividades
     activities_title: Nuestras actividades
-    activities_description: Más creatividad. Mejor comunicación. Mayor productividad.
+    activities_message: Más creatividad. Mejor comunicación. Mayor productividad.
       Mejor comunicación. Lleva a su equipo a otro nivel.
-    activities_message: Explora nuestra gama de actividades, y contacte con nosotros
+    activities_description: Explora nuestra gama de actividades, y contacte con nosotros
       para adaptar las mejores opciones y satisfacer sus objetivos.
     destinations_title: Destinaciones & Eventos
     destinations_description: "<em>The Green Vintage</em> es su aliado en el momento
@@ -61,6 +62,8 @@ es:
     contact: Cuéntanos tu propuesta
     sections: Secciones
     destination: Destinaciones
+    adress: Carrer Casp, 79 Sobreático
+    location: Barcelona, 08013
   team:
     title: Sobre nosotros
     message: Expertos en gestión de destinos (DMC)
@@ -82,10 +85,12 @@ es:
       compartido mejora el resultado"
   activities:
     languages:
+      title: Idiomas
       es: Español
       ca: Catalán
       en: Inglés
-      de: Francés
+      de: Alemán
+      fr: Francés
       pt: Portugués
     accesibility:
       title: Accesibilidad
@@ -98,22 +103,10 @@ es:
       title: Precio
       ask: A consultar
     duration: Duración
+    hours: Horas
     related: Otras actividades
-    contact:
-      Quiz: Pide más información de nuestros juegos con Ipads
-      Graffitis: Pide más información de nuestros talleres
-      Batucada: Pide más información de nuestros talleres
-      Kitesurf: Pide más información de nuestras actividades
-      Montserrat: Pide más información de nuestras excursiones
-      Karts: Pide más información de nuestras actividades
-      Yoga: Pide más información de nuestras actividades
-      Oil: Pide más información de nuestras diversas degustaciones
-      Souvenir: Pide más información de nuestros talleres
-      Monster: Pide más información de nuestras actividades
-      Musclarium: Pide más información de nuestras excursiones
-      Wine: Pide más información de nuestros talleres
-    'contact ': Enviar comentario
     pax: mínimo de personas
+  El nostre proc: Enviar comentario
   teambuilding:
     title: Team Building
     message: Nuestra misión ha sido mejorar la felicidad y el rendimiento de su equipo!
@@ -155,7 +148,7 @@ es:
       manera perfecta para ser creativo, generar excitación, celebrar algo especial,
       dar a conocer su marca y/o producto, entre otras cosas. Cuidamos al máximo el
       detalle y el equipo siempre buscará que su evento sea un éxito."
-    process_title: NUESTRO PROCESO
+    process_title: Nuestro proceso
     process_description: "[“BRIEFING: Formulario de consulta que nos ayuda a comprender
       sus necesidades”, “CONFIRMACIÓN: En cuanto nos confirme su solicitud, nos pondremos
       en contacto para las dudas que puedan surgir, y para saber más detalladamente
@@ -167,16 +160,7 @@ es:
       excursiones, reuniones, transporte, lugares, restaurantes, hoteles...etc que
       usted mismo deberá firmar”,”EJECUTAR: Coordinar y supervisar que todo salga
       según lo previsto. Y poder gestionar cualquier petición adicional”]"
-    countries: Nuestras destinaciones
-    bcn_title: Barcelona
-    bcn_description: Barcelona, inspiración de cantantes, pintores, arquitectos y
-      artistas, es el símbolo del diseño, el modernismo y del   vanguardismo por excelencia.
-      Una ciudad mediterránea, cosmopolita, dinámica e innovadora, llena de contrastes,
-      color, luz    y diversidad.
-    lisbon_title: Lisboa
-    lisbon_description: Lisboa es una ciudad mágica, donde el pasado imperial, su
-      historia, sus paisajes y su gente, hacen de la ciudad un lugar especial lleno
-      de infinitas posibilidades.
+    where: Destinaciones
     custom_title: Otras destinaciones
     custom_description: "¿Tiene alguna otra destinación en mente? Podemos hacerlo.
       Personalizamos y damos vida a sus deseos."
