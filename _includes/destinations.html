@@ -1,0 +1,47 @@
+<div class="intro uppercase center">
+  <p>{{ 'destinations.message' | translate }}</p>
+</div>
+
+<p>{{ 'destinations.description' | translate }}</p>
+
+<div class="one-half">
+  <h2>{{ 'destinations.offer_title' | translate }}</h2>
+  <p>{{ 'destinations.offer_description' | translate }}</p>
+  <h2>{{ 'destinations.incentive_title' | translate }}</h2>
+  <p>{{ 'destinations.incentive_description' | translate }}</p>
+</div>
+<div class="one-half last">
+  <h2>{{ 'destinations.events_title' | translate }}</h2>
+  <p>{{ 'destinations.events_description' | translate }}</p>
+  <h2>{{ 'destinations.process_title' | translate }}</h2>
+  <ul>
+    {% assign list = 'destinations.process_list' | translate %}
+    {% for type in list %}
+    <li>{{ type }}</li>
+    {% endfor %}
+  </ul>
+</div>
+<div class="clear"></div>
+
+<h2>{{ 'destinations.where' | translate }}</h2>
+
+{% assign destinations = site.data.destinations %}
+{% for destination in destinations %}
+<div class="one-third">
+  <h3>{{ destination | translate: 'name' }}</h3>
+  <a href="/{{ page.locale}}/destinations/{{ destination | translate: 'name' | slugify }}">
+    <img src="/assets/images/{{ destination.photo }}" alt="{{ destination | translate: 'name' }}" title="{{ destination | translate: 'name' }}">
+  </a>
+  <p>{{ destination | translate: 'intro' }}</p>
+</div>
+{% endfor %}
+
+<div class="one-third last">
+  <h3>{{ 'destinations.custom_title' | translate }}</h3>
+  {% assign contact = 'contact' | section %}
+  <a href="{{contact.permalink}}">
+    <img src="/assets/images/{{ 'destinations.default_photo' | translate }}" alt="{{ 'destinations.custom_title' | translate }}" title="{{ 'destinations.custom_title' | translate }}">
+  </a>
+  <p>{{ 'destinations.custom_description' | translate }}</p>
+</div>
+<div class="clear"></div>

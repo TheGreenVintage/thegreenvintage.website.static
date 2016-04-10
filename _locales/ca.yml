@@ -109,16 +109,19 @@ ca:
   El nostre proc: Enviar comentari
   teambuilding:
     title: Team Building
-    message: La nostra missió ha estat millorar la felicitat i el rendiment del seu
-      equip!
+    message: La nostra missió és millorar la felicitat i el rendiment del seu equip!
     description_1: |-
       La felicitat i la satisfacció dels empleats són essencials per a la productivitat. El treball en equip és un procés que desenvolupa la comunicació en un grup i per tant té un enllaç directe a la construcció d'una força laboral més feliç i més productiva.
 
       Creem aquestes experiències que promoguin la relació de l'equip i la comunicació en un ambient relaxat i natural. Aquest enfocament crea riques i educatives activitats que deixen una bona sensació d'equip.
-    colum_1: '["Desenvolupament d''habilitats"," Millora la Comunicació“,”Promou el
-      treball en equip”]'
-    colum_2: '["Objectius i metes clarament definides", "Millora la col·laboració",
-      "Augmenta la productivitat"]'
+    colum_1: |-
+      Desenvolupament d'habilitats
+      Millora la Comunicació
+      Promou el treball en equip
+    colum_2: |-
+      Objectius i metes clarament definides
+      Millora la col·laboració
+      Augmenta la productivitat
     description_2: Comptem amb una àmplia selecció de propostes. Si vostè està buscant
       activitats d'adrenalina, culinàries, creatives, d'aventura... mira la nostra
       infinitat d'idees!
@@ -156,20 +159,29 @@ ca:
       entre altres coses. Cuidem al màxim el detall i l'equip sempre buscarà que el
       seu esdeveniment sigui un èxit."
     process_title: El nostre procés
-    process_description: "[“BRIEFING: Formulari de consulta que ens ajuda a comprendre
-      les seves necessitats”, “CONFIRMACIÓ: ens posarem en contacte amb vostè via
-      email per confirmar la seva sol·licitud”, “BRAINSTORM: El nostre equip reunirà
-      idees per crear la seva experiència”, “PROPOSTA: Li enviarem la nostra proposta
-      per correu electrònic o si es prefereix podríem realitzar una videoconferència”,
-      “SEGUIMENT: programarem reunions per debatre temes i fer un seguiment personalitzat
-      del seu esdeveniment”,”RESERVA: Li enviarem un programa complet del que es realitzarà
-      durant l'esdeveniment, excursions, reunions, transport, llocs, restaurants,
-      hotels...etc que vostè mateix haurà de signar”,”EXECUTAR: Coordinar y supervisar
-      que tot surti segons el previst. I poder gestionar qualsevol petició addicional”]"
+    process_list:
+    - "“BRIEFING": Formulari de consulta que ens ajuda a comprendre les seves necessitats”
+    - "“CONFIRMACIÓ": ens posarem en contacte amb vostè via email per confirmar la
+        seva sol·licitud”
+    - "“BRAINSTORM": El nostre equip reunirà idees per crear la seva experiència”
+    - "“PROPOSTA": Li enviarem la nostra proposta per correu electrònic o si es prefereix
+        podríem realitzar una videoconferència”
+    - "“SEGUIMENT": programarem reunions per debatre temes i fer un seguiment personalitzat
+        del seu esdeveniment”
+    - "”RESERVA": Li enviarem un programa complet del que es realitzarà durant l'esdeveniment
+    - excursions
+    - reunions
+    - transport
+    - llocs
+    - restaurants
+    - hotels...etc que vostè mateix haurà de signar”
+    - "”EXECUTAR": Coordinar y supervisar que tot surti segons el previst. I poder
+        gestionar qualsevol petició addicional”
     where: Destinacions
     custom_title: Altres destinacions
     custom_description: Té alguna altra destinació en ment? Podem fer-ho. Personalitzem
       i donem vida als seus desitjos.
+    default_photo: destinations/3.jpg
   contact:
     title: Contacte
     message: Si té una idea que vol dur a terme amb nosaltres, ompli el següent formulari.

@@ -4,11 +4,11 @@ for X in `ls -1 | grep -v thumbnails`; do
 
   if [ ! -f "./thumbnails/${X}" ]; then
     echo "Generating thumbnail for ${X}..."
-    convert  -resize 228x -strip -interlace Plane -quality 75 "${X}" "./thumbnails/${X}"
+    convert  -resize 228x -strip -interlace Plane -quality 80 "${X}" "./thumbnails/${X}"
   fi
 
   echo "Resizing ${X}..."
-  convert  -resize 800x -strip -interlace Plane -quality 85 "${X}" "${X}"
+  convert  -resize 800x -strip -interlace Plane -quality 95 "${X}" "${X}"
 done
 
 #count=1

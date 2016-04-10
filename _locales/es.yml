@@ -109,15 +109,19 @@ es:
   El nostre proc: Enviar comentario
   teambuilding:
     title: Team Building
-    message: Nuestra misión ha sido mejorar la felicidad y el rendimiento de su equipo!
+    message: Nuestra misión es mejorar la felicidad y el rendimiento de su equipo!
     description_1: |-
       La felicidad y la satisfacción de los empleados son esenciales para la productividad. El trabajo en equipo es un proceso que desarrolla la comunicación en un grupo y por lo tanto tiene un enlace directo a la construcción de una fuerza laboral más feliz y más productiva.
 
       Creamos estas experiencias que promuevan la relación del equipo y la comunicación en un ambiente relajado y natural. Este enfoque crea ricas y educativas actividades que dejan una buena sensación de equipo.
-    colum_1: '["Desarrollo de habilidades ","Mejora la comunicación“, ”Promueve el
-      trabajo en equipo”]'
-    colum_2: '["Objetivos y metas claramente definidos", "Mejora la colaboración",
-      "Aumenta la productividad"]'
+    colum_1: |-
+      Desarrollo de habilidades
+      Mejora la comunicación
+      Promueve el trabajo en equipo
+    colum_2: |-
+      Objetivos y metas claramente definidos
+      Mejora la colaboración
+      Aumenta la productividad
     description_2: Contamos con una amplia selección de propuestas. Si usted está
       buscando actividades de adrenalina, culinarias, creativas, de aventura... mira
       nuestro sinfín de ideas!
@@ -149,21 +153,31 @@ es:
       dar a conocer su marca y/o producto, entre otras cosas. Cuidamos al máximo el
       detalle y el equipo siempre buscará que su evento sea un éxito."
     process_title: Nuestro proceso
-    process_description: "[“BRIEFING: Formulario de consulta que nos ayuda a comprender
-      sus necesidades”, “CONFIRMACIÓN: En cuanto nos confirme su solicitud, nos pondremos
-      en contacto para las dudas que puedan surgir, y para saber más detalladamente
-      todo lo que nos piden”, “BRAINSTORM: Nuestro equipo reunirá ideas para crear
-      su experiencia”, “PROPUESTA: Le enviaremos nuestra propuesta por correo electrónico
-      o si se prefiere podríamos realizar una videoconferencia”, “SEGUIMIENTO: programaremos
-      reuniones para debatir temas y hacer un seguimiento personalizado de su evento”,”RESERVA:
-      Le enviaremos un programa completo de lo que se va realizar durante el evento,
-      excursiones, reuniones, transporte, lugares, restaurantes, hoteles...etc que
-      usted mismo deberá firmar”,”EJECUTAR: Coordinar y supervisar que todo salga
-      según lo previsto. Y poder gestionar cualquier petición adicional”]"
+    process_list:
+    - "“BRIEFING": Formulario de consulta que nos ayuda a comprender sus necesidades”
+    - "“CONFIRMACIÓN": En cuanto nos confirme su solicitud
+    - nos pondremos en contacto para las dudas que puedan surgir
+    - y para saber más detalladamente todo lo que nos piden”
+    - "“BRAINSTORM": Nuestro equipo reunirá ideas para crear su experiencia”
+    - "“PROPUESTA": Le enviaremos nuestra propuesta por correo electrónico o si se
+        prefiere podríamos realizar una videoconferencia”
+    - "“SEGUIMIENTO": programaremos reuniones para debatir temas y hacer un seguimiento
+        personalizado de su evento”
+    - "”RESERVA": Le enviaremos un programa completo de lo que se va realizar durante
+        el evento
+    - excursiones
+    - reuniones
+    - transporte
+    - lugares
+    - restaurantes
+    - hoteles...etc que usted mismo deberá firmar”
+    - "”EJECUTAR": Coordinar y supervisar que todo salga según lo previsto. Y poder
+        gestionar cualquier petición adicional”
     where: Destinaciones
     custom_title: Otras destinaciones
     custom_description: "¿Tiene alguna otra destinación en mente? Podemos hacerlo.
       Personalizamos y damos vida a sus deseos."
+    default_photo: destinations/3.jpg
   contact:
     title: Contacto
     message: Si tiene una idea que quiere llevar a cabo con nosotros, rellene el siguiente

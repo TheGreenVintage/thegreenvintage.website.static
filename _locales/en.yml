@@ -113,10 +113,14 @@ en:
       Employee satisfaction and happiness are essential to productivity. Team building is a relationship-building process that develops communication in a group – and therefore has a direct link to building a happier and more productive workforce.
 
       We create these experiences that promote team bonding and communication in a relaxed environment. This approach creates rich, educational and engaging team building activities that leave your team feeling  engaged, rewarded and refreshed.
-    colum_1: '["Development of skills”, “Improved communication", "Better working
-      relationships"]'
-    colum_2: '["Clearly defines objectives and goals", "Better collaboration", "Increased
-      productivity"]'
+    colum_1: |-
+      Development of skills
+      Improved communication
+      Better working relationships
+    colum_2: |-
+      Clearly defines objectives and goals
+      Better collaboration
+      Increased productivity
     description_2: We have a vast selection of team building activities available
       for you to browse through. Whether you are looking for an adrenaline, culinary
       , creative activities… - we have it covered. Get into our ideas!
@@ -153,20 +157,23 @@ en:
       celebrate something special, showroom... And we're your detail orientated, dedicated
       team who will always accept responsibility for the success of your event."
     process_title: Our process
-    process_description: '["BRIEFING: Our inquiry form helps us to understand your
-      needs", "CONFIRMATION: We’ll confirm your request and get in touch if we have
-      any questions", "BRAINSTORM: Our team will gather ideas to create your unique
-      experience", "PROPOSAL: We’ll send you our best proposal by email or present
-      this to you over a video conference call", "FOLLOW UP: We’ll schedule a follow
-      up call to discuss questions you might have and then further tailor the proposed
-      program to your liking/budget", "BOOKING: We’ll send you the agreement to sign,
-      arrange financial transfers, and will put holds on hotel rooms, restaurants,
-      venues, excursions, transportation and staff", "EXECUTE: We will coordinate
-      all the actions to ensure success"]'
-    where: Si no ho fa ara, quan?
+    process_list:
+    - 'BRIEFING: Our inquiry form helps us to understand your needs'
+    - 'CONFIRMATION: We’ll confirm your request and get in touch if we have any questions'
+    - 'BRAINSTORM: Our team will gather ideas to create your unique experience'
+    - 'PROPOSAL: We’ll send you our best proposal by email or present this to you
+      over a video conference call'
+    - 'FOLLOW UP: We’ll schedule a follow up call to discuss questions you might have
+      and then further tailor the proposed program to your liking/budget'
+    - 'BOOKING: We’ll send you the agreement to sign, arrange financial transfers,
+      and will put holds on hotel rooms, restaurants, venues, excursions, transportation
+      and staff'
+    - 'EXECUTE: We will coordinate all the actions to ensure success'
+    where: Destinations
     custom_title: Custom-made
     custom_description: Do you have any other idea? We can make it. We customize and
       give life to your wishes.
+    default_photo: destinations/3.jpg
   contact:
     title: Contact
     message: If you have any idea you'd like to be created please talk to us and fulfill

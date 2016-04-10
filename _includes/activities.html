@@ -1,8 +1,8 @@
-{% for destination in site.data.destionations %}
-<h1>{{destination.name}}</h1>
+{% for destination in site.data.destinations %}
+<h1>{{ destination | translate: 'name' }}</h1>
 <div class="grid-wrapper">
   <ul class="items">
-    {% assign activities = site.data.activities | where: 'destination', destination.name %}
+    {% assign activities = site.data.activities | where: 'destination', destination.key %}
     {% for activity in activities %}
     <li rel="7">
       <a href="/{{ page.locale}}/activities/{{ activity | translate: 'title' | slugify }}">
