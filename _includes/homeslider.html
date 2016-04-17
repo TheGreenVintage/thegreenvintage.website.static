@@ -1,4 +1,4 @@
-<!-- Begin Slider -->
+<!-- Begin Slider
 <div class="fullwidthbanner-container">
   <div class="fullwidthbanner">
     <ul>
@@ -31,5 +31,34 @@
     </ul>
     <div class="tp-bannertimer"></div>
   </div>
-</div>
+</div> -->
 <!-- End Slider -->
+<!-- masterslider -->
+<div class="master-slider ms-skin-default" id="masterslider">
+    {% for picture in site.data.home %}
+    <div class="ms-slide slide-{{forloop.index}}">
+        <div class="slide-pattern"></div>
+        <h3 class="ms-layer thin-text-white blacktext"
+            data-type="text"
+            data-effect="top(45)"
+            data-duration="3400"
+            data-ease="easeOutExpo"
+            data-origin="mc"
+            >
+            {{ picture | translate: 'title' }}
+        </h3>
+        <h4 class="ms-layer bold-text-white bigtext"
+            data-type="text"
+            data-effect="top(45)"
+            data-duration="3400"
+            data-delay="400"
+            data-ease="easeOutExpo"
+            data-origin="mc"
+            >
+            {{ picture | translate: 'description' }}
+        </h4>
+        <img src="/assets2/master-slider/style/blank.gif" data-src="/assets/images/{{ picture.file }}" alt="{{ image | translate: 'title' }}"/>
+    </div>
+    {% endfor %}
+</div>
+<div class="space-50"></div>

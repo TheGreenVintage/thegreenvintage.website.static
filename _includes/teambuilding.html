@@ -1,26 +1,27 @@
-<div class="intro uppercase center">
-  <p>{{ 'teambuilding.message' | translate }}</p>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 margin-btm-40">
+          <p>{{ 'teambuilding.message' | translate }}</p>
+          <p>{{ 'teambuilding.description_1' | translate }}</p>
+          <p>{{ 'teambuilding.description_2' | translate }}</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 margin-btm-40">
+            <ul class="icon-list list-unstyled">
+              {% assign list = 'teambuilding.colum_1' | translate | newline_to_br | split: '<br />' %}
+              {% for type in list %}
+              <li>{{ type }}</li>
+              {% endfor %}
+            </ul>
+        </div>
+        <div class="col-md-6 margin-btm-40">
+            <ul class="icon-list list-unstyled">
+              {% assign list = 'teambuilding.colum_2' | translate | newline_to_br | split: '<br />' %}
+              {% for type in list %}
+              <li>{{ type }}</li>
+              {% endfor %}
+            </ul>
+        </div>
+    </div>
 </div>
-
-<p>{{ 'teambuilding.description_1' | translate }}</p>
-
-<div class="one-half">
-  <ul>
-    {% assign list = 'teambuilding.colum_1' | translate | newline_to_br | strip_newlines %}
-    {% for type in list %}
-    <li>{{ type }}</li>
-    {% endfor %}
-  </ul>
-</div>
-<div class="one-half last">
-  <ul>
-    {% assign list = 'teambuilding.colum_2' | translate | newline_to_br | strip_newlines  %}
-    {% for type in list %}
-    <li>{{ type }}</li>
-    {% endfor %}
-  </ul>
-</div>
-
-<p>{{ 'teambuilding.description_2' | translate }}</p>
-
-<div class="clear"></div>

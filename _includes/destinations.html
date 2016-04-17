@@ -4,44 +4,156 @@
 
 <p>{{ 'destinations.description' | translate }}</p>
 
-<div class="one-half">
-  <h2>{{ 'destinations.offer_title' | translate }}</h2>
-  <p>{{ 'destinations.offer_description' | translate }}</p>
-  <h2>{{ 'destinations.incentive_title' | translate }}</h2>
-  <p>{{ 'destinations.incentive_description' | translate }}</p>
-</div>
-<div class="one-half last">
-  <h2>{{ 'destinations.events_title' | translate }}</h2>
-  <p>{{ 'destinations.events_description' | translate }}</p>
-  <h2>{{ 'destinations.process_title' | translate }}</h2>
-  <ul>
-    {% assign list = 'destinations.process_list' | translate %}
-    {% for type in list %}
-    <li>{{ type }}</li>
-    {% endfor %}
-  </ul>
-</div>
-<div class="clear"></div>
+<div class="row">
+    <div class="col-md-4">
+      <h3>{{ 'destinations.offer_title' | translate }}</h3>
+      <p>{{ 'destinations.offer_description' | translate }}</p>
+    </div>
 
-<h2>{{ 'destinations.where' | translate }}</h2>
+    <div class="col-md-4">
+      <h3>{{ 'destinations.incentive_title' | translate }}</h3>
+      <p>{{ 'destinations.incentive_description' | translate }}</p>
+    </div>
 
-{% assign destinations = site.data.destinations %}
-{% for destination in destinations %}
-<div class="one-third">
-  <h3>{{ destination | translate: 'name' }}</h3>
-  <a href="/{{ page.locale}}/destinations/{{ destination | translate: 'name' | slugify }}">
-    <img src="/assets/images/{{ destination.photo }}" alt="{{ destination | translate: 'name' }}" title="{{ destination | translate: 'name' }}">
-  </a>
-  <p>{{ destination | translate: 'intro' }}</p>
+    <div class="col-md-4">
+      <h3>{{ 'destinations.events_title' | translate }}</h3>
+      <p>{{ 'destinations.events_description' | translate }}</p>
+    </div>
 </div>
-{% endfor %}
 
-<div class="one-third last">
-  <h3>{{ 'destinations.custom_title' | translate }}</h3>
-  {% assign contact = 'contact' | section %}
-  <a href="{{contact.permalink}}">
-    <img src="/assets/images/{{ 'destinations.default_photo' | translate }}" alt="{{ 'destinations.custom_title' | translate }}" title="{{ 'destinations.custom_title' | translate }}">
-  </a>
-  <p>{{ 'destinations.custom_description' | translate }}</p>
+<h3>{{ 'destinations.process_title' | translate }}</h3>
+<ul>
+  {% assign list = 'destinations.process_list' | translate %}
+  {% for type in list %}
+  <li>{{ type }}</li>
+  {% endfor %}
+</ul>
+<div class="row">
+    <div class="col-md-12 text-center">
+        <h2>Customer services</h2>
+        <h3 class="subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus</h3>
+    </div>
+    <div class="space-70"></div>
+    <div class="col-md-3 col-sm-6">
+        <div class="services-box">
+            <i class="ion-beaker"></i>
+            <h1>Strategy</h1>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
+            </p>
+        </div>
+    </div><!--services box-->
+    <div class="col-md-3 col-sm-6">
+        <div class="services-box">
+            <i class="ion-shuffle"></i>
+            <h1>User Experience</h1>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
+            </p>
+        </div>
+    </div><!--services box-->
+    <div class="col-md-3  col-sm-6">
+        <div class="services-box">
+            <i class="ion-images"></i>
+            <h1>Design</h1>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
+            </p>
+        </div>
+    </div><!--services box-->
+    <div class="col-md-3  col-sm-6">
+        <div class="services-box">
+            <i class="ion-thumbsup"></i>
+            <h1>24/7 support</h1>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
+            </p>
+        </div>
+    </div><!--services box-->
+    <div class="space-70"></div>
+      <div class="col-md-3  col-sm-6">
+        <div class="services-box">
+            <i class="ion-ios-barcode-outline"></i>
+            <h1>Technology</h1>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
+            </p>
+        </div>
+    </div><!--services box-->
+     <div class="col-md-3  col-sm-6">
+        <div class="services-box">
+            <i class="ion-thumbsup"></i>
+            <h1>Social</h1>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
+            </p>
+        </div>
+    </div><!--services box-->
+     <div class="col-md-3  col-sm-6">
+        <div class="services-box">
+            <i class="ion-briefcase"></i>
+            <h1>Marketing</h1>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
+            </p>
+        </div>
+    </div><!--services box-->
+     <div class="col-md-3  col-sm-6">
+        <div class="services-box">
+            <i class="ion-settings"></i>
+            <h1>Development</h1>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
+            </p>
+        </div>
+    </div><!--services box-->
 </div>
-<div class="clear"></div>
+<div class="space-70"></div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h2>{{ 'destinations.where' | translate }}</h2>
+            <h3 class="subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus</h3>
+        </div>
+        <div class="space-70"></div>
+    </div><!--row-->
+
+    <div class="row">
+
+      {% assign destinations = site.data.destinations %}
+      {% for destination in destinations %}
+      <div class="col-md-4 col-sm-6 margin-btm-40">
+          <div class="portfolio-sec">
+              <div class="portfolio-thumnail">
+                  <a href="/{{ page.locale}}/destinations/{{ destination | translate: 'name' | slugify }}">
+                    <img class="img-responsive" src="/assets/images/{{ destination.photo }}" alt="{{ destination | translate: 'name' }}" title="{{ destination | translate: 'name' }}">
+                  </a>
+              </div>
+              <div class="portfolio-desc text-center">
+                  <h4 class="portfolio-post-title">{{ destination | translate: 'name' }}</h4>
+                  <span class="portfolio-post-cat">{{ destination | translate: 'intro' }}</span>
+                  <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+              </div>
+          </div>
+      </div><!--portfolio item -->
+      {% endfor %}
+
+      <div class="col-md-4 col-sm-6 margin-btm-40">
+          <div class="portfolio-sec">
+              <div class="portfolio-thumnail">
+                  {% assign contact = 'contact' | section %}
+                  <a href="{{contact.permalink}}">
+                    <img class="img-responsive" src="/assets/images/{{ 'destinations.default_photo' | translate }}" alt="{{ 'destinations.custom_title' | translate }}" title="{{ 'destinations.custom_title' | translate }}">
+                  </a>
+              </div>
+              <div class="portfolio-desc text-center">
+                  <h4 class="portfolio-post-title">{{ 'destinations.custom_title' | translate }}</h4>
+                  <span class="portfolio-post-cat">{{ 'destinations.custom_description' | translate }}</span>
+                  <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+              </div>
+          </div>
+      </div><!--portfolio item -->
+
+    </div><!--row portfolio item-->
+</div><!--recent work container end-->

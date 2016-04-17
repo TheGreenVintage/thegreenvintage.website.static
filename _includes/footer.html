@@ -1,62 +1,81 @@
-<!-- Begin Footer -->
-<div class="footer-wrapper">
-  <div class="footer">
-    <div class="one-half">
-      <ul>
-        <h3>{{ 'footer.sections' | translate }}</h3>
-        {% assign sections = 'home destinations teambuilding team contact' | split: " " %}
-        {% for sname in sections %}
-        {% assign item = sname | section %}
-        <li>
-          <a href="{{item.permalink}}">{{ item.section | append:'.title' | translate }}</a>
-        </li>
-        {% endfor %}
-      </ul>
-      <div class="clear"></div>
-    </div>
-    <div class="contact one-half last">
-      <h3>{{ 'footer.contact_us' | translate }}</h3>
-      <p>
-        {% assign contact = 'contact' | section %}
-        <a href="{{contact.permalink}}">{{ 'footer.contact' | translate }}</a>
-      </p>
-      <p>Tel: <a href="tel:+34 679 400 576">(+34) 679 400 576</a> / <a href="tel:+34 644 282 929">(+34) 644 282 929</a></p>
-      <p>Email: <a href="mailto:info@thegreenvintage.com">info@thegreenvintage.com</a></p>
-      <ul class="social">
-        <li><a class="facebook" href="https://www.facebook.com/TGVintage"></a></li>
-        <li><a class="twitter" href="https://www.twitter.com/Green_Vintage_"></a></li>
-        <li><a class="pinterest" href="https://www.pinterest.com/thegreenvintage/"></a></li>
-        <li><a class="instagram" href="https://instagram.com/thegreenvintage/"></a></li>
-      </ul>
-      <div id="locale-switcher">
-      {% for locale in site.locales %}
-
-      {% assign item = site.pages | where: 'section', page.section | where: 'locale', locale[0] | first %}
-
-        {% if item %}
-        <a href="{{item.permalink}}" class="{{item.locale}}"><img src="/assets/images/flags/{{ locale[0] }}.png" title="{{ locale[0] | prepend:'locales.' | translate }}" alt="{{ locale[0] | prepend:'locales.' | translate }}"/></a>
-        {% endif %}
-
-      {% endfor %}
-      </div>
-    </div>
-    <div class="clear"></div>
-  </div>
-</div>
-<!-- End Footer -->
-
-<!-- Begin Site Generator -->
-<div class="site-generator-wrapper">
-  <div class="site-generator">
-    <div class="copyright">
-      <p>
-        © 2016 {{ site.title }} -
-        {{ 'footer.all_rights_reserved' | translate }} -
-        {% assign cookies = 'cookies' | section %}
-        <a href="{{cookies.permalink}}">{{ 'cookies.title' | translate }}</a>
-      </p>
-    </div>
-    <div class="clear"></div>
-  </div>
-</div>
-<!-- End Site Generator -->
+<div id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 margin-btm-20">
+                <div class="footer-col">
+                    <h3>{{ site.title }}</h3>
+                    <p>
+                        aliqua.adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. aliqua.adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
+                    </p>
+                </div>
+                <div class="space-20"></div>
+                <div class="footer-col">
+                    <h3>contact info</h3>
+                    <p><i class="ion-home"></i> Carrer Casp 79, Sobreatico, Barcelona, 08013</p>
+                    <p><a href="tel:+34 679 400 576" class="hover-color"><i class="ion-iphone"></i> (+34) 679 400 576</a></p>
+                    <p><a href="tel:+34 644 282 929" class="hover-color"><i class="ion-iphone"></i> (+34) 644 282 929</a></p>
+                    <p><a href="mailto:info@thegreenvintage.com" class="hover-color"><i class="ion-ios-email-outline"></i> info@thegreenvintage.com</a></p>
+                </div>
+                <div class="space-20"></div>
+                <div class="footer-col">
+                    <h3>Follow us</h3>
+                    <ul class=" list-inline social-btn">
+                        <li><a href="https://www.facebook.com/TGVintage"><i class="ion-social-facebook" data-toggle="tooltip" data-placement="top" title="" data-original-title="Like On Facebook"></i></a></li>
+                        <li><a href="https://www.twitter.com/Green_Vintage_"><i class="ion-social-twitter" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow On twitter"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/the-green-vintage"><i class="ion-social-linkedin" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow On Linkedin"></i></a></li>
+                        <li><a href="https://instagram.com/thegreenvintage/#"><i class="ion-social-instagram" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow On Instagram"></i></a></li>
+                    </ul>
+                </div><!--footer social col-->
+            </div><!--col-4 end-->
+            <div class="col-md-3 margin-btm-20">
+                <div class="footer-col">
+                    <h3>{{ 'footer.sections' | translate }}</h3>
+                    <ul class="post-list list-unstyled">
+                        {% assign sections = 'home destinations teambuilding team contact' | split: " " %}
+                        {% for sname in sections %}
+                        {% assign item = sname | section %}
+                        <li>
+                          <a href="{{item.permalink}}" class="hover-color">{{ item.section | append:'.title' | translate }}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div><!--latest post col end-->
+            <div class="col-md-5">
+                <div class="footer-col">
+                    <h3>{{ 'footer.contact_us' | translate }}</h3>
+                    {% assign contactsent = 'contact-sent' | section %}
+                    <form action="/contact/support" data-success="{{contactsent.permalink}}" method="post" novalidate>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <input type="text" class="form-control" placeholder="{{ 'contact.name_placeholder' | translate }}">
+                            </div>
+                            <div class="col-md-6">
+                                <input type="email" class="form-control" placeholder="{{ 'contact.email_placeholder' | translate }}">
+                            </div>
+                            <div class="col-md-12">
+                                <input type="text" class="form-control" placeholder="{{ 'contact.subject_placeholder' | translate }}">
+                            </div>
+                            <div class="col-md-12">
+                                <textarea class="form-control" placeholder="{{ 'contact.message_placeholder' | translate }}" rows="7"></textarea>
+                            </div>
+                            <div class="col-md-12 text-right">
+                                <button type="submit" class="btn btn-lg btn-white">{{ 'contact.send' | translate }}</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div><!--get in touch col end-->
+        </div><!--footer main row end-->  
+        <div class="space-70"></div>
+        <div class="row">
+            <div class="col-md-12 text-center footer-bottom">
+                <a href="/"><img src="/assets/images/logos/logo.png" alt="{{ site.title }}" style="width: 100px"></a>
+                <div class="space-20"></div>
+                <span>&copy; 2016 {{ site.title }} - {{ 'footer.all_rights_reserved' | translate }} - </span>
+                {% assign cookies = 'cookies' | section %}
+                <a href="{{cookies.permalink}}" class="hover-color">{{ 'cookies.title' | translate }}</a>
+            </div>
+        </div><!--footer copyright row end-->
+    </div><!--container-->
+</div><!--footer main end-->

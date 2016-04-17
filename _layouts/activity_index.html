@@ -3,138 +3,109 @@ layout: default
 section: activity
 ---
 
-<style type='text/css'>
-#rev_slider_1_1, #rev_slider_1_1_wrapper { width:960px; height:450px;}
+<div class="space-70"></div>
+<div class="container portfolio-details">
+    <div class="row">
+        <div class="col-md-12 margin-btm-40">
+            <div class="flexslider">
+                <ul class="slides">
+                    <li><img src="/assets/images/team-building/{{ page.activity.photo1 }}" alt="" class="img-responsive"></li>
+                    <li><img src="/assets/images/team-building/{{ page.activity.photo2 }}" alt="" class="img-responsive"></li>
+                    <li><img src="/assets/images/team-building/{{ page.activity.photo3 }}" alt="" class="img-responsive"></li>
+                </ul>
+            </div><!--flex slider-->
+        </div>
+        <div class="col-md-8 portfolio-single-slide margin-btm-40">
+            <div class="portfolio-single-desc">
+                <h3>{{ page.activity | translate: 'title' }}</h3>
+                {{ page.activity | translate: 'description' | newline_to_br | strip_newlines }}
+                {% assign included = page.activity | translate: 'included' | newline_to_br | split: '<br />' %}
+                {% assign included_size = included | size %}
 
-@media only screen and (min-width: 940px)  {
-  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:960px; height:450px;}
-}
+                {% if included_size > 0 %}
+                  <h4>{{ 'activities.included' | translate }}:</h4>
+                  <ul>
+                    {% for item in included %}
+                    <li>
+                      {{ item }}
+                    </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
 
+                {% assign not_included = page.activity | translate: 'not_included' | newline_to_br | split: '<br />' %}
+                {% assign not_included_size = not_included | size %}
 
-@media only screen and (min-width: 780px) and (max-width: 939px) {
-  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:770px; height:360px;}
-}
+                {% if not_included_size > 0 %}
+                  <h4>{{ 'activities.not_included' | translate }}:</h4>
+                  <ul>
+                    {% for item in not_included %}
+                    <li>
+                      {{ item }}
+                    </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+            </div><!--portfolio detail-->
+        </div>
+        <div class="col-md-4">
+            <div class="portfolio-side-bar">
+                {% assign languages = page.activity.language | split: ',' %}
+                <p><strong>{{ 'activities.pax' | translate }}:</strong> {{ page.activity.pax }}</p>
+                <p><strong>{{ 'activities.duration' | translate }}:</strong> {{ page.activity.duration }} {{ 'activities.hours' | translate }}</p>
 
+                {% if page.activity.preu %}
+                <p><strong>{{ 'activities.price.title' | translate }}:</strong> {{ page.activity.preu }} &euro;</p>
+                {% endif %}
 
-@media only screen and (min-width: 510px) and (max-width: 779px) {
-  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:500px; height:234px;}
-}
+                <p>
+                  <strong>{{ 'activities.languages.title' | translate }}:</strong>
+                  {% for language in languages %}
+                    {% assign clean_language = language | slugify %}
+                    {{  'activities.languages.' | append: clean_language | translate }}
+                  {% endfor %}
+                </p>
+                <p><strong>{{ 'activities.accesibility.title' | translate }}:</strong> {{ 'activities.accesibility.' | append: page.activity.accesibility | translate }}</p>
 
-
-@media only screen and (min-width: 0px) and (max-width: 509px) {
-  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:310px; height:145px;}
-}
-
-</style>
-<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
-  <!-- START REVOLUTION SLIDER 4.6.91 responsitive mode -->
-  <div id="rev_slider_1_1" class="rev_slider" style="display:none;">
-    <ul>	<!-- SLIDE  -->
-      <li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-saveperformance="off">
-      <!-- MAIN IMAGE -->
-      <img src="/assets/images/team-building/{{ page.activity.photo1 }}" alt="small-pslider1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-      <!-- LAYERS -->
-      </li>
-      <!-- SLIDE  -->
-      <li data-transition="slideleft" data-slotamount="7" data-masterspeed="300" data-saveperformance="off">
-      <!-- MAIN IMAGE -->
-      <img src="/assets/images/team-building/{{ page.activity.photo2 }}" alt="small-pslider2" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-      <!-- LAYERS -->
-      </li>
-      <!-- SLIDE  -->
-      <li data-transition="slideleft" data-slotamount="7" data-masterspeed="300" data-saveperformance="off">
-      <!-- MAIN IMAGE -->
-      <img src="/assets/images/team-building/{{ page.activity.photo3 }}" alt="small-pslider3" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-      <!-- LAYERS -->
-      </li>
-    </ul>
-    <div class="tp-bannertimer tp-bottom"></div>	</div>
-</div>
-
-<div class="wrapper">
-
-  <h1 class="title">{{ page.activity | translate: 'title' }}</h1>
-  <div class="two-third">
-    {{ page.activity | translate: 'description' | newline_to_br | strip_newlines }}
-
-    {% assign included = page.activity | translate: 'included' | newline_to_br | split: '<br />' %}
-    {% assign included_size = included | size %}
-
-    {% if included_size > 0 %}
-      <h3>{{ 'activities.included' | translate }}:</h3>
-      <ul>
-        {% for item in included %}
-        <li>
-          {{ item }}
-        </li>
-        {% endfor %}
-      </ul>
-    {% endif %}
-
-    {% assign not_included = page.activity | translate: 'not_included' | newline_to_br | split: '<br />' %}
-    {% assign not_included_size = not_included | size %}
-
-    {% if not_included_size > 0 %}
-      <h3>{{ 'activities.not_included' | translate }}:</h3>
-      <ul>
-        {% for item in not_included %}
-        <li>
-          {{ item }}
-        </li>
-        {% endfor %}
-      </ul>
-    {% endif %}
-  </div>
-  <div class="one-third last">
-    <!-- Begin Meta -->
-    <div class="item-info">
-      <ul class="portfolio-meta">
-        {% assign languages = page.activity.language | split: ',' %}
-        <li><span>{{ 'activities.pax' | translate }}:</span> {{ page.activity.pax }}</li>
-        <li><span>{{ 'activities.duration' | translate }}:</span> {{ page.activity.duration }} {{ 'activities.hours' | translate }}</li>
-
-        {% if page.activity.preu %}
-        <li><span>{{ 'activities.price.title' | translate }}:</span> {{ page.activity.preu }} &euro;</li>
-        {% endif %}
-
-        <li>
-          <span>{{ 'activities.languages.title' | translate }}:</span>
-          {% for language in languages %}
-            {% assign clean_language = language | slugify %}
-            {{  'activities.languages.' | append: clean_language | translate }}
-          {% endfor %}
-        </li>
-        <li><span>{{ 'activities.accesibility.title' | translate }}:</span> {{ 'activities.accesibility.' | append: page.activity.accesibility | translate }}</li>
-      </ul>
-      <div class="portfolio-nav">
-        {% assign prev_activity = page.activities | where: 'destination', page.activity.destination | sample %}
-        <span class="prev"><a href="/{{ page.locale}}/activities/{{ prev_activity | translate: 'title' | slugify }}" rel="next"></a></span>
-
-        {% assign teambuilding = 'teambuilding' | section %}
-        <span class="up"><a href="{{ teambuilding.permalink }}" title="All Items"></a></span>
-
-        {% assign next_activity = page.activities | where: 'destination', page.activity.destination | sample %}
-        <span class="next"><a href="/{{ page.locale}}/activities/{{ next_activity | translate: 'title' | slugify }}" rel="prev"></a></span>
-      </div>
+                <br>
+                <p>
+                    {% assign item = 'contact' | section %}
+                    <a href="{{item.permalink}}" class="btn btn-radius theme-btn-color">{{ 'footer.contact_us' | translate }}</a>
+                </p>
+            </div>
+        </div>
     </div>
-    <!-- End Meta -->
-  </div>
-  <div class="clear"></div>
 
-  <div class="related">
-    <h3>{{ 'activities.related' | translate }}</h3>
-    <ul>
-      {% assign related_activities = site.data.activities | sample:4 %}
-      {% for related_activity in related_activities %}
-        <li>
-        <div class="featured">
-          <a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}">
-            <img src="/assets/images/team-building/thumbnails/{{ related_activity.photo1 }}" title="{{ related_activity | translate: 'title' }}" alt="{{ related_activity | translate: 'title' }}">
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
+    <hr>
 
-  {% include contact.html %}
-</div>
+    <div class="row">
+        <div class="space-70"></div>
+        <div class="col-md-12 text-center">
+            <h2>{{ 'activities.related' | translate }}</h2>
+            <h3 class="subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus</h3>
+        </div>
+        <div class="space-70"></div>
+    </div><!--row-->
+
+    <div class="row">
+        {% assign related_activities = site.data.activities | sample:3 %}
+        {% for related_activity in related_activities %}
+        <div class=" mix design col-md-4 col-sm-6 margin-btm-40">
+            <div class="portfolio-sec">
+                <div class="portfolio-thumnail">
+                    <a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}">
+                        <img class="img-responsive" src="/assets/images/team-building/thumbnails/{{ related_activity.photo1 }}" title="{{ related_activity | translate: 'title' }}" alt="{{ related_activity | translate: 'title' }}" style="width: 358px; height: 238px">
+                    </a>
+                </div>
+                <div class="portfolio-desc text-center">
+                    <h4 class="portfolio-post-title">{{ related_activity | translate: 'title' }}</h4>
+                    <span class="portfolio-post-cat">Branding</span>
+                    <h4><a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                </div>
+            </div>
+        </div><!--portfolio item -->
+        {% endfor %}
+    </div><!--grid-->
+
+    <div class="space-70"></div>
+</div><!--portfolio single container end-->
