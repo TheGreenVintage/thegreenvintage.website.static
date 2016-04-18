@@ -11,7 +11,7 @@
             <ul class="icon-list list-unstyled">
               {% assign list = 'teambuilding.colum_1' | translate | newline_to_br | split: '<br />' %}
               {% for type in list %}
-              <li>{{ type }}</li>
+              <li><i class="ion-checkmark-round"></i>{{ type }}</li>
               {% endfor %}
             </ul>
         </div>
@@ -19,7 +19,7 @@
             <ul class="icon-list list-unstyled">
               {% assign list = 'teambuilding.colum_2' | translate | newline_to_br | split: '<br />' %}
               {% for type in list %}
-              <li>{{ type }}</li>
+              <li><i class="ion-checkmark-round"></i>{{ type }}</li>
               {% endfor %}
             </ul>
         </div>

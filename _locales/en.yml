@@ -9,9 +9,9 @@ en:
     title: Not found
     message: Resource not found
   meta:
-    description: "<em>The Green Vintage</em> is a destination management company that
+    description: <em>The Green Vintage</em> is a destination management company that
       offers team building activities and incentive travels for companies. Offices
-      in Barcelona and Lisbon"
+      in Barcelona and Lisbon
   cookies:
     title: Cookie policy
     message: This website uses cookies to ensure you get the best experience on our
@@ -25,6 +25,8 @@ en:
     keyboard: Keyboard
     navigation: Navegation
     more_info: More information
+    address: Carrer Casp, 79 Penthouse
+    location: Barcelona, 08013
   common:
     destinations_tittle: How can we help you?
     destinations_meetings: Great ideas for venues and meetings
@@ -61,27 +63,32 @@ en:
     contact: Explain us your proposal
     sections: Sections
     destination: Destinations
-    adress: Carrer Casp, 79 Penthouse
-    location: Barcelona, 08013
   team:
     title: About us
     message: Destinations Manager Experts with a Personal Touch
-    founders: "<em>The Green Vintage</em> is a destination management company located
+    founders: <em>The Green Vintage</em> is a destination management company located
       in Barcelona and Lisboa. We are passionate about create, plan and manage MICE
       programs, incentive travel experiences and team building activities that produce
-      motivation, inspiration and great memories. We fit your needs."
+      motivation, inspiration and great memories. We fit your needs.
     commitment: Our commitment
-    commitment1: "<strong>Satisfaction:</strong> Do a personalized monitoring of your
-      event, since success is essential to us"
-    commitment2: "<strong>Motivation:</strong> We love our job and we believe in everything
-      that we do. Only in this way, we can offer you the best result and exceed their
-      initial expectations"
-    commitment3: "<strong>Empathy:</strong> We know listen and understand the needs
-      of our customers and the territory in which we find ourselves"
-    commitment4: "<strong>Creativity:</strong> We look for original and innovative
-      ways to make our actions unforgettable"
-    commitment5: "<strong>Synergy:</strong> We work as a team since the shared effort
-      improves the result"
+    commitment1:
+      title: Satisfaction
+      description: Do a personalized monitoring of your event, since success is essential
+        to us
+    commitment2:
+      title: Motivation
+      description: We love our job and we believe in everything that we do. Only in
+        this way, we can offer you the best result and exceed their initial expectations
+    commitment3:
+      title: Empathy
+      description: We know listen and understand the needs of our customers and the
+        territory in which we find ourselves
+    commitment4:
+      title: Creativity
+      description: We look for original and innovative ways to make our actions unforgettable
+    commitment5:
+      title: Synergy
+      description: We work as a team since the shared effort improves the result
   activities:
     languages:
       title: Languages
@@ -157,18 +164,29 @@ en:
       celebrate something special, showroom... And we're your detail orientated, dedicated
       team who will always accept responsibility for the success of your event."
     process_title: Our process
-    process_list:
-    - 'BRIEFING: Our inquiry form helps us to understand your needs'
-    - 'CONFIRMATION: We’ll confirm your request and get in touch if we have any questions'
-    - 'BRAINSTORM: Our team will gather ideas to create your unique experience'
-    - 'PROPOSAL: We’ll send you our best proposal by email or present this to you
-      over a video conference call'
-    - 'FOLLOW UP: We’ll schedule a follow up call to discuss questions you might have
-      and then further tailor the proposed program to your liking/budget'
-    - 'BOOKING: We’ll send you the agreement to sign, arrange financial transfers,
-      and will put holds on hotel rooms, restaurants, venues, excursions, transportation
-      and staff'
-    - 'EXECUTE: We will coordinate all the actions to ensure success'
+    process:
+      briefing:
+        title: BRIEFING
+        description: Our inquiry form helps us to understand your needs
+      brainstorm:
+        title: BRAINSTORM
+        description: Our team will gather ideas to create your unique experience
+      proposal:
+        title: PROPOSAL
+        description: We’ll send you our best proposal by email or present this to
+          you over a video conference call
+      followup:
+        title: FOLLOW UP
+        description: We’ll schedule a follow up call to discuss questions you might
+          have and then further tailor the proposed program to your liking/budget
+      reservation:
+        title: BOOKING
+        description: We’ll send you the agreement to sign, arrange financial transfers,
+          and will put holds on hotel rooms, restaurants, venues, excursions, transportation
+          and staff
+      execution:
+        title: EXECUTE
+        description: We will coordinate all the actions to ensure success
     where: Destinations
     custom_title: Custom-made
     custom_description: Do you have any other idea? We can make it. We customize and

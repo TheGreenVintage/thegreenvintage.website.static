@@ -21,92 +21,28 @@
     </div>
 </div>
 
-<h3>{{ 'destinations.process_title' | translate }}</h3>
-<ul>
-  {% assign list = 'destinations.process_list' | translate %}
-  {% for type in list %}
-  <li>{{ type }}</li>
-  {% endfor %}
-</ul>
 <div class="row">
+    <div class="space-70"></div>
+
     <div class="col-md-12 text-center">
-        <h2>Customer services</h2>
+        <h2>{{ 'destinations.process_title' | translate }}</h2>
         <h3 class="subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus</h3>
     </div>
+
     <div class="space-70"></div>
-    <div class="col-md-3 col-sm-6">
+
+    {% assign steps = 'briefing brainstorm proposal followup reservation execution' | split: " " %}
+    {% for step in steps %}
+    {% assign steptitle = 'destinations.process.' | append: step | append: '.title' %}
+    {% assign stepdesc = 'destinations.process.' | append: step | append: '.description' %}
+    <div class="col-md-4 col-sm-6">
         <div class="services-box">
-            <i class="ion-beaker"></i>
-            <h1>Strategy</h1>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
-            </p>
+            <h1>{{ steptitle | translate }}</h1>
+            <p>{{ stepdesc | translate }}</p>
         </div>
-    </div><!--services box-->
-    <div class="col-md-3 col-sm-6">
-        <div class="services-box">
-            <i class="ion-shuffle"></i>
-            <h1>User Experience</h1>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
-            </p>
-        </div>
-    </div><!--services box-->
-    <div class="col-md-3  col-sm-6">
-        <div class="services-box">
-            <i class="ion-images"></i>
-            <h1>Design</h1>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
-            </p>
-        </div>
-    </div><!--services box-->
-    <div class="col-md-3  col-sm-6">
-        <div class="services-box">
-            <i class="ion-thumbsup"></i>
-            <h1>24/7 support</h1>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
-            </p>
-        </div>
-    </div><!--services box-->
-    <div class="space-70"></div>
-      <div class="col-md-3  col-sm-6">
-        <div class="services-box">
-            <i class="ion-ios-barcode-outline"></i>
-            <h1>Technology</h1>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
-            </p>
-        </div>
-    </div><!--services box-->
-     <div class="col-md-3  col-sm-6">
-        <div class="services-box">
-            <i class="ion-thumbsup"></i>
-            <h1>Social</h1>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
-            </p>
-        </div>
-    </div><!--services box-->
-     <div class="col-md-3  col-sm-6">
-        <div class="services-box">
-            <i class="ion-briefcase"></i>
-            <h1>Marketing</h1>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
-            </p>
-        </div>
-    </div><!--services box-->
-     <div class="col-md-3  col-sm-6">
-        <div class="services-box">
-            <i class="ion-settings"></i>
-            <h1>Development</h1>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus, porta sit amet dui eget...
-            </p>
-        </div>
-    </div><!--services box-->
+    </div>
+    {% endfor %}
+
 </div>
 <div class="space-70"></div>
 
@@ -133,16 +69,16 @@
               <div class="portfolio-desc text-center">
                   <h4 class="portfolio-post-title">{{ destination | translate: 'name' }}</h4>
                   <span class="portfolio-post-cat">{{ destination | translate: 'intro' }}</span>
-                  <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                  <h4><a href="/{{ page.locale}}/destinations/{{ destination | translate: 'name' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
               </div>
           </div>
       </div><!--portfolio item -->
       {% endfor %}
 
+      {% assign contact = 'contact' | section %}
       <div class="col-md-4 col-sm-6 margin-btm-40">
           <div class="portfolio-sec">
               <div class="portfolio-thumnail">
-                  {% assign contact = 'contact' | section %}
                   <a href="{{contact.permalink}}">
                     <img class="img-responsive" src="/assets/images/{{ 'destinations.default_photo' | translate }}" alt="{{ 'destinations.custom_title' | translate }}" title="{{ 'destinations.custom_title' | translate }}">
                   </a>
@@ -150,7 +86,7 @@
               <div class="portfolio-desc text-center">
                   <h4 class="portfolio-post-title">{{ 'destinations.custom_title' | translate }}</h4>
                   <span class="portfolio-post-cat">{{ 'destinations.custom_description' | translate }}</span>
-                  <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                  <h4><a href="{{contact.permalink}}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
               </div>
           </div>
       </div><!--portfolio item -->

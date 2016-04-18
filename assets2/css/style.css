@@ -2215,6 +2215,7 @@ h3.subtitle {
   margin-bottom: 10px;
   padding: 10px;
   border: 1px solid #eee;
+  min-height: 180px;
 }
 .services-box i {
   color: #66AC82;

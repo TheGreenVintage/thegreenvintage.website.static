@@ -100,7 +100,7 @@ section: activity
                 <div class="portfolio-desc text-center">
                     <h4 class="portfolio-post-title">{{ related_activity | translate: 'title' }}</h4>
                     <span class="portfolio-post-cat">Branding</span>
-                    <h4><a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                    <h4><a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
                 </div>
             </div>
         </div><!--portfolio item -->

@@ -1,11 +1,22 @@
-<h2>{{ 'team.commitment' | translate }}</h2>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h2>{{ 'team.commitment' | translate }}</h2>
+            <h3 class="subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus</h3>
+        </div>
+        <div class="space-70"></div>
+    </div><!--row-->
 
-<div class="intro">
-  <ul class="gramophone">
-    <li>{{ 'team.commitment1' | translate }}</li>
-    <li>{{ 'team.commitment2' | translate }}</li>
-    <li>{{ 'team.commitment3' | translate }}</li>
-    <li>{{ 'team.commitment4' | translate }}</li>
-    <li>{{ 'team.commitment5' | translate }}</li>
-  </ul>
+    <div class="row">
+        <div class="col-md-12 margin-btm-40">
+            <ul class="icon-list list-unstyled">
+              {% assign steps = 'commitment1 commitment2 commitment3 commitment4 commitment5' | split: " " %}
+              {% for step in steps %}
+              {% assign steptitle = 'team.' | append: step | append: '.title' %}
+              {% assign stepdesc = 'team.' | append: step | append: '.description' %}
+                <li><i class="ion-checkmark-round"></i><strong>{{ steptitle | translate }}:</strong> {{ stepdesc | translate }}</li>
+              {% endfor %}
+            </ul>
+        </div>
+    </div>
 </div>

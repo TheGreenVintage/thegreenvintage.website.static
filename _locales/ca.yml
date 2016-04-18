@@ -9,9 +9,9 @@ ca:
     title: No trobat
     message: Recurs no trobat
   meta:
-    description: "<em>The Green Vintage</em> és una agència de receptiu amb seu a
-      Barcelona i Lisboa que ofereix serveis de team building i viatges d'incentiu
-      per a empreses, tan nacionals com a internacionals."
+    description: <em>The Green Vintage</em> és una agència de receptiu amb seu a Barcelona
+      i Lisboa que ofereix serveis de team building i viatges d'incentiu per a empreses,
+      tan nacionals com a internacionals.
   cookies:
     title: Política de Cookies
     message: Aquesta web utilitza cookies per oferir-te una millor experiència i servei
@@ -24,6 +24,8 @@ ca:
     keyboard: Teclat
     navigation: Navegació
     more_info: Més informació
+    address: Carrer Casp, 79 Sobreàtic
+    location: Barcelona, 08013
   common:
     destinations_tittle: En què et podem ajudar?
     destinations_meetings: Idees per a reunions i venues únics
@@ -50,10 +52,10 @@ ca:
     activities_description: Explora la nostra gamma d'activitats, i poseu-vos en contacte
       amb nosaltres per adaptar les millors opcions per satisfer els seus objectius.
     destinations_title: Destinacions & Esdeveniments
-    destinations_description: "<em>The Green Vintage</em> és el seu aliat a l’hora
+    destinations_description: <em>The Green Vintage</em> és el seu aliat a l’hora
       de planificar esdeveniments i viatges d’incentiu. Tenim experiència en el sector
       que, en combinació amb la nostra capacitat d’organització, fan un tàndem perfecte
-      perquè els seus esdeveniments i viatges siguin tot un èxit."
+      perquè els seus esdeveniments i viatges siguin tot un èxit.
     customers: Alguns dels clients que ja han confiat amb nosaltres
   footer:
     about_us: Sobre nosaltres
@@ -62,27 +64,35 @@ ca:
     contact: Explica'ns la teva proposta
     sections: Seccions
     destination: Destinacions
-    adress: Carrer Casp, 79 Sobreàtic
-    location: Barcelona, 08013
   team:
     title: Sobre nosaltres
     message: Experts en gestió de destinacions (DMC)
-    founders: "<em>The Green Vintage</em> és una agència receptiva amb seu a Barcelona
+    founders: <em>The Green Vintage</em> és una agència receptiva amb seu a Barcelona
       i Lisboa. Som apasionats en dirigir, crear, organitzar programes MICE, viatges
       d’incentiu i activitats de team building. Produim motivació, inspiració i generem
-      experiències."
+      experiències.
     commitment: El nostre compromís
-    commitment1: "<strong>Satisfacció: </strong> Fem un seguiment personalitzat del
-      seu esdeveniment, perquè l’èxit és essencial per a nosaltres"
-    commitment2: "<strong>Motivació:</strong> Ens agrada molt el nostre treball i
-      creiem en tot allò que fem. Nomes així, gaudint, podem oferir-te el millor resultat
-      de nosaltres i superar les seves expectatives inicials"
-    commitment3: "<strong>Empatia:</strong> Sabem escoltar i entendre les necessitats
-      dels nostres clients i del territori en el que ens trobem"
-    commitment4: "<strong>Creativitat:</strong> Cerquem vies innovadores i originals
-      perquè els nostres actes siguin inoblidables"
-    commitment5: "<strong>Sinergia:</strong> Treballem en equip i en xarxa perquè
-      l’esforç compartit millora el resultat"
+    commitment1:
+      title: Satisfacció
+      description: Fem un seguiment personalitzat del seu esdeveniment, perquè l’èxit
+        és essencial per a nosaltres
+    commitment2:
+      title: Motivació
+      description: Ens agrada molt el nostre treball i creiem en tot allò que fem.
+        Nomes així, gaudint, podem oferir-te el millor resultat de nosaltres i superar
+        les seves expectatives inicials
+    commitment3:
+      title: Empatia
+      description: Sabem escoltar i entendre les necessitats dels nostres clients
+        i del territori en el que ens trobem
+    commitment4:
+      title: Creativitat
+      description: Cerquem vies innovadores i originals perquè els nostres actes siguin
+        inoblidables
+    commitment5:
+      title: Sinergia
+      description: Treballem en equip i en xarxa perquè l’esforç compartit millora
+        el resultat
   activities:
     languages:
       title: Idiomes
@@ -159,24 +169,30 @@ ca:
       entre altres coses. Cuidem al màxim el detall i l'equip sempre buscarà que el
       seu esdeveniment sigui un èxit."
     process_title: El nostre procés
-    process_list:
-    - "“BRIEFING": Formulari de consulta que ens ajuda a comprendre les seves necessitats”
-    - "“CONFIRMACIÓ": ens posarem en contacte amb vostè via email per confirmar la
-        seva sol·licitud”
-    - "“BRAINSTORM": El nostre equip reunirà idees per crear la seva experiència”
-    - "“PROPOSTA": Li enviarem la nostra proposta per correu electrònic o si es prefereix
-        podríem realitzar una videoconferència”
-    - "“SEGUIMENT": programarem reunions per debatre temes i fer un seguiment personalitzat
-        del seu esdeveniment”
-    - "”RESERVA": Li enviarem un programa complet del que es realitzarà durant l'esdeveniment
-    - excursions
-    - reunions
-    - transport
-    - llocs
-    - restaurants
-    - hotels...etc que vostè mateix haurà de signar”
-    - "”EXECUTAR": Coordinar y supervisar que tot surti segons el previst. I poder
-        gestionar qualsevol petició addicional”
+    process:
+      briefing:
+        title: BRIEFING
+        description: Formulari de consulta que ens ajuda a comprendre les seves necessitats
+      brainstorm:
+        title: BRAINSTORM
+        description: El nostre equip reunirà idees per crear la seva experiència
+      proposal:
+        title: PROPOSTA
+        description: Li enviarem la nostra proposta per correu electrònic o si es
+          prefereix podríem realitzar una videoconferència
+      followup:
+        title: SEGUIMENT
+        description: programarem reunions per debatre temes i fer un seguiment personalitzat
+          del seu esdeveniment
+      reservation:
+        title: RESERVA
+        description: Li enviarem un programa complet del que es realitzarà durant
+          l'esdeveniment, excursions, reunions, transport, llocs, restaurants, hotels...etc
+          que vostè mateix haurà de signar
+      execution:
+        title: EXECUTAR
+        description: Coordinar y supervisar que tot surti segons el previst. I poder
+          gestionar qualsevol petició addicional
     where: Destinacions
     custom_title: Altres destinacions
     custom_description: Té alguna altra destinació en ment? Podem fer-ho. Personalitzem
