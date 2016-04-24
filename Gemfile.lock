@@ -35,6 +35,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  i18n
-  jekyll
-  jekyll-sitemap
+  ffi (= 1.9.10)
+  i18n (= 0.6.9)
+  jekyll (= 3.1.2)
+  jekyll-sitemap (= 0.7.0)
+
+BUNDLED WITH
+   1.11.2
