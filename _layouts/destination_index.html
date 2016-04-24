@@ -2,93 +2,96 @@
 layout: page
 section: destination
 ---
-<div class="intro uppercase center">
-  {{ page.destination | translate: 'intro' }}
-</div>
 
-<h1>{{ page.destination | translate: 'title' }}</h1>
+<div class="space-70"></div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h2>{{ page.destination | translate: 'title' }}</h2>
+            <h3 class="subtitle">{{ page.destination | translate: 'intro' }}</h3>
+        </div>
+        <div class="space-40"></div>
+        <div class="col-md-6 col-sm-6 margin-btm-40">
+          <iframe width="560" height="315" src="{{ page.destination.video }}" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="col-md-6 col-sm-6 margin-btm-40">
+          {{ page.destination | translate: 'description' | newline_to_br | strip_newlines }}
+        </div>
+    </div>
+    <div class="space-70"></div>
+    <div class="row">
+        <div class="space-70"></div>
+        <div class="col-md-12 text-center">
+            <h2>{{ page.destination | translate: 'venues_title' }}</h2>
+            <h3 class="subtitle">{{ page.destination | translate: 'venues_description' }}</h3>
+        </div>
+        <div class="space-70"></div>
+    </div><!--row-->
+    <div class="row">
+        <div class="col-md-12 margin-btm-40">
+            <div class="flexslider">
+                <ul class="slides">
 
-<div class="three-fifth">
-  <iframe width="560" height="315" src="{{ page.destination.video }}" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="two-fifth last">
-  {{ page.destination | translate: 'description' | newline_to_br | strip_newlines }}
-</div>
-<div class="clear"></div>
+                  {% assign album = 'assets/images/destinations/' | append: page.destination.key | walk %}
 
-<h2>{{ page.destination | translate: 'venues_title' }}</h2>
-<p>{{ page.destination | translate: 'venues_description' }}</p>
+                  {% for picture in album %}
+                    <li>
+                      <img src="/{{ picture }}" alt="" class="img-responsive">
+                    </li>
+                  {% endfor %}
+                </ul>
+            </div><!--flex slider-->
+        </div>
+    </div>
 
+    <hr>
 
-<style type='text/css'>
-#rev_slider_1_1, #rev_slider_1_1_wrapper { width:960px; height:450px;}
-
-@media only screen and (min-width: 940px)  {
-  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:960px; height:450px;}
-}
-
-
-@media only screen and (min-width: 780px) and (max-width: 939px) {
-  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:770px; height:360px;}
-}
-
-
-@media only screen and (min-width: 510px) and (max-width: 779px) {
-  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:500px; height:234px;}
-}
-
-
-@media only screen and (min-width: 0px) and (max-width: 509px) {
-  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:310px; height:145px;}
-}
-
-</style>
-<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
-  <!-- START REVOLUTION SLIDER 4.6.91 responsitive mode -->
-  <div id="rev_slider_1_1" class="rev_slider" style="display:none;">
-    <ul>	<!-- SLIDE  -->
-      <!-- MAIN IMAGE -->
-      {% assign album = 'assets/images/destinations/' | append: page.destination.key | walk %}
-
-      {% for picture in album %}
-      {% assign filename = picture | split: '/' | last %}
-      {% assign dfilename = dsection | append: '/' | append: filename %}
-        <li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-saveperformance="off">
-          <img src="/{{ picture }}" alt="small-pslider1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-        </li>
-      {% endfor %}
-
-    </ul>
-    <div class="tp-bannertimer tp-bottom"></div>	</div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-<h2>{{ page.destination | translate: 'activities_title' }}</h2>
-<p>{{ page.destination | translate: 'activities_description' }}</p>
-
+    <div class="row">
+        <div class="space-70"></div>
+        <div class="col-md-12">
 {% assign contact = 'contact' | section %}
 <a class="button" href="{{contact.permalink}}">{{ page.destination | translate: 'venue_start' }}</a>
+        </div>
+        <div class="space-70"></div>
+    </div><!--row-->
+    <div class="row">
+        <div class="space-70"></div>
+        <div class="col-md-12 text-center">
+            <h2>{{ page.destination | translate: 'activities_start' }}</h2>
+            <h3 class="subtitle">{{ page.destination | translate: 'activities_description' }}</h3>
+        </div>
+        <div class="space-70"></div>
+    </div><!--row-->
 
-<h2>{{ page.destination | translate: 'activities_start' }}</h2>
 
-<div class="grid-wrapper">
-  <ul class="items">
-    {% assign activities = site.data.activities | where: 'destination', page.destination.key | where: 'selected', 'yes' %}
-    {% for activity in activities %}
-    <li rel="7">
-      <a href="/{{ page.locale}}/activities/{{ activity | translate: 'title' | slugify }}">
-        <img src="/assets/images/team-building/thumbnails/{{ activity.photo1 }}" title="{{ activity | translate: 'title' }}" alt="{{ activity | translate: 'title' }}">
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
+    <div class="row">
+        <div class="space-70"></div>
+        <div class="col-md-12 text-center">
+            <h2>{{ page.destination | translate: 'activities_title' }}</h2>
+            <h3 class="subtitle">{{ page.destination | translate: 'activities_description' }}</h3>
+        </div>
+        <div class="space-70"></div>
+    </div><!--row-->
+
+    <div class="row">
+        {% assign related_activities = site.data.activities | where: 'destination', page.destination.key | where: 'selected', 'yes' %}
+        {% for related_activity in related_activities %}
+        <div class=" mix design col-md-4 col-sm-6 margin-btm-40">
+            <div class="portfolio-sec">
+                <div class="portfolio-thumnail">
+                    <a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}">
+                        <img class="img-responsive" src="/assets/images/team-building/thumbnails/{{ related_activity.photo1 }}" title="{{ related_activity | translate: 'title' }}" alt="{{ related_activity | translate: 'title' }}" style="width: 358px; height: 238px">
+                    </a>
+                </div>
+                <div class="portfolio-desc text-center">
+                    <h4 class="portfolio-post-title">{{ related_activity | translate: 'title' }}</h4>
+                    <span class="portfolio-post-cat">Branding</span>
+                    <h4><a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
+                </div>
+            </div>
+        </div><!--portfolio item -->
+        {% endfor %}
+    </div><!--grid-->
+
+    <div class="space-70"></div>
+</div><!--portfolio single container end-->

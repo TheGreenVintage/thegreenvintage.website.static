@@ -1,14 +1,16 @@
 #!/bin/bash
 
-for X in `ls -1 | grep -v thumbnails`; do
+for X in `find . -maxdepth 1 -type f -not -path "./thumbnails"`; do
 
   if [ ! -f "./thumbnails/${X}" ]; then
     echo "Generating thumbnail for ${X}..."
-    convert  -resize 228x -strip -interlace Plane -quality 80 "${X}" "./thumbnails/${X}"
+    convert  -resize 358x -strip -interlace Plane -quality 85 "${X}" "./thumbnails/${X}"
   fi
 
-  echo "Resizing ${X}..."
-  convert  -resize 800x -strip -interlace Plane -quality 95 "${X}" "${X}"
+  if [[ $(find ${X} -type f -size +204800c 2>/dev/null) ]]; then
+    echo "Resizing ${X}..."
+    convert  -resize 800x -strip -interlace Plane -quality 95 "${X}" "${X}"
+  fi
 done
 
 #count=1

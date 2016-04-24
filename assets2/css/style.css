@@ -1285,8 +1285,8 @@ MULTI LEVEL DROPDOWN CSS
 }
 .theme-btn-default:hover, .theme-btn-default:focus {
   color: #fff;
-  background-color: #000;
-  border-color: #000;
+  background-color: #66AC82;
+  border-color: #555;
 }
 
 /*theme color button*/

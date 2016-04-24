@@ -9,9 +9,9 @@ en:
     title: Not found
     message: Resource not found
   meta:
-    description: <em>The Green Vintage</em> is a destination management company that
+    description: "<em>The Green Vintage</em> is a destination management company that
       offers team building activities and incentive travels for companies. Offices
-      in Barcelona and Lisbon
+      in Barcelona and Lisbon"
   cookies:
     title: Cookie policy
     message: This website uses cookies to ensure you get the best experience on our
@@ -19,6 +19,7 @@ en:
     got_it: Got it!
     learn_more: More information
   generic:
+    language: Language
     navigate: Browse
     dragging: Move
     arrows: Arrows
@@ -60,16 +61,21 @@ en:
     about_us: About us
     all_rights_reserved: All rights reserved
     contact_us: Contact us
-    contact: Explain us your proposal
     sections: Sections
     destination: Destinations
+    newsletter:
+      title: Newsletter
+      description: Keep up on our always evolving Future updates. Enter your e-mail
+        and subscribe to our newsletter.
+      placeholder: Enter your email
+      submit: Go!
   team:
     title: About us
     message: Destinations Manager Experts with a Personal Touch
-    founders: <em>The Green Vintage</em> is a destination management company located
+    founders: "<em>The Green Vintage</em> is a destination management company located
       in Barcelona and Lisboa. We are passionate about create, plan and manage MICE
       programs, incentive travel experiences and team building activities that produce
-      motivation, inspiration and great memories. We fit your needs.
+      motivation, inspiration and great memories. We fit your needs."
     commitment: Our commitment
     commitment1:
       title: Satisfaction
@@ -197,6 +203,7 @@ en:
     message: If you have any idea you'd like to be created please talk to us and fulfill
       the following form. We’ll be glad to plan your next event!
     in_contact: Keep in touch!
+    proposal: Explain us your proposal
     send: Send
     message_placeholder: Your message
     subject_placeholder: Your subject

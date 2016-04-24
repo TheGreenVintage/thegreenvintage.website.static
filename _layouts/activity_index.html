@@ -23,7 +23,9 @@ section: activity
                 {% assign included_size = included | size %}
 
                 {% if included_size > 0 %}
-                  <h4>{{ 'activities.included' | translate }}:</h4>
+                  <div class="space-40"></div>
+                  <strong>{{ 'activities.included' | translate }}:</strong>
+                  <div class="space-10"></div>
                   <ul>
                     {% for item in included %}
                     <li>
@@ -37,7 +39,9 @@ section: activity
                 {% assign not_included_size = not_included | size %}
 
                 {% if not_included_size > 0 %}
-                  <h4>{{ 'activities.not_included' | translate }}:</h4>
+                  <div class="space-20"></div>
+                  <strong>{{ 'activities.not_included' | translate }}:</strong>
+                  <div class="space-10"></div>
                   <ul>
                     {% for item in not_included %}
                     <li>

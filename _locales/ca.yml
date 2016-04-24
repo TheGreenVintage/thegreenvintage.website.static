@@ -9,15 +9,16 @@ ca:
     title: No trobat
     message: Recurs no trobat
   meta:
-    description: <em>The Green Vintage</em> és una agència de receptiu amb seu a Barcelona
-      i Lisboa que ofereix serveis de team building i viatges d'incentiu per a empreses,
-      tan nacionals com a internacionals.
+    description: "<em>The Green Vintage</em> és una agència de receptiu amb seu a
+      Barcelona i Lisboa que ofereix serveis de team building i viatges d'incentiu
+      per a empreses, tan nacionals com a internacionals."
   cookies:
     title: Política de Cookies
     message: Aquesta web utilitza cookies per oferir-te una millor experiència i servei
     got_it: Accepto
     learn_more: Més informació
   generic:
+    language: Idioma
     navigate: Navegar
     dragging: Moure
     arrows: Fletxes
@@ -52,25 +53,30 @@ ca:
     activities_description: Explora la nostra gamma d'activitats, i poseu-vos en contacte
       amb nosaltres per adaptar les millors opcions per satisfer els seus objectius.
     destinations_title: Destinacions & Esdeveniments
-    destinations_description: <em>The Green Vintage</em> és el seu aliat a l’hora
+    destinations_description: "<em>The Green Vintage</em> és el seu aliat a l’hora
       de planificar esdeveniments i viatges d’incentiu. Tenim experiència en el sector
       que, en combinació amb la nostra capacitat d’organització, fan un tàndem perfecte
-      perquè els seus esdeveniments i viatges siguin tot un èxit.
+      perquè els seus esdeveniments i viatges siguin tot un èxit."
     customers: Alguns dels clients que ja han confiat amb nosaltres
   footer:
     about_us: Sobre nosaltres
     all_rights_reserved: Tots els drets reservats
     contact_us: Contacta'ns
-    contact: Explica'ns la teva proposta
     sections: Seccions
     destination: Destinacions
+    newsletter:
+      title: Newsletter
+      description: Keep up on our always evolving Future updates. Enter your e-mail
+        and subscribe to our newsletter.
+      placeholder: Enter your email
+      submit: Go
   team:
     title: Sobre nosaltres
     message: Experts en gestió de destinacions (DMC)
-    founders: <em>The Green Vintage</em> és una agència receptiva amb seu a Barcelona
+    founders: "<em>The Green Vintage</em> és una agència receptiva amb seu a Barcelona
       i Lisboa. Som apasionats en dirigir, crear, organitzar programes MICE, viatges
       d’incentiu i activitats de team building. Produim motivació, inspiració i generem
-      experiències.
+      experiències."
     commitment: El nostre compromís
     commitment1:
       title: Satisfacció
@@ -203,6 +209,7 @@ ca:
     message: Si té una idea que vol dur a terme amb nosaltres, ompli el següent formulari.
       Estarem encantats d'organitzar el seu pròxim esdeveviment!
     in_contact: Seguim en contacte
+    proposal: Explica'ns la teva proposta
     send: Enviar
     message_placeholder: Missatge
     subject_placeholder: Assumpte
