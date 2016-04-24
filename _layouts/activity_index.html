@@ -7,7 +7,7 @@ section: activity
 <div class="container portfolio-details">
     <div class="row">
         <div class="col-md-12 margin-btm-40">
-            <div class="flexslider">
+            <div class="flexslider" style="height: 600px; overflow: hidden">
                 <ul class="slides">
                     <li><img src="/assets/images/team-building/{{ page.activity.photo1 }}" alt="" class="img-responsive"></li>
                     <li><img src="/assets/images/team-building/{{ page.activity.photo2 }}" alt="" class="img-responsive"></li>
@@ -92,7 +92,7 @@ section: activity
     </div><!--row-->
 
     <div class="row">
-        {% assign related_activities = site.data.activities | sample:3 %}
+        {% assign related_activities = site.data.activities | where_exp:"item", "item.tag != page.activity.tag"| sample:3 %}
         {% for related_activity in related_activities %}
         <div class=" mix design col-md-4 col-sm-6 margin-btm-40">
             <div class="portfolio-sec">
