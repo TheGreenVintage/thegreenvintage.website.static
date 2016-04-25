@@ -26,7 +26,7 @@ en:
     keyboard: Keyboard
     navigation: Navegation
     more_info: More information
-    address: Carrer Casp, 79 Penthouse
+    address: Carrer de Casp, 79 Penthouse
     location: Barcelona, 08013
   common:
     destinations_tittle: How can we help you?
@@ -68,6 +68,7 @@ en:
       description: Keep up on our always evolving Future updates. Enter your e-mail
         and subscribe to our newsletter.
       placeholder: Enter your email
+      label: Email address
       submit: Go!
   team:
     title: About us
@@ -187,9 +188,7 @@ en:
           have and then further tailor the proposed program to your liking/budget
       reservation:
         title: BOOKING
-        description: We’ll send you the agreement to sign, arrange financial transfers,
-          and will put holds on hotel rooms, restaurants, venues, excursions, transportation
-          and staff
+        description: We will send you a complete program of all the services involved
       execution:
         title: EXECUTE
         description: We will coordinate all the actions to ensure success

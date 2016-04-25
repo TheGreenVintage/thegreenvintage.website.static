@@ -25,7 +25,7 @@ ca:
     keyboard: Teclat
     navigation: Navegació
     more_info: Més informació
-    address: Carrer Casp, 79 Sobreàtic
+    address: Carrer de Casp, 79 Sobreàtic
     location: Barcelona, 08013
   common:
     destinations_tittle: En què et podem ajudar?
@@ -69,6 +69,7 @@ ca:
       description: Keep up on our always evolving Future updates. Enter your e-mail
         and subscribe to our newsletter.
       placeholder: Enter your email
+      label: Email address
       submit: Go
   team:
     title: Sobre nosaltres
@@ -159,11 +160,12 @@ ca:
     incentive_title: Programes d'incentiu
     incentive_description: Els viatges d'incentiu són la nostra especialitat. Dissenyem
       programes específics per a cada empresa i pels seus objectius. Els programes
-      d'incentiu són la millor manera de motivar i celebrar l'èxit de l'equip, augmenten
-      la productivitat i les vendes, milloren la relació entre els empleats i la lleialtat
-      del client. Planifiquem i dirigim tot el procés de principi a fi, però el més
-      important és gestionar als seus assistents i proporcionar-los una experiència
-      única.
+      d'incentiu serveixen com a bonificacions addicionals al pagament de diners estàndards.
+      Són la millor manera de motivar i celebrar l'èxit de l'equip, augmenten la productivitat
+      i les vendes, milloren la relació entre els empleats i la lleialtat del client.
+      Planifiquem, organitzem i dirigim tot el procés de principi a fi, per a que
+      el viatge s’adapti a les vostres necessitats. Cuidem al màxim el detall i proporcionem
+      una experiència única a tots els assistents.
     events_title: Esdeveniments
     events_description: "Els esdeveniments són una oportunitat única per impactar
       a la seva audiència i amplificar el seu missatge. D'obertures o llançaments
@@ -188,13 +190,12 @@ ca:
           prefereix podríem realitzar una videoconferència
       followup:
         title: SEGUIMENT
-        description: programarem reunions per debatre temes i fer un seguiment personalitzat
+        description: Programarem reunions per debatre temes i fer un seguiment personalitzat
           del seu esdeveniment
       reservation:
         title: RESERVA
         description: Li enviarem un programa complet del que es realitzarà durant
-          l'esdeveniment, excursions, reunions, transport, llocs, restaurants, hotels...etc
-          que vostè mateix haurà de signar
+          l'esdeveniment de tots els serveis implicats
       execution:
         title: EXECUTAR
         description: Coordinar y supervisar que tot surti segons el previst. I poder

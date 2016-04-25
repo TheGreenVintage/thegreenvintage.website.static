@@ -25,7 +25,7 @@ es:
     keyboard: Teclado
     navigation: Navegación
     more_info: Más información
-    address: Carrer Casp, 79 Sobreático
+    address: Carrer de Casp, 79 Sobreático
     location: Barcelona, 08013
   common:
     destinations_tittle: "¿En qué te podemos ayudar?"
@@ -69,6 +69,7 @@ es:
       description: Keep up on our always evolving Future updates. Enter your e-mail
         and subscribe to our newsletter.
       placeholder: Enter your email
+      label: Email address
       submit: Go
   team:
     title: Sobre nosotros
@@ -151,12 +152,14 @@ es:
 
       Nuestro enfoque es empezar con una página en blanco, escuchar sus pensamientos iniciales, sus opiniones, y a partir de ahí diseñar un programa que se ajuste a las metas y objetivos de su empresa. Nos gusta pensar en nosotros mismos como una extensión de su equipo.
     incentive_title: Programas de incentivo
-    incentive_description: Los viajes de incentivo son nuestra especialidad. Creamos
-      programas específicos para cada empresa y sus objetivos. Los programas de incentivo
-      son la mejor manera de motivar y celebrar el éxito en equipo, aumentar la productividad
-      y las ventas, mejorar la relación entre los empleados y la lealtad del cliente.
-      Planificamos y organizamos todo el proceso de principio a fin, pero lo más importante
-      es gestionar a sus asistentes y proporcionarles una experiencia única.
+    incentive_description: Los viajes de incentivo son nuestra especialidad. Diseñamos
+      programas específicos para cada empresa y por sus objetivos. Los programas de
+      incentivo sirven como bonificaciones adicionales al pago de dinero estándar.
+      Son la mejor manera de motivar y celebrar el éxito del equipo, aumentan la productividad
+      y las ventas, mejoran la relación entre los empleados y la lealtad del cliente.
+      Planificamos, organizamos y dirigimos todo el proceso de principio a fin, para
+      que el viaje se adapte a vuestras necesidades. Cuidamos al máximo el detalle
+      y proporcionamos una experiencia única a todos los asistentes.
     events_title: Eventos
     events_description: "Los eventos son una oportunidad única para impactar a su
       audiencia y amplificar su mensaje. De aperturas o lanzamientos de producto,
@@ -180,13 +183,12 @@ es:
           prefiere podríamos realizar una videoconferencia
       followup:
         title: SEGUIMIENTO
-        description: programaremos reuniones para debatir temas y hacer un seguimiento
+        description: Programaremos reuniones para debatir temas y hacer un seguimiento
           personalizado de su evento
       reservation:
         title: RESERVA
         description: Le enviaremos un programa completo de lo que se va realizar durante
-          el evento, excursiones, reuniones, transporte, lugares, restaurantes, hoteles...etc
-          que usted mismo deberá firmar
+          el evento, de todos los servicios implicados
       execution:
         title: EJECUTAR
         description: Coordinar y supervisar que todo salga según lo previsto. Y poder
