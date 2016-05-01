@@ -1,17 +1,17 @@
 <footer id="footer-option"> <div class="container">
         <div class="row">
             <div class="col-md-3 margin-btm-20">
-                <div class="footer-col">
+                <div id="mc_embed_signup" class="footer-col">
                     <h3>Newsletter</h3>
                     <p class="margin-btm-20">
                         {{ 'footer.newsletter.description' | translate }}
                     </p>
-                    <form>
+                    <form action="//thegreenvintage.us13.list-manage.com/subscribe/post?u=cfa69c9e6b96f1e05ef7c0cfc&amp;id=39096a4a9d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="input-group">
                                     <label class="sr-only" for="subscribe-email">{{ 'footer.newsletter.label' | translate }}</label>
-                                    <input type="email" class="form-control" id="subscribe-email" placeholder="{{ 'footer.newsletter.placeholder' | translate }}">
+                                    <input type="email" name="EMAIL" class="form-control" id="subscribe-email" placeholder="{{ 'footer.newsletter.placeholder' | translate }}">
                                     <span class="input-group-btn">
                                         <button type="submit" class="btn theme-btn-color">{{ 'footer.newsletter.submit' | translate }}</button>
                                     </span>
@@ -21,6 +21,7 @@
                     </form>
                 </div>
             </div><!--footer col end-->
+
             <div class="col-md-3 margin-btm-20">
                 <div class="footer-col margin-btm-20">
                     <h3>Latest tweet</h3>
@@ -43,10 +44,10 @@
                 <div class="footer-col margin-btm-20">
                     <h3>Follow us</h3>
                     <ul class=" list-inline social-btn">
-                        <li><a href="https://www.facebook.com/TGVintage"><i class="ion-social-facebook" data-toggle="tooltip" data-placement="top" title="" data-original-title="Like On Facebook"></i></a></li>
-                        <li><a href="https://www.twitter.com/Green_Vintage_"><i class="ion-social-twitter" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow On twitter"></i></a></li>
-                        <li><a href="https://www.linkedin.com/company/the-green-vintage"><i class="ion-social-linkedin" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow On Linkedin"></i></a></li>
-                        <li><a href="https://instagram.com/thegreenvintage/#"><i class="ion-social-instagram" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow On Instagram"></i></a></li>
+                        <li><a href="https://www.facebook.com/TGVintage"><i class="ion-social-facebook" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ 'generic.share.facebook' | translate }}"></i></a></li>
+                        <li><a href="https://www.twitter.com/Green_Vintage_"><i class="ion-social-twitter" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ 'generic.share.twitter' | translate }}"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/the-green-vintage"><i class="ion-social-linkedin" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ 'generic.share.linkedin' | translate }}"></i></a></li>
+                        <li><a href="https://instagram.com/thegreenvintage/#"><i class="ion-social-instagram" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ 'generic.share.instagram' | translate }}"></i></a></li>
                     </ul>
                 </div>
             </div><!--footer col end-->
@@ -54,7 +55,7 @@
                 <div class="footer-col">
                     <h3>{{ 'footer.contact_us' | translate }}</h3>
                     <p><a href="https://www.google.com/maps/place/Carrer+de+Casp,+79,+08013+Barcelona,+Spain" class="hover-color" target="_blank"><i class="ion-home"></i> {{ 'generic.address' | translate }} {{ 'generic.location' | translate }}</a></p>
-                    <p><a href="tel:+34 679 400 576"><i class="ion-iphone"></i> (+34) 679 400 576</a></p>
+                    <p><a href="tel:+34 679 400 576" class="hover-color"><i class="ion-iphone"></i> (+34) 679 400 576</a></p>
                     <p><a href="tel:+34 644 282 929" class="hover-color"><i class="ion-iphone"></i> (+34) 644 282 929</a></p>
                     <p><a href="mailto:info@thegreenvintage.com" class="hover-color"><i class="ion-ios-email-outline"></i> info@thegreenvintage.com</a></p>
                 </div>
@@ -80,7 +81,7 @@
                         {% assign sections = 'home destinations teambuilding team contact' | split: " " %}
                         {% for sname in sections %}
                         {% assign item = sname | section %}
-                        <li>
+                        <li class="{% if page.section == item.section %}active{% endif %}">
                           <a href="{{item.permalink}}">{{ item.section | append:'.title' | translate }}</a>
                         </li>
                         {% endfor %}

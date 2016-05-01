@@ -41,7 +41,6 @@
                         <a class="navbar-brand" href="/"><img src="/assets2/img/logos/logo-medium.png" class="img-responsive" alt="{{ site.title }}"></a>
                     </div>
                     <div class="navbar-collapse collapse">
-
                         <ul class="nav navbar-nav navbar-right">
                             {% assign sections = 'home destinations teambuilding team contact' | split: " " %}
                             {% for sname in sections %}
@@ -50,10 +49,10 @@
                               <a href="{{item.permalink}}">{{ item.section | append:'.title' | translate }}</a>
                             </li>
                             {% endfor %}
-
+                            <!-- Your like button code -->
                             <!--menu Features li end here-->
-                            <li class="social-nav"><a href="#"><i class="ion-social-facebook"></i></a></li>
-                            <li class="social-nav"><a href="#"><i class="ion-social-twitter"></i></a></li>
+                            <li class="social-nav"><a class="js-facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fthegreenvintage.com"><i class="ion-social-facebook"></i></a></li>
+                            <li class="social-nav"><a target="_blank" href="http://twitter.com/share"><i class="ion-social-twitter"></i></a></li>
                         </ul>
 
                     </div><!--/.nav-collapse -->
@@ -63,9 +62,16 @@
         </header><!--header main end-->
 
 {% if page.section != 'home' and page.section != 'activity' %}
+
+{% if page.title %}
+  {% assign pagetitle = page.title %}
+{% else%}
+  {% assign pagetitle = page.section | append:'.title' | translate %}
+{% endif %}
+
 <section id="content-region-3" class="padding-40 page-tree-bg">
     <div class="container">
-        <h3 class="page-tree-text">{{ page.section | append:'.title' | translate }}</h3>
+        <h3 class="page-tree-text">{{ pagetitle }}</h3>
     </div>
 </section><!--page-tree end here-->
 {% endif %}

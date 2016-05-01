@@ -98,12 +98,11 @@ section: activity
             <div class="portfolio-sec">
                 <div class="portfolio-thumnail">
                     <a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}">
-                        <img class="img-responsive" src="/assets/images/team-building/thumbnails/{{ related_activity.photo1 }}" title="{{ related_activity | translate: 'title' }}" alt="{{ related_activity | translate: 'title' }}" style="width: 358px; height: 238px">
+                        <img class="img-responsive" src="/assets/images/team-building/thumbnails/{{ related_activity.photo1 }}" title="{{ related_activity | translate: 'title' }}" alt="{{ related_activity | translate: 'title' }}">
                     </a>
                 </div>
                 <div class="portfolio-desc text-center">
                     <h4 class="portfolio-post-title">{{ related_activity | translate: 'title' }}</h4>
-                    <span class="portfolio-post-cat">Branding</span>
                     <h4><a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
                 </div>
             </div>

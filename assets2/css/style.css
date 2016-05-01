@@ -1,4 +1,5 @@
 /*
+            JavaScript and
 * Theme Name: bizwrap
 * Live example at: http://bootstraplovers.com/templates/bizwrap-v1.8/index.html
 * Version: v1.8
@@ -103,7 +104,8 @@ label {
 }
 
 p, blockquote {
-  line-height: 23px;
+  line-height: 35px;
+  font-size: 18px;
 }
 
 blockquote {
@@ -1100,6 +1102,10 @@ MULTI LEVEL DROPDOWN CSS
   color: #66AC82;
 }
 
+.footer-col a {
+  color: #b3b3b3;
+}
+
 @media (max-width: 768px) {
   .footer-copyright .footer-logo {
     text-align: center;
@@ -1528,6 +1534,7 @@ MULTI LEVEL DROPDOWN CSS
   color: #999;
   margin-bottom: 10px;
   margin-top: 10px;
+  padding: 10px;
 }
 .news-post-cat a {
   color: inherit;
@@ -2857,4 +2864,8 @@ a.carousel-control i {
 .radio-cehckboxed li label {
   margin-left: 10px;
   vertical-align: middle;
+}
+
+.container {
+  width: 80vw !important;
 }

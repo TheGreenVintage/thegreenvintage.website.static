@@ -28,6 +28,11 @@ en:
     more_info: More information
     address: Carrer de Casp, 79 Penthouse
     location: Barcelona, 08013
+    share:
+      facebook: Like On Facebook
+      twitter: Follow On Twitter
+      linkedin: Follow On Linkedin
+      instagram: Follow On Instagram
   common:
     destinations_tittle: How can we help you?
     destinations_meetings: Great ideas for venues and meetings
@@ -61,7 +66,6 @@ en:
     about_us: About us
     all_rights_reserved: All rights reserved
     contact_us: Contact us
-    sections: Sections
     destination: Destinations
     newsletter:
       title: Newsletter
@@ -72,7 +76,6 @@ en:
       submit: Go!
   team:
     title: About us
-    message: Destinations Manager Experts with a Personal Touch
     founders: "<em>The Green Vintage</em> is a destination management company located
       in Barcelona and Lisboa. We are passionate about create, plan and manage MICE
       programs, incentive travel experiences and team building activities that produce
@@ -119,10 +122,8 @@ en:
     hours: Hours
     related: Other activities
     pax: minimum of people
-  El nostre proc: Submit comment
   teambuilding:
     title: Team Building
-    message: Improving your team’s happiness and productivity has been our mission!
     description_1: |-
       Employee satisfaction and happiness are essential to productivity. Team building is a relationship-building process that develops communication in a group – and therefore has a direct link to building a happier and more productive workforce.
 
@@ -140,7 +141,6 @@ en:
       , creative activities… - we have it covered. Get into our ideas!
   destinations:
     title: Incentive travel
-    message: Customized and Creative Corporate Events
     description: Our meetings, events and incentive travel programs begin with a deep
       understanding of your strategic business goals, and we transform that understanding
       into creativity, memorable experiences.
@@ -194,13 +194,10 @@ en:
         description: We will coordinate all the actions to ensure success
     where: Destinations
     custom_title: Custom-made
-    custom_description: Do you have any other idea? We can make it. We customize and
-      give life to your wishes.
+    custom_description: We customize and give life to your next destionation
     default_photo: destinations/3.jpg
   contact:
     title: Contact
-    message: If you have any idea you'd like to be created please talk to us and fulfill
-      the following form. We’ll be glad to plan your next event!
     in_contact: Keep in touch!
     proposal: Explain us your proposal
     send: Send
@@ -209,10 +206,6 @@ en:
     telephone_placeholder: Enter your telephone
     email_placeholder: Enter your email
     name_placeholder: Enter your name
-    select: Select one option
-    private: Private event
-    corporative: Corporative event
-    category: Category
   contact-sent:
     title: Contact
     message: If you don't do it now, when?

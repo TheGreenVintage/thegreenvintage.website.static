@@ -12,6 +12,7 @@ module Jekyll
       self.data['destinations'] = destinations
       self.data['destination'] = destination
       self.data['locale'] = locale
+      self.data['title'] = destination["name_#{locale}"]
     end
   end
 

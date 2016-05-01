@@ -27,6 +27,11 @@ es:
     more_info: Más información
     address: Carrer de Casp, 79 Sobreático
     location: Barcelona, 08013
+    share:
+      facebook: Like On Facebook
+      twitter: Follow On Twitter
+      linkedin: Follow On Linkedin
+      instagram: Follow On Instagram
   common:
     destinations_tittle: "¿En qué te podemos ayudar?"
     destinations_meetings: Ideas para reuniones y venues únicos
@@ -62,7 +67,6 @@ es:
     about_us: Sobre nosotros
     all_rights_reserved: Todos los derechos reservados
     contact_us: Contáctanos
-    sections: Secciones
     destination: Destinaciones
     newsletter:
       title: Newsletter
@@ -73,7 +77,6 @@ es:
       submit: Go
   team:
     title: Sobre nosotros
-    message: Expertos en gestión de destinos (DMC)
     founders: "<em>The Green Vintage</em> es una agencia de receptivo con sede en
       Barcelona y Lisboa. Somos apasionados en dirigir, crear, organizar programas
       MICE, viajes de incentivo y actividades de team building. Producimos motivación,
@@ -121,10 +124,8 @@ es:
     hours: Horas
     related: Otras actividades
     pax: mínimo de personas
-  El nostre proc: Enviar comentario
   teambuilding:
     title: Team Building
-    message: Nuestra misión es mejorar la felicidad y el rendimiento de su equipo!
     description_1: |-
       La felicidad y la satisfacción de los empleados son esenciales para la productividad. El trabajo en equipo es un proceso que desarrolla la comunicación en un grupo y por lo tanto tiene un enlace directo a la construcción de una fuerza laboral más feliz y más productiva.
 
@@ -142,7 +143,6 @@ es:
       nuestro sinfín de ideas!
   destinations:
     title: Viajes de incentivo
-    message: Eventos creativos y personalizados
     description: Nuestras reuniones, eventos y programas de viajes de incentivo comienzan
       con un profundo conocimiento de los objetivos estratégicos de su empresa, y
       que transforman ese entendimiento en creatividad y experiencias memorables.
@@ -195,25 +195,18 @@ es:
           gestionar cualquier petición adicional
     where: Destinaciones
     custom_title: Otras destinaciones
-    custom_description: "¿Tiene alguna otra destinación en mente? Podemos hacerlo.
-      Personalizamos y damos vida a sus deseos."
+    custom_description: Personalizamos y damos vida a su próximo destino
     default_photo: destinations/3.jpg
   contact:
     title: Contacto
-    message: Si tiene una idea que quiere llevar a cabo con nosotros, rellene el siguiente
-      formulario. ¡Estaremos encantados de organizar su próximo evento!
     in_contact: Seguimos en contacto
-    proposal: Cuéntanos tu propuesta
+    proposal: Cuéntenos su propuesta
     send: Enviar
     message_placeholder: Mensaje
     subject_placeholder: Asunto
     telephone_placeholder: Introduzca su teléfono
     email_placeholder: Introduzca su correo electrónico
     name_placeholder: Introduzca su nombre
-    select: Selecciona una opción
-    private: Evento particular
-    corporative: Evento corporativo
-    category: Categoría
   contact-sent:
     title: Contacto
     message: Si no lo hace ahora, ¿Cúando?

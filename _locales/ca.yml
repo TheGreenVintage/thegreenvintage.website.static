@@ -27,6 +27,11 @@ ca:
     more_info: Més informació
     address: Carrer de Casp, 79 Sobreàtic
     location: Barcelona, 08013
+    share:
+      facebook: Like On Facebook
+      twitter: Follow On Twitter
+      linkedin: Follow On Linkedin
+      instagram: Follow On Instagram
   common:
     destinations_tittle: En què et podem ajudar?
     destinations_meetings: Idees per a reunions i venues únics
@@ -62,7 +67,6 @@ ca:
     about_us: Sobre nosaltres
     all_rights_reserved: Tots els drets reservats
     contact_us: Contacta'ns
-    sections: Seccions
     destination: Destinacions
     newsletter:
       title: Newsletter
@@ -73,7 +77,6 @@ ca:
       submit: Go
   team:
     title: Sobre nosaltres
-    message: Experts en gestió de destinacions (DMC)
     founders: "<em>The Green Vintage</em> és una agència receptiva amb seu a Barcelona
       i Lisboa. Som apasionats en dirigir, crear, organitzar programes MICE, viatges
       d’incentiu i activitats de team building. Produim motivació, inspiració i generem
@@ -123,10 +126,8 @@ ca:
     hours: Hores
     related: Altres activitats
     pax: Mínim de persones
-  El nostre proc: Enviar comentari
   teambuilding:
     title: Team Building
-    message: La nostra missió és millorar la felicitat i el rendiment del seu equip!
     description_1: |-
       La felicitat i la satisfacció dels empleats són essencials per a la productivitat. El treball en equip és un procés que desenvolupa la comunicació en un grup i per tant té un enllaç directe a la construcció d'una força laboral més feliç i més productiva.
 
@@ -144,7 +145,6 @@ ca:
       infinitat d'idees!
   destinations:
     title: Viatges d'incentiu
-    message: Esdeveniments creatius i personalitzats
     description: Les nostres reunions, esdeveniments i programes de viatges d'incentiu
       comencen amb un profund coneixement dels objectius estratègics de la seva empresa,
       i que transformen aquest enteniment en creativitat i experiències memorables.
@@ -202,25 +202,18 @@ ca:
           gestionar qualsevol petició addicional
     where: Destinacions
     custom_title: Altres destinacions
-    custom_description: Té alguna altra destinació en ment? Podem fer-ho. Personalitzem
-      i donem vida als seus desitjos.
+    custom_description: Personalitzem i donem vida als seu pròxim destí
     default_photo: destinations/3.jpg
   contact:
     title: Contacte
-    message: Si té una idea que vol dur a terme amb nosaltres, ompli el següent formulari.
-      Estarem encantats d'organitzar el seu pròxim esdeveviment!
     in_contact: Seguim en contacte
-    proposal: Explica'ns la teva proposta
+    proposal: Expliqui'ns la teva proposta
     send: Enviar
     message_placeholder: Missatge
     subject_placeholder: Assumpte
     telephone_placeholder: Introdueixi el seu telèfon
     email_placeholder: Introdueixi el seu correu electrònic
     name_placeholder: Introdueixi el seu nom
-    select: Selecciona una opció
-    private: Esdeveniment particular
-    corporative: Esdeveniment corporatiu
-    category: Categoria
   contact-sent:
     title: Contacte
     message: Si no ho fa ara, quan?

@@ -1,22 +1,65 @@
-<div class="intro uppercase center">
-  <p>{{ 'destinations.message' | translate }}</p>
-</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h3 class="subtitle">{{ 'destinations.description' | translate }}</h3>
+        </div>
+        <div class="space-70"></div>
+    </div><!--row-->
 
-<p>{{ 'destinations.description' | translate }}</p>
+    <div class="row">
+
+      {% assign destinations = site.data.destinations %}
+      {% for destination in destinations %}
+      <div class="col-md-4 col-sm-6 margin-btm-40">
+          <div class="portfolio-sec">
+              <div class="portfolio-thumnail">
+                  <a href="/{{ page.locale}}/destinations/{{ destination | translate: 'name' | slugify }}">
+                    <img class="img-responsive" src="/assets/images/{{ destination.photo }}" alt="{{ destination | translate: 'name' }}" title="{{ destination | translate: 'name' }}">
+                  </a>
+              </div>
+              <div class="portfolio-desc text-center">
+                  <h4 class="portfolio-post-title">{{ destination | translate: 'name' }}</h4>
+                  <span class="portfolio-post-cat">{{ destination | translate: 'title' }}</span>
+                  <h4><a href="/{{ page.locale}}/destinations/{{ destination | translate: 'name' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
+              </div>
+          </div>
+      </div><!--portfolio item -->
+      {% endfor %}
+
+      {% assign contact = 'contact' | section %}
+      <div class="col-md-4 col-sm-6 margin-btm-40">
+          <div class="portfolio-sec">
+              <div class="portfolio-thumnail">
+                  <a href="{{contact.permalink}}">
+                    <img class="img-responsive" src="/assets/images/{{ 'destinations.default_photo' | translate }}" alt="{{ 'destinations.custom_title' | translate }}" title="{{ 'destinations.custom_title' | translate }}">
+                  </a>
+              </div>
+              <div class="portfolio-desc text-center">
+                  <h4 class="portfolio-post-title">{{ 'destinations.custom_title' | translate }}</h4>
+                  <span class="portfolio-post-cat">{{ 'destinations.custom_description' | translate }}</span>
+                  <h4><a href="{{contact.permalink}}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
+              </div>
+          </div>
+      </div><!--portfolio item -->
+
+    </div><!--row portfolio item-->
+</div><!--recent work container end-->
 
 <div class="row">
-    <div class="col-md-4">
-      <h3>{{ 'destinations.offer_title' | translate }}</h3>
+    <div class="space-70"></div>
+
+    <div class="col-md-4 col-sm-6 margin-btm-40">
+      <h4 class="heading-mini">{{ 'destinations.offer_title' | translate }}</h4>
       <p>{{ 'destinations.offer_description' | translate }}</p>
     </div>
 
-    <div class="col-md-4">
-      <h3>{{ 'destinations.incentive_title' | translate }}</h3>
+    <div class="col-md-4 col-sm-6 margin-btm-40">
+      <h4 class="heading-mini">{{ 'destinations.incentive_title' | translate }}</h4>
       <p>{{ 'destinations.incentive_description' | translate }}</p>
     </div>
 
-    <div class="col-md-4">
-      <h3>{{ 'destinations.events_title' | translate }}</h3>
+    <div class="col-md-4 col-sm-6 margin-btm-40">
+      <h4 class="heading-mini">{{ 'destinations.events_title' | translate }}</h4>
       <p>{{ 'destinations.events_description' | translate }}</p>
     </div>
 </div>
@@ -45,51 +88,3 @@
 
 </div>
 <div class="space-70"></div>
-
-<div class="container">
-    <div class="row">
-        <div class="col-md-12 text-center">
-            <h2>{{ 'destinations.where' | translate }}</h2>
-            <h3 class="subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus</h3>
-        </div>
-        <div class="space-70"></div>
-    </div><!--row-->
-
-    <div class="row">
-
-      {% assign destinations = site.data.destinations %}
-      {% for destination in destinations %}
-      <div class="col-md-4 col-sm-6 margin-btm-40">
-          <div class="portfolio-sec">
-              <div class="portfolio-thumnail">
-                  <a href="/{{ page.locale}}/destinations/{{ destination | translate: 'name' | slugify }}">
-                    <img class="img-responsive" src="/assets/images/{{ destination.photo }}" alt="{{ destination | translate: 'name' }}" title="{{ destination | translate: 'name' }}">
-                  </a>
-              </div>
-              <div class="portfolio-desc text-center">
-                  <h4 class="portfolio-post-title">{{ destination | translate: 'name' }}</h4>
-                  <span class="portfolio-post-cat">{{ destination | translate: 'intro' }}</span>
-                  <h4><a href="/{{ page.locale}}/destinations/{{ destination | translate: 'name' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
-              </div>
-          </div>
-      </div><!--portfolio item -->
-      {% endfor %}
-
-      {% assign contact = 'contact' | section %}
-      <div class="col-md-4 col-sm-6 margin-btm-40">
-          <div class="portfolio-sec">
-              <div class="portfolio-thumnail">
-                  <a href="{{contact.permalink}}">
-                    <img class="img-responsive" src="/assets/images/{{ 'destinations.default_photo' | translate }}" alt="{{ 'destinations.custom_title' | translate }}" title="{{ 'destinations.custom_title' | translate }}">
-                  </a>
-              </div>
-              <div class="portfolio-desc text-center">
-                  <h4 class="portfolio-post-title">{{ 'destinations.custom_title' | translate }}</h4>
-                  <span class="portfolio-post-cat">{{ 'destinations.custom_description' | translate }}</span>
-                  <h4><a href="{{contact.permalink}}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
-              </div>
-          </div>
-      </div><!--portfolio item -->
-
-    </div><!--row portfolio item-->
-</div><!--recent work container end-->
