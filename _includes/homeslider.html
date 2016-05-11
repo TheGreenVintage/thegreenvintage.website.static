@@ -1,39 +1,3 @@
-<!-- Begin Slider
-<div class="fullwidthbanner-container">
-  <div class="fullwidthbanner">
-    <ul>
-
-    {% assign album = 'assets/images/home/' | walk %}
-
-    {% if include.reverse %}
-      {% assign album = album | reverse %}
-    {% endif %}
-
-    {% for picture in album %}
-      {% assign filename = picture | split: '/' | last %}
-      {% assign dfilename = 'home/' | append: filename %}
-
-      {% assign image = site.data.home | where: 'file', dfilename | first %}
-      {% assign title = image | translate: 'title' %}
-      {% assign description = image | translate: 'description' %}
-
-      <li data-transition="fade">
-        <img src="{{ picture | cdn }}" alt="">
-        {% if title %}
-        <div class="caption sfr big_black" data-x="655" data-y="510" data-speed="600" data-start="600" data-easing="easeOutExpo">{{ title }}</div>
-        {% endif %}
-        {% if description %}
-        <div class="caption sfl small_black" data-x="655" data-y="557" data-speed="600" data-start="900" data-easing="easeOutExpo">{{ description }}</div>
-        {% endif %}
-      </li>
-    {% endfor %}
-
-    </ul>
-    <div class="tp-bannertimer"></div>
-  </div>
-</div> -->
-<!-- End Slider -->
-<!-- masterslider -->
 <div class="master-slider ms-skin-default" id="masterslider">
     {% for picture in site.data.home %}
     <div class="ms-slide slide-{{forloop.index}}">
@@ -57,7 +21,7 @@
             >
             {{ picture | translate: 'description' }}
         </h4>
-        <img src="/assets2/master-slider/style/blank.gif" data-src="/assets/images/{{ picture.file }}" alt="{{ image | translate: 'title' }}"/>
+        <img src="/assets2/master-slider/style/blank.gif" data-src="/assets/images/{{ picture.file }}" alt="{{ picture | translate: 'title' }}"/>
     </div>
     {% endfor %}
 </div>

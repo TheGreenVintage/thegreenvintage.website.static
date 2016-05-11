@@ -7,10 +7,7 @@ permalink: /es/equipo/
 
 <div class="space-70"></div>
 <div class="container">
-    <div class="row">
-        <div class="col-md-12">
-        {% include aboutus.html %}
-        {% include commitment.html %}
-        </div>
-    </div><!--row-->
-</div><!--portfolio container end-->
+  {% include aboutus.html %}
+  {% include meetourteam.html %}
+  {% include commitment.html %}
+</div>

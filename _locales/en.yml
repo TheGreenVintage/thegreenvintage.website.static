@@ -40,28 +40,6 @@ en:
     destinations_hotels: Wide range of accommodation
     destinations_restaurants: Gastronomic diversity
     destinations_transportation: Private transport, shuttles and transfers services
-  home:
-    title: Home
-    message: We create different experiences, grow business and motivate teams. Business
-      and leisure. We combine them for you.
-    what_we_do: We are a team specialized in management destinations and team building
-      activities. We use all the technologies and we have the best partners. Our main
-      target which defines us is our commitment to do the best professional work.
-      The ability to listen and to understand your needs and requirements together
-      with our area knowledge are the fundamental basis to ensure your success.
-    success: Our goal is to grow personally and professionally with our customers
-      and their success
-    start_now: See our activities
-    activities_title: Our activities
-    activities_message: More creativity. Better communication. More creativity. Higher
-      productivity. Let’s take your team to the next level.
-    activities_description: Explore our fantastic range of team building activities
-      and contact us to discuss the best options to meet your objectives.
-    destinations_title: Destinations & Events
-    destinations_description: Are you planning a meeting, conference or special event
-      and need local expertise and support? Then, you need a Destination Management
-      Company! We could help you!
-    customers: Some of the clients who have already trusted us
   footer:
     about_us: About us
     all_rights_reserved: All rights reserved
@@ -73,13 +51,17 @@ en:
         and subscribe to our newsletter.
       placeholder: Enter your email
       label: Email address
-      submit: Go!
+      submit: Subscribe!
+    post:
+      tittle: Latest tweet
   team:
     title: About us
-    founders: "<em>The Green Vintage</em> is a destination management company located
-      in Barcelona and Lisboa. We are passionate about create, plan and manage MICE
-      programs, incentive travel experiences and team building activities that produce
-      motivation, inspiration and great memories. We fit your needs."
+    founders:
+      title: Meet our team
+      description: |-
+        We are a destination management company located in Barcelona and Lisboa. We are passionate about create, plan and manage MICE programs, incentive travel experiences and team building activities that produce motivation, inspiration and great memories. We fit your needs.
+
+        We are energetic and reagents. Being enthusiasm is our strong point. Complementarity of our profiles allows us to be creative. The excellent knowledge of the industry, the optimal collaboration with suppliers and our concern for innovation and excellence, allows us to successfully complete any project with full guarantee.
     commitment: Our commitment
     commitment1:
       title: Satisfaction
@@ -121,13 +103,18 @@ en:
     duration: Duration
     hours: Hours
     related: Other activities
-    pax: minimum of people
+    pax: Minimum of people
   teambuilding:
     title: Team Building
-    description_1: |-
-      Employee satisfaction and happiness are essential to productivity. Team building is a relationship-building process that develops communication in a group – and therefore has a direct link to building a happier and more productive workforce.
-
-      We create these experiences that promote team bonding and communication in a relaxed environment. This approach creates rich, educational and engaging team building activities that leave your team feeling  engaged, rewarded and refreshed.
+    productivity:
+      title: Employee satisfaction and happiness are essential to productivity.
+      description: Team building is a relationship-building process that develops
+        communication in a group – and therefore has a direct link to building a happier
+        and more productive workforce.
+    description_1: We create these experiences that promote team bonding and communication
+      in a relaxed environment. This approach creates rich, educational and engaging
+      team building activities that leave your team feeling  engaged, rewarded and
+      refreshed.
     colum_1: |-
       Development of skills
       Improved communication
@@ -140,36 +127,24 @@ en:
       for you to browse through. Whether you are looking for an adrenaline, culinary
       , creative activities… - we have it covered. Get into our ideas!
   destinations:
-    title: Incentive travel
+    title: Destinations & Events
     description: Our meetings, events and incentive travel programs begin with a deep
       understanding of your strategic business goals, and we transform that understanding
       into creativity, memorable experiences.
     offer_title: What we offer
     offer_description: We offer customized corporate travel services, ranging from
-      incentive travel programs to event coordination to meeting management. We work
-      with international clients wishing to visit the Spain and Portugal, and based
-      clients looking to either travel outside of Spain and Portugal or stay local
-      and discover more of their own country. Our approach is to start with a blank
-      page, listen to your initial thoughts, even brainstorm with you then design
-      a program that best fits your company’s goals and objectives. We like to think
-      of ourselves as an extension of your team, here to make your wishes come to
-      life and to make every step hassle-free.
+      incentive travel programs to event coordination to meeting management. We like
+      to think of ourselves as an extension of your team, here to make your wishes
+      come to life and to make every step hassle-free.
     incentive_title: INCENTIVE PROGRAMS
-    incentive_description: Incentive Travel is our specialty. We create a specific
-      program for your company’s needs and your goals. Incentive programs are a great
-      way to motivate and celebrate success as a team, increases productivity and
-      sales, better working relationships and customer loyalty. We plan and organize
-      the entire process from beginning to end, but most importantly manage your attendees
-      and provide them with a unique experience.
+    incentive_description: Incentive Travel are a great way to motivate and celebrate
+      success as a team, increases productivity and sales, better working relationships
+      and customer loyalty. We plan and organize the entire process from beginning
+      to end.
     events_title: Events
-    events_description: "Events are a unique opportunity to impact your audience and
-      amplify your message. From outings, grand openings or product launches, concerts,
-      parties... we know how to make an event memorable. \n\nOur Program Managers
-      understand that uniqueness and relevancy is key to creating an extraordinary
-      event and that all aspects of the experience must appropriately reflect your
-      organization and goals. Events are the perfect way to get creative, build excitement,
-      celebrate something special, showroom... And we're your detail orientated, dedicated
-      team who will always accept responsibility for the success of your event."
+    events_description: |-
+      Events are a unique opportunity to impact your audience and amplify your message.
+      Our Program Managers understand that uniqueness and relevancy is key to creating an success event.
     process_title: Our process
     process:
       briefing:
@@ -180,12 +155,12 @@ en:
         description: Our team will gather ideas to create your unique experience
       proposal:
         title: PROPOSAL
-        description: We’ll send you our best proposal by email or present this to
-          you over a video conference call
+        description: We’ll send you our best proposal by email or video conference
+          call
       followup:
         title: FOLLOW UP
         description: We’ll schedule a follow up call to discuss questions you might
-          have and then further tailor the proposed program to your liking/budget
+          have
       reservation:
         title: BOOKING
         description: We will send you a complete program of all the services involved
@@ -211,3 +186,51 @@ en:
     message: If you don't do it now, when?
     sent_title: Your message was sent successfully
     sent_description: Thank you for contacting us!
+  home:
+    title: Home
+    process:
+      destination:
+        title: Destination Management
+        description: Is about having knowledge, experience and an understanding of
+          your needs.
+      teambuilding:
+        title: Team Building
+        description: We create different experiences, grow business and motivate teams.
+          Business and leisure. We combine them for you.
+      events:
+        tittle: Events
+        description: We are a collection of visionaries, strategists, planners and
+          creators brought together to offer extraordinary events.
+      tour:
+        tittle: Closest winery to Barcelona
+        description: Culture, History, Gastronomy and Wine
+    destinations_title: Destinations & Events
+    destinations_description: Are you planning a meeting, conference or special event
+      and need local expertise and support? Then, you need a Destination Management
+      Company! We could help you!
+    activities_title: Our activities
+    activities_message: More creativity. Better communication. More creativity. Higher
+      productivity. Let’s take your team to the next level.
+    tour:
+      title: Our Tour
+      description: Discover Alella village, closest winery to Barcelona. Taste ecologic
+        wine, knowledge history and culture, get in touch with local people and enjoy
+        good gastronomy.
+      details:
+        title_1: Barcelona - Alella
+        description_1: Meeting point in front of the Hard Rock Coffee of Square Catalonia
+        title_2: Winery visit and wine tasting
+        description_2: Guided tour through the vineyards and winery in a typical catalan
+          house 14th century (Tasting 4 exclusive organic wines)
+        title_3: Guided modernist tour
+        description_3: On this tour you will have an incredible opportunity to visit
+          modernist art outside Barcelona.
+        title_4: Local market
+        description_4: Walk around the market in order to enjoy the colors, local
+          people, vendors and variety of typical products
+        title_5: Vermouth time
+        description_5: Having a vermouth is an important aperitif tradition in Catalonia
+        title_6: Alella - Barcelona
+        description_6: After this awesome day, we will return to the city
+    start_now: Book now!
+    customers: Some of the clients who have already trusted us

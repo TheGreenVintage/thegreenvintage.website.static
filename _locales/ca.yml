@@ -28,10 +28,10 @@ ca:
     address: Carrer de Casp, 79 Sobreàtic
     location: Barcelona, 08013
     share:
-      facebook: Like On Facebook
-      twitter: Follow On Twitter
-      linkedin: Follow On Linkedin
-      instagram: Follow On Instagram
+      facebook: Segueix-nos a Facebook
+      twitter: Segueix-nos a Twitter
+      linkedin: Segueix-nos a Linkedin
+      instagram: Segueix-nos a Instagram
   common:
     destinations_tittle: En què et podem ajudar?
     destinations_meetings: Idees per a reunions i venues únics
@@ -39,48 +39,28 @@ ca:
     destinations_hotels: Gran varietat d’allotjaments
     destinations_restaurants: Diversitat gastronòmica
     destinations_transportation: Serveis de transport privat, trasllats i transfers
-  home:
-    title: Inici
-    message: Creem experiències originals, fem créixer el seu negoci i motivem al
-      seu equip. Negocis i oci, una gran combinació.
-    what_we_do: Som un equip d’especialistes en el disseny de viatges d’incentiu i
-      activitats per a empreses. Anem de la mà amb les noves tecnologies i col·laborem
-      amb els millors proveidors. La nostra implicació i les bones ganes de fer són
-      el nostre major valor. El saber escoltar i entendre les necessitats dels nostres
-      clients i del territori en el qual ens trobem són bases fonamentals per garantir
-      l'èxit.
-    success: El nostre objectiu és créixer de manera personal i professional juntament
-      amb els nostres clients i el seu ÈXIT
-    start_now: Mira les nostres activitats
-    activities_title: Les nostres activitats
-    activities_message: Més creativitat. Millor comunicació. Major productivitat.
-      Incrementa la motivació del seu equip.
-    activities_description: Explora la nostra gamma d'activitats, i poseu-vos en contacte
-      amb nosaltres per adaptar les millors opcions per satisfer els seus objectius.
-    destinations_title: Destinacions & Esdeveniments
-    destinations_description: "<em>The Green Vintage</em> és el seu aliat a l’hora
-      de planificar esdeveniments i viatges d’incentiu. Tenim experiència en el sector
-      que, en combinació amb la nostra capacitat d’organització, fan un tàndem perfecte
-      perquè els seus esdeveniments i viatges siguin tot un èxit."
-    customers: Alguns dels clients que ja han confiat amb nosaltres
   footer:
     about_us: Sobre nosaltres
     all_rights_reserved: Tots els drets reservats
     contact_us: Contacta'ns
     destination: Destinacions
     newsletter:
-      title: Newsletter
-      description: Keep up on our always evolving Future updates. Enter your e-mail
-        and subscribe to our newsletter.
-      placeholder: Enter your email
-      label: Email address
-      submit: Go
+      title: Bulletí informatiu
+      description: Mantingui's al dia de les nostres notícies i actualitzacions. Ingressi
+        el seu correu electrònic i així rebrà el nostre butlletí
+      placeholder: Introdueixi el seu correu electrònic
+      label: Adreça de correu electrònic
+      submit: Subscriure's!
+    post:
+      tittle: "Últim tweet"
   team:
     title: Sobre nosaltres
-    founders: "<em>The Green Vintage</em> és una agència receptiva amb seu a Barcelona
-      i Lisboa. Som apasionats en dirigir, crear, organitzar programes MICE, viatges
-      d’incentiu i activitats de team building. Produim motivació, inspiració i generem
-      experiències."
+    founders:
+      title: Conegui al nostre equip
+      description: |-
+        Sóm una agència receptiva amb seu a Barcelona i Lisboa. Som apasionats en dirigir, crear, organitzar programes MICE, viatges d’incentiu i activitats de team building. Produim motivació, inspiració i generem experiències.
+
+        Som enèrgics i reactius, sent l'entusiasme el nostre punt fort. La complementarietat dels nostres perfils ens permet ser creatius. L'excel·lent coneixement del sector, l'òptima col·laboració amb proveïdors i la inquietud per la innovació i l'excel·lència ens permeten materialitzar qualsevol projecte amb total garantia. Ens movem pensant sempre en solucions.
     commitment: El nostre compromís
     commitment1:
       title: Satisfacció
@@ -128,10 +108,14 @@ ca:
     pax: Mínim de persones
   teambuilding:
     title: Team Building
-    description_1: |-
-      La felicitat i la satisfacció dels empleats són essencials per a la productivitat. El treball en equip és un procés que desenvolupa la comunicació en un grup i per tant té un enllaç directe a la construcció d'una força laboral més feliç i més productiva.
-
-      Creem aquestes experiències que promoguin la relació de l'equip i la comunicació en un ambient relaxat i natural. Aquest enfocament crea riques i educatives activitats que deixen una bona sensació d'equip.
+    productivity:
+      title: La felicitat i la satisfacció dels empleats són essencials per a la productivitat.
+      description: El treball en equip és un procés que desenvolupa la comunicació
+        en un grup i per tant té un enllaç directe a la construcció d'una força laboral
+        més feliç i més productiva.
+    description_1: Creem aquestes experiències que promouen la relació de l'equip
+      i la comunicació en un ambient relaxat i natural. Aquest enfocament crea riques
+      i educatives activitats que deixen una bona sensació d'equip.
     colum_1: |-
       Desenvolupament d'habilitats
       Millora la Comunicació
@@ -144,38 +128,26 @@ ca:
       activitats d'adrenalina, culinàries, creatives, d'aventura... mira la nostra
       infinitat d'idees!
   destinations:
-    title: Viatges d'incentiu
+    title: Destinacions & Esdeveniments
     description: Les nostres reunions, esdeveniments i programes de viatges d'incentiu
       comencen amb un profund coneixement dels objectius estratègics de la seva empresa,
       i que transformen aquest enteniment en creativitat i experiències memorables.
     offer_title: Que oferim
-    offer_description: "Oferim serveis de viatges corporatius personalitzats, que
-      van des de programes d'incentiu a la coordinació d'esdeveniments per a la gestió
-      de reunions. Treballem amb clients internacionals que desitgin visitar Espanya
-      i Portugal, i també amb clients nacionals que vulguin descobrir més el seu propi
-      país, o viatjar a una altra destinació. \n\nLa nostra idea és començar amb una
-      pàgina en blanc, escoltar els seus pensaments inicials, les seves opinions,
-      i a partir d'aquí dissenyar un programa que s'ajusti als objectius de la seva
-      empresa. Ens agrada pensar en nosaltres mateixos com una extensió del seu equip."
+    offer_description: Serveis de viatges corporatius personalitzats, que van des
+      de programes d'incentiu a la coordinació d'esdeveniments per a la gestió de
+      reunions. Ens agrada pensar en nosaltres mateixos com una extensió del seu equip.
+      El seu objectiu és el nostre objectiu.
     incentive_title: Programes d'incentiu
-    incentive_description: Els viatges d'incentiu són la nostra especialitat. Dissenyem
-      programes específics per a cada empresa i pels seus objectius. Els programes
-      d'incentiu serveixen com a bonificacions addicionals al pagament de diners estàndards.
-      Són la millor manera de motivar i celebrar l'èxit de l'equip, augmenten la productivitat
-      i les vendes, milloren la relació entre els empleats i la lleialtat del client.
-      Planifiquem, organitzem i dirigim tot el procés de principi a fi, per a que
-      el viatge s’adapti a les vostres necessitats. Cuidem al màxim el detall i proporcionem
-      una experiència única a tots els assistents.
+    incentive_description: Els viatges d'incentiu són la millor manera de motivar
+      i celebrar l'èxit de l'equip, augmenten la productivitat i les vendes, milloren
+      la relació entre els empleats i la lleialtat del client. Planifiquem, organitzem
+      i dirigim tot el procés de principi a fi, per a que el viatge s’adapti a les
+      vostres necessitats.
     events_title: Esdeveniments
     events_description: "Els esdeveniments són una oportunitat única per impactar
-      a la seva audiència i amplificar el seu missatge. D'obertures o llançaments
-      de producte, excursions, concerts, festes… sabem com fer que un esdeveniment
-      sigui memorable. \n\nEls nostres organitzadors entenen que la singularitat,
-      la diferència i la rellevància són claus per crear un esdeveniment extraordinari.
-      \nEls esdeveniments són la manera perfecta per ser creatiu, generar excitació,
-      celebrar alguna cosa especial, donar a conèixer la seva marca i/o producte,
-      entre altres coses. Cuidem al màxim el detall i l'equip sempre buscarà que el
-      seu esdeveniment sigui un èxit."
+      a la seva audiència i amplificar el seu missatge. \nEls nostres organitzadors
+      entenen que la singularitat, la diferència i la rellevància són claus per crear
+      un esdeveniment amb éxit."
     process_title: El nostre procés
     process:
       briefing:
@@ -183,11 +155,10 @@ ca:
         description: Formulari de consulta que ens ajuda a comprendre les seves necessitats
       brainstorm:
         title: BRAINSTORM
-        description: El nostre equip reunirà idees per crear la seva experiència
+        description: El nostre equip proposarà varietat idees per crear la seva experiència
       proposal:
         title: PROPOSTA
-        description: Li enviarem la nostra proposta per correu electrònic o si es
-          prefereix podríem realitzar una videoconferència
+        description: Li enviarem la nostra proposta per correu electrònic o videoconferència
       followup:
         title: SEGUIMENT
         description: Programarem reunions per debatre temes i fer un seguiment personalitzat
@@ -195,14 +166,14 @@ ca:
       reservation:
         title: RESERVA
         description: Li enviarem un programa complet del que es realitzarà durant
-          l'esdeveniment de tots els serveis implicats
+          l'esdeveniment i de tots els serveis implicats
       execution:
         title: EXECUTAR
-        description: Coordinar y supervisar que tot surti segons el previst. I poder
-          gestionar qualsevol petició addicional
+        description: Coordinar y supervisar totes les accions implicades per a garantir
+          l'èxit.
     where: Destinacions
     custom_title: Altres destinacions
-    custom_description: Personalitzem i donem vida als seu pròxim destí
+    custom_description: Personalitzem i donem vida al seu pròxim destí
     default_photo: destinations/3.jpg
   contact:
     title: Contacte
@@ -219,3 +190,52 @@ ca:
     message: Si no ho fa ara, quan?
     sent_title: El seu missatge s'ha enviat correctament
     sent_description: Gràcies per possar-se en contacte amb nosaltres!
+  home:
+    title: Inici
+    process:
+      destination:
+        title: Viatges d'incentiu
+        description: Oferim coneixement de la destinació, experència i una comprensió
+          de les seves necessitats.
+      teambuilding:
+        title: Team Building
+        description: Creem experiències originals, fem créixer el seu negoci i motivem
+          al seu equip. Negocis i oci, una gran combinació.
+      events:
+        tittle: Esdeveniments
+        description: Som arquitectes d'esdeveniments, estrategues, planificadors i
+          creadors. Aportem valor a la seva marca.
+      tour:
+        tittle: La ruta del vi Alella
+        description: Cultura, Historia, Gastronomia i Vi
+    destinations_title: Destinacions & Esdeveniments
+    destinations_description: "<em>The Green Vintage</em> és el seu aliat a l’hora
+      de planificar esdeveniments i viatges d’incentiu. Tenim experiència en el sector
+      que, en combinació amb la nostra capacitat d’organització, fan un tàndem perfecte
+      perquè els seus esdeveniments i viatges siguin tot un èxit."
+    activities_title: Les nostres activitats
+    activities_message: Més creativitat. Millor comunicació. Major productivitat.
+      Incrementa la motivació del seu equip.
+    tour:
+      title: El nostre Tour
+      description: Alella destí vinícola on descobriràs la seva tradició, cultura,
+        història i la bona gastronomia.
+      details:
+        title_1: Barcelona - Alella
+        description_1: El punt de sortida i d'arribada serà davant del Hard Rock Cafè
+          de Plaça Catalunya
+        title_2: Visita al celler i tast de vins
+        description_2: Visita guiada pels vinyers i celler juntament amb un tast de
+          vins en una masia típica del S.XIV
+        title_3: Visita Modernista
+        description_3: En aquest tour vostè tindrà l'oportunitat increïble per visitar
+          l'art modern fora de Barcelona
+        title_4: Mercat municipal
+        description_4: Passeig pel mercat amb la finalitat de gaudir dels colors,
+          la població local, els venedors i la varietat de productes típics...
+        title_5: Prendre un vermut a una autèntica taverna
+        description_5: Fer el vermut és una important tradició a Catalunya
+        title_6: Alella - Barcelona
+        description_6: Després d'aquest dia increïble , tornarem a la ciutat
+    start_now: Reservar!
+    customers: Alguns dels clients que ja han confiat amb nosaltres

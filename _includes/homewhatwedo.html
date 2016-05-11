@@ -1,29 +1,132 @@
+<div class="space-70"></div>
+<div class="container">
+    <div class="row intro-row">
+        <div class="col-md-12 text-center wow animated fadeInUp">
+            <h2>Bizwrap built for Minimal business Projects</h2>
+            <h3 class="subtitle">With Clean and Modern Design</h3>
+        </div>
+        <div class="space-70"></div>
+        <div class=" col-sm-4">
+            <div class="services-box">
+                <i class="ion-plane"></i>
+                <h1>{{ 'home.process.destination.title' | translate }}</h1>
+                <p>{{ 'home.process.destination.description' | translate }}</p>
+            </div>
+        </div><!--services box-->
+        <div class=" col-sm-4">
+            <div class="services-box">
+                <i class="ion-person-stalker"></i>
+                <h1>{{ 'home.process.teambuilding.title' | translate }}</h1>
+                <p>{{ 'home.process.teambuilding.description' | translate }}</p>
+            </div>
+        </div><!--services box-->
+        <div class="col-sm-4">
+            <div class="services-box">
+                <i class="ion-map"></i>
+                <h1>{{ 'home.process.tour.tittle' | translate }}</h1>
+                <p>{{ 'home.process.tour.description' | translate }}</p>
+            </div>
+        </div><!--services box-->
+    </div><!--row end-->
+</div><!--intro with services end-->
+
+<div class="space-70"></div>
+<div class="container">
+    <div class="row intro-row">
+        <div class="col-md-12 text-center wow animated fadeInUp">
+            <h2>{{ 'home.destinations_title' | translate }}</h2>
+            <h3 class="subtitle">{{ 'home.destinations_description' | translate }}</h3>
+        </div>
+    </div><!--row end-->
+    <div class="row intro-row">
+        <div class="col-md-12 text-center wow animated fadeInUp">
+            <h2>{{ 'home.activities_title' | translate }}</h2>
+            <h3 class="subtitle">{{ 'home.activities_message' | translate }}</h3>
+        </div>
+    </div><!--row end-->
+</div><!--intro with services end-->
+
+<div class="space-70"></div>
 <div class="container">
     <div class="row">
-        <p>{{ 'home.message' | translate}}</p>
-        <p>{{ 'home.what_we_do' | translate}}</p>
-        <p>{{ 'home.bring_description' | translate}}</p>
-        <p>{{ 'home.bring2_description' | translate}}</p>
-        <p>{{ 'home.success' | translate }}</p>
-        {% assign contact = 'contact' | section %}
-        <a class="button" href="{{contact.permalink}}">{{ 'home.start_now' | translate }}</a>
-    </div><!--row-->
-    <div class="row">
-        <div class="col-md-6">
-            <ul class="icon-list list-unstyled">
-              {% assign list = 'home.bring_list' | translate %}
-              {% for type in list %}
-              <li>{{ type }}</li>
-              {% endfor %}
-            </ul>
+        <div class="col-md-7 features">
+            <h3>{{ 'home.tour.title' | translate }}</h3>
+            <p>
+              {{ 'home.tour.description' | translate }}
+            </p>
+            <div class="space-10"></div>
+            <div class="row">
+                <div class="col-md-2 services-icon">
+                    <i class="ion-location"></i>
+                </div>
+                <div class="col-md-10 services-text">
+                    <h4 class="heading-mini">{{ 'home.tour.details.title_1' | translate }}</h4>
+                    <p> {{ 'home.tour.details.description_1' | translate }} </p>
+                </div>
+            </div><!--services list-->
+            <div class="space-10"></div>
+            <div class="row">
+                <div class="col-md-2 services-icon">
+                    <i class="ion-wineglass"></i>
+                </div>
+                <div class="col-md-10 services-text">
+                    <h4 class="heading-mini">{{ 'home.tour.details.title_2' | translate }}</h4>
+                    <p> {{ 'home.tour.details.description_2' | translate }} </p>
+                </div>
+            </div><!--services list-->
+            <div class="space-10"></div>
+            <div class="row">
+                <div class="col-md-2 services-icon">
+                    <i class="ion-eye"></i>
+                </div>
+                <div class="col-md-10 services-text">
+                    <h4 class="heading-mini">{{ 'home.tour.details.title_3' | translate }}</h4>
+                    <p> {{ 'home.tour.details.description_3' | translate }} </p>
+                </div>
+            </div><!--services list-->
+            <div class="space-10"></div>
+            <div class="row">
+                <div class="col-md-2 services-icon">
+                    <i class="ion-map"></i>
+                </div>
+                <div class="col-md-10 services-text">
+                    <h4 class="heading-mini">{{ 'home.tour.details.title_4' | translate }}</h4>
+                    <p> {{ 'home.tour.details.description_4' | translate }} </p>
+                </div>
+            </div><!--services list-->
+            <div class="space-10"></div>
+            <div class="row">
+                <div class="col-md-2 services-icon">
+                    <i class="ion-beer"></i>
+                </div>
+                <div class="col-md-10 services-text">
+                    <h4 class="heading-mini">{{ 'home.tour.details.title_5' | translate }}</h4>
+                    <p> {{ 'home.tour.details.description_5' | translate }} </p>
+                </div>
+            </div><!--services list-->
+            <div class="space-10"></div>
+            <div class="row">
+                <div class="col-md-2 services-icon">
+                    <i class="ion-reply"></i>
+                </div>
+                <div class="col-md-10 services-text">
+                    <h4 class="heading-mini">{{ 'home.tour.details.title_6' | translate }}</h4>
+                    <p> {{ 'home.tour.details.description_6' | translate }} </p>
+                </div>
+            </div><!--services list-->
         </div>
-        <div class="col-md-6">
-            <ul class="icon-list list-unstyled">
-              {% assign list = 'home.bring2_list' | translate %}
-              {% for type in list %}
-              <li>{{ type }}</li>
-              {% endfor %}
-            </ul>
+        <div class="col-md-5">
+            <img src="/assets2/img/ipad.png" class="img-responsive" alt="">
         </div>
     </div>
+</div><!--container-->
+
+<div class="space-70"></div>
+
+<div class="cta-bg">
+  <div class="container text-center">
+    <h3>Simple and Minimal Design
+      <a href="/tours/alella" class="btn btn-lg btn-white btn-radius">{{ 'home.start_now' | translate }}</a>
+    </h3>
+  </div>
 </div>

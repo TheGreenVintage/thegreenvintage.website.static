@@ -28,10 +28,10 @@ es:
     address: Carrer de Casp, 79 Sobreático
     location: Barcelona, 08013
     share:
-      facebook: Like On Facebook
-      twitter: Follow On Twitter
-      linkedin: Follow On Linkedin
-      instagram: Follow On Instagram
+      facebook: Siguenos en Facebook
+      twitter: Siguenos en Twitter
+      linkedin: Siguenos en Linkedin
+      instagram: Siguenos en Instagram
   common:
     destinations_tittle: "¿En qué te podemos ayudar?"
     destinations_meetings: Ideas para reuniones y venues únicos
@@ -39,48 +39,28 @@ es:
     destinations_hotels: Gran variedad de alojamientos
     destinations_restaurants: Diversidad gastronómica
     destinations_transportation: Servicios de transporte privado, traslados y transfers
-  home:
-    title: Inicio
-    message: Creamos experiencias originales, hacemos crecer su negocio y motivamos
-      a su equipo. Negocios y ocio, una gran combinación.
-    what_we_do: Somos un equipo de especialistas en el diseño de viajes de incentivo
-      y actividades para empresas. Vamos de la mano con las nuevas tecnologías y colaboramos
-      con los mejores proveedores. Nuestra implicación y las buenas ganas de hacer
-      son nuestro mayor valor. El saber escuchar y entender las necesidades de nuestros
-      clientes y del territorio en el que nos encontramos son bases fundamentales
-      para garantizar el éxito.
-    success: Nuestro objetivo es crecer de manera personal y profesional junto con
-      nuestros clientes y su ÉXITO
-    start_now: Ver nuestras actividades
-    activities_title: Nuestras actividades
-    activities_message: Más creatividad. Mejor comunicación. Mayor productividad.
-      Mejor comunicación. Lleva a su equipo a otro nivel.
-    activities_description: Explora nuestra gama de actividades, y contacte con nosotros
-      para adaptar las mejores opciones y satisfacer sus objetivos.
-    destinations_title: Destinaciones & Eventos
-    destinations_description: "<em>The Green Vintage</em> es su aliado en el momento
-      de planificar eventos y viajes de incentivos. Tenemos experiencia en el sector
-      que, en combinación con nuestra capacidad de organización, hacen un tándem perfecto
-      para que sus eventos y viajes sean todo un éxito."
-    customers: Algunos de los clientes que ya han confiado en nosotros
   footer:
     about_us: Sobre nosotros
     all_rights_reserved: Todos los derechos reservados
     contact_us: Contáctanos
     destination: Destinaciones
     newsletter:
-      title: Newsletter
-      description: Keep up on our always evolving Future updates. Enter your e-mail
-        and subscribe to our newsletter.
-      placeholder: Enter your email
-      label: Email address
-      submit: Go
+      title: Boletín informativo
+      description: Manténgase al día acerca de nuestras noticias y actualizaciones.
+        Ingrese su correo electrónico y suscríbase a nuestro boletín
+      placeholder: Introduzca su correo electrónico
+      label: Dirección de correo electrónico
+      submit: "¡Suscribirse!"
+    post:
+      tittle: "Último tweet"
   team:
     title: Sobre nosotros
-    founders: "<em>The Green Vintage</em> es una agencia de receptivo con sede en
-      Barcelona y Lisboa. Somos apasionados en dirigir, crear, organizar programas
-      MICE, viajes de incentivo y actividades de team building. Producimos motivación,
-      inspiración y generamos experiencias."
+    founders:
+      title: Conozca a nuestro equipo
+      description: |-
+        Somos una agencia de receptivo con sede en Barcelona y Lisboa. Somos apasionados en dirigir, crear, organizar programas MICE, viajes de incentivo y actividades de team building. Producimos motivación, inspiración y generamos experiencias.
+
+        Somos enérgicos y reactivos, siendo el entusiasmo nuestro punto fuerte. La complementariedad de nuestros perfiles nos permite ser creativos. El excelente conocimiento del sector, la óptima colaboración con proveedores y la inquietud por la innovación y la excelencia nos permiten materializar cualquier proyecto con total garantía. Nos movemos pensando siempre en soluciones.
     commitment: Nuestro compromiso
     commitment1:
       title: Satisfacción
@@ -123,13 +103,18 @@ es:
     duration: Duración
     hours: Horas
     related: Otras actividades
-    pax: mínimo de personas
+    pax: Mínimo de personas
   teambuilding:
     title: Team Building
-    description_1: |-
-      La felicidad y la satisfacción de los empleados son esenciales para la productividad. El trabajo en equipo es un proceso que desarrolla la comunicación en un grupo y por lo tanto tiene un enlace directo a la construcción de una fuerza laboral más feliz y más productiva.
-
-      Creamos estas experiencias que promuevan la relación del equipo y la comunicación en un ambiente relajado y natural. Este enfoque crea ricas y educativas actividades que dejan una buena sensación de equipo.
+    productivity:
+      title: La felicidad y la satisfacción de los empleados son esenciales para la
+        productividad.
+      description: El trabajo en equipo es un proceso que desarrolla la comunicación
+        en un grupo y por lo tanto tiene un enlace directo a la construcción de una
+        fuerza laboral más feliz y más productiva.
+    description_1: Creamos estas experiencias que promueven la relación del equipo
+      y la comunicación en un ambiente relajado y natural. Este enfoque crea ricas
+      y educativas actividades que dejan una buena sensación de equipo.
     colum_1: |-
       Desarrollo de habilidades
       Mejora la comunicación
@@ -142,33 +127,25 @@ es:
       buscando actividades de adrenalina, culinarias, creativas, de aventura... mira
       nuestro sinfín de ideas!
   destinations:
-    title: Viajes de incentivo
+    title: Destinaciones & Eventos
     description: Nuestras reuniones, eventos y programas de viajes de incentivo comienzan
       con un profundo conocimiento de los objetivos estratégicos de su empresa, y
       que transforman ese entendimiento en creatividad y experiencias memorables.
     offer_title: Que ofrecemos
-    offer_description: |-
-      Ofrecemos servicios de viajes corporativos personalizados, que van desde programas de incentivo a la coordinación de eventos para la gestión de reuniones. Trabajamos con clientes internacionales que deseen visitar España y Portugal, y también con clientes nacionales que quieran descubrir más su propio país, o viajar a otra destinación.
-
-      Nuestro enfoque es empezar con una página en blanco, escuchar sus pensamientos iniciales, sus opiniones, y a partir de ahí diseñar un programa que se ajuste a las metas y objetivos de su empresa. Nos gusta pensar en nosotros mismos como una extensión de su equipo.
+    offer_description: Servicios de viajes corporativos personalizados, que van desde
+      programas de incentivo a la coordinación de eventos para la gestión de reuniones.
+      Nos gusta pensar en nosotros mismos como una extensión de su equipo. Su objetivo
+      es nuestro objetivo.
     incentive_title: Programas de incentivo
-    incentive_description: Los viajes de incentivo son nuestra especialidad. Diseñamos
-      programas específicos para cada empresa y por sus objetivos. Los programas de
-      incentivo sirven como bonificaciones adicionales al pago de dinero estándar.
-      Son la mejor manera de motivar y celebrar el éxito del equipo, aumentan la productividad
-      y las ventas, mejoran la relación entre los empleados y la lealtad del cliente.
-      Planificamos, organizamos y dirigimos todo el proceso de principio a fin, para
-      que el viaje se adapte a vuestras necesidades. Cuidamos al máximo el detalle
-      y proporcionamos una experiencia única a todos los asistentes.
+    incentive_description: Los viajes de incentivo son la mejor manera de motivar
+      y celebrar el éxito del equipo, aumentan la productividad y las ventas, mejoran
+      la relación entre los empleados y la lealtad del cliente. Planificamos, organizamos
+      y dirigimos todo el proceso de principio a fin, para que el viaje se adapte
+      a vuestras necesidades.
     events_title: Eventos
-    events_description: "Los eventos son una oportunidad única para impactar a su
-      audiencia y amplificar su mensaje. De aperturas o lanzamientos de producto,
-      excursiones, conciertos, fiestas… sabemos cómo hacer que un evento sea memorable.
-      \n\nNuestros organizadores entienden que la singularidad, la diferencia y la
-      relevancia son claves para crear un evento extraordinario. Los eventos son la
-      manera perfecta para ser creativo, generar excitación, celebrar algo especial,
-      dar a conocer su marca y/o producto, entre otras cosas. Cuidamos al máximo el
-      detalle y el equipo siempre buscará que su evento sea un éxito."
+    events_description: |-
+      Los eventos son una oportunidad única para impactar a su audiencia y amplificar su mensaje.
+      Nuestros organizadores entienden que la singularidad, la diferencia y la relevancia son claves para crear un evento con éxito.
     process_title: Nuestro proceso
     process:
       briefing:
@@ -176,11 +153,11 @@ es:
         description: Formulario de consulta que nos ayuda a comprender sus necesidades
       brainstorm:
         title: BRAINSTORM
-        description: Nuestro equipo reunirá ideas para crear su experiencia
+        description: Nuestro equipo propondrá una variedad de ideas para crear su
+          experiencia
       proposal:
         title: PROPUESTA
-        description: Le enviaremos nuestra propuesta por correo electrónico o si se
-          prefiere podríamos realizar una videoconferencia
+        description: Le enviaremos nuestra propuesta por correo electrónico o videoconferencia
       followup:
         title: SEGUIMIENTO
         description: Programaremos reuniones para debatir temas y hacer un seguimiento
@@ -188,11 +165,11 @@ es:
       reservation:
         title: RESERVA
         description: Le enviaremos un programa completo de lo que se va realizar durante
-          el evento, de todos los servicios implicados
+          el evento y de todos los servicios implicados
       execution:
         title: EJECUTAR
-        description: Coordinar y supervisar que todo salga según lo previsto. Y poder
-          gestionar cualquier petición adicional
+        description: Coordinar y supervisar todas las acciones implicadas para garantizar
+          el éxito.
     where: Destinaciones
     custom_title: Otras destinaciones
     custom_description: Personalizamos y damos vida a su próximo destino
@@ -212,3 +189,52 @@ es:
     message: Si no lo hace ahora, ¿Cúando?
     sent_title: Su mensaje se ha enviado correctamente
     sent_description: Gracias por ponerse en contacte con nosotros!
+  home:
+    title: Inicio
+    process:
+      destination:
+        title: Viajes de incentivo
+        description: Ofrecemos conocimiento del destino, experiencia y una comprensión
+          de sus necesidades.
+      teambuilding:
+        title: Team Building
+        description: Creamos experiencias originales, hacemos crecer su negocio y
+          motivamos a su equipo. Negocios y ocio, una gran combinación.
+      events:
+        tittle: Eventos
+        description: Somos arquitectos de eventos, estrategas, planificadores y creadores.
+          Aportamos valor a su marca.
+      tour:
+        tittle: La ruta del vino Alella
+        description: Cultura, Historia, Gastronomía y Vino
+    destinations_title: Destinaciones & Eventos
+    destinations_description: "<em>The Green Vintage</em> es su aliado en el momento
+      de planificar eventos y viajes de incentivos. Tenemos experiencia en el sector
+      que, en combinación con nuestra capacidad de organización, hacen un tándem perfecto
+      para que sus eventos y viajes sean todo un éxito."
+    activities_title: Nuestras actividades
+    activities_message: Más creatividad. Mejor comunicación. Mayor productividad.
+      Mejor comunicación. Lleva a su equipo a otro nivel.
+    tour:
+      title: Nuestro Tour
+      description: Alella destino vinícola donde descrubrirás su tradición, cultura,
+        historia y su buena gastronomía.
+      details:
+        title_1: Barcelona - Alella
+        description_1: El punto de salida y de llegada será delante el Hard Rock Café
+          de Plaza Cataluña
+        title_2: Visita la bodega y cata sus vinos
+        description_2: Visita guiada por los viñedos y bodega junto con una cata de
+          vinos en masía típica del S.XIV
+        title_3: Visita Modernista
+        description_3: En este tour usted tendrá una oportunidad increíble para visitar
+          el arte moderno fuera de Barcelona
+        title_4: Mercado municipal
+        description_4: Paseo por el mercado con el fin de disfrutar de los colores,
+          la población local, los vendedores y la variedad de productos típicos...
+        title_5: Tomar un vermut en una auténtica taberna
+        description_5: Hacer un vermut es una importante tradición en Cataluña
+        title_6: Alella - Barcelona
+        description_6: Después de este día increíble , volveremos a la ciudad
+    start_now: "¡Reservar!"
+    customers: Algunos de los clientes que ya han confiado en nosotros
