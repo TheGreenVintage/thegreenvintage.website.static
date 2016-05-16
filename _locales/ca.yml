@@ -58,7 +58,7 @@ ca:
     founders:
       title: Conegui al nostre equip
       description: |-
-        Sóm una agència receptiva amb seu a Barcelona i Lisboa. Som apasionats en dirigir, crear, organitzar programes MICE, viatges d’incentiu i activitats de team building. Produim motivació, inspiració i generem experiències.
+        Sóm una agència receptiva amb seu a Barcelona i Lisboa. Som apasionats en dirigir, crear, organitzar viatges d’incentiu, activitats de team building i tour turístic. Produim motivació, inspiració i generem experiències.
 
         Som enèrgics i reactius, sent l'entusiasme el nostre punt fort. La complementarietat dels nostres perfils ens permet ser creatius. L'excel·lent coneixement del sector, l'òptima col·laboració amb proveïdors i la inquietud per la innovació i l'excel·lència ens permeten materialitzar qualsevol projecte amb total garantia. Ens movem pensant sempre en solucions.
     commitment: El nostre compromís
@@ -138,11 +138,10 @@ ca:
       reunions. Ens agrada pensar en nosaltres mateixos com una extensió del seu equip.
       El seu objectiu és el nostre objectiu.
     incentive_title: Programes d'incentiu
-    incentive_description: Els viatges d'incentiu són la millor manera de motivar
-      i celebrar l'èxit de l'equip, augmenten la productivitat i les vendes, milloren
-      la relació entre els empleats i la lleialtat del client. Planifiquem, organitzem
-      i dirigim tot el procés de principi a fi, per a que el viatge s’adapti a les
-      vostres necessitats.
+    incentive_description: La millor manera de motivar i celebrar l'èxit de l'equip,
+      augmenten la productivitat i les vendes, milloren la relació entre els empleats
+      i la lleialtat del client. Planifiquem, organitzem i dirigim tot el procés de
+      principi a fi, per a que el viatge s’adapti a les vostres necessitats.
     events_title: Esdeveniments
     events_description: "Els esdeveniments són una oportunitat única per impactar
       a la seva audiència i amplificar el seu missatge. \nEls nostres organitzadors
@@ -174,7 +173,6 @@ ca:
     where: Destinacions
     custom_title: Altres destinacions
     custom_description: Personalitzem i donem vida al seu pròxim destí
-    default_photo: destinations/3.jpg
   contact:
     title: Contacte
     in_contact: Seguim en contacte
@@ -195,7 +193,7 @@ ca:
     process:
       destination:
         title: Viatges d'incentiu
-        description: Oferim coneixement de la destinació, experència i una comprensió
+        description: Oferim coneixement de la destinació, experiència i una comprensió
           de les seves necessitats.
       teambuilding:
         title: Team Building
@@ -206,8 +204,9 @@ ca:
         description: Som arquitectes d'esdeveniments, estrategues, planificadors i
           creadors. Aportem valor a la seva marca.
       tour:
-        tittle: La ruta del vi Alella
-        description: Cultura, Historia, Gastronomia i Vi
+        tittle: Tour
+        description: En el nostre Tour viurà l'experiència de conèixer l'essència
+          del vi ecològic i la seva producció, la cultura i la gastronomia del territori.
     destinations_title: Destinacions & Esdeveniments
     destinations_description: "<em>The Green Vintage</em> és el seu aliat a l’hora
       de planificar esdeveniments i viatges d’incentiu. Tenim experiència en el sector

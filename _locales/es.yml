@@ -58,7 +58,7 @@ es:
     founders:
       title: Conozca a nuestro equipo
       description: |-
-        Somos una agencia de receptivo con sede en Barcelona y Lisboa. Somos apasionados en dirigir, crear, organizar programas MICE, viajes de incentivo y actividades de team building. Producimos motivación, inspiración y generamos experiencias.
+        Somos una agencia de receptivo con sede en Barcelona y Lisboa. Somos apasionados en dirigir, crear, organizar viajes de incentivo, actividades de team building y tour turístico. Producimos motivación, inspiración y generamos experiencias.
 
         Somos enérgicos y reactivos, siendo el entusiasmo nuestro punto fuerte. La complementariedad de nuestros perfiles nos permite ser creativos. El excelente conocimiento del sector, la óptima colaboración con proveedores y la inquietud por la innovación y la excelencia nos permiten materializar cualquier proyecto con total garantía. Nos movemos pensando siempre en soluciones.
     commitment: Nuestro compromiso
@@ -137,11 +137,10 @@ es:
       Nos gusta pensar en nosotros mismos como una extensión de su equipo. Su objetivo
       es nuestro objetivo.
     incentive_title: Programas de incentivo
-    incentive_description: Los viajes de incentivo son la mejor manera de motivar
-      y celebrar el éxito del equipo, aumentan la productividad y las ventas, mejoran
-      la relación entre los empleados y la lealtad del cliente. Planificamos, organizamos
-      y dirigimos todo el proceso de principio a fin, para que el viaje se adapte
-      a vuestras necesidades.
+    incentive_description: La mejor manera de motivar y celebrar el éxito del equipo,
+      aumentan la productividad y las ventas, mejoran la relación entre los empleados
+      y la lealtad del cliente. Planificamos, organizamos y dirigimos todo el proceso
+      de principio a fin, para que el viaje se adapte a vuestras necesidades.
     events_title: Eventos
     events_description: |-
       Los eventos son una oportunidad única para impactar a su audiencia y amplificar su mensaje.
@@ -173,7 +172,6 @@ es:
     where: Destinaciones
     custom_title: Otras destinaciones
     custom_description: Personalizamos y damos vida a su próximo destino
-    default_photo: destinations/3.jpg
   contact:
     title: Contacto
     in_contact: Seguimos en contacto
@@ -205,8 +203,9 @@ es:
         description: Somos arquitectos de eventos, estrategas, planificadores y creadores.
           Aportamos valor a su marca.
       tour:
-        tittle: La ruta del vino Alella
-        description: Cultura, Historia, Gastronomía y Vino
+        tittle: Tour
+        description: En nuestro Tour descubrirá la esencia del vino ecológico y su
+          producción, la cultura y gastronomía del territorio.
     destinations_title: Destinaciones & Eventos
     destinations_description: "<em>The Green Vintage</em> es su aliado en el momento
       de planificar eventos y viajes de incentivos. Tenemos experiencia en el sector
