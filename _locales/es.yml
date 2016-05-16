@@ -117,9 +117,9 @@ es:
       description: El trabajo en equipo es un proceso que desarrolla la comunicación
         en un grupo y por lo tanto tiene un enlace directo a la construcción de una
         fuerza laboral más feliz y más productiva.
-    description_1: Creamos estas experiencias que promueven la relación del equipo
-      y la comunicación en un ambiente relajado y natural. Este enfoque crea ricas
-      y educativas actividades que dejan una buena sensación de equipo.
+    description: Creamos estas experiencias que promueven la relación del equipo y
+      la comunicación en un ambiente relajado y natural. Este enfoque crea ricas y
+      educativas actividades que dejan una buena sensación de equipo.
     colum_1: |-
       Desarrollo de habilidades
       Mejora la comunicación
@@ -128,9 +128,10 @@ es:
       Objetivos y metas claramente definidos
       Mejora la colaboración
       Aumenta la productividad
-    description_2: Contamos con una amplia selección de propuestas. Si usted está
-      buscando actividades de adrenalina, culinarias, creativas, de aventura... mira
-      nuestro sinfín de ideas!
+    destination:
+      description: Contamos con una amplia selección de propuestas. Si usted está
+        buscando actividades de adrenalina, culinarias, creativas, de aventura...
+        mira nuestro sinfín de ideas!
   destinations:
     title: Destinaciones & Eventos
     destinations_title: Nuestras destinaciones

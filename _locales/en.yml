@@ -116,7 +116,7 @@ en:
       description: Team building is a relationship-building process that develops
         communication in a group – and therefore has a direct link to building a happier
         and more productive workforce.
-    description_1: We create these experiences that promote team bonding and communication
+    description: We create these experiences that promote team bonding and communication
       in a relaxed environment. This approach creates rich, educational and engaging
       team building activities that leave your team feeling  engaged, rewarded and
       refreshed.
@@ -128,9 +128,10 @@ en:
       Clearly defines objectives and goals
       Better collaboration
       Increased productivity
-    description_2: We have a vast selection of team building activities available
-      for you to browse through. Whether you are looking for an adrenaline, culinary
-      , creative activities… - we have it covered. Get into our ideas!
+    destination:
+      description: We have a vast selection of team building activities available
+        for you to browse through. Whether you are looking for an adrenaline, culinary
+        , creative activities… - we have it covered. Get into our ideas!
   destinations:
     title: Destinations & Events
     destinations_title: Our destinations

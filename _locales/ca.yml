@@ -118,8 +118,8 @@ ca:
       description: El treball en equip és un procés que desenvolupa la comunicació
         en un grup i per tant té un enllaç directe a la construcció d'una força laboral
         més feliç i més productiva.
-    description_1: Creem aquestes experiències que promouen la relació de l'equip
-      i la comunicació en un ambient relaxat i natural. Aquest enfocament crea riques
+    description: Creem aquestes experiències que promouen la relació de l'equip i
+      la comunicació en un ambient relaxat i natural. Aquest enfocament crea riques
       i educatives activitats que deixen una bona sensació d'equip.
     colum_1: |-
       Desenvolupament d'habilitats
@@ -129,9 +129,10 @@ ca:
       Objectius i metes clarament definides
       Millora la col·laboració
       Augmenta la productivitat
-    description_2: Comptem amb una àmplia selecció de propostes. Si vostè està buscant
-      activitats d'adrenalina, culinàries, creatives, d'aventura... mira la nostra
-      infinitat d'idees!
+    destination:
+      description: Comptem amb una àmplia selecció de propostes. Si vostè està buscant
+        activitats d'adrenalina, culinàries, creatives, d'aventura... mira la nostra
+        infinitat d'idees!
   destinations:
     title: Destinacions & Esdeveniments
     destinations_title: Les nostres destinacions

@@ -46,26 +46,6 @@ section: destination
         </div>
     </div>
 
-    <hr>
-
-    <div class="row">
-        <div class="space-70"></div>
-        <div class="col-md-12">
-            {% assign contact = 'contact' | section %}
-            <a class="button" href="{{contact.permalink}}">{{ page.destination | translate: 'venue_start' }}</a>
-        </div>
-        <div class="space-70"></div>
-    </div><!--row-->
-    <div class="row">
-        <div class="space-70"></div>
-        <div class="col-md-12 text-center">
-            <h2>{{ page.destination | translate: 'activities_start' }}</h2>
-            <h3 class="subtitle">{{ page.destination | translate: 'activities_description' }}</h3>
-        </div>
-        <div class="space-70"></div>
-    </div><!--row-->
-
-
     <div class="row">
         <div class="space-70"></div>
         <div class="col-md-12 text-center">
@@ -77,7 +57,7 @@ section: destination
 
     <div class="row">
       {% assign related_activities = site.data.activities | where: 'destination', page.destination.key | where: 'selected', 'yes' %}
-      {% include activitieslist.html variable-activities=related_activities %}
+      {% include activitieslist.html activities=related_activities %}
     </div><!--grid-->
 
     <div class="space-70"></div>
