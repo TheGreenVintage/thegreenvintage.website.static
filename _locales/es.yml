@@ -30,6 +30,7 @@ es:
     share:
       facebook: Siguenos en Facebook
       twitter: Siguenos en Twitter
+      googleplus: Siguenos en Google+
       linkedin: Siguenos en Linkedin
       instagram: Siguenos en Instagram
   common:
@@ -164,11 +165,11 @@ es:
       reservation:
         title: RESERVA
         description: Le enviaremos un programa completo de lo que se va realizar durante
-          el evento y de todos los servicios implicados
+          el evento y de todos los servicios
       execution:
         title: EJECUTAR
         description: Coordinar y supervisar todas las acciones implicadas para garantizar
-          el éxito.
+          el éxito
     where: Destinaciones
     custom_title: Otras destinaciones
     custom_description: Personalizamos y damos vida a su próximo destino
