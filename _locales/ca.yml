@@ -54,6 +54,8 @@ ca:
       submit: Subscriure's!
     post:
       tittle: "Últim tweet"
+  tours:
+    title: Tours
   team:
     title: Sobre nosaltres
     founders:
@@ -130,9 +132,11 @@ ca:
       infinitat d'idees!
   destinations:
     title: Destinacions & Esdeveniments
-    description: Les nostres reunions, esdeveniments i programes de viatges d'incentiu
-      comencen amb un profund coneixement dels objectius estratègics de la seva empresa,
-      i que transformen aquest enteniment en creativitat i experiències memorables.
+    destinations_title: Les nostres destinacions
+    destinations_description: Les nostres reunions, esdeveniments i programes de viatges
+      d'incentiu comencen amb un profund coneixement dels objectius estratègics de
+      la seva empresa, i que transformen aquest enteniment en creativitat i experiències
+      memorables.
     offer_title: Que oferim
     offer_description: Serveis de viatges corporatius personalitzats, que van des
       de programes d'incentiu a la coordinació d'esdeveniments per a la gestió de
@@ -149,6 +153,8 @@ ca:
       entenen que la singularitat, la diferència i la rellevància són claus per crear
       un esdeveniment amb éxit."
     process_title: El nostre procés
+    process_description: Concebem el nostre treball com un conjunt de processos coordinats
+      que busquen la consecució dels majors avantatges per als nostres clients
     process:
       briefing:
         title: BRIEFING
@@ -192,6 +198,10 @@ ca:
   home:
     title: Inici
     process:
+      services:
+        title: Els nostres serveis
+        description: Analitzem les necessitats i les característiques de cada producte
+          i/o servei, per oferir solucions personalitzades
       destination:
         title: Viatges d'incentiu
         description: Oferim coneixement de la destinació, experiència i una comprensió
@@ -201,13 +211,13 @@ ca:
         description: Creem experiències originals, fem créixer el seu negoci i motivem
           al seu equip. Negocis i oci, una gran combinació.
       events:
-        tittle: Esdeveniments
+        title: Esdeveniments
         description: Som arquitectes d'esdeveniments, estrategues, planificadors i
           creadors. Aportem valor a la seva marca.
       tour:
-        tittle: Tour
-        description: En el nostre Tour viurà l'experiència de conèixer l'essència
-          del vi ecològic i la seva producció, la cultura i la gastronomia del territori.
+        tittle: Tours
+        description: Viu l'experiència de conèixer l'essència del vi ecològic i la
+          seva producció, la cultura i la gastronomia del territori.
     destinations_title: Destinacions & Esdeveniments
     destinations_description: "<em>The Green Vintage</em> és el seu aliat a l’hora
       de planificar esdeveniments i viatges d’incentiu. Tenim experiència en el sector
@@ -221,21 +231,18 @@ ca:
       description: Alella destí vinícola on descobriràs la seva tradició, cultura,
         història i la bona gastronomia.
       details:
-        title_1: Barcelona - Alella
-        description_1: El punt de sortida i d'arribada serà davant del Hard Rock Cafè
-          de Plaça Catalunya
-        title_2: Visita al celler i tast de vins
-        description_2: Visita guiada pels vinyers i celler juntament amb un tast de
+        title_1: Visita al celler i tast de vins
+        description_1: Visita guiada pels vinyers i celler juntament amb un tast de
           vins en una masia típica del S.XIV
-        title_3: Visita Modernista
-        description_3: En aquest tour vostè tindrà l'oportunitat increïble per visitar
+        title_2: Visita Modernista
+        description_2: En aquest tour vostè tindrà l'oportunitat increïble per visitar
           l'art modern fora de Barcelona
-        title_4: Mercat municipal
-        description_4: Passeig pel mercat amb la finalitat de gaudir dels colors,
+        title_3: Mercat municipal
+        description_3: Passeig pel mercat amb la finalitat de gaudir dels colors,
           la població local, els venedors i la varietat de productes típics...
-        title_5: Prendre un vermut a una autèntica taverna
-        description_5: Fer el vermut és una important tradició a Catalunya
-        title_6: Alella - Barcelona
-        description_6: Després d'aquest dia increïble , tornarem a la ciutat
-    start_now: Reservar!
-    customers: Alguns dels clients que ja han confiat amb nosaltres
+        title_4: Prendre un vermut a una autèntica taverna
+        description_4: Fer el vermut és una important tradició a Catalunya
+    start_button: Reservar!
+    start_title: Estàs a un pas de
+    customers_title: Els nostres clients
+    customers_description: Ells ja han confiat amb nosaltres

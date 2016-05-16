@@ -12,7 +12,9 @@ section: destination
         </div>
         <div class="space-40"></div>
         <div class="col-md-6 col-sm-6 margin-btm-40">
-          <iframe width="560" height="315" src="{{ page.destination.video }}" frameborder="0" allowfullscreen></iframe>
+          <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+            <iframe width="560" height="315" src="{{ page.destination.video }}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+          </div>
         </div>
         <div class="col-md-6 col-sm-6 margin-btm-40">
           {{ page.destination | translate: 'description' | newline_to_br | strip_newlines }}
@@ -74,22 +76,8 @@ section: destination
     </div><!--row-->
 
     <div class="row">
-        {% assign related_activities = site.data.activities | where: 'destination', page.destination.key | where: 'selected', 'yes' %}
-        {% for related_activity in related_activities %}
-        <div class=" mix design col-md-4 col-sm-6 margin-btm-40">
-            <div class="portfolio-sec">
-                <div class="portfolio-thumnail">
-                    <a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}">
-                        <img class="img-responsive" src="/assets/images/team-building/thumbnails/{{ related_activity.photo1 }}" title="{{ related_activity | translate: 'title' }}" alt="{{ related_activity | translate: 'title' }}">
-                    </a>
-                </div>
-                <div class="portfolio-desc text-center">
-                    <h4 class="portfolio-post-title">{{ related_activity | translate: 'title' }}</h4>
-                    <h4><a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
-                </div>
-            </div>
-        </div><!--portfolio item -->
-        {% endfor %}
+      {% assign related_activities = site.data.activities | where: 'destination', page.destination.key | where: 'selected', 'yes' %}
+      {% include activitieslist.html variable-activities=related_activities %}
     </div><!--grid-->
 
     <div class="space-70"></div>

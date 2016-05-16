@@ -54,6 +54,8 @@ es:
       submit: "¡Suscribirse!"
     post:
       tittle: "Último tweet"
+  tours:
+    title: Tours
   team:
     title: Sobre nosotros
     founders:
@@ -129,9 +131,11 @@ es:
       nuestro sinfín de ideas!
   destinations:
     title: Destinaciones & Eventos
-    description: Nuestras reuniones, eventos y programas de viajes de incentivo comienzan
-      con un profundo conocimiento de los objetivos estratégicos de su empresa, y
-      que transforman ese entendimiento en creatividad y experiencias memorables.
+    destinations_title: Nuestras destinaciones
+    destinations_description: Nuestras reuniones, eventos y programas de viajes de
+      incentivo comienzan con un profundo conocimiento de los objetivos estratégicos
+      de su empresa, y que transforman ese entendimiento en creatividad y experiencias
+      memorables.
     offer_title: Que ofrecemos
     offer_description: Servicios de viajes corporativos personalizados, que van desde
       programas de incentivo a la coordinación de eventos para la gestión de reuniones.
@@ -147,6 +151,8 @@ es:
       Los eventos son una oportunidad única para impactar a su audiencia y amplificar su mensaje.
       Nuestros organizadores entienden que la singularidad, la diferencia y la relevancia son claves para crear un evento con éxito.
     process_title: Nuestro proceso
+    process_description: Concebimos nuestro trabajo como un conjunto de procesos coordinados
+      que buscan la consecución de las mayores ventajas para nuestros clientes
     process:
       briefing:
         title: BRIEFING
@@ -191,6 +197,10 @@ es:
   home:
     title: Inicio
     process:
+      services:
+        title: Nuestros servicios
+        description: Analizamos las necesidades y las características de cada producto
+          y/o servicio, para ofrecer soluciones personalizadas
       destination:
         title: Viajes de incentivo
         description: Ofrecemos conocimiento del destino, experiencia y una comprensión
@@ -200,11 +210,11 @@ es:
         description: Creamos experiencias originales, hacemos crecer su negocio y
           motivamos a su equipo. Negocios y ocio, una gran combinación.
       events:
-        tittle: Eventos
+        title: Eventos
         description: Somos arquitectos de eventos, estrategas, planificadores y creadores.
           Aportamos valor a su marca.
       tour:
-        tittle: Tour
+        tittle: Tours
         description: En nuestro Tour descubrirá la esencia del vino ecológico y su
           producción, la cultura y gastronomía del territorio.
     destinations_title: Destinaciones & Eventos
@@ -220,21 +230,18 @@ es:
       description: Alella destino vinícola donde descrubrirás su tradición, cultura,
         historia y su buena gastronomía.
       details:
-        title_1: Barcelona - Alella
-        description_1: El punto de salida y de llegada será delante el Hard Rock Café
-          de Plaza Cataluña
-        title_2: Visita la bodega y cata sus vinos
-        description_2: Visita guiada por los viñedos y bodega junto con una cata de
+        title_1: Visita la bodega y cata sus vinos
+        description_1: Visita guiada por los viñedos y bodega junto con una cata de
           vinos en masía típica del S.XIV
-        title_3: Visita Modernista
-        description_3: En este tour usted tendrá una oportunidad increíble para visitar
+        title_2: Visita Modernista
+        description_2: En este tour usted tendrá una oportunidad increíble para visitar
           el arte moderno fuera de Barcelona
-        title_4: Mercado municipal
-        description_4: Paseo por el mercado con el fin de disfrutar de los colores,
+        title_3: Mercado municipal
+        description_3: Paseo por el mercado con el fin de disfrutar de los colores,
           la población local, los vendedores y la variedad de productos típicos...
-        title_5: Tomar un vermut en una auténtica taberna
-        description_5: Hacer un vermut es una importante tradición en Cataluña
-        title_6: Alella - Barcelona
-        description_6: Después de este día increíble , volveremos a la ciudad
-    start_now: "¡Reservar!"
-    customers: Algunos de los clientes que ya han confiado en nosotros
+        title_4: Tomar un vermut en una auténtica taberna
+        description_4: Hacer un vermut es una importante tradición en Cataluña
+    start_button: "¡Reservar!"
+    start_title: Estás a un paso de
+    customers_title: Nuestros clientes
+    customers_description: Ellos ya han confiado en nosotros

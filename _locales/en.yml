@@ -55,6 +55,8 @@ en:
       submit: Subscribe!
     post:
       tittle: Latest tweet
+  tours:
+    title: Tours
   team:
     title: About us
     founders:
@@ -129,9 +131,10 @@ en:
       , creative activities… - we have it covered. Get into our ideas!
   destinations:
     title: Destinations & Events
-    description: Our meetings, events and incentive travel programs begin with a deep
-      understanding of your strategic business goals, and we transform that understanding
-      into creativity, memorable experiences.
+    destinations_title: Our destinations
+    destinations_description: Our meetings, events and incentive travel programs begin
+      with a deep understanding of your strategic business goals, and we transform
+      that understanding into creativity, memorable experiences.
     offer_title: What we offer
     offer_description: We offer customized corporate travel services, ranging from
       incentive travel programs to event coordination to meeting management. We like
@@ -147,6 +150,8 @@ en:
       Events are a unique opportunity to impact your audience and amplify your message.
       Our Program Managers understand that uniqueness and relevancy is key to creating an success event.
     process_title: Our process
+    process_description: We see our work as a set of coordinated processes that seek
+      to achieve the greatest benefits for our customers
     process:
       briefing:
         title: BRIEFING
@@ -189,6 +194,10 @@ en:
   home:
     title: Home
     process:
+      services:
+        title: Our services
+        description: We analyze the needs and characteristics for each product and/or
+          service to offer customized solutions
       destination:
         title: Destination Management
         description: Is about having knowledge, experience and an understanding of
@@ -196,13 +205,12 @@ en:
       teambuilding:
         title: Team Building
         description: We create different experiences, grow business and motivate teams.
-          Business and leisure. We combine them for you.
       events:
-        tittle: Events
+        title: Events
         description: We are a collection of visionaries, strategists, planners and
           creators brought together to offer extraordinary events.
       tour:
-        tittle: Tour
+        tittle: Tours
         description: In our tour you will discover a great organic wine, gastronomy
           and culture experience.
     destinations_title: Destinations & Events
@@ -218,20 +226,18 @@ en:
         wine, knowledge history and culture, get in touch with local people and enjoy
         good gastronomy.
       details:
-        title_1: Barcelona - Alella
-        description_1: Meeting point in front of the Hard Rock Coffee of Square Catalonia
-        title_2: Winery visit and wine tasting
-        description_2: Guided tour through the vineyards and winery in a typical catalan
+        title_1: Winery visit and wine tasting
+        description_1: Guided tour through the vineyards and winery in a typical catalan
           house 14th century (Tasting 4 exclusive organic wines)
-        title_3: Guided modernist tour
-        description_3: On this tour you will have an incredible opportunity to visit
+        title_2: Guided modernist tour
+        description_2: On this tour you will have an incredible opportunity to visit
           modernist art outside Barcelona.
-        title_4: Local market
-        description_4: Walk around the market in order to enjoy the colors, local
+        title_3: Local market
+        description_3: Walk around the market in order to enjoy the colors, local
           people, vendors and variety of typical products
-        title_5: Vermouth time
-        description_5: Having a vermouth is an important aperitif tradition in Catalonia
-        title_6: Alella - Barcelona
-        description_6: After this awesome day, we will return to the city
-    start_now: Book now!
-    customers: Some of the clients who have already trusted us
+        title_4: Vermouth time
+        description_4: Having a vermouth is an important aperitif tradition in Catalonia
+    start_button: Book now!
+    start_title: You are one step away from an unique
+    customers_title: Our loyal customers
+    customers_description: Clients who have already trusted us

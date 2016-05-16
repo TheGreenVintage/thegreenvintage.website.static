@@ -2258,10 +2258,10 @@ h3.subtitle {
 /*services option 2*/
 .services-icon i {
   color: #fff;
-  width: 60px;
-  line-height: 60px;
-  height: 60px;
-  font-size: 28px;
+  width: 40px;
+  line-height: 40px;
+  height: 40px;
+  font-size: 25px;
   text-align: center;
   background-color: #66AC82;
   -webkit-border-radius: 50%;
