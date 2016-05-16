@@ -112,14 +112,12 @@ en:
   teambuilding:
     title: Team Building
     productivity:
-      title: Employee satisfaction and happiness are essential to productivity.
-      description: Team building is a relationship-building process that develops
-        communication in a group – and therefore has a direct link to building a happier
-        and more productive workforce.
-    description: We create these experiences that promote team bonding and communication
-      in a relaxed environment. This approach creates rich, educational and engaging
-      team building activities that leave your team feeling  engaged, rewarded and
-      refreshed.
+      title: Improve your team's performance
+      description: Employee satisfaction and happiness are essential to productivity.
+    description: |-
+      Team building is a relationship-building process that develops communication in a group – and therefore has a direct link to building a happier and more productive workforce.
+
+      We create these experiences that promote team bonding and communication in a relaxed environment. This approach creates rich, educational and engaging team building activities that leave your team feeling  engaged, rewarded and refreshed.
     colum_1: |-
       Development of skills
       Improved communication

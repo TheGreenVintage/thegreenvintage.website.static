@@ -13,7 +13,9 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-md-6 margin-btm-40">
+        <div class="col-md-1 margin-btm-40">
+        </div>
+        <div class="col-md-5" style="font-size: 1.2em; line-height: 1.8em; border: 1px solid #eee; padding: 10px 35px; margin-right: 10px">
             <ul class="icon-list list-unstyled">
               {% assign list = 'teambuilding.colum_1' | translate | newline_to_br | split: '<br />' %}
               {% for type in list %}
@@ -21,13 +23,15 @@
               {% endfor %}
             </ul>
         </div>
-        <div class="col-md-6 margin-btm-40">
+        <div class="col-md-5" style="font-size: 1.2em; line-height: 1.8em; border: 1px solid #eee; padding: 10px 35px; margin-left: 10px">
             <ul class="icon-list list-unstyled">
               {% assign list = 'teambuilding.colum_2' | translate | newline_to_br | split: '<br />' %}
               {% for type in list %}
               <li><i class="ion-checkmark-round"></i>{{ type }}</li>
               {% endfor %}
             </ul>
+        </div>
+        <div class="col-md-1 margin-btm-40">
         </div>
     </div>
 </div>
