@@ -64,9 +64,11 @@ es:
   tours:
     title: Tours
   team:
-    title: Sobre nosotros
-    founders:
+    title: Equipo
+    members:
       title: Conozca a nuestro equipo
+    company:
+      title: Conoce The Green VIntage
       description: |-
         Somos una agencia de receptivo con sede en Barcelona y Lisboa. Somos apasionados en dirigir, crear, organizar viajes de incentivo, actividades de team building y tour turístico. Producimos motivación, inspiración y generamos experiencias.
 
@@ -128,9 +130,8 @@ es:
       Mejora la colaboración
       Aumenta la productividad
     destination:
-      description: Contamos con una amplia selección de propuestas. Si usted está
-        buscando actividades de adrenalina, culinarias, creativas, de aventura...
-        mira nuestro sinfín de ideas!
+      description: Si usted está buscando actividades de adrenalina, culinarias, creativas,
+        de aventura... mire nuestra selección de propuestas.
   destinations:
     title: Destinaciones & Eventos
     destinations_title: Nuestras destinaciones

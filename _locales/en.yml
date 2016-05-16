@@ -65,9 +65,11 @@ en:
   tours:
     title: Tours
   team:
-    title: About us
-    founders:
+    title: Team
+    members:
       title: Meet our team
+    company:
+      title: About The Green Vintage
       description: |-
         We are a destination management company located in Barcelona and Lisboa. We are passionate about create, plan and manage incentive travel experiences, team building activities and tours that produce motivation, inspiration and great memories. We fit your needs.
 
@@ -129,7 +131,7 @@ en:
     destination:
       description: We have a vast selection of team building activities available
         for you to browse through. Whether you are looking for an adrenaline, culinary
-        , creative activities… - we have it covered. Get into our ideas!
+        , creative activities… we have it covered. Get into our ideas!
   destinations:
     title: Destinations & Events
     destinations_title: Our destinations
