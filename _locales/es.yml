@@ -40,6 +40,13 @@ es:
     destinations_hotels: Gran variedad de alojamientos
     destinations_restaurants: Diversidad gastronómica
     destinations_transportation: Servicios de transporte privado, traslados y transfers
+    languages:
+      es: Español
+      ca: Catalán
+      en: Inglés
+      de: Alemán
+      fr: Francés
+      pt: Portugués
   footer:
     about_us: Sobre nosotros
     all_rights_reserved: Todos los derechos reservados
@@ -64,7 +71,8 @@ es:
         Somos una agencia de receptivo con sede en Barcelona y Lisboa. Somos apasionados en dirigir, crear, organizar viajes de incentivo, actividades de team building y tour turístico. Producimos motivación, inspiración y generamos experiencias.
 
         Somos enérgicos y reactivos, siendo el entusiasmo nuestro punto fuerte. La complementariedad de nuestros perfiles nos permite ser creativos. El excelente conocimiento del sector, la óptima colaboración con proveedores y la inquietud por la innovación y la excelencia nos permiten materializar cualquier proyecto con total garantía. Nos movemos pensando siempre en soluciones.
-    commitment: Nuestro compromiso
+    commitment_title: Nuestro compromiso
+    commitment_description: Valores esenciales de la empresa
     commitment1:
       title: Satisfacción
       description: Hacemos un seguimiento personalizado de su evento, ya que el éxito
@@ -87,12 +95,6 @@ es:
   activities:
     languages:
       title: Idiomas
-      es: Español
-      ca: Catalán
-      en: Inglés
-      de: Alemán
-      fr: Francés
-      pt: Portugués
     accesibility:
       title: Accesibilidad
       'yes': Sí
@@ -214,7 +216,7 @@ es:
         description: Somos arquitectos de eventos, estrategas, planificadores y creadores.
           Aportamos valor a su marca.
       tour:
-        tittle: Tours
+        title: Tours
         description: En nuestro Tour descubrirá la esencia del vino ecológico y su
           producción, la cultura y gastronomía del territorio.
     destinations_title: Destinaciones & Eventos
@@ -245,3 +247,15 @@ es:
     start_title: Estás a un paso de
     customers_title: Nuestros clientes
     customers_description: Ellos ya han confiado en nosotros
+  tour:
+    duration: Duración
+    pax_min: Mínimo de personas
+    pax_max: Máximo de personas
+    price: Precio
+    days: Días
+    time: Hora de salida
+    meetingpoint: Punto de recogida
+    guide: Visita guiada en
+    map_title: Punto de recogida
+    information_title: Información esencial
+    information_included: Incluido

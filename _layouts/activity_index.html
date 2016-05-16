@@ -66,7 +66,7 @@ section: activity
                   <strong>{{ 'activities.languages.title' | translate }}:</strong>
                   {% for language in languages %}
                     {% assign clean_language = language | slugify %}
-                    {{  'activities.languages.' | append: clean_language | translate }}
+                    <span title="{{ 'common.languages.' | append: clean_language | translate }}">{{ clean_language | upcase }}</span>{% if forloop.index < languages.size %}, {% endif %}
                   {% endfor %}
                 </p>
                 <p><strong>{{ 'activities.accesibility.title' | translate }}:</strong> {{ 'activities.accesibility.' | append: page.activity.accesibility | translate }}</p>

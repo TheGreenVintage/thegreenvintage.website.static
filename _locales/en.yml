@@ -41,6 +41,13 @@ en:
     destinations_hotels: Wide range of accommodation
     destinations_restaurants: Gastronomic diversity
     destinations_transportation: Private transport, shuttles and transfers services
+    languages:
+      es: Spanish
+      ca: Catalan
+      en: English
+      de: Germany
+      fr: French
+      pt: Portuguese
   footer:
     about_us: About us
     all_rights_reserved: All rights reserved
@@ -65,7 +72,8 @@ en:
         We are a destination management company located in Barcelona and Lisboa. We are passionate about create, plan and manage incentive travel experiences, team building activities and tours that produce motivation, inspiration and great memories. We fit your needs.
 
         We are energetic and reagents. Being enthusiasm is our strong point. Complementarity of our profiles allows us to be creative. The excellent knowledge of the industry, the optimal collaboration with suppliers and our concern for innovation and excellence, allows us to successfully complete any project with full guarantee.
-    commitment: Our commitment
+    commitment_title: Our commitment
+    commitment_description: Core values within the company
     commitment1:
       title: Satisfaction
       description: Do a personalized monitoring of your event, since success is essential
@@ -87,12 +95,6 @@ en:
   activities:
     languages:
       title: Languages
-      es: Spanish
-      ca: Catalan
-      en: English
-      de: Germany
-      fr: French
-      pt: Portuguese
     accesibility:
       title: Accesibility
       'yes': 'Yes'
@@ -210,7 +212,7 @@ en:
         description: We are a collection of visionaries, strategists, planners and
           creators brought together to offer extraordinary events.
       tour:
-        tittle: Tours
+        title: Tours
         description: In our tour you will discover a great organic wine, gastronomy
           and culture experience.
     destinations_title: Destinations & Events
@@ -241,3 +243,15 @@ en:
     start_title: You are one step away from an unique
     customers_title: Our loyal customers
     customers_description: Clients who have already trusted us
+  tour:
+    duration: Duration
+    pax_min: Minimum of people
+    pax_max: Maximum of people
+    price: Price
+    days: Days
+    time: Departure time
+    meetingpoint: Meeting point
+    guide: Guided tour in
+    map_title: Meeting point
+    information_title: Essential information
+    information_included: Included

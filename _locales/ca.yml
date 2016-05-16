@@ -40,6 +40,13 @@ ca:
     destinations_hotels: Gran varietat d’allotjaments
     destinations_restaurants: Diversitat gastronòmica
     destinations_transportation: Serveis de transport privat, trasllats i transfers
+    languages:
+      es: Espanyol
+      ca: Català
+      en: Anglès
+      de: Alemany
+      fr: Francès
+      pt: Portuguès
   footer:
     about_us: Sobre nosaltres
     all_rights_reserved: Tots els drets reservats
@@ -64,7 +71,8 @@ ca:
         Sóm una agència receptiva amb seu a Barcelona i Lisboa. Som apasionats en dirigir, crear, organitzar viatges d’incentiu, activitats de team building i tour turístic. Produim motivació, inspiració i generem experiències.
 
         Som enèrgics i reactius, sent l'entusiasme el nostre punt fort. La complementarietat dels nostres perfils ens permet ser creatius. L'excel·lent coneixement del sector, l'òptima col·laboració amb proveïdors i la inquietud per la innovació i l'excel·lència ens permeten materialitzar qualsevol projecte amb total garantia. Ens movem pensant sempre en solucions.
-    commitment: El nostre compromís
+    commitment_title: El nostre compromís
+    commitment_description: Valors essencials dins de l'empresa
     commitment1:
       title: Satisfacció
       description: Fem un seguiment personalitzat del seu esdeveniment, perquè l’èxit
@@ -89,12 +97,6 @@ ca:
   activities:
     languages:
       title: Idiomes
-      es: Espanyol
-      ca: Català
-      en: Anglès
-      de: Alemany
-      fr: Francès
-      pt: Portuguès
     accesibility:
       title: Accessibilitat
       'yes': Si
@@ -215,7 +217,7 @@ ca:
         description: Som arquitectes d'esdeveniments, estrategues, planificadors i
           creadors. Aportem valor a la seva marca.
       tour:
-        tittle: Tours
+        title: Tours
         description: Viu l'experiència de conèixer l'essència del vi ecològic i la
           seva producció, la cultura i la gastronomia del territori.
     destinations_title: Destinacions & Esdeveniments
@@ -246,3 +248,15 @@ ca:
     start_title: Estàs a un pas de
     customers_title: Els nostres clients
     customers_description: Ells ja han confiat amb nosaltres
+  tour:
+    duration: Duració
+    pax_min: Mínim de persones
+    pax_max: Màxim de persones
+    price: Preu
+    days: Dies
+    time: Hora de sortida
+    meetingpoint: Punt de recollida
+    guide: Visita guiada amb
+    map_title: Punt de trobada
+    information_title: Informació essencial
+    information_included: Inclòs
