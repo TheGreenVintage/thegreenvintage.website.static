@@ -1,14 +1,23 @@
-<div class="intro">
-
-  <div class='one-half'>
-    <p class='justify'>{{ 'team.founders' | translate }}</p>
-    <p class='justify'>{{ 'team.carreer' | translate }}</p>
+<div class="row">
+  <div class="col-md-12">
+    <h4 class="heading-mini">{{ 'team.members.title' | translate }}</h4>
   </div>
-  <div class='one-half last'>
-    <img src="/assets/images/employees/team3.jpg" style="padding-top: 10px; width: 500px; display: inline-block">
-  </div>
-  <div class='clear'></div>
-
-  <p class='justify'>{{ 'team.create_company' | translate }}</p>
-  <p class='justify'>{{ 'team.consolidate' | translate }}</p>
 </div>
+
+<div class="row">
+  {% for employee in site.data.employees %}
+  <div class="col-md-3 col-sm-6 margin-btm-20">
+    <div class="person-section">
+      <img src="/assets/images/{{ employee.photo }}" class="img-responsive" alt="{{ employee.name }}">
+      <div class="person-desc">
+        <h3>{{ employee.name }}</h3>
+        <h3><span>{{ employee | translate: 'skills'}}</span></h3>
+
+        <p>
+        {{ employee | translate: 'description' }}
+        </p>
+      </div>
+    </div><!--person section end-->
+  </div><!--person col end-->
+  {% endfor %}
+</div><!--team 4 col end-->

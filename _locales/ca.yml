@@ -9,281 +9,256 @@ ca:
     title: No trobat
     message: Recurs no trobat
   meta:
-    description: A The Green Vintage som un equip de professionals especialitzats
-      en la gestió i organització de qualsevol tipologia d’esdeveniment. L’empresa
-      neix amb el desig d’assessorar i planificar els petits moments de la vida, i
-      fer que siguin extraordinaris i especials.
+    description: "<em>The Green Vintage</em> és una agència de receptiu amb seu a
+      Barcelona i Lisboa que ofereix serveis de team building i viatges d'incentiu
+      per a empreses, tan nacionals com a internacionals."
   cookies:
     title: Política de Cookies
     message: Aquesta web utilitza cookies per oferir-te una millor experiència i servei
     got_it: Accepto
     learn_more: Més informació
   generic:
+    language: Idioma
     navigate: Navegar
     dragging: Moure
     arrows: Fletxes
     keyboard: Teclat
     navigation: Navegació
     more_info: Més informació
-  home:
-    title: Inici
-    message: Creixem junts? Vingui a coneixe'ns! <em>The Green Vintage</em> convertirà
-      el seu proper esdeveniment en una experiència única!
-    what_we_do: Som un equip que treballa amb una gran capacitat d'adaptació als canvis
-      per desenvolupar el seu esdeveniment, sempre anem de la mà amb les noves tecnologies
-      i amb les estratègies de comunicació. La nostra implicació i les bones ganes
-      de fer són el nostre major valor. El saber escoltar i entendre les necessitats
-      dels nostres clients i del territori en el qual ens trobem són bases fonamentals
-      per garantir l'èxit.
-    bring_description: Els esdeveniments connecten a les persones i a les marques
-      amb els seus públics d'interès de la forma més natural. La comunicació en directe,
-      el cara a cara, i la creació d'experiències reals a partir de missatges vius,
-      fa que les persones experimentin, que el missatge es torni efectiu i que s'aconsegueixi
-      la resposta buscada.
-    bring2_description: 'Els esdeveniments aconsegueixen romandre en la memòria del
-      seu públic objectiu, s''han convertit en actes diferencials i únics per a la
-      seva marca.  Per aquest motiu, els nostres esdeveniments aporten:'
-    bring_list:
-    - Promoció del producte o servei
-    - Difusió de coneixements
-    - Creació de nous grups
-    - Capacitat associativa
-    - Coneixement social
-    bring2_list:
-    - Font de recursos
-    - Comunicació en viu
-    - Clients potencials
-    - Incrementar la notorietat de la marca
-    - Millorar el rendiment, motivació i habilitats de grup
-    success: El nostre objectiu és créixer de manera personal i professional juntament
-      amb els nostres clients i el seu ÈXIT
-    start_now: Començar ara!
-    customers: Alguns dels clients que ja han confiat amb nosaltres
+    address: Carrer de Casp, 79 Sobreàtic
+    location: Barcelona, 08013
+    share:
+      facebook: Segueix-nos a Facebook
+      twitter: Segueix-nos a Twitter
+      googleplus: Segueix-nos a Google+
+      linkedin: Segueix-nos a Linkedin
+      instagram: Segueix-nos a Instagram
+  common:
+    destinations_tittle: En què et podem ajudar?
+    destinations_meetings: Idees per a reunions i venues únics
+    destinations_activities: Experiències a mesura
+    destinations_hotels: Gran varietat d’allotjaments
+    destinations_restaurants: Diversitat gastronòmica
+    destinations_transportation: Serveis de transport privat, trasllats i transfers
+    languages:
+      es: Espanyol
+      ca: Català
+      en: Anglès
+      de: Alemany
+      fr: Francès
+      pt: Portuguès
+  footer:
+    about_us: Sobre nosaltres
+    all_rights_reserved: Tots els drets reservats
+    contact_us: Contacta'ns
+    destination: Destinacions
+    newsletter:
+      title: Bulletí informatiu
+      description: Mantingui's al dia de les nostres notícies i actualitzacions. Ingressi
+        el seu correu electrònic i així rebrà el nostre butlletí
+      placeholder: Introdueixi el seu correu electrònic
+      label: Adreça de correu electrònic
+      submit: Subscriure's!
+    post:
+      tittle: "Últim tweet"
+  tours:
+    title: Tours
   team:
     title: Equip
-    message: Mai vam somiar en tenir èxit, vam treballar per arribar-hi
-    who_we_are: Qui som
-    founders: La Paula Bao Oliveda i la Gemma Oliveras Esteve són les fundadores de
-      <em>The Green Vintage</em>. Són dues noies joves amb esperit dinàmic i emprenedor,
-      que van cursar juntes els seus estudis a la Universitat CETT-UB Formació i Recerca
-      en Hoteleria i Turisme. La Paula es va especialitzar en la Gestió i Direcció
-      d’Esdeveniments i la Gemma en Gestió i Direcció Hotelera.
-    carreer: Al transcurs de la carrera universitària i les pràctiques impartides
-      en aquell temps, van adonar-se’n que el sector dels esdeveniments era la seva
-      passió.
-    create_company: En finalitzar els seus estudis, l’any 2011, van començar a plantejar-se
-      l’opció de crear la seva pròpia empresa d’organització i gestió d’esdeveniments,
-      ja que havien vist que cadascuna aportava al projecte uns valors i unes aptituds,
-      que unides eren una garantia d’èxit.
-    consolidate: Gràcies a l'esforç, dedicació i suport, l’empresa <em>The Green Vintage</em>
-      s’ha anat consolidant i s’ha posicionat dins del mercat actual.
-    commitment: El nostre compromís
-    commitment1: "<strong>Satisfacció: </strong> Fem un seguiment personalitzat del
-      seu esdeveniment, perquè l’èxit és essencial per a nosaltres"
-    commitment2: "<strong>Motivació:</strong> Ens agrada molt el nostre treball i
-      creiem en tot allò que fem. Nomes així, gaudint, podem oferir-te el millor resultat
-      de nosaltres i superar les seves expectatives inicials"
-    commitment3: "<strong>Empatia:</strong> Sabem escoltar i entendre les necessitats
-      dels nostres clients i del territori en el que ens trobem"
-    commitment4: "<strong>Creativitat:</strong> Cerquem vies innovadores i originals
-      perquè els nostres actes siguin inoblidables"
-    commitment5: "<strong>Sinergia:</strong> Treballem en equip i en xarxa perquè
-      l’esforç compartit millora el resultat"
-  corporative:
-    title: Serveis corporatius
-    message: Considerem que els esdeveniments són una eina estratègica de comunicació
-      en viu que aporten valor a la teva marca
-    description: Els serveis corporatius són la plataforma idònia per donar-se a conèixer,
-      per orientar, rentabilitzar la inversió i potenciar la marca de l’empresa. Donem
-      un valor afegit i treballem amb les últimes tendències en el sector MICE.
-    informative: Esdeveniments informatius
-    informative_description: Conferències, jornades, congressos, simposis, reunions
-      privades i workshops
-    promotional: Esdeveniments promocionals
-    promotional_description: Fires, exposicions, inauguracions, aniversaris, presentacions
-      de producte i showrooms
-    other: Altres esdeveniments
-    other_description: Viatges d’incentiu, team building, festes i menjars d’empresa
-    extras: Totes les tipologies d’esdeveniments poden tenir una relació estreta amb
-      serveis auxiliars. <em>The Green Vintage</em> us garanteix un assessorament,
-      un seguiment i la gestió de contractació de tots els serveis necessaris.
-    service_list:
-    - Disseny i producció de cartells, stands, displays, photocalls, vinils, invitacions
-      o qualsevol altre element gràfic
-    - Contractació d'escenaris i/o decorats, il·luminació i so
-    - Senyalització d'espais i retolacions
-    - 'Serveis multimèdia: pantalles, monitors, projector i megafonia'
-    - Fotografia i vídeo corporatius
-    - Càtering, hostesses i traductors o intèrprets
-    - Cercar allotjaments i restaurants
-    - Serveis de transport privat, trasllats i transfers
-    - 'Altres: pirotècnia, shows musicals, animacions, etc.'
-    how_we_work: Com treballem
-    how_we_work_description: Treballem en equip i en xarxa perquè l’esforç compartit
-      millora el resultat. Donem un valor afegit als esdeveniments per potenciar els
-      vostres projectes i així assolir l’exit.
-    concept: Concepte
-    concept_description: "<em>The Green Vintage</em>  dona valor a la gestió dels
-      seus d'esdeveniments per ajudar a aconseguir els objectius perseguits pels seus
-      clients i per reforçar les seves marques. Tenim l'activitat creativa i intel·lectual
-      per afrontar els reptes dels nous projectes, assegurant així que tot l'equip
-      compleixi amb les expectatives establertes."
-    communication: Comunicació
-    communication_description1: Som responsables de planejar la logística de tots
-      els elements per al desenvolupament de tot l'esdeveniment, i ens involucrarem
-      des de l'inici fins al final del procés. Us assistirem a la planificació del
-      pressupost, la selecció del seu esdeveniment, en les referències dels proveïdors,
-      els temps del seu desenvolupament, l'acomodament dels convidats, i tot allò
-      que se sol·liciti.
-    communication_description2: L'organitzador d'esdeveniments és un professional
-      que coneix la indústria íntegrament, sap quins son els proveïdors de confiança,
-      i on trobar les millors ofertes per mantenir l'esdeveniment dins del pressupost
-      fixat. Sempre estarà amb contacte amb el client, sabent escoltar i aconsellar
-      per a que tot s’adapti als seus interessos.
-    preparation: Preparació
-    preparation_description1: Farem un seguiment personalitzat i exclusiu per a cada
-      client, adaptant-nos al seu pressupost i als seus interessos i necessitats.
-    preparation_description2: "<em>The Green Vintage</em> està especialitzat en l'organització
-      d'esdeveniments d'empresa i compta amb contactes, que sovint es tradueixen en
-      col·laboracions i sinergies de gran valor per als clients. Nosaltres controlarem
-      perfectament els timings , l'ordre del dia , així com totes les fases i elements
-      que intervinguin en cada esdeveniment. Oferim un servei integral al client organitzant
-      a tots els proveïdors implicats en el desenvolupament d'un esdeveniment per
-      a empresa (selecció d'ubicacions, càtering, hostesses, lloguer de vehicles,
-      transfers, hotels, restaurants, guies turístics)."
-    the_day: El dia del esdeveniment
-    the_day_description1: El nostre deure fonamental és assegurar-se que l'esdeveniment
-      segueixi els objectius fixats.
-    the_day_description2: Controlem i coordinem tots els proveïdors externs que participen
-      en l’esdeveniment.
-    the_day_description3: Gestionem el timing, les intervencions dels assistents,
-      el servei de càtering, etc. Fem una bona planificació i un seguiment exhaustiu
-      per què l'esdeveniment estigui totalment coordinat.
-  private:
-    title: Casaments
-    message: Els petits moments són els que t’emocionen
-    description: Organitzem i produïm casaments personalitzats. Posem a la vostra
-      disposició un equip professional que entendrà el vostre estil, les vostres necessitats
-      i els vostres interessos, creant així una comunicació per a què el teu casament
-      sigui únic tant per vosaltres com per als vostres convidats.
-    weddings: Celebracions - Casaments
-    objectives_description: A <em>The Green Vintage</em> ens encarreguem de la coordinació,
-      l'assessorament, la logística i la supervisió de les seves noces, per evitar
-      qualsevol imprevist. Dissenyem un projecte personalitzat per a cadascun dels
-      nostres clients, ja que el nostre principal objectiu és cuidar al màxim el detall,
-      fent del vostre dia el millor.
-    management: Organització Completa
-    management_description: 'Coordinació des del primer minut fins al dia de la celebració.
-      Aquest servei inclou:'
-    planification: 'Planificació:'
-    planificaction_list:
-    - Selecció i coordinació de proveïdors, sol·licitud de pressupostos i negociació
-    - Visites a espais i/o restaurants
-    - Control i seguiment de la llista de convidats i gestió dels seus allotjaments
-    - Gestió del seating
-    - Gestió del dia de les teves noces
-    design: 'Decoració, disseny i muntatge:'
-    design_list:
-    - " Disseny de les decoracions dels espais"
-    - Muntatge dels elements de decoració
-    - Disseny floral de tot l’esdeveniment
-    - " Recerca de proveïdors d’invitacions, photocalls, cartells, dissenyadors de
-      logotips, etc. "
-    ideas: Us proporcionem diferents idees. La decoració defineix la teva personalitat
-    the_day: El dia de les teves noces
-    the_day_description1: En aquest cas, vosaltres us encarregaríeu de la gestió dels
-      contractes de proveïdors i la comunicació al llarg del procés de planificació,
-      però sempre romandrem disponibles per respondre preguntes i donar consells.
-    the_day_description2: Un mes abans de les noces, tornaríem a treballar conjuntament
-      per organitzar els últims detalls i acabar de concretar tota la informació que
-      ens proporcioneu, amb els diferents proveïdors perquè els dies previs pugueu
-      estar relaxats.
-    the_day_management: "<em>The Green Vintage</em> coordinarà:"
-    the_day_management_list:
-    - 'Recepció dels convidats i atendre les seves necessitats '
-    - 'Gestió del timing (cerimònia, entrada dels nuvis, entrega de regals, brindis,
-      entrada del pastís, músiques, ball nupcial) '
-    - 'Control del seating '
-    - 'Gestió dels proveïdors externs (càterings, fotògrafs, vídeo, grups musicals,
-      DJ’s, animació infantil) '
-    - Supervisar les diverses decoracions florals, mobiliari, decoracions extres i
-      els seus muntatges
-  partners:
-    title: Col·laboradors
-    message: La bona qualitat i la relació estreta amb els nostres col·laboradors,
-      donen valor afegit al vostre esdeveniment
-    spaces: Espais
-    spaces_description: Per organitzar un bon esdeveniment, és important escollir
-      l’espai adequat. Nosaltres us oferim diversos espais on poder desenvolupar els
-      vostres projectes
-    decorations: Decoracions
-    decorations_description: 'Una bona ambientació, fa exclusiu el teu esdeveniment.
-      Per això és important saber com relacionarem els diferents elements: els colors,
-      la il·luminació, els materials, el mobiliari, el color corporatiu de l’empresa…
-      tot aquest conjunt d’elements generen emocions als assistents de l’esdeveniment'
-    gastronomy: Gastronomia
-    gastronomy_description: "És un element diferenciador perquè el vostre esdeveniment
-      sigui un èxit: bona qualitat dels aliments, un servei acurat, presentacions
-      originals dels plats, detalls en la decoració i en el muntatge, són els ingredients
-      que donen el sabor perquè aquest dia sigui recordat pels assistents"
-    photography: Fotografia
-    photography_description: Els professionals capten tots aquells moments importants
-      de tot el desenvolupament de l’esdeveniment, amb una qualitat excepcional i
-      un toc de distinció i originalitat
-  portfolio:
-    title: Portafoli
-    message: Aquesta és la millor manera d'explicar-vos el treball què fem. Aquí teniu
-      alguns exemples d’esdeveniments que hem dissenyat i produït, a mida per a cada
-      client
-    corporative: Corporatius
-    corporative_description: L'objectiu és crear un esdeveniment que aporti valor
-      i posicionament de la seva empresa dins del mercat
-    weddings: Casaments
-    weddings_description: Els petits moments són els que t'emocionen
-  services:
-    title: Serveis
-    message: Ens encarreguem d’organitzar esdeveniments corporatius i particulars
-    start_now: Començar ara!
-    corporative_title: Corporatiu
-    corporative_description: Posem a la seva disposició un complet equip de professionals
-      per assegurar l'objectiu de l'esdeveniment de la seva empresa . Hem col·laborat
-      amb petites i grans empreses en l'organització de tot tipus d'esdeveniments.
-      Creativitat, innovació, dinamisme, proactivitat i atenció personalitzada són
-      les bases del nostre treball.
-    corporative_call_to_action: Garantia d'èxit, comencem?
-    private_title: Casaments
-    private_description: El nostre objectiu és aportar idees úniques i diferents perquè
-      el vostre casament sigui especial. Comptar amb una wedding planner és una garantia
-      d'èxit i us donarà la tranquil·litat necessària perquè només us dediqueu a gaudir
-      del vostre gran dia.
-    private_call_to_action: En un any, desitjaràs haver començat avui
+    members:
+      title: Conegui al nostre equip
+    company:
+      title: Coneix The Green Vintage
+      description: |-
+        Sóm una agència receptiva amb seu a Barcelona i Lisboa. Som apasionats en dirigir, crear, organitzar viatges d’incentiu, activitats de team building i tour turístic. Produim motivació, inspiració i generem experiències.
+
+        Som enèrgics i reactius, sent l'entusiasme el nostre punt fort. La complementarietat dels nostres perfils ens permet ser creatius. L'excel·lent coneixement del sector, l'òptima col·laboració amb proveïdors i la inquietud per la innovació i l'excel·lència ens permeten materialitzar qualsevol projecte amb total garantia. Ens movem pensant sempre en solucions.
+    commitment_title: El nostre compromís
+    commitment_description: Valors essencials dins de l'empresa
+    commitment1:
+      title: Satisfacció
+      description: Fem un seguiment personalitzat del seu esdeveniment, perquè l’èxit
+        és essencial per a nosaltres
+    commitment2:
+      title: Motivació
+      description: Ens agrada molt el nostre treball i creiem en tot allò que fem.
+        Nomes així, gaudint, podem oferir-te el millor resultat de nosaltres i superar
+        les seves expectatives inicials
+    commitment3:
+      title: Empatia
+      description: Sabem escoltar i entendre les necessitats dels nostres clients
+        i del territori en el que ens trobem
+    commitment4:
+      title: Creativitat
+      description: Cerquem vies innovadores i originals perquè els nostres actes siguin
+        inoblidables
+    commitment5:
+      title: Sinergia
+      description: Treballem en equip i en xarxa perquè l’esforç compartit millora
+        el resultat
+  activities:
+    languages:
+      title: Idiomes
+    accesibility:
+      title: Accessibilitat
+      'yes': Si
+      'no': 'No'
+      ask: Preguntar
+    included: Inclou
+    not_included: No inclou
+    price:
+      title: Preu
+      ask: A consultar
+    duration: Duració
+    hours: Hores
+    related: Altres activitats
+    pax: Mínim de persones
+  teambuilding:
+    title: Team Building
+    productivity:
+      title: Millora el rendiment del seu equip
+      description: La felicitat i la satisfacció dels empleats són essencials per
+        a la productivitat.
+    description: |-
+      El treball en equip és un procés que desenvolupa la comunicació en un grup i per tant té un enllaç directe a la construcció d'una força laboral més feliç i més productiva.
+
+      Creem aquestes experiències que promouen la relació de l'equip i la comunicació en un ambient relaxat i natural. Aquest enfocament crea riques i educatives activitats que deixen una bona sensació d'equip.
+    colum_1: |-
+      Desenvolupament d'habilitats
+      Millora la Comunicació
+      Promou el treball en equip
+    colum_2: |-
+      Objectius i metes clarament definides
+      Millora la col·laboració
+      Augmenta la productivitat
+    destination:
+      description: Si vostè està buscant activitats d'adrenalina, culinàries, creatives,
+        d'aventura... miri la nostre selecció de propostes.
+  destinations:
+    title: Destinacions & Esdeveniments
+    destinations_title: Les nostres destinacions
+    destinations_description: Les nostres reunions, esdeveniments i programes de viatges
+      d'incentiu comencen amb un profund coneixement dels objectius estratègics de
+      la seva empresa, i que transformen aquest enteniment en creativitat i experiències
+      memorables.
+    offer_title: Que oferim
+    offer_description: Serveis de viatges corporatius personalitzats, que van des
+      de programes d'incentiu a la coordinació d'esdeveniments per a la gestió de
+      reunions. Ens agrada pensar en nosaltres mateixos com una extensió del seu equip.
+      El seu objectiu és el nostre objectiu.
+    incentive_title: Programes d'incentiu
+    incentive_description: La millor manera de motivar i celebrar l'èxit de l'equip,
+      augmenten la productivitat i les vendes, milloren la relació entre els empleats
+      i la lleialtat del client. Planifiquem, organitzem i dirigim tot el procés de
+      principi a fi, per a que el viatge s’adapti a les vostres necessitats.
+    events_title: Esdeveniments
+    events_description: "Els esdeveniments són una oportunitat única per impactar
+      a la seva audiència i amplificar el seu missatge. \nEls nostres organitzadors
+      entenen que la singularitat, la diferència i la rellevància són claus per crear
+      un esdeveniment amb éxit."
+    process_title: El nostre procés
+    process_description: Concebem el nostre treball com un conjunt de processos coordinats
+      que busquen la consecució dels majors avantatges per als nostres clients
+    process:
+      briefing:
+        title: BRIEFING
+        description: Formulari de consulta que ens ajuda a comprendre les seves necessitats
+      brainstorm:
+        title: BRAINSTORM
+        description: El nostre equip proposarà varietat idees per crear la seva experiència
+      proposal:
+        title: PROPOSTA
+        description: Li enviarem la nostra proposta per correu electrònic o videoconferència
+      followup:
+        title: SEGUIMENT
+        description: Programarem reunions per debatre temes i fer un seguiment personalitzat
+          del seu esdeveniment
+      reservation:
+        title: RESERVA
+        description: Li enviarem un programa complet del que es realitzarà durant
+          l'esdeveniment i de tots els serveis
+      execution:
+        title: EXECUTAR
+        description: Coordinar y supervisar totes les accions implicades per a garantir
+          l'èxit
+    where: Destinacions
+    custom_title: Altres destinacions
+    custom_description: Personalitzem i donem vida al seu pròxim destí
   contact:
     title: Contacte
-    message: SI TÉ UNA IDEA QUE VOL DUR A TERME AMB NOSALTRES, OMPLI EL SEGÜENT FORMULARI.
-      ESTAREM ENCANTATS D'ORGANITZAR EL SEU PRÒXIM ESDEVENIMENT!
-    in_contact: SEGUIM EN CONTACTE!
+    in_contact: Seguim en contacte
+    proposal: Expliqui'ns la teva proposta
     send: Enviar
     message_placeholder: Missatge
     subject_placeholder: Assumpte
     telephone_placeholder: Introdueixi el seu telèfon
     email_placeholder: Introdueixi el seu correu electrònic
     name_placeholder: Introdueixi el seu nom
-    select: Selecciona una opció
-    private: Esdeveniment particular
-    corporative: Esdeveniment corporatiu
-    category: Categoria
   contact-sent:
     title: Contacte
     message: Si no ho fa ara, quan?
     sent_title: El seu missatge s'ha enviat correctament
     sent_description: Gràcies per possar-se en contacte amb nosaltres!
-  footer:
-    about_us: Sobre nosaltres
-    the_green_vintage_is: A <em>The Green Vintage</em> som un equip de professionals
-      especialitzats en la gestió i organització de qualsevol tipologia d’esdeveniment.
-      L’empresa neix amb el desig d’assessorar i planificar els petits moments de
-      la vida, i fer que siguin extraordinaris i especials.
-    all_rights_reserved: Tots els drets reservats
-    contact_us: Contacta'ns
-    contact: Explica'ns la teva proposta
-    sections: Seccions
+  home:
+    title: Inici
+    process:
+      services:
+        title: Els nostres serveis
+        description: Analitzem les necessitats i les característiques de cada producte
+          i/o servei, per oferir solucions personalitzades
+      destination:
+        title: Viatges d'incentiu
+        description: Oferim coneixement de la destinació, experiència i una comprensió
+          de les seves necessitats.
+      teambuilding:
+        title: Team Building
+        description: Creem experiències originals, fem créixer el seu negoci i motivem
+          al seu equip. Negocis i oci, una gran combinació.
+      events:
+        title: Esdeveniments
+        description: Som arquitectes d'esdeveniments, estrategues, planificadors i
+          creadors. Aportem valor a la seva marca.
+      tour:
+        title: Tours
+        description: Viu l'experiència de conèixer l'essència del vi ecològic i la
+          seva producció, la cultura i la gastronomia del territori.
+    destinations_title: Destinacions & Esdeveniments
+    destinations_description: "<em>The Green Vintage</em> és el seu aliat a l’hora
+      de planificar esdeveniments i viatges d’incentiu. Tenim experiència en el sector
+      que, en combinació amb la nostra capacitat d’organització, fan un tàndem perfecte
+      perquè els seus esdeveniments i viatges siguin tot un èxit."
+    activities_title: Les nostres activitats
+    activities_message: Més creativitat. Millor comunicació. Major productivitat.
+      Incrementa la motivació del seu equip.
+    tour:
+      title: El nostre Tour
+      description: Alella destí vinícola on descobriràs la seva tradició, cultura,
+        història i la bona gastronomia.
+      details:
+        title_1: Visita al celler i tast de vins
+        description_1: Visita guiada pels vinyers i celler juntament amb un tast de
+          vins en una masia típica del S.XIV
+        title_2: Visita Modernista
+        description_2: En aquest tour vostè tindrà l'oportunitat increïble per visitar
+          l'art modern fora de Barcelona
+        title_3: Mercat municipal
+        description_3: Passeig pel mercat amb la finalitat de gaudir dels colors,
+          la població local, els venedors i la varietat de productes típics...
+        title_4: Prendre un vermut a una autèntica taverna
+        description_4: Fer el vermut és una important tradició a Catalunya
+    start_button: Reservar!
+    start_title: Estàs a un pas de
+    customers_title: Els nostres clients
+    customers_description: Ells ja han confiat amb nosaltres
+  tour:
+    duration: Duració
+    pax_min: Mínim de persones
+    pax_max: Màxim de persones
+    price: Preu
+    days: Dies
+    time: Hora de sortida
+    meetingpoint: Punt de recollida
+    guide: Visita guiada amb
+    map_title: Punt de trobada
+    information_title: Informació essencial
+    information_included: Inclòs

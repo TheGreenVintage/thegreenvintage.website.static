@@ -23,7 +23,7 @@ languages = headers.map do |header|
     loop do
 
       if key_path.length == 1
-        value.strip! # TODO: Handle errors
+        value.strip! rescue puts "Error in #{key_path}" # TODO: Handle errors
         value = YAML.load(value) if key_path.first.end_with? '_list'
 
         hash[key_path.first] = value

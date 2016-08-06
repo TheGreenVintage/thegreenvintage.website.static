@@ -1,0 +1,65 @@
+---
+layout: page
+section: destination
+---
+
+<div class="space-70"></div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h2>{{ page.destination | translate: 'title' }}</h2>
+            <h3 class="subtitle">{{ page.destination | translate: 'intro' }}</h3>
+        </div>
+        <div class="space-40"></div>
+        <div class="col-md-6 col-sm-6 margin-btm-40">
+          <div class="responsive-video">
+            <iframe width="560" height="315" src="{{ page.destination.video }}" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="col-md-6 col-sm-6 margin-btm-40">
+          <p>
+          {{ page.destination | translate: 'description' | newline_to_br | strip_newlines }}
+          </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="space-70"></div>
+        <div class="col-md-12 text-center">
+            <h2>{{ page.destination | translate: 'venues_title' }}</h2>
+            <h3 class="subtitle">{{ page.destination | translate: 'venues_description' }}</h3>
+        </div>
+        <div class="space-70"></div>
+    </div><!--row-->
+    <div class="row">
+        <div class="col-md-12 margin-btm-40">
+            <div class="flexslider" style="height: 600px; overflow: hidden">
+                <ul class="slides">
+
+                  {% assign album = 'assets/images/destinations/' | append: page.destination.key | walk %}
+
+                  {% for picture in album %}
+                    <li>
+                      <img src="/{{ picture }}" alt="" class="img-responsive">
+                    </li>
+                  {% endfor %}
+                </ul>
+            </div><!--flex slider-->
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="space-70"></div>
+        <div class="col-md-12 text-center">
+            <h2>{{ page.destination | translate: 'activities_title' }}</h2>
+            <h3 class="subtitle">{{ page.destination | translate: 'activities_description' }}</h3>
+        </div>
+        <div class="space-70"></div>
+    </div><!--row-->
+
+    <div class="row">
+      {% assign related_activities = site.data.activities | where: 'destination', page.destination.key | where: 'selected', 'yes' %}
+      {% include activitieslist.html activities=related_activities %}
+    </div><!--grid-->
+
+    <div class="space-70"></div>
+</div><!--portfolio single container end-->

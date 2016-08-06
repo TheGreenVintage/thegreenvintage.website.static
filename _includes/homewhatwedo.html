@@ -1,34 +1,61 @@
-<div class="intro uppercase center">{{ 'home.message' | translate}}</div>
-<div class="intro">{{ 'home.what_we_do' | translate}}</div>
-<div class="intro">{{ 'home.bring_description' | translate}}</div>
+<div class="space-70"></div>
+<div class="container">
+    <div class="row intro-row">
+        <div class="col-md-12 text-center wow animated fadeInUp">
+            <h2>{{ 'home.process.services.title' | translate }}</h2>
+            <h3 class="subtitle">{{ 'home.process.services.description' | translate }}</h3>
+        </div>
+        <div class="space-70"></div>
+        <div class="col-md-4">
+            <div class="services-box">
+                <i class="ion-plane"></i>
+                <h1>{{ 'home.process.destination.title' | translate }}</h1>
+                <p>{{ 'home.process.destination.description' | translate }}</p>
+            </div>
+        </div><!--services box-->
+        <div class="col-md-4">
+            <div class="services-box">
+                <i class="ion-wand"></i>
+                <h1>{{ 'home.process.events.title' | translate }}</h1>
+                <p>{{ 'home.process.events.description' | translate }}</p>
+            </div>
+        </div><!--services box-->
+        <div class="col-md-4">
+            <div class="services-box">
+                <i class="ion-person-stalker"></i>
+                <h1>{{ 'home.process.teambuilding.title' | translate }}</h1>
+                <p>{{ 'home.process.teambuilding.description' | translate }}</p>
+            </div>
+        </div><!--services box-->
+    </div><!--row end-->
+</div><!--intro with services end-->
 
-<blockquote class="important">
-  <p>{{ 'home.success' | translate }}</p>
+<div class="space-70"></div>
+<div class="container">
+    <div class="row intro-row">
+        <div class="col-md-12 text-center wow animated fadeInUp">
+            <h2>{{ 'home.destinations_title' | translate }}</h2>
+            <h3 class="subtitle">{{ 'home.destinations_description' | translate }}</h3>
+        </div>
+    </div><!--row end-->
+</div><!--intro with services end-->
 
-  {% assign contact = 'contact' | section %}
-  <a class="button" href="{{contact.permalink}}">{{ 'home.start_now' | translate }}</a>
-</blockquote>
+{% include destinationslist.html %}
 
-<div class="intro">{{ 'home.bring2_description' | translate}}</div>
+<div class="space-70"></div>
+<div class="container">
+    <div class="row intro-row">
+        <div class="col-md-12 text-center wow animated fadeInUp">
+            <h2>{{ 'home.activities_title' | translate }}</h2>
+            <h3 class="subtitle">{{ 'home.activities_message' | translate }}</h3>
+        </div>
+    </div><!--row end-->
+</div><!--intro with services end-->
 
-<div class="one-half">
-  <div class="intro">
-    <ul class="gramophone">
-      {% assign list = 'home.bring_list' | translate %}
-      {% for type in list %}
-      <li>{{ type }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-<div class="one-half last">
-  <div class="intro">
-    <ul class="gramophone">
-      {% assign list = 'home.bring2_list' | translate %}
-      {% for type in list %}
-      <li>{{ type }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-<div class="clear"></div>
+<div class="container">
+    {% assign barcelona_activities = site.data.activities | where: 'destination', 'barcelona' | where: 'selected', 'yes' %}
+    {% assign lisbon_activities = site.data.activities | where: 'destination', 'lisbon' | where: 'selected', 'yes' %}
+
+    {% include activitieslist.html activities=barcelona_activities %}
+    {% include activitieslist.html activities=lisbon_activities %}
+</div><!--intro with services end-->

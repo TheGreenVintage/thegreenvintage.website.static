@@ -1,0 +1,114 @@
+---
+layout: default
+section: activity
+---
+
+<div class="space-70"></div>
+<div class="container portfolio-details">
+    <div class="row">
+        <div class="col-md-12 margin-btm-40">
+            <div class="flexslider" style="height: 600px; overflow: hidden">
+                <ul class="slides">
+                    <li><img src="/assets/images/team-building/{{ page.activity.photo1 }}" alt="" class="img-responsive"></li>
+                    <li><img src="/assets/images/team-building/{{ page.activity.photo2 }}" alt="" class="img-responsive"></li>
+                    <li><img src="/assets/images/team-building/{{ page.activity.photo3 }}" alt="" class="img-responsive"></li>
+                </ul>
+            </div><!--flex slider-->
+        </div>
+        <div class="col-md-8 portfolio-single-slide margin-btm-40">
+            <div class="portfolio-single-desc">
+                <h3>{{ page.activity | translate: 'title' }}</h3>
+                {{ page.activity | translate: 'description' | newline_to_br | strip_newlines }}
+                {% assign included = page.activity | translate: 'included' | newline_to_br | split: '<br />' %}
+                {% assign included_size = included | size %}
+
+                {% if included_size > 0 %}
+                  <div class="space-40"></div>
+                  <strong>{{ 'activities.included' | translate }}:</strong>
+                  <div class="space-10"></div>
+                  <ul>
+                    {% for item in included %}
+                    <li>
+                      {{ item }}
+                    </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+
+                {% assign not_included = page.activity | translate: 'not_included' | newline_to_br | split: '<br />' %}
+                {% assign not_included_size = not_included | size %}
+
+                {% if not_included_size > 0 %}
+                  <div class="space-20"></div>
+                  <strong>{{ 'activities.not_included' | translate }}:</strong>
+                  <div class="space-10"></div>
+                  <ul>
+                    {% for item in not_included %}
+                    <li>
+                      {{ item }}
+                    </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+            </div><!--portfolio detail-->
+        </div>
+        <div class="col-md-4">
+            <div class="portfolio-side-bar">
+                {% assign languages = page.activity.language | split: ',' %}
+                <p><strong>{{ 'activities.pax' | translate }}:</strong> {{ page.activity.pax }}</p>
+                <p><strong>{{ 'activities.duration' | translate }}:</strong> {{ page.activity.duration }} {{ 'activities.hours' | translate }}</p>
+
+                {% if page.activity.preu %}
+                <p><strong>{{ 'activities.price.title' | translate }}:</strong> {{ page.activity.preu }} &euro;</p>
+                {% endif %}
+
+                <p>
+                  <strong>{{ 'activities.languages.title' | translate }}:</strong>
+                  {% for language in languages %}
+                    {% assign clean_language = language | slugify %}
+                    <span title="{{ 'common.languages.' | append: clean_language | translate }}">{{ clean_language | upcase }}</span>{% if forloop.index < languages.size %}, {% endif %}
+                  {% endfor %}
+                </p>
+                <p><strong>{{ 'activities.accesibility.title' | translate }}:</strong> {{ 'activities.accesibility.' | append: page.activity.accesibility | translate }}</p>
+
+                <br>
+                <p>
+                    {% assign item = 'contact' | section %}
+                    <a href="{{item.permalink}}" class="btn btn-radius theme-btn-color">{{ 'footer.contact_us' | translate }}</a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
+        <div class="space-70"></div>
+        <div class="col-md-12 text-center">
+            <h2>{{ 'activities.related' | translate }}</h2>
+            <h3 class="subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisl risus</h3>
+        </div>
+        <div class="space-70"></div>
+    </div><!--row-->
+
+    <div class="row">
+        {% assign related_activities = site.data.activities | where_exp:"item", "item.tag != page.activity.tag"| sample:3 %}
+        {% for related_activity in related_activities %}
+        <div class=" mix design col-md-4 col-sm-6 margin-btm-40">
+            <div class="portfolio-sec">
+                <div class="portfolio-thumnail">
+                    <a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}">
+                        <img class="img-responsive" src="/assets/images/team-building/thumbnails/{{ related_activity.photo1 }}" title="{{ related_activity | translate: 'title' }}" alt="{{ related_activity | translate: 'title' }}">
+                    </a>
+                </div>
+                <div class="portfolio-desc text-center">
+                    <h4 class="portfolio-post-title">{{ related_activity | translate: 'title' }}</h4>
+                    <h4><a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
+                </div>
+            </div>
+        </div><!--portfolio item -->
+        {% endfor %}
+    </div><!--grid-->
+
+    <div class="space-70"></div>
+</div><!--portfolio single container end-->

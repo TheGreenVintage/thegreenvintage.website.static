@@ -1,11 +1,29 @@
-<h2>{{ 'team.commitment' | translate }}</h2>
-
-<div class="intro">
-  <ul class="gramophone">
-    <li>{{ 'team.commitment1' | translate }}</li>
-    <li>{{ 'team.commitment2' | translate }}</li>
-    <li>{{ 'team.commitment3' | translate }}</li>
-    <li>{{ 'team.commitment4' | translate }}</li>
-    <li>{{ 'team.commitment5' | translate }}</li>
-  </ul>
+<div class="space-70"></div>
+<div class="row">
+  <div class="col-md-12">
+    <h4 class="heading-mini">{{ 'team.commitment_title' | translate }}</h4>
+  </div>
 </div>
+<div class="row">
+    <div class="col-md-6 margin-btm-20">
+      <img src="/assets/images/employees/commitment.jpg" class="img-responsive" alt="">
+    </div>
+
+    <div class="col-md-6 hire-sec">
+        {% assign steps = 'commitment1 commitment2 commitment3 commitment4 commitment5' | split: " " %}
+        {% for step in steps %}
+        {% assign steptitle = 'team.' | append: step | append: '.title' %}
+        {% assign stepdesc = 'team.' | append: step | append: '.description' %}
+          <div class="row">
+              <div class="col-md-12 services-text">
+                  <h4 class="heading-mini">
+                    <i class="ion-checkmark-round" style="color: #66AC82; margin-right: 10px;"></i>
+                    {{ steptitle | translate }}
+                  </h4>
+                  <p>{{ stepdesc | translate }}</p>
+              </div>
+          </div>
+          <div class="space-10"></div>
+        {% endfor %}
+    </div><!--hire section end-->
+</div><!--row-->

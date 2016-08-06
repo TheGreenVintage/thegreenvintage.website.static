@@ -1,0 +1,40 @@
+<div class="space-70"></div>
+<div class="container">
+    <div class="row">
+
+      {% assign destinations = site.data.destinations %}
+      {% for destination in destinations %}
+      <div class="col-md-4 col-sm-6 margin-btm-40">
+          <div class="portfolio-sec">
+              <div class="portfolio-thumnail">
+                  <a href="/{{ page.locale}}/destinations/{{ destination | translate: 'name' | slugify }}">
+                    <img class="img-responsive" src="/assets/images/{{ destination.photo }}" alt="{{ destination | translate: 'name' }}" title="{{ destination | translate: 'name' }}">
+                  </a>
+              </div>
+              <div class="portfolio-desc text-center">
+                  <h4 class="portfolio-post-title">{{ destination | translate: 'name' }}</h4>
+                  <span class="portfolio-post-cat">{{ destination | translate: 'title' }}</span>
+                  <h4><a href="/{{ page.locale}}/destinations/{{ destination | translate: 'name' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
+              </div>
+          </div>
+      </div><!--portfolio item -->
+      {% endfor %}
+
+      {% assign contact = 'contact' | section %}
+      <div class="col-md-4 col-sm-6 margin-btm-40">
+          <div class="portfolio-sec">
+              <div class="portfolio-thumnail">
+                  <a href="{{contact.permalink}}">
+                    <img class="img-responsive" src="/assets/images/destinations/3.jpg" alt="{{ 'destinations.custom_title' | translate }}" title="{{ 'destinations.custom_title' | translate }}">
+                  </a>
+              </div>
+              <div class="portfolio-desc text-center">
+                  <h4 class="portfolio-post-title">{{ 'destinations.custom_title' | translate }}</h4>
+                  <span class="portfolio-post-cat">{{ 'destinations.custom_description' | translate }}</span>
+                  <h4><a href="{{contact.permalink}}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
+              </div>
+          </div>
+      </div><!--portfolio item -->
+
+    </div><!--row portfolio item-->
+</div><!--recent work container end-->

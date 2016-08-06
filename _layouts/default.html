@@ -1,3 +1,7 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
 <html lang="{% if page.locale %}{{ site.locales[page.locale] }}{% else %}{{ site.locales[site.locale] }}{% endif %}" prefix="og: http://ogp.me/ns#">
 
@@ -6,8 +10,6 @@
     <body>
 
       {% include header.html %}
-
-      {{ header_content }}
 
       {{ content }}
 
@@ -20,6 +22,3 @@
     </body>
 
 </html>
-
-
-

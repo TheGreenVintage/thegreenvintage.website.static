@@ -8,7 +8,7 @@ module Jekyll
       end.compact.sort_by do |x|
         x.gsub('_','')[/\d+/].to_i
       end
-      puts "Searching files in: '#{full_path}'... (found: #{files.size} items)"
+      # puts "Searching files in: '#{full_path}'... (found: #{files.size} items)"
       files
     end
   end

@@ -9,9 +9,9 @@ en:
     title: Not found
     message: Resource not found
   meta:
-    description: The Green Vintage is a team of professionals specialized in the management
-      and organization of any type of event. The company was founded with the desire
-      to assess and plan the small moments of life and make them special.
+    description: "<em>The Green Vintage</em> is a destination management company that
+      offers team building activities and incentive travels for companies. Offices
+      in Barcelona and Lisbon"
   cookies:
     title: Cookie policy
     message: This website uses cookies to ensure you get the best experience on our
@@ -19,265 +19,240 @@ en:
     got_it: Got it!
     learn_more: More information
   generic:
+    language: Language
     navigate: Browse
     dragging: Move
     arrows: Arrows
     keyboard: Keyboard
     navigation: Navegation
     more_info: More information
-  home:
-    title: Home
-    message: Shall we expand together? Meet us and  <em>The Green Vintage</em> will
-      turn your next event into a unique and exciting  experience
-    what_we_do: We are a team that works with a great capacity we adapt and develop
-      your events as to your requirements. We use all the technologies and the best
-      communication strategies. Our main target which defines us is our commitment
-      to do the best professional work. The ability to listen and to understand your
-      needs and requirements together with our area knowledge are the fundamental
-      basis to ensure your success.
-    bring_description: Events connect people and brands with their stakeholders in
-      the most natural way. Communication live, face to face, and the creation of
-      real-life experiences from living messages, makes people to experience, that
-      message becomes effective and to achieve the desired response.
-    bring2_description: 'Events manage to remain in the memory of your target audience,
-      they have become events unique to your brand and differential, and it is for
-      that reason that will provide:'
-    bring_list:
-    - Product or service promotion
-    - Knowledge dissemination
-    - Creating new groups
-    - Associative network capacity
-    - Social knowledge
-    bring2_list:
-    - Resources
-    - Live communication
-    - Potential customers
-    - Increase brand awareness
-    - Develop and motivate team members
-    success: Our goal is to grow personally and professionally with our customers
-      and their success
-    start_now: Start now!
-    customers: Some of the clients who have already trusted us
+    address: Carrer de Casp, 79 Penthouse
+    location: Barcelona, 08013
+    share:
+      facebook: Like On Facebook
+      twitter: Follow On Twitter
+      googleplus: Follow On Google+
+      linkedin: Follow On Linkedin
+      instagram: Follow On Instagram
+  common:
+    destinations_tittle: How can we help you?
+    destinations_meetings: Great ideas for venues and meetings
+    destinations_activities: Tailored experiences that fit your needs
+    destinations_hotels: Wide range of accommodation
+    destinations_restaurants: Gastronomic diversity
+    destinations_transportation: Private transport, shuttles and transfers services
+    languages:
+      es: Spanish
+      ca: Catalan
+      en: English
+      de: Germany
+      fr: French
+      pt: Portuguese
+  footer:
+    about_us: About us
+    all_rights_reserved: All rights reserved
+    contact_us: Contact us
+    destination: Destinations
+    newsletter:
+      title: Newsletter
+      description: Keep up on our always evolving Future updates. Enter your e-mail
+        and subscribe to our newsletter.
+      placeholder: Enter your email
+      label: Email address
+      submit: Subscribe!
+    post:
+      tittle: Latest tweet
+  tours:
+    title: Tours
   team:
     title: Team
-    message: We never dreamed to be successful, We worked to get it
-    who_we_are: Who we are
-    founders: Paula Bao Oliveda and Gemma Oliveras Esteve are the co-founders of <em>The
-      Green Vintage</em>. They are two young and dynamic professionals with  an enterprising
-      spirit, they studied together at CETT-UB School of Tourism Hospitality & Gastronomy.
-      Paula specialized in business and events management and Gemma specialized in
-      hotel management.
-    carreer: During the career and trainings taught at the time, they become aware
-      about their passion in the event’s world.
-    create_company: At the end of their studies, in 2011, they began to consider the
-      option of creating their own business organization and management of events,
-      because they had seen that each of them could bring the value and skills with
-      a guarantee of success.
-    consolidate: All these efforts, dedication and support has turned <em>The Green
-      Vintage</em> to a consolidated and positioned company in the current market.
-    commitment: Our commitment
-    commitment1: "<strong>Satisfaction:</strong> Do a personalized monitoring of your
-      event, since success is essential to us"
-    commitment2: "<strong>Motivation:</strong> We love our job and we believe in everything
-      that we do. Only in this way, we can offer you the best result and exceed their
-      initial expectations"
-    commitment3: "<strong>Empathy:</strong> We know listen and understand the needs
-      of our customers and the territory in which we find ourselves"
-    commitment4: "<strong>Creativity:</strong> We look for original and innovative
-      ways to make our actions unforgettable"
-    commitment5: "<strong>Synergy:</strong> We work as a team since the shared effort
-      improves the result"
-  corporative:
-    title: Corporative services
-    message: We believe that the corporate events are a live communication strategic
-      platform which add extra value to your brand
-    description: These corporate services are the ideal platform to let you know worldwide,
-      it’s a worth investment to potentiate and rise  the branding of your company.
-      We add value to your brand by working on the latest trends in the MICE industry
-    informative: Informative events
-    informative_description: Assemblies, conferences, congresses, symposiums, private
-      meetings and workshops
-    promotional: Promotional events
-    promotional_description: Trade fairs and exhibitions, openings and anniversaries,
-      product presentations and showrooms
-    other: Other kind of events
-    other_description: Press releases, offsites, team building activities, company
-      meals
-    extras: All types of events may have a close relationship with auxiliary services
-      . <em>The Green Vintage</em> guarantees the assessment, the monitoring and the
-      management of all these necessary events services
-    service_list:
-    - Design and production of posters, stands, displays, photocalls, stickers, invitations
-      or any other graphic element
-    - Hiring scenarios and /or scenery, lighting and sound
-    - Complement to signalling and signage
-    - 'Multimedia services: screens, monitors, projector and PA system '
-    - 'Corporate photography and video '
-    - 'Catering, hostesses and interpreters or translators '
-    - Search hotels and restaurants
-    - Private transport, shuttles and transfers services
-    - 'Others: fireworks, musical shows, animation, etc.'
-    how_we_work: How we work
-    how_we_work_description: We work as a team and network for shared effort improves
-      the result. We add value to your projects by the promotion and organization
-      of a successful event.
-    concept: Concept
-    concept_description: "<em>The Green Vintage</em> adds value to your events management
-      to achieve the targets pursued by you by strengthen your brand. We have the
-      skills to create new creative project to ensure your success."
-    communication: Comunication
-    communication_description1: We are responsible to plan and manage all the logistics
-      to develop  the whole event, we are strongly involved on your project during
-      all phases of the process. We will provide with a budget planning, by choosing
-      the best qualified suppliers for your event, we will follow the timing of the
-      event, together with all the necessary services related to give a warm welcome
-      to your guests. Furthermore, we can add all extra services you might request
-      different from the ones described above.
-    communication_description2: The event planner is a professional who knows the
-      industry, knows the most qualified and trustable suppliers, and supervise the
-      setup, deal and solve any problem, and ensure that everything is properly organized.
-      Always the event planner will be in contact with the customer, by listening
-      your requirements and assessing you with the best project for your interests.
-    preparation: Preparation
-    preparation_description1: We do a personalized and unique tracking for each customer,
-      adapting the budget to your needs and interests.
-    preparation_description2: "<em>The Green Vintage</em> as event management company,
-      maintains worldwide strategic relationships, we have a  large  background which
-      brings the necessary resources to execute meetings and events at any level.
-      We control all phases of event management such the initiation, the planning,
-      the implementation, the timing schedule, the inauguration of event, and its
-      closure. Effective management continues throughout the project life, from inception
-      to completion. We offer a reliable customer service by organizing all suppliers
-      involved on the development of an event for business (choice of locations, catering,
-      hostesses, car hire, transfers, hotels, restaurants, tour guides, etc.)"
-    the_day: On the event’s day
-    the_day_description1: Our fundamental duty is to assure the event is successful
-      and fulfills your expectations and targets.
-    the_day_description2: We’ll control and coordinate all the external suppliers
-      who will participate on the event.
-    the_day_description3: We’ll manage the timing, feedback from attendees, catering
-      service, etc. We will coordinate all the actions to ensure success.
-  private:
-    title: Weddings
-    message: Your life is made up of little moments
-    description: We organize and arrange customized weddings. We have at your disposal
-      a team of professionals who will understand your style, your needs and your
-      interests, we create good feed-back to do your wedding unique for you and for
-      your guests.
-    weddings: Celebrations - Weddings
-    objectives_description: "<em>The Green Vintage</em> will be on charge of the coordination,
-      logistics, assessment and supervision of your wedding, to avoid any unforeseen
-      event. We design a personalized custom project for each of our clients, because
-      our priority is to create a unique moment."
-    management: Complet Setup
-    management_description: 'Coordination from the first minute until the day of the
-      celebration. This service includes:'
-    planification: 'Planning:'
-    planificaction_list:
-    - Selection and coordination of suppliers, budget request and negotiation
-    - Visits spaces, restaurants
-    - Control and monitoring of the guest list and management their accommodation
-    - Management of seating
-    - 'Management of your wedding day '
-    design: 'Decoration, design and assembly:'
-    design_list:
-    - 'Design of the decorations of the spaces '
-    - 'Assembly of decorative elements '
-    - Floral design of the event
-    ideas: We provide different ideas for your wedding. The decoration defines your
-      personality
-    the_day: Your wedding day organization
-    the_day_description1: In this case, you are responsible for the management of
-      supplier contracts and communication throughout the process of planning, but
-      we always will remain available to answer your questions and give assessment.
-    the_day_description2: "A month before the wedding, we would again work together
-      to arrange the last details by concluding the specific information you will
-      provide related to  \nthe different suppliers, on this way, you will be relaxed
-      on these last days."
-    the_day_management: "<em>The Green Vintage</em> coordinates:"
-    the_day_management_list:
-    - " Reception of guests and look after their needs "
-    - 'Management of the timing (ceremony, the bride and groom entrance, gift delivery,
-      toast, cake entry, music, bridal dance) '
-    - 'Control of seating '
-    - 'Management of external suppliers (catering, photographers, video, musical groups,
-      DJs, children''s entertainment) '
-    - Monitor the difference decorations, furniture, floral decorations and their
-      mounts
-  partners:
-    title: Partners
-    message: The good quality and the close relationship with our partners, gives
-      added value to your event
-    spaces: Spaces
-    spaces_description: To organize a good event, it is important to choose the right
-      location. We offer you different locations where you can develop your projects
-    decorations: Decorations
-    decorations_description: 'A good atmosphere, makes exclusive your event. It is
-      therefore important for you to know how we will present all the different elements
-      at your event: the colors, lighting, materials, the furniture, the corporate
-      color of the company ... the combination of these elements generates the good
-      feelings to the participants of your celebration'
-    gastronomy: Gastronomy
-    gastronomy_description: 'It''s a differentiator element to the ensure the success
-      of your event: the good quality of food, service, original presentations of
-      the dishes, details in the decoration and in the assembly, are the ingredients
-      that give the special flavor to this day which will be remembered by the audience'
-    photography: Photography
-    photography_description: The professional photographers capture those important
-      moments during the whole development of the event, with an outstanding quality
-      and a touch of class and originality
-  portfolio:
-    title: Portfolio
-    message: This is the best way to show what we do. Here you will find some examples
-      of the events we have manage
-    corporative: Corporative
-    corporative_description: The aim is to create an event that provides added value
-      and positioning your company in the market
-    weddings: Weddings
-    weddings_description: Your life is made up of little moments
-  services:
-    title: Services
-    message: Private, individual and business event planning
-    start_now: Start now!
-    corporative_title: Corporative
-    corporative_description: 'We offer a team of professionals to ensure the event
-      of your company will be a success. Our background is strong in planning all
-      types of events focused on all types of companies: large and small. Creativity,
-      innovation, dynamism, proactivity and personalized attention are the core of
-      our work.'
-    corporative_call_to_action: Ensure success. Can we go on together?
-    private_title: Weddings
-    private_description: Our main target is to provide unique and different ideas
-      to make your wedding something special for you. To have a wedding planner will
-      be a guarantee of success and it will give you the peace of mind needed for
-      you to exclusively enjoy during such special day for you
-    private_call_to_action: In a year, you'll wish you started today
+    members:
+      title: Meet our team
+    company:
+      title: About The Green Vintage
+      description: |-
+        We are a destination management company located in Barcelona and Lisboa. We are passionate about create, plan and manage incentive travel experiences, team building activities and tours that produce motivation, inspiration and great memories. We fit your needs.
+
+        We are energetic and reagents. Being enthusiasm is our strong point. Complementarity of our profiles allows us to be creative. The excellent knowledge of the industry, the optimal collaboration with suppliers and our concern for innovation and excellence, allows us to successfully complete any project with full guarantee.
+    commitment_title: Our commitment
+    commitment_description: Core values within the company
+    commitment1:
+      title: Satisfaction
+      description: Do a personalized monitoring of your event, since success is essential
+        to us
+    commitment2:
+      title: Motivation
+      description: We love our job and we believe in everything that we do. Only in
+        this way, we can offer you the best result and exceed their initial expectations
+    commitment3:
+      title: Empathy
+      description: We know listen and understand the needs of our customers and the
+        territory in which we find ourselves
+    commitment4:
+      title: Creativity
+      description: We look for original and innovative ways to make our actions unforgettable
+    commitment5:
+      title: Synergy
+      description: We work as a team since the shared effort improves the result
+  activities:
+    languages:
+      title: Languages
+    accesibility:
+      title: Accesibility
+      'yes': 'Yes'
+      'no': 'No'
+      ask: Ask
+    included: Included
+    not_included: Not  included
+    price:
+      title: Price
+      ask: To ask
+    duration: Duration
+    hours: Hours
+    related: Other activities
+    pax: Minimum of people
+  teambuilding:
+    title: Team Building
+    productivity:
+      title: Improve your team's performance
+      description: Employee satisfaction and happiness are essential to productivity.
+    description: |-
+      Team building is a relationship-building process that develops communication in a group – and therefore has a direct link to building a happier and more productive workforce.
+
+      We create these experiences that promote team bonding and communication in a relaxed environment. This approach creates rich, educational and engaging team building activities that leave your team feeling  engaged, rewarded and refreshed.
+    colum_1: |-
+      Development of skills
+      Improved communication
+      Better working relationships
+    colum_2: |-
+      Clearly defines objectives and goals
+      Better collaboration
+      Increased productivity
+    destination:
+      description: We have a vast selection of team building activities available
+        for you to browse through. Whether you are looking for an adrenaline, culinary
+        , creative activities… we have it covered. Get into our ideas!
+  destinations:
+    title: Destinations & Events
+    destinations_title: Our destinations
+    destinations_description: Our meetings, events and incentive travel programs begin
+      with a deep understanding of your strategic business goals, and we transform
+      that understanding into creativity, memorable experiences.
+    offer_title: What we offer
+    offer_description: We offer customized corporate travel services, ranging from
+      incentive travel programs to event coordination to meeting management. We like
+      to think of ourselves as an extension of your team, here to make your wishes
+      come to life and to make every step hassle-free.
+    incentive_title: INCENTIVE PROGRAMS
+    incentive_description: Incentive Travel are a great way to motivate and celebrate
+      success as a team, increases productivity and sales, better working relationships
+      and customer loyalty. We plan and organize the entire process from beginning
+      to end.
+    events_title: Events
+    events_description: |-
+      Events are a unique opportunity to impact your audience and amplify your message.
+      Our Program Managers understand that uniqueness and relevancy is key to creating an success event.
+    process_title: Our process
+    process_description: We see our work as a set of coordinated processes that seek
+      to achieve the greatest benefits for our customers
+    process:
+      briefing:
+        title: BRIEFING
+        description: Our inquiry form helps us to understand your needs
+      brainstorm:
+        title: BRAINSTORM
+        description: Our team will gather ideas to create your unique experience
+      proposal:
+        title: PROPOSAL
+        description: We’ll send you our best proposal by email or video conference
+          call
+      followup:
+        title: FOLLOW UP
+        description: We’ll schedule a follow up call to discuss questions you might
+          have
+      reservation:
+        title: BOOKING
+        description: We will send you a complete program of all the services involved
+      execution:
+        title: EXECUTE
+        description: We will coordinate all the actions to ensure success
+    where: Destinations
+    custom_title: Custom-made
+    custom_description: We customize and give life to your next destionation
   contact:
     title: Contact
-    message: If you have any idea you'd like to be created please talk to us and fulfill
-      the following form. We’ll be glad to plan your next event!
-    in_contact: KEEP IN TOUCH!
+    in_contact: Keep in touch!
+    proposal: Explain us your proposal
     send: Send
     message_placeholder: Your message
     subject_placeholder: Your subject
     telephone_placeholder: Enter your telephone
     email_placeholder: Enter your email
     name_placeholder: Enter your name
-    select: Select one option
-    private: Private event
-    corporative: Corporative event
-    category: Category
   contact-sent:
     title: Contact
     message: If you don't do it now, when?
     sent_title: Your message was sent successfully
     sent_description: Thank you for contacting us!
-  footer:
-    about_us: About us
-    the_green_vintage_is: "<em>The Green Vintage</em> is a team of professionals specialized
-      in the management and organization of any type of event. The company was founded
-      with the desire to assess and plan the small moments of life and make them special."
-    all_rights_reserved: All rights reserved
-    contact_us: Contact us
-    contact: Explain us your proposal
-    sections: Sections
+  home:
+    title: Home
+    process:
+      services:
+        title: Our services
+        description: We analyze the needs and characteristics for each product and/or
+          service to offer customized solutions
+      destination:
+        title: Destination Management
+        description: Is about having knowledge, experience and an understanding of
+          your needs.
+      teambuilding:
+        title: Team Building
+        description: We create different experiences, grow business and motivate teams.
+      events:
+        title: Events
+        description: We are a collection of visionaries, strategists, planners and
+          creators brought together to offer extraordinary events.
+      tour:
+        title: Tours
+        description: In our tour you will discover a great organic wine, gastronomy
+          and culture experience.
+    destinations_title: Destinations & Events
+    destinations_description: Are you planning a meeting, conference or special event
+      and need local expertise and support? Then, you need a Destination Management
+      Company! We could help you!
+    activities_title: Our activities
+    activities_message: More creativity. Better communication. More creativity. Higher
+      productivity. Let’s take your team to the next level.
+    tour:
+      title: Our Tour
+      description: Discover Alella village, closest winery to Barcelona. Taste ecologic
+        wine, knowledge history and culture, get in touch with local people and enjoy
+        good gastronomy.
+      details:
+        title_1: Winery visit and wine tasting
+        description_1: Guided tour through the vineyards and winery in a typical catalan
+          house 14th century (Tasting 4 exclusive organic wines)
+        title_2: Guided modernist tour
+        description_2: On this tour you will have an incredible opportunity to visit
+          modernist art outside Barcelona.
+        title_3: Local market
+        description_3: Walk around the market in order to enjoy the colors, local
+          people, vendors and variety of typical products
+        title_4: Vermouth time
+        description_4: Having a vermouth is an important aperitif tradition in Catalonia
+    start_button: Book now!
+    start_title: You are one step away from an unique
+    customers_title: Our loyal customers
+    customers_description: Clients who have already trusted us
+  tour:
+    duration: Duration
+    pax_min: Minimum of people
+    pax_max: Maximum of people
+    price: Price
+    days: Days
+    time: Departure time
+    meetingpoint: Meeting point
+    guide: Guided tour in
+    map_title: Meeting point
+    information_title: Essential information
+    information_included: Included

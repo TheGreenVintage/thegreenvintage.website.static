@@ -1,0 +1,37 @@
+<div class="container">
+    <div class="row">
+        <div class="space-70"></div>
+        <div class="col-md-12 text-center">
+            <h2>{{ 'teambuilding.productivity.title' | translate }}</h2>
+            <h3 class="subtitle">{{ 'teambuilding.productivity.description' | translate }}</h3>
+        </div>
+        <div class="space-70"></div>
+    </div><!--row-->
+    <div class="row">
+        <div class="col-md-12 margin-btm-40">
+          <p>{{ 'teambuilding.description' | translate }}</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2 margin-btm-40">
+        </div>
+        <div class="col-md-4 col-sm-6" style="font-size: 1.2em; line-height: 1.8em; padding: 10px;">
+            <ul class="icon-list list-unstyled">
+              {% assign list = 'teambuilding.colum_1' | translate | newline_to_br | split: '<br />' %}
+              {% for type in list %}
+              <li><i class="ion-checkmark-round"></i>{{ type }}</li>
+              {% endfor %}
+            </ul>
+        </div>
+        <div class="col-md-4 col-sm-6" style="font-size: 1.2em; line-height: 1.8em; padding: 10px;">
+            <ul class="icon-list list-unstyled">
+              {% assign list = 'teambuilding.colum_2' | translate | newline_to_br | split: '<br />' %}
+              {% for type in list %}
+              <li><i class="ion-checkmark-round"></i>{{ type }}</li>
+              {% endfor %}
+            </ul>
+        </div>
+        <div class="col-md-2 margin-btm-40">
+        </div>
+    </div>
+</div>

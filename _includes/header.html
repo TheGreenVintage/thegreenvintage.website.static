@@ -1,70 +1,77 @@
-<!-- Begin Header -->
-<div class="header-wrapper">
-  <div class="header">
-    <!-- Begin Logo -->
-    <div class="logo"> <a href="/"><img src="/assets/images/logos/logo_green-vintage_white2.png" alt="{{ site.title }}" width="80"></a> </div>
-    <!-- End Logo -->
+        <header class="header-main">
+            <div class="top-bar">
 
-    <!-- Begin Menu -->
-    <div id="menu" class="menu">
-      <ul id="tiny" data-label="{{ 'generic.navigation' | translate }}">
-        {% assign sections = 'home services portfolio partners team contact' | split: " " %}
-        {% for sname in sections %}
-        {% assign item = sname | section %}
-        <li class="{% if page.section == item.section or item.subsections contains page.section %}active{% endif %}">
-          <a href="{{item.permalink}}">{{ item.section | append:'.title' | translate }}</a>
+                <div class="container">
+                    <ul class="info list-inline pull-left hidden-xs">
+                        <li><a href="mailto:info@thegreenvintage.com" class="hover-color"><i class="ion-ios-email-outline"></i> info@thegreenvintage.com</a></li>
+                        <li><a href="tel:+34 679 400 576" class="hover-color"><i class="ion-iphone"></i> (+34) 679 400 576</a></li>
+                        <li><a href="tel:+34 644 282 929" class="hover-color"><i class="ion-iphone"></i> (+34) 644 282 929</a></li>
+                    </ul>
+                    <div class="pull-right">
+                        <ul class="info list-inline">
+                            <li class="dropdown "><a href="#" data-toggle="dropdown" class="dropdown-toggle hover-color"><i class="ion-earth"></i> {{ 'generic.language' | translate }}</a>
+                                <ul class="dropdown-menu lang-dropdown">
+                                {% for locale in site.locales %}
 
-          {% if item.subsections %}
-            <ul class="sub-menu">
-              {% assign subsections = item.subsections | split: " " %}
-              {% for ssname in subsections %}
-              {% assign sitem = ssname | section %}
-              <li class="menu-item menu-item-type-post_type menu-item-object-page">
-                <a href="{{sitem.permalink}}">{{ sitem.section | append:'.title' | translate }}</a>
-              </li>
-              {% endfor %}
-            </ul>
-          {% endif %}
-        </li>
-        {% endfor %}
-      </ul>
+                                {% assign item = site.pages | where: 'section', page.section | where: 'locale', locale[0] | first %}
+
+                                  {% if item %}
+                                  <li>
+                                  <a href="{{item.permalink}}" title="{{ locale[0] | prepend:'locales.' | translate }}" alt="{{ locale[0] | prepend:'locales.' | translate }}"/>{{ 'locales.' | append: locale[0] | translate }}</a>
+                                  </li>
+                                  {% endif %}
+
+                                {% endfor %}
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div><!--container end-->
+            </div><!--topbar end-->
+
+            <div class="navbar navbar-default sticky-nav sticky yamm" role="navigation">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="/"><img src="/assets2/img/logos/logo-medium.png" class="img-responsive" alt="{{ site.title }}"></a>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            {% assign sections = 'home destinations teambuilding team contact' | split: " " %}
+                            {% for sname in sections %}
+                            {% assign item = sname | section %}
+                            <li class="{% if page.section == item.section %}active{% endif %}">
+                              <a href="{{item.permalink}}">{{ item.section | append:'.title' | translate }}</a>
+                            </li>
+                            {% endfor %}
+                            <!-- Your like button code -->
+                            <!--menu Features li end here-->
+                            <li class="social-nav"><a class="js-facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fthegreenvintage.com"><i class="ion-social-facebook"></i></a></li>
+                            <li class="social-nav"><a target="_blank" href="http://twitter.com/share"><i class="ion-social-twitter"></i></a></li>
+                        </ul>
+
+                    </div><!--/.nav-collapse -->
+                </div><!--/.container-->
+            </div><!--navigation end-->
+
+        </header><!--header main end-->
+
+{% if page.section != 'home' and page.section != 'activity' %}
+
+{% if page.title %}
+  {% assign pagetitle = page.title %}
+{% else%}
+  {% assign pagetitle = page.section | append:'.title' | translate %}
+{% endif %}
+
+<section id="content-region-3" class="padding-40 page-tree-bg">
+    <div class="container">
+        <h3 class="page-tree-text">{{ pagetitle }}</h3>
     </div>
-    <div class="clear"></div>
-    <!-- End Menu -->
-  </div>
-</div>
-<!-- End Header -->
-
-{% if page.section != 'home' %}
-{% assign header_type = 'services' %}
-
-{% if page.section == 'corporative' %}
-{% assign header_type = 'corporative' %}
-{% endif %}
-
-{% if page.section == 'private' %}
-{% assign header_type = 'weddings' %}
-{% endif %}
-
-{% if page.section == 'portfolio' %}
-{% assign header_type = 'portfolio' %}
-{% endif %}
-
-{% if page.section == 'partners' %}
-{% assign header_type = 'partners' %}
-{% endif %}
-
-{% if page.section == 'team' %}
-{% assign header_type = 'team' %}
-{% endif %}
-
-{% if page.section == 'contact' %}
-{% assign header_type = 'contact' %}
-{% endif %}
-
-<div class="head-image head-image-{{header_type}}">
-  <div class="page-title">
-    <h1>{{ page.section | append:'.title' | translate }}</h1>
-  </div>
-</div>
+</section><!--page-tree end here-->
 {% endif %}
