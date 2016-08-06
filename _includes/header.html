@@ -42,7 +42,7 @@
                     </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
-                            {% assign sections = 'home destinations tours teambuilding team contact' | split: " " %}
+                            {% assign sections = 'home destinations teambuilding team contact' | split: " " %}
                             {% for sname in sections %}
                             {% assign item = sname | section %}
                             <li class="{% if page.section == item.section %}active{% endif %}">

@@ -6,32 +6,25 @@
             <h3 class="subtitle">{{ 'home.process.services.description' | translate }}</h3>
         </div>
         <div class="space-70"></div>
-        <div class="col-sm-3">
+        <div class="col-md-4">
             <div class="services-box">
                 <i class="ion-plane"></i>
                 <h1>{{ 'home.process.destination.title' | translate }}</h1>
                 <p>{{ 'home.process.destination.description' | translate }}</p>
             </div>
         </div><!--services box-->
-        <div class="col-sm-3">
+        <div class="col-md-4">
             <div class="services-box">
                 <i class="ion-wand"></i>
                 <h1>{{ 'home.process.events.title' | translate }}</h1>
                 <p>{{ 'home.process.events.description' | translate }}</p>
             </div>
         </div><!--services box-->
-        <div class="col-sm-3">
+        <div class="col-md-4">
             <div class="services-box">
                 <i class="ion-person-stalker"></i>
                 <h1>{{ 'home.process.teambuilding.title' | translate }}</h1>
                 <p>{{ 'home.process.teambuilding.description' | translate }}</p>
-            </div>
-        </div><!--services box-->
-        <div class="col-sm-3">
-            <div class="services-box">
-                <i class="ion-earth"></i>
-                <h1>{{ 'home.process.tour.title' | translate }}</h1>
-                <p>{{ 'home.process.tour.description' | translate }}</p>
             </div>
         </div><!--services box-->
     </div><!--row end-->
@@ -66,57 +59,3 @@
     {% include activitieslist.html activities=barcelona_activities %}
     {% include activitieslist.html activities=lisbon_activities %}
 </div><!--intro with services end-->
-
-<div class="space-70"></div>
-<div class="container">
-    <div class="row">
-        <div class="col-md-8 features">
-            <h3>{{ 'home.tour.title' | translate }}</h3>
-            <p>
-              {{ 'home.tour.description' | translate }}
-            </p>
-            <div class="space-10"></div>
-            <div class="row">
-                <div class="col-md-12 services-text">
-                    <h4 class="heading-mini"><i class="ion-checkmark-round" style="color: #66AC82; margin-right: 10px;"></i>{{ 'home.tour.details.title_1' | translate }}</h4>
-                    <p> {{ 'home.tour.details.description_1' | translate }} </p>
-                </div>
-            </div><!--services list-->
-            <div class="space-10"></div>
-            <div class="row">
-                <div class="col-md-12 services-text">
-                    <h4 class="heading-mini"><i class="ion-checkmark-round" style="color: #66AC82; margin-right: 10px;"></i>{{ 'home.tour.details.title_2' | translate }}</h4>
-                    <p> {{ 'home.tour.details.description_2' | translate }} </p>
-                </div>
-            </div><!--services list-->
-            <div class="space-10"></div>
-            <div class="row">
-                <div class="col-md-12 services-text">
-                    <h4 class="heading-mini"><i class="ion-checkmark-round" style="color: #66AC82; margin-right: 10px;"></i>{{ 'home.tour.details.title_3' | translate }}</h4>
-                    <p> {{ 'home.tour.details.description_3' | translate }} </p>
-                </div>
-            </div><!--services list-->
-            <div class="space-10"></div>
-            <div class="row">
-                <div class="col-md-12 services-text">
-                    <h4 class="heading-mini"><i class="ion-checkmark-round" style="color: #66AC82; margin-right: 10px;"></i>{{ 'home.tour.details.title_4' | translate }}</h4>
-                    <p> {{ 'home.tour.details.description_4' | translate }} </p>
-                </div>
-            </div><!--services list-->
-        </div>
-        <div class="col-md-4">
-            <img src="/assets/images/tours/alella.jpg" class="img-responsive" alt="">
-        </div>
-    </div>
-</div><!--container-->
-
-<div class="space-70"></div>
-
-<div class="cta-bg">
-  <div class="container text-center">
-    <h3>
-      {{ 'home.start_title' | translate }}
-      <a href="/tours/alella" class="btn btn-lg btn-white btn-radius">{{ 'home.start_button' | translate }}</a>
-    </h3>
-  </div>
-</div>
