@@ -2,7 +2,7 @@
 layout: default
 section: home
 locale: es
-permalink: /es/home/
+permalink: /es/
 ---
 
 {% include homeslider.html %}
