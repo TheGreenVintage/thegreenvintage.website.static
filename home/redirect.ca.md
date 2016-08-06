@@ -1,5 +1,5 @@
 ---
 layout: redirect
 locale: ca
-permalink: /ca/home
+permalink: /ca/home/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: redirect
 locale: es
-permalink: /es/home
+permalink: /es/home/
 ---
