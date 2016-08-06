@@ -1,10 +1,12 @@
 <div class="master-slider ms-skin-default" id="masterslider">
     {% for picture in site.data.home %}
-    <div class="ms-slide slide-{{forloop.index}}">
+    <div class="ms-slide slide-{{forloop.index}}" data-delay="5">
         <div class="slide-pattern"></div>
         <h3 class="ms-layer thin-text-white blacktext"
             data-type="text"
-            data-effect="top(45)"
+            data-effect="top(15)"
+            data-offset-x="20"
+            data-offset-y="-20"
             data-duration="3400"
             data-ease="easeOutExpo"
             data-origin="mc"
@@ -13,7 +15,9 @@
         </h3>
         <h4 class="ms-layer bold-text-white bigtext"
             data-type="text"
-            data-effect="top(45)"
+            data-effect="top(70)"
+            data-offset-x="150"
+            data-offset-y="50"
             data-duration="3400"
             data-delay="400"
             data-ease="easeOutExpo"
