@@ -71,11 +71,10 @@ en:
     company:
       title: About The Green Vintage
       description: |-
-        We are a destination management company located in Barcelona and Lisboa. We are passionate about create, plan and manage incentive travel experiences, team building activities and tours that produce motivation, inspiration and great memories. We fit your needs.
+        We are a destination management company located in Barcelona and Lisboa. We are passionate about create, plan and manage incentive travel experiences and team building activities that produce motivation, inspiration and great memories. We fit your needs.
 
         We are energetic and reagents. Being enthusiasm is our strong point. Complementarity of our profiles allows us to be creative. The excellent knowledge of the industry, the optimal collaboration with suppliers and our concern for innovation and excellence, allows us to successfully complete any project with full guarantee.
     commitment_title: Our commitment
-    commitment_description: Core values within the company
     commitment1:
       title: Satisfaction
       description: Do a personalized monitoring of your event, since success is essential
@@ -125,7 +124,7 @@ en:
       Improved communication
       Better working relationships
     colum_2: |-
-      Clearly defines objectives and goals
+      Clearly defines objectives
       Better collaboration
       Increased productivity
     destination:
@@ -178,7 +177,7 @@ en:
         description: We will coordinate all the actions to ensure success
     where: Destinations
     custom_title: Custom-made
-    custom_description: We customize and give life to your next destionation
+    custom_description: We customize and give life to your next destination
   contact:
     title: Contact
     in_contact: Keep in touch!

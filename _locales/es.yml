@@ -60,7 +60,7 @@ es:
       label: Dirección de correo electrónico
       submit: "¡Suscribirse!"
     post:
-      tittle: "Último tweet"
+      tittle: Último tweet
   tours:
     title: Tours
   team:
@@ -70,11 +70,10 @@ es:
     company:
       title: Conoce The Green VIntage
       description: |-
-        Somos una agencia de receptivo con sede en Barcelona y Lisboa. Somos apasionados en dirigir, crear, organizar viajes de incentivo, actividades de team building y tour turístico. Producimos motivación, inspiración y generamos experiencias.
+        Somos una agencia de receptivo con sede en Barcelona y Lisboa. Somos apasionados en dirigir, crear, organizar viajes de incentivo y actividades de team building. Producimos motivación, inspiración y generamos experiencias.
 
         Somos enérgicos y reactivos, siendo el entusiasmo nuestro punto fuerte. La complementariedad de nuestros perfiles nos permite ser creativos. El excelente conocimiento del sector, la óptima colaboración con proveedores y la inquietud por la innovación y la excelencia nos permiten materializar cualquier proyecto con total garantía. Nos movemos pensando siempre en soluciones.
     commitment_title: Nuestro compromiso
-    commitment_description: Valores esenciales de la empresa
     commitment1:
       title: Satisfacción
       description: Hacemos un seguimiento personalizado de su evento, ya que el éxito
@@ -126,7 +125,7 @@ es:
       Mejora la comunicación
       Promueve el trabajo en equipo
     colum_2: |-
-      Objetivos y metas claramente definidos
+      Objetivos claramente definidos
       Mejora la colaboración
       Aumenta la productividad
     destination:
@@ -210,8 +209,8 @@ es:
           de sus necesidades.
       teambuilding:
         title: Team Building
-        description: Creamos experiencias originales, hacemos crecer su negocio y
-          motivamos a su equipo. Negocios y ocio, una gran combinación.
+        description: Creamos experiencias, hacemos crecer su negocio y motivamos a
+          su equipo. Negocios y ocio, una gran combinación.
       events:
         title: Eventos
         description: Somos arquitectos de eventos, estrategas, planificadores y creadores.
@@ -222,12 +221,12 @@ es:
           producción, la cultura y gastronomía del territorio.
     destinations_title: Destinaciones & Eventos
     destinations_description: "<em>The Green Vintage</em> es su aliado en el momento
-      de planificar eventos y viajes de incentivos. Tenemos experiencia en el sector
+      de planificar eventos y viajes de incentivo. Tenemos experiencia en el sector
       que, en combinación con nuestra capacidad de organización, hacen un tándem perfecto
       para que sus eventos y viajes sean todo un éxito."
     activities_title: Nuestras actividades
     activities_message: Más creatividad. Mejor comunicación. Mayor productividad.
-      Mejor comunicación. Lleva a su equipo a otro nivel.
+      Lleva a su equipo a otro nivel.
     tour:
       title: Nuestro Tour
       description: Alella destino vinícola donde descrubrirás su tradición, cultura,
