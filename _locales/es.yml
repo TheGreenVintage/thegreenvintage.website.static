@@ -216,7 +216,6 @@ es:
         description: Somos arquitectos de eventos, estrategas, planificadores y creadores.
           Aportamos valor a su marca.
       tour:
-        title: Tours
         description: En nuestro Tour descubrirá la esencia del vino ecológico y su
           producción, la cultura y gastronomía del territorio.
     destinations_title: Destinaciones & Eventos
@@ -227,26 +226,10 @@ es:
     activities_title: Nuestras actividades
     activities_message: Más creatividad. Mejor comunicación. Mayor productividad.
       Lleva a su equipo a otro nivel.
-    tour:
-      title: Nuestro Tour
-      description: Alella destino vinícola donde descrubrirás su tradición, cultura,
-        historia y su buena gastronomía.
-      details:
-        title_1: Visita la bodega y cata sus vinos
-        description_1: Visita guiada por los viñedos y bodega junto con una cata de
-          vinos en masía típica del S.XIV
-        title_2: Visita Modernista
-        description_2: En este tour usted tendrá una oportunidad increíble para visitar
-          el arte moderno fuera de Barcelona
-        title_3: Mercado municipal
-        description_3: Paseo por el mercado con el fin de disfrutar de los colores,
-          la población local, los vendedores y la variedad de productos típicos...
-        title_4: Tomar un vermut en una auténtica taberna
-        description_4: Hacer un vermut es una importante tradición en Cataluña
-    start_button: "¡Reservar!"
     start_title: Estás a un paso de
     customers_title: Nuestros clientes
     customers_description: Ellos ya han confiado en nosotros
+    download_brochure: Descárgate nuestro catálogo de servicios
   tour:
     duration: Duración
     pax_min: Mínimo de personas

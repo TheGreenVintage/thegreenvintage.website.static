@@ -10,5 +10,7 @@ permalink: /en/
 <div class="wrapper">
   {% include homewhatwedo.html %}
 
+  {% include homedestinations.html %}
+
   {% include homecustomers.html %}
 </div>

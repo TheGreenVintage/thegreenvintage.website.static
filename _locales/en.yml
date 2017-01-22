@@ -212,7 +212,6 @@ en:
         description: We are a collection of visionaries, strategists, planners and
           creators brought together to offer extraordinary events.
       tour:
-        title: Tours
         description: In our tour you will discover a great organic wine, gastronomy
           and culture experience.
     destinations_title: Destinations & Events
@@ -222,27 +221,10 @@ en:
     activities_title: Our activities
     activities_message: More creativity. Better communication. More creativity. Higher
       productivity. Let’s take your team to the next level.
-    tour:
-      title: Our Tour
-      description: Discover Alella village, closest winery to Barcelona. Taste ecologic
-        wine, knowledge history and culture, get in touch with local people and enjoy
-        good gastronomy.
-      details:
-        title_1: Winery visit and wine tasting
-        description_1: Guided tour through the vineyards and winery in a typical catalan
-          house 14th century (Tasting 4 exclusive organic wines)
-        title_2: Guided modernist tour
-        description_2: On this tour you will have an incredible opportunity to visit
-          modernist art outside Barcelona.
-        title_3: Local market
-        description_3: Walk around the market in order to enjoy the colors, local
-          people, vendors and variety of typical products
-        title_4: Vermouth time
-        description_4: Having a vermouth is an important aperitif tradition in Catalonia
-    start_button: Book now!
     start_title: You are one step away from an unique
     customers_title: Our loyal customers
     customers_description: Clients who have already trusted us
+    download_brochure: Download our service brochure
   tour:
     duration: Duration
     pax_min: Minimum of people

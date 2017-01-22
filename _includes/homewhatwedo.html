@@ -29,33 +29,3 @@
         </div><!--services box-->
     </div><!--row end-->
 </div><!--intro with services end-->
-
-<div class="space-70"></div>
-<div class="container">
-    <div class="row intro-row">
-        <div class="col-md-12 text-center wow animated fadeInUp">
-            <h2>{{ 'home.destinations_title' | translate }}</h2>
-            <h3 class="subtitle">{{ 'home.destinations_description' | translate }}</h3>
-        </div>
-    </div><!--row end-->
-</div><!--intro with services end-->
-
-{% include destinationslist.html %}
-
-<div class="space-70"></div>
-<div class="container">
-    <div class="row intro-row">
-        <div class="col-md-12 text-center wow animated fadeInUp">
-            <h2>{{ 'home.activities_title' | translate }}</h2>
-            <h3 class="subtitle">{{ 'home.activities_message' | translate }}</h3>
-        </div>
-    </div><!--row end-->
-</div><!--intro with services end-->
-
-<div class="container">
-    {% assign barcelona_activities = site.data.activities | where: 'destination', 'barcelona' | where: 'selected', 'yes' %}
-    {% assign lisbon_activities = site.data.activities | where: 'destination', 'lisbon' | where: 'selected', 'yes' %}
-
-    {% include activitieslist.html activities=barcelona_activities %}
-    {% include activitieslist.html activities=lisbon_activities %}
-</div><!--intro with services end-->
