@@ -22,7 +22,7 @@ section: destination
           </p>
 
           {% if page.locale == 'en' %}
-            {% assign bfile = page.destination.brochure_file %}
+            {% assign bfile = page.destination | translate: 'brochure_file' %}
             <p>
               <a href="/assets/files/{{ page.locale }}/{{ bfile }}" download="{{ bfile }}" class="btn btn-radius theme-btn-color">{{ page.destination | translate: 'download_brochure' }}</a>
             </p>
