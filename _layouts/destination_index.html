@@ -17,9 +17,16 @@ section: destination
           </div>
         </div>
         <div class="col-md-6 col-sm-6 margin-btm-40">
-          <p style="line-height: 40px;">
+          <p style="line-height: 35px; margin-bottom: 15px;">
           {{ page.destination | translate: 'description' | newline_to_br | strip_newlines }}
           </p>
+
+          {% if page.locale == 'en' %}
+            {% assign bfile = page.destination.brochure_file %}
+            <p>
+              <a href="/assets/files/{{ page.locale }}/{{ bfile }}" download="{{ bfile }}" class="btn btn-radius theme-btn-color">{{ page.destination | translate: 'download_brochure' }}</a>
+            </p>
+          {% endif %}
         </div>
     </div>
     <div class="row">
