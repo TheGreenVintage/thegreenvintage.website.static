@@ -112,6 +112,8 @@ ca:
     hours: Hores
     related: Altres activitats
     pax: Mínim de persones
+    localization:
+      title: Localització
   teambuilding:
     title: Team Building
     productivity:

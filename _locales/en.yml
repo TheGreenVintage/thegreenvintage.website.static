@@ -110,6 +110,8 @@ en:
     hours: Hours
     related: Other activities
     pax: Minimum of people
+    localization:
+      title: Localization
   teambuilding:
     title: Team Building
     productivity:
