@@ -12,6 +12,7 @@ module Jekyll
       self.data['activities'] = activities
       self.data['activity'] = activity
       self.data['locale'] = locale
+      self.data['title'] = activity["title_#{locale}"]
     end
   end
 
