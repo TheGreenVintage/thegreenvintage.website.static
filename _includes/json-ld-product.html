@@ -5,10 +5,11 @@
   "brand": "{{ site.title }}",
   "name": "{{ page.activity | translate: 'title' }}",
   "image": "https://www.thegreenvintage.com/assets/images/team-building/{{ page.activity.photo1 }}",
-  "description": "{{ page.activity | translate: 'description' | newline_to_br | strip_newlines }}",
+  "description": "{{ page.activity | translate: 'description' }}",
   "aggregateRating": {
     "@type": "aggregateRating",
-    "ratingValue": "4.{{ page.activity | translate: 'title' | size }}"
+    "ratingValue": "4.{{ page.activity | translate: 'title' | size }}",
+    "reviewCount": "{{ page.activity.tag | size }}"
   }
 }
 </script>
