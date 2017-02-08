@@ -9,9 +9,9 @@ en:
     title: Not found
     message: Resource not found
   meta:
-    description: "<em>The Green Vintage</em> is a destination management company that
-      offers team building activities and incentive travels for companies. Offices
-      in Barcelona and Lisbon"
+    description: The Green Vintage is a destination management company that offers
+      team building activities and incentive travels for companies. Offices in Barcelona
+      and Lisbon
   cookies:
     title: Cookie policy
     message: This website uses cookies to ensure you get the best experience on our
@@ -27,7 +27,10 @@ en:
     navigation: Navegation
     more_info: More information
     address: Carrer de Casp, 79 Penthouse
-    location: Barcelona, 08013
+    postal: 08013
+    town: Barcelona
+    region: Catalonia
+    country: Spain
     share:
       facebook: Like On Facebook
       twitter: Follow On Twitter

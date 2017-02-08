@@ -1,0 +1,14 @@
+<script type='application/ld+json'>
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "{{ site.title }}",
+  "name": "{{ page.activity | translate: 'title' }}",
+  "image": "https://www.thegreenvintage.com/assets/images/team-building/{{ page.activity.photo1 }}",
+  "description": "{{ page.activity | translate: 'description' | newline_to_br | strip_newlines }}",
+  "aggregateRating": {
+    "@type": "aggregateRating",
+    "ratingValue": "4.{{ page.activity | translate: 'title' | size }}"
+  }
+}
+</script>

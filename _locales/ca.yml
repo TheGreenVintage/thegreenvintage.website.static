@@ -9,9 +9,9 @@ ca:
     title: No trobat
     message: Recurs no trobat
   meta:
-    description: "<em>The Green Vintage</em> és una agència de receptiu amb seu a
-      Barcelona i Lisboa que ofereix serveis de team building i viatges d'incentiu
-      per a empreses, tan nacionals com a internacionals."
+    description: The Green Vintage és una agència de receptiu amb seu a Barcelona
+      i Lisboa que ofereix serveis de team building i viatges d'incentiu per a empreses,
+      tan nacionals com a internacionals.
   cookies:
     title: Política de Cookies
     message: Aquesta web utilitza cookies per oferir-te una millor experiència i servei
@@ -26,7 +26,10 @@ ca:
     navigation: Navegació
     more_info: Més informació
     address: Carrer de Casp, 79 Sobreàtic
-    location: Barcelona, 08013
+    postal: 08013
+    town: Barcelona
+    region: Catalunya
+    country: Espanya
     share:
       facebook: Segueix-nos a Facebook
       twitter: Segueix-nos a Twitter
