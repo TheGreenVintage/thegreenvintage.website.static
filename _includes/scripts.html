@@ -33,7 +33,7 @@
         };
         map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
-        var contentString = '<p style="line-height: 20px;"><strong>Banzhow Template</strong></p><p>123 My Street, Banzhow City, CA 4567</p>';
+        var contentString = '<p style="line-height: 20px;"><strong>{{ site.title }}</strong></p><p>{{ 'generic.address' | translate }} {{ 'generic.town' | translate }} {{ 'generic.postal' | translate }}</p>';
 
         var infowindow = new google.maps.InfoWindow({
             content: contentString
