@@ -8,22 +8,28 @@ $(document).ready(function() {
 
   form.find('input[type=text]').first().focus();
 
-  form.submit(function() {
-
-    var postdata = form.serialize();
+  form.submit(function(event) {
+    var formData = {
+      name:      $('input[name=name]').val(),
+      email:     $('input[name=email]').val(),
+      telephone: $('input[name=telephone]').val(),
+      subject:   $('input[name=subject]').val(),
+      message:   $('input[name=message]').val()
+    };
 
     $.ajax({
       type: 'POST',
-      url: form.attr('action'),
-      data: postdata,
-      dataType: 'json'
+      url: $(this).attr('action'),
+      data: formData,
+      dataType: 'json',
+      encode: true
     }).fail(function(error){
       alert('Error:' + error);
     }).done(function(data){
       window.location = form.data('success');
     });
 
-    return false;
+    event.preventDefault();
   });
 });
 
