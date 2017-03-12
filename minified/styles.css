@@ -1,0 +1,8 @@
+---
+permalink: /assets/css/style.min.css
+---
+
+{% capture styles %}
+{% endcapture %}
+
+{{ styles | scssify }}
