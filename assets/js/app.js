@@ -1,38 +1,5 @@
 //bizwrap v1.3
 
-/*-----------------------------------------------------------------------------------*/
-/*	CONTACT FORM
-/*-----------------------------------------------------------------------------------*/ 
-$(document).ready(function() {
-  var form = $('.contact-form form');
-
-  form.find('input[type=text]').first().focus();
-
-  form.submit(function(event) {
-    var formData = {
-      name:      $('input[name=name]').val(),
-      email:     $('input[name=email]').val(),
-      telephone: $('input[name=telephone]').val(),
-      subject:   $('input[name=subject]').val(),
-      message:   $('input[name=message]').val()
-    };
-
-    $.ajax({
-      type: 'POST',
-      url: $(this).attr('action'),
-      data: formData,
-      dataType: 'json',
-      encode: true
-    }).fail(function(error){
-      alert('Error:' + error);
-    }).done(function(data){
-      window.location = form.data('success');
-    });
-
-    event.preventDefault();
-  });
-});
-
 $( window ).resize(function() {
   $(".navbar-collapse").css({ maxHeight: $(window).height() - $(".navbar-header").height() + "px" });
 });
