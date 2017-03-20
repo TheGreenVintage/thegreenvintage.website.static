@@ -19,7 +19,7 @@ $(document).ready(function() {
     }).fail(function(error){
       alert('Error:' + error);
     }).done(function(data){
-      window.location = form.data('success');
+      window.location = $form.data('success');
     });
 
     event.preventDefault();
