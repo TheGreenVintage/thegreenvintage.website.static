@@ -15,7 +15,7 @@
         <h4 class="heading-mini">{{ 'contact.proposal' | translate }}</h4>
         <div class="contact-form">
             {% assign contactsent = 'contact-sent' | section %}
-            <form name="sentMessage" id="contactForm" action="/contact/support" data-success="{{contactsent.permalink}}" method="post" novalidate>
+            <form name="sentMessage" id="contact-form" action="/contact/support" data-success="{{contactsent.permalink}}" method="post" novalidate>
                 <div class="row">
                     <div class="col-md-6">
                         <div class="row control-group">
