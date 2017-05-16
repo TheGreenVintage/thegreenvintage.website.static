@@ -17,7 +17,7 @@
 
                                   {% if item %}
                                   <li>
-                                  <a href="{{item.permalink}}" title="{{ locale[0] | prepend:'locales.' | translate }}" alt="{{ locale[0] | prepend:'locales.' | translate }}"/>{{ 'locales.' | append: locale[0] | translate }}</a>
+                                  <a href="{{item.permalink}}">{{ 'locales.' | append: locale[0] | translate }}</a>
                                   </li>
                                   {% endif %}
 
