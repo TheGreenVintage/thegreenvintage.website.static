@@ -9,9 +9,17 @@ section: activity
         <div class="col-md-12 margin-btm-40">
             <div class="flexslider" style="height: 600px; overflow: hidden">
                 <ul class="slides">
+                    {% if page.activity.photo1 %}
                     <li><img src="/assets/images/team-building/{{ page.activity.photo1 }}" alt="" class="img-responsive"></li>
+                    {% endif %}
+
+                    {% if page.activity.photo2 %}
                     <li><img src="/assets/images/team-building/{{ page.activity.photo2 }}" alt="" class="img-responsive"></li>
+                    {% endif %}
+
+                    {% if page.activity.photo3 %}
                     <li><img src="/assets/images/team-building/{{ page.activity.photo3 }}" alt="" class="img-responsive"></li>
+                    {% endif %}
                 </ul>
             </div><!--flex slider-->
         </div>
