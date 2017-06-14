@@ -1,0 +1,55 @@
+---
+layout: post
+section: blog
+locale: es
+title: "Espacios singulares para eventos"
+date: 2017-06-11 16:16:01 -0600
+categories: jekyll update
+tags: tag1 tag2
+image: principal.jpg
+---
+
+A la hora de **escoger un espacio** para realizar una actividad de **Team Building o un evento**,  es importante, principalmente, que se adapte a las necesidades de tus clientes y eso es cada vez más fácil en Barcelona, porque están surgiendo **nuevos espacios**, con diferentes características y en diferentes localizaciones. 
+
+<!--more-->
+ 
+- Espacio que te permite desarrollar todo tipo de actividades de cocina, rodajes, sesiones fotográficas… un espacio amplio con techos altos fácilmente adaptable a varios usos y donde se puede trabajar de forma muy cómoda. Es un espacio especializado en generar **experiencias gastronómicas.** Con una gran variedad de o un evento corporativo. Una localización en Barcelona muy especial que recuerda a una nave abandonada con espacios llenos de historia y personalidad, ubicado en el centro de Barcelona.
+
+![](/assets/images/blog/espacios/1.jpg)
+ 
+- Es un espacio para **producciones de todo tipo**, ya sea un shooting, un rodaje o un evento corporativo. Una localización en Barcelona muy especial que recuerda a una nave abandonada con espacios llenos de historia y personalidad, ubicado en el centro de Barcelona. Un antiguo taller de bombonas de hospital y adaptado para poder recibir a toda clase de equipos para realizar cualquier tipo de proyecto.
+ 
+ ![](/assets/images/blog/espacios/2.jpg)
+ 
+- Ubicado en pleno corazón de L’Eixample derecho de Barcelona, encontrarás un **nuevo formato de alquiler estudio fotografico** en Barcelona. Una localización con dos plantas, parecidas pero totalmente diferentes: la planta superior alberga un loft para rodajes y eventos en Barcelona, el sótano es nuestra parte más Brooklyn, un espacio diáfano y lleno de contrastes para sorprender a todo el mundo, que puede servir tanto como plató de fotografía o como sala para una presentación corporativa.
+ 
+ ![](/assets/images/blog/espacios/3.jpg)
+ 
+- Situado en la calle Aragó, a dos manzanas de la Sagrada Familia, la sala dispone de más de 400 metros cuadrados. Totalmente diáfana, es ideal para **realizar eventos** como reuniones, presentaciones de coches, teambuildings, cenas de empresa, shootings... etc. ¡Realiza tu evento en ésta sala e inspírate del arte!
+ 
+ ![](/assets/images/blog/espacios/4.jpg)
+ 
+- Situada en el Poble Nou de Barcelona, dispone de más de 300 metros cuadrados distribuidos en una nave principal de 150m2 y una terraza de 170m2, cada una de ellas con una **estética única y versátil**. La sala central, con capacidad de hasta 100 personas en formato teatro, es ideal para presentaciones y reuniones, ya que dispone de una pantalla integrada en la pared para proyecciones. ¡Combina la sala central con la terraza donde podrás realizar el cocktail perfecto!
+ 
+ ![](/assets/images/blog/espacios/5.jpg)
+ 
+- Situado en el Poble Nou de Barcelona, la sala es un espacio de 500 m2, **único, impactante y no dejará indiferente a ningún asistente.** Es ideal para cocktails, cenas de empresas, ya que tiene una estética transgresora e industrial. ¡Si quieres sorprender, la sala creativa es tu apuesta ideal!
+ 
+ ![](/assets/images/blog/espacios/6.jpg)
+ 
+- **Es un espacio gastronómico** único en Barcelona, donde evadirse, fusionando el arte culinario con todo tipo de actividades. Elegancia, sencillez y sobriedad, unido a la discreción, hacen de este espacio un lugar singular donde disfrutar en compañía.
+
+![](/assets/images/blog/espacios/7.jpg)
+ 
+- **Espacio multifuncional** donde se realizan actividades que giran en torno a la gastronomía. Es un espacio con varios ambientes. Es degustación, experimentación, formación... El espacio se encuentra en el Casco Antiguo, en el distrito de Ciutat Vella, en la Vía Layetana. Dispone de una biblioteca especializada en libros de cocina donde se podrán encontrar numerosas referencias de libros de gastronomía y vinos. Todo es posible en este espacio!
+ 
+ ![](/assets/images/blog/espacios/8.jpg)
+ 
+- Es un espacio para eventos en Barcelona, un **lugar singular y único**, con capacidad para adaptarse y hacer tus eventos empresariales con la más alta calidad. Ubicado en el centro de la ciudad, la oferta de parking y transporte público es inmejorable.
+ 
+ ![](/assets/images/blog/espacios/9.jpg)
+ 
+- **Sala diáfana y polivalente**; tiene los techos altos y elementos industriales conservados de su estructura original del s.XX. Dispone de dos entradas independientes. Perfecto para exposiciones de coche u otros elementos de gran tamaño.
+
+![](/assets/images/blog/espacios/10.jpg)
+ 

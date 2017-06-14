@@ -68,8 +68,12 @@ en:
       submit: Subscribe!
     post:
       tittle: Latest tweet
-  tours:
-    title: Tours
+  blog:
+    title: Blog
+    tags: Tags
+    recent: Recent posts
+    share: Share
+    continue: Continue reading
   team:
     title: Team
     members:

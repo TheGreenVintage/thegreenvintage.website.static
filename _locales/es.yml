@@ -67,8 +67,12 @@ es:
       submit: "¡Suscribirse!"
     post:
       tittle: Último tweet
-  tours:
-    title: Tours
+  blog:
+    title: Blog
+    tags: Tags
+    recent: Posts recientes
+    share: Compartir
+    continue: Continuar lleyendo
   team:
     title: Equipo
     members:

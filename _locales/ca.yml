@@ -67,8 +67,12 @@ ca:
       submit: Subscriure's!
     post:
       tittle: Últim tweet
-  tours:
-    title: Tours
+  blog:
+    title: Blog
+    tags: Tags
+    recent: Posts recents
+    share: Compartir
+    continue: Continuar llegint
   team:
     title: Equip
     members:

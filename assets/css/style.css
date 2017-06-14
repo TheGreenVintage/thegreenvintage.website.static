@@ -2868,3 +2868,12 @@ a.carousel-control i {
 .container {
   width: 80vw !important;
 }
+
+.blog-post-detail img {
+  max-width: 600px;
+  display: inline;
+  box-shadow: 1px 1px 3px;
+  border: 5px solid #fff;
+  margin: 50px;
+  margin-left: 25%;
+}

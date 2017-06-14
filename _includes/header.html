@@ -42,7 +42,7 @@
                     </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
-                            {% assign sections = 'home destinations teambuilding team contact' | split: " " %}
+                            {% assign sections = 'home destinations teambuilding blog team contact' | split: " " %}
                             {% for sname in sections %}
                             {% assign item = sname | section %}
                             <li class="{% if page.section == item.section %}active{% endif %}">
@@ -61,7 +61,7 @@
 
         </header><!--header main end-->
 
-{% if page.section != 'home' and page.section != 'activity' %}
+{% if page.section != 'home' and page.section != 'activity' and page.section != 'blog' %}
 
 {% if page.title %}
   {% assign pagetitle = page.title %}
