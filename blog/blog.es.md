@@ -12,7 +12,7 @@ permalink: /es/blog/
             {% for post in site.posts %}
             <div class="blog-post-section">
                 <div class="blog-post-img">
-                    <img src="/assets/images/blog/{{ post.image }}" class="img-responsive" alt="{{ post.title }}">
+                    <img src="{{ post.image }}" class="img-responsive" alt="{{ post.title }}">
                 </div>
                 <div class="blog-post-header">
                     <h3><a href="{{ post.url }}" class="hover-color">{{ post.title }}</a></h3>

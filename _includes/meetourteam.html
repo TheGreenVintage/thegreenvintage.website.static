@@ -8,13 +8,13 @@
   {% for employee in site.data.employees %}
   <div class="col-md-3 col-sm-6 margin-btm-20">
     <div class="person-section">
-      <img src="/assets/images/{{ employee.photo }}" class="img-responsive" alt="{{ employee.name }}">
+      <img src="{{ employee.photo }}" class="img-responsive" alt="{{ employee.name }}" title="{{ employee.name }}">
       <div class="person-desc">
         <h3>{{ employee.name }}</h3>
-        <h3><span>{{ employee | translate: 'skills'}}</span></h3>
+        <h3><span>{{ employee | field: 'skills'}}</span></h3>
 
         <p>
-        {{ employee | translate: 'description' }}
+        {{ employee | field: 'description' }}
         </p>
       </div>
     </div><!--person section end-->

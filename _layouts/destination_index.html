@@ -7,8 +7,8 @@ section: destination
 <div class="container">
     <div class="row">
         <div class="col-md-12 text-center">
-            <h2>{{ page.destination | translate: 'title' }}</h2>
-            <h3 class="subtitle">{{ page.destination | translate: 'intro' }}</h3>
+            <h2>{{ page.destination | field: 'title' }}</h2>
+            <h3 class="subtitle">{{ page.destination | field: 'intro' }}</h3>
         </div>
         <div class="space-40"></div>
         <div class="col-md-6 col-sm-6 margin-btm-40">
@@ -18,13 +18,13 @@ section: destination
         </div>
         <div class="col-md-6 col-sm-6 margin-btm-40">
           <p style="line-height: 35px; margin-bottom: 15px;">
-          {{ page.destination | translate: 'description' | newline_to_br | strip_newlines }}
+          {{ page.destination | field: 'description' | newline_to_br | strip_newlines }}
           </p>
 
           {% if page.locale == 'en' %}
-            {% assign bfile = page.destination | translate: 'brochure_file' %}
+            {% assign bfile = page.destination | field: 'brochure_file' %}
             <p>
-              <a href="/assets/files/{{ page.locale }}/{{ bfile }}" download="{{ bfile }}" class="btn btn-radius theme-btn-color">{{ page.destination | translate: 'download_brochure' }}</a>
+              <a href="/assets/files/{{ page.locale }}/{{ bfile }}" download="{{ bfile }}" class="btn btn-radius theme-btn-color">{{ page.destination | field: 'download_brochure' }}</a>
             </p>
           {% endif %}
         </div>
@@ -32,8 +32,8 @@ section: destination
     <div class="row">
         <div class="space-70"></div>
         <div class="col-md-12 text-center">
-            <h2>{{ page.destination | translate: 'venues_title' }}</h2>
-            <h3 class="subtitle">{{ page.destination | translate: 'venues_description' }}</h3>
+            <h2>{{ page.destination | field: 'venues_title' }}</h2>
+            <h3 class="subtitle">{{ page.destination | field: 'venues_description' }}</h3>
         </div>
         <div class="space-70"></div>
     </div><!--row-->
@@ -57,14 +57,14 @@ section: destination
     <div class="row">
         <div class="space-70"></div>
         <div class="col-md-12 text-center">
-            <h2>{{ page.destination | translate: 'activities_title' }}</h2>
-            <h3 class="subtitle">{{ page.destination | translate: 'activities_description' }}</h3>
+            <h2>{{ page.destination | field: 'activities_title' }}</h2>
+            <h3 class="subtitle">{{ page.destination | field: 'activities_description' }}</h3>
         </div>
         <div class="space-70"></div>
     </div><!--row-->
 
     <div class="row">
-      {% assign related_activities = site.data.activities | where: 'destination', page.destination.key | where: 'selected', 'yes' %}
+      {% assign related_activities = site.data.activities | where: 'destination', page.destination.id | where: 'selected', true %}
       {% include activitieslist.html activities=related_activities %}
     </div><!--grid-->
 

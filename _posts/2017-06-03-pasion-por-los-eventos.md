@@ -2,11 +2,12 @@
 layout: post
 section: blog
 locale: es
-title: "Pasión por los eventos"
-date: 2017-06-03 16:06:01 -0600
-categories: jekyll update
-tags: tag1 tag2
-image: pasion.jpg
+title: Pasión por los eventos
+date: 2017-06-03 14:30:00.000000000 Z
+tags: ''
+author: Paula Bao
+image: https://www.datocms-assets.com/120/1498552622-pasion.jpg?ch=DPR%2CWidth&auto=format&w=1024
+thumbnail: https://www.datocms-assets.com/120/1498552622-pasion.jpg?ch=DPR%2CWidth&auto=format&w=105
 ---
 
 ¡Hola a tod@s! Bienvenidos a nuestro blog. 

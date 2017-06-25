@@ -2,7 +2,7 @@
 {% for post in site.posts limit:3 %}
 <div class="recent">
   <span>
-    <img src="/assets/images/blog/{{ post.image }}" class="img-responsive" alt="{{ post.title }}">
+    <img src="{{ post.thumbnail }}" class="img-responsive" alt="{{ post.title }}">
   </span>
   <p><a href="{{ post.url }}" class="hover-color">{{ post.title }}</a></p>
   <span class="recent-date">{{ post.date | date: "%b %-d, %Y" }}</span>

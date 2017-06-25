@@ -2,11 +2,12 @@
 layout: post
 section: blog
 locale: es
-title: "Diseñamos y producimos un team building original"
-date: 2017-06-10 11:16:01 -0600
-categories: jekyll update
-tags: tag1 tag2
-image: caution.jpg
+title: Diseñamos y producimos un team building original
+date: 2017-06-10 09:00:00.000000000 Z
+tags: team-building
+author: Paula Bao
+image: https://www.datocms-assets.com/120/1498552927-caution.jpg?ch=DPR%2CWidth&auto=format&w=1024
+thumbnail: https://www.datocms-assets.com/120/1498552927-caution.jpg?ch=DPR%2CWidth&auto=format&w=105
 ---
 
 Una empresa de Barcelona, profesionales de la hostelería online, apuesta por nuestra agencia para la realización del diseño y la producción de uno de sus eventos anuales. 

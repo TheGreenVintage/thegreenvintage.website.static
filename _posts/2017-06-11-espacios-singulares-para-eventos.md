@@ -2,11 +2,12 @@
 layout: post
 section: blog
 locale: es
-title: "Espacios singulares para eventos"
-date: 2017-06-11 16:16:01 -0600
-categories: jekyll update
-tags: tag1 tag2
-image: principal.jpg
+title: Espacios singulares para eventos
+date: 2017-06-11 09:00:00.000000000 Z
+tags: events team-building
+author: Paula Bao
+image: https://www.datocms-assets.com/120/1498552982-principal.jpg?ch=DPR%2CWidth&auto=format&w=1024
+thumbnail: https://www.datocms-assets.com/120/1498552982-principal.jpg?ch=DPR%2CWidth&auto=format&w=105
 ---
 
 A la hora de **escoger un espacio** para realizar una actividad de **Team Building o un evento**,  es importante, principalmente, que se adapte a las necesidades de tus clientes y eso es cada vez más fácil en Barcelona, porque están surgiendo **nuevos espacios**, con diferentes características y en diferentes localizaciones. 

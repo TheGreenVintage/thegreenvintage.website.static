@@ -12,7 +12,7 @@ module Jekyll
       self.data['activities'] = activities
       self.data['activity'] = activity
       self.data['locale'] = locale
-      self.data['title'] = activity["title_#{locale}"]
+      self.data['title'] = activity['title'][locale]
     end
   end
 
@@ -26,7 +26,7 @@ module Jekyll
           locale = locale_array.first
           activities = site.data['activities']
           activities.each do |activity|
-            name = Utils.slugify(activity["title_#{locale}"])
+            name = Utils.slugify(activity['title'][locale])
             site.pages << ActivityPage.new(site, site.source, File.join(locale, dir, name), activity, locale, activities)
           end
         end

@@ -2,11 +2,12 @@
 layout: post
 section: blog
 locale: es
-title: "Catalunya, paraíso gastronómico"
-date: 2017-06-13 16:16:01 -0600
-categories: jekyll update
-tags: tag1 tag2
-image: principal4.jpg
+title: Catalunya, paraíso gastronómico
+date: 2017-06-13 14:30:00.000000000 Z
+tags: gastronomy
+author: Paula Bao
+image: https://www.datocms-assets.com/120/1498553053-principal4.jpg?ch=DPR%2CWidth&auto=format&w=1024
+thumbnail: https://www.datocms-assets.com/120/1498553053-principal4.jpg?ch=DPR%2CWidth&auto=format&w=105
 ---
 
 Si hablamos de gastronomía en Barcelona, tenemos que hablar de la cocina Catalana. Barcelona se encuentra en una posición privilegiada en cuanto a la alimentación y la gastronomía. Es un **paraíso gastronómico**, donde la cocina catalana es una sabrosa mezcla de patrimonio, producto, territorio, tradición, creatividad, innovación… Todo ello, junto con un amor infinito a la cultura del buen comer hacen que descubrirla a través del paladar sea una opción muy atractiva.

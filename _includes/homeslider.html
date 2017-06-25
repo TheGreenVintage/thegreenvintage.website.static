@@ -1,5 +1,5 @@
 <div class="master-slider ms-skin-default" id="masterslider">
-    {% for picture in site.data.home %}
+    {% for slide in site.data.home_slides %}
     <div class="ms-slide slide-{{forloop.index}}" data-delay="5">
         <div class="slide-pattern"></div>
         <h3 class="ms-layer thin-text-white blacktext"
@@ -11,7 +11,7 @@
             data-ease="easeOutExpo"
             data-origin="mc"
             >
-            {{ picture | translate: 'title' }}
+            {{ slide | field: 'title' }}
         </h3>
         <h4 class="ms-layer bold-text-white bigtext"
             data-type="text"
@@ -23,9 +23,9 @@
             data-ease="easeOutExpo"
             data-origin="mc"
             >
-            {{ picture | translate: 'description' }}
+            {{ slide | field: 'description' }}
         </h4>
-        <img src="/assets/master-slider/style/blank.gif" data-src="/assets/images/{{ picture.file }}" alt="{{ picture | translate: 'title' }}"/>
+        <img src="/assets/master-slider/style/blank.gif" data-src="{{ slide.background }}" alt="{{ slide | field: 'title' }}"/>
     </div>
     {% endfor %}
 </div>

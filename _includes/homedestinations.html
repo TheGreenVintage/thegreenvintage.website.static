@@ -21,9 +21,8 @@
 </div><!--intro with services end-->
 
 <div class="container">
-    {% assign barcelona_activities = site.data.activities | where: 'destination', 'barcelona' | where: 'selected', 'yes' %}
-    {% assign lisbon_activities = site.data.activities | where: 'destination', 'lisbon' | where: 'selected', 'yes' %}
-
-    {% include activitieslist.html activities=barcelona_activities %}
-    {% include activitieslist.html activities=lisbon_activities %}
+{% for destination in site.data.destinations %}
+  {% assign activities = site.data.activities | where: 'destination', destination.id | where: 'selected', true %}
+  {% include activitieslist.html activities=activities %}
+{% endfor %}
 </div><!--intro with services end-->

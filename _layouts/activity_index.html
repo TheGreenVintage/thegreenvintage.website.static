@@ -10,24 +10,24 @@ section: activity
             <div class="flexslider" style="height: 600px; overflow: hidden">
                 <ul class="slides">
                     {% if page.activity.photo1 %}
-                    <li><img src="/assets/images/team-building/{{ page.activity.photo1 }}" alt="" class="img-responsive"></li>
+                    <li><img src="{{ page.activity.photo1 }}" alt="" class="img-responsive"></li>
                     {% endif %}
 
                     {% if page.activity.photo2 %}
-                    <li><img src="/assets/images/team-building/{{ page.activity.photo2 }}" alt="" class="img-responsive"></li>
+                    <li><img src="{{ page.activity.photo2 }}" alt="" class="img-responsive"></li>
                     {% endif %}
 
                     {% if page.activity.photo3 %}
-                    <li><img src="/assets/images/team-building/{{ page.activity.photo3 }}" alt="" class="img-responsive"></li>
+                    <li><img src="{{ page.activity.photo3 }}" alt="" class="img-responsive"></li>
                     {% endif %}
                 </ul>
             </div><!--flex slider-->
         </div>
         <div class="col-md-8 portfolio-single-slide margin-btm-40">
             <div class="portfolio-single-desc">
-                <h3>{{ page.activity | translate: 'title' }}</h3>
-                {{ page.activity | translate: 'description' | newline_to_br | strip_newlines }}
-                {% assign included = page.activity | translate: 'included' | newline_to_br | split: '<br />' %}
+                <h3>{{ page.activity | field: 'title' }}</h3>
+                {{ page.activity | field: 'description' | newline_to_br | strip_newlines }}
+                {% assign included = page.activity | field: 'included' | newline_to_br | split: '<br />' %}
                 {% assign included_size = included | size %}
 
                 {% if included_size > 0 %}
@@ -43,7 +43,7 @@ section: activity
                   </ul>
                 {% endif %}
 
-                {% assign not_included = page.activity | translate: 'not_included' | newline_to_br | split: '<br />' %}
+                {% assign not_included = page.activity | field: 'not_included' | newline_to_br | split: '<br />' %}
                 {% assign not_included_size = not_included | size %}
 
                 {% if not_included_size > 0 %}
@@ -78,7 +78,7 @@ section: activity
                   {% endfor %}
                 </p>
                 <p><strong>{{ 'activities.accesibility.title' | translate }}:</strong> {{ 'activities.accesibility.' | append: page.activity.accesibility | translate }}</p>
-                <p><strong>{{ 'activities.localization.title' | translate }}:</strong> {{ page.activity | translate: 'localization' }}</p>
+                <p><strong>{{ 'activities.localization.title' | translate }}:</strong> {{ page.activity | field: 'localization' }}</p>
 
                 <br>
                 <p>
@@ -105,13 +105,13 @@ section: activity
         <div class=" mix design col-md-4 col-sm-6 margin-btm-40">
             <div class="portfolio-sec">
                 <div class="portfolio-thumnail">
-                    <a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}">
-                        <img class="img-responsive" src="/assets/images/team-building/thumbnails/{{ related_activity.photo1 }}" title="{{ related_activity | translate: 'title' }}" alt="{{ related_activity | translate: 'title' }}">
+                    <a href="/{{ page.locale}}/activities/{{ related_activity | field: 'title' | slugify }}">
+                        <img class="img-responsive" src="{{ related_activity.thumbnail }}" title="{{ related_activity | field: 'title' }}" alt="{{ related_activity | field: 'title' }}">
                     </a>
                 </div>
                 <div class="portfolio-desc text-center">
-                    <h4 class="portfolio-post-title">{{ related_activity | translate: 'title' }}</h4>
-                    <h4><a href="/{{ page.locale}}/activities/{{ related_activity | translate: 'title' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
+                    <h4 class="portfolio-post-title">{{ related_activity | field: 'title' }}</h4>
+                    <h4><a href="/{{ page.locale}}/activities/{{ related_activity | field: 'title' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
                 </div>
             </div>
         </div><!--portfolio item -->

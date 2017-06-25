@@ -7,14 +7,14 @@
       <div class="col-md-4 col-sm-6 margin-btm-40">
           <div class="portfolio-sec">
               <div class="portfolio-thumnail">
-                  <a href="/{{ page.locale}}/destinations/{{ destination | translate: 'name' | slugify }}">
-                    <img class="img-responsive" src="/assets/images/{{ destination.photo }}" alt="{{ destination | translate: 'name' }}" title="{{ destination | translate: 'name' }}">
+                  <a href="/{{ page.locale}}/destinations/{{ destination | field: 'name' | slugify }}">
+                    <img class="img-responsive" src="{{ destination.photo }}" alt="{{ destination | field: 'name' }}" title="{{ destination | field: 'name' }}">
                   </a>
               </div>
               <div class="portfolio-desc text-center">
-                  <h4 class="portfolio-post-title">{{ destination | translate: 'name' }}</h4>
-                  <span class="portfolio-post-cat">{{ destination | translate: 'title' }}</span>
-                  <h4><a href="/{{ page.locale}}/destinations/{{ destination | translate: 'name' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
+                  <h4 class="portfolio-post-title">{{ destination | field: 'name' }}</h4>
+                  <span class="portfolio-post-cat">{{ destination | field: 'title' }}</span>
+                  <h4><a href="/{{ page.locale}}/destinations/{{ destination | field: 'name' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
               </div>
           </div>
       </div><!--portfolio item -->

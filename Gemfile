@@ -6,5 +6,6 @@ gem 'jekyll-seo-tag', '2.0.0'
 
 gem 'i18n', '0.6.9'
 
-gem "uglifier"
+gem 'uglifier'
 gem 'byebug'
+gem 'dato'
