@@ -26,7 +26,7 @@ section: activity
         <div class="col-md-8 portfolio-single-slide margin-btm-40">
             <div class="portfolio-single-desc">
                 <h3>{{ page.activity | field: 'title' }}</h3>
-                {{ page.activity | field: 'description' | newline_to_br | strip_newlines }}
+                {{ page.activity | field: 'description' | markdownify }}
                 {% assign included = page.activity | field: 'included' | newline_to_br | split: '<br />' %}
                 {% assign included_size = included | size %}
 
@@ -100,7 +100,7 @@ section: activity
     </div><!--row-->
 
     <div class="row">
-        {% assign related_activities = site.data.activities | where_exp:"item", "item.tag != page.activity.tag"| sample:3 %}
+        {% assign related_activities = site.data.activities | where_exp:"item", "item.id != page.activity.id" | sample:3 %}
         {% for related_activity in related_activities %}
         <div class=" mix design col-md-4 col-sm-6 margin-btm-40">
             <div class="portfolio-sec">

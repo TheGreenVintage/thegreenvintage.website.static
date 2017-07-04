@@ -1,4 +1,5 @@
-- title:
+- id: '76949'
+  title:
     en: Authentic Catalan Experience
     ca: Viu una experiència vinícola!
     es: "¡Vive una experiencia vinícola!"
@@ -111,10 +112,11 @@
   photo1: https://www.datocms-assets.com/120/1498481918-14.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498481921-15.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498481924-16.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
-    en: BEACH GAMES
-    ca: BEACH GAMES
-    es: BEACH GAMES
+- id: '76954'
+  title:
+    en: Beach Games
+    ca: Beach Games
+    es: Beach Games
   description:
     en: |-
       Different outings and team building activities on water have helped our own crew to develop better working relationships.
@@ -131,7 +133,8 @@
     ca: |-
       Varietat d'activitats aquàtiques molt participatives i dinàmiques. Permeten treballar la cohesió del grup, estimular, motivar i desenvolupar l'esperit d'equip.
 
-      **Activitats en rotació on s'enfrontaran els diferents equips: **
+      **Activitats en rotació on s'enfrontaran els diferents equips:**
+
       * Volei / Futbol platja
       * Multichallenge (tirar de la corda, tubs amb forats)
       * Caiacs / Surf de vela
@@ -142,8 +145,8 @@
     es: "Variedad de actividades acuáticas muy participativas y dinámicas. Permiten
       trabajar la cohesión del grupo, estimular, motivar y desarrollar el espíritu
       de equipo.  \n\n**Actividades en rotación donde se enfrentarán los diferentes
-      equipos: **\n* Voley / Fútbol playa\n* Multichallenge (tirar de la cuerda, tubos
-      con agujeros)\n* Kayaks / Windsurf\n* Big Sup (Paddle Surf)\n* Catamarán\n\nMucha
+      equipos:**\n\n* Voley / Fútbol playa\n* Multichallenge (tirar de la cuerda,
+      tubos con agujeros)\n* Kayaks / Windsurf\n* Big Sup (Paddle Surf)\n* Catamarán\n\nMucha
       competición, diversión y buenos momentos. "
   localization:
     en: Garraf Coast
@@ -200,7 +203,8 @@
   photo1: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498827228-img_1221.JPG?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498827238-img_1209.JPG?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76950'
+  title:
     en: MasterChef
     ca: MasterChef
     es: MasterChef
@@ -277,7 +281,8 @@
   photo1: https://www.datocms-assets.com/120/1498480788-52.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498480790-53.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498480793-54.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76951'
+  title:
     en: Nuclear emergency
     ca: Emergència Nuclear
     es: Emergencia Nuclear
@@ -334,7 +339,8 @@
   photo1: https://www.datocms-assets.com/120/1498480735-55.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498480736-56.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498480739-57.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76952'
+  title:
     en: Mini Grand Prix Karts
     ca: Mini Gran Premi Karts
     es: Mini Gran Premio Karts
@@ -408,7 +414,8 @@
   photo1: https://www.datocms-assets.com/120/1498480069-1.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498480073-2.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498480078-3.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76953'
+  title:
     en: Olympic Games
     ca: Jocs Olímpics
     es: Juegos Olímpicos
@@ -463,7 +470,8 @@
   photo1: https://www.datocms-assets.com/120/1498480588-4.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498480591-5.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498480595-6.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76955'
+  title:
     en: Workshop of batucada
     ca: Taller de batucada
     es: Taller de batucada
@@ -517,7 +525,8 @@
   photo1: https://www.datocms-assets.com/120/1498480626-7.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498480683-44.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498480686-45.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76956'
+  title:
     en: Creativity with graffiti
     ca: Creativitat amb grafitis
     es: Creatividad con grafitis
@@ -573,7 +582,8 @@
   photo1: https://www.datocms-assets.com/120/1498481992-49.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498482006-50.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: 
-- title:
+- id: '76957'
+  title:
     en: Trivial Quiz Challenge
     ca: Desafiament Quiz Trivial
     es: Desafío Quiz Trivial
@@ -639,7 +649,8 @@
   photo1: https://www.datocms-assets.com/120/1498480979-8.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498480981-9.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498480984-10.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76958'
+  title:
     en: 'Custom Room Escape '
     ca: Room Escape personalitzats
     es: Room Escape personalizados
@@ -723,7 +734,8 @@
   photo1: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498647864-img_1109.JPG?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498647952-vo_wanup_teambuilding-269.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76959'
+  title:
     en: Dr. When
     ca: Dr. When
     es: Dr. When
@@ -793,7 +805,8 @@
   photo1: https://www.datocms-assets.com/120/1498481064-38.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498481068-37.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498481071-39.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76960'
+  title:
     en: Spartan Race
     ca: Carrera d'obstacles
     es: CARRERA DE OBSTÁCULOS
@@ -848,7 +861,8 @@
   photo1: https://www.datocms-assets.com/120/1498481182-46.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498481186-47.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498481192-48.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76961'
+  title:
     en: Tasting the jewels of the bay
     ca: Degustació de les joies del mar
     es: Degustación de las joyas del mar
@@ -910,7 +924,8 @@
   photo1: https://www.datocms-assets.com/120/1498481244-17.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498481246-18.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498481249-19.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76962'
+  title:
     en: Crime in Sant Pere
     ca: Crim a Sant Pere
     es: Crimen en Sant Pere
@@ -1010,7 +1025,8 @@
   photo1: https://www.datocms-assets.com/120/1498482213-21.png?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498647781-20170421_110603_hdr.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498482222-22.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76971'
+  title:
     en: Building up towers
     ca: Fent Pinya
     es: Haciendo piña
@@ -1098,7 +1114,8 @@
   photo1: https://www.datocms-assets.com/120/1498481845-67.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498481848-68.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498481850-69.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76963'
+  title:
     en: Jeep Safari
     ca: Jeep Safari
     es: Jeep Safari
@@ -1152,7 +1169,8 @@
   photo1: https://www.datocms-assets.com/120/1498481449-23.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498481451-24.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498481454-25.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76964'
+  title:
     en: Wine tour
     ca: Ruta del vi
     es: Ruta del vino
@@ -1225,7 +1243,8 @@
   photo1: https://www.datocms-assets.com/120/1498481490-40.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498481493-41.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498481495-42.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76965'
+  title:
     en: Do it yourself
     ca: Crea el teu documental
     es: Crea tu documental
@@ -1293,7 +1312,8 @@
   photo1: https://www.datocms-assets.com/120/1498481557-26.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498481559-27.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498481562-28.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76966'
+  title:
     en: Libon by air
     ca: Lisboa des de l'aire
     es: Lisboa desde el aire
@@ -1360,7 +1380,8 @@
   photo1: https://www.datocms-assets.com/120/1498481594-29.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498481597-30.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498481647-31.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76967'
+  title:
     en: Cooking a typical dish
     ca: Cuina un plat típic
     es: Cocina un plato típico
@@ -1424,7 +1445,8 @@
   photo1: https://www.datocms-assets.com/120/1498481704-32.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498481706-33.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498481708-34.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76968'
+  title:
     en: Catamaran ride
     ca: Passeig amb catamarà
     es: Paseo en catamarán
@@ -1483,7 +1505,8 @@
   photo1: https://www.datocms-assets.com/120/1498482351-58.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498482353-59.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498482355-60.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76969'
+  title:
     en: Adrenaline & Speed experience with competition pilot José Monroy
     ca: Experiència amb un pilot de competició professional
     es: Experiencia con un piloto de competición
@@ -1551,7 +1574,8 @@
   photo1: https://www.datocms-assets.com/120/1498481759-61.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo2: https://www.datocms-assets.com/120/1498481762-62.jpg?ch=DPR%2CWidth&auto=format&w=1024
   photo3: https://www.datocms-assets.com/120/1498481765-63.jpg?ch=DPR%2CWidth&auto=format&w=1024
-- title:
+- id: '76970'
+  title:
     en: Photo Challenge around the city by GoCar
     ca: Concurs fotogràfic per la ciutat amb GoCar
     es: Concurso fotográfico por la ciudad con GoCar
