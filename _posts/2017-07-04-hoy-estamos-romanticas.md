@@ -47,7 +47,7 @@ La bodega os ofrecerá todo el confort y la comodidad que necesitáis en este d�
 
 
 
-#### Rincones
+### Rincones
 
 ![](https://www.datocms-assets.com/120/1499091625-img_0703.JPG?ch=DPR%2CWidth&auto=format)
 
