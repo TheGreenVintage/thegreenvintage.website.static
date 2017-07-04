@@ -1,3 +1,5 @@
+require 'byebug'
+
 def localize(model, field)
   translations = I18n.available_locales.map do |locale|
     I18n.with_locale(locale) do
@@ -107,11 +109,28 @@ directory "_posts" do
         thumbnail: article.featured_image && article.featured_image.url(w: 105),
       )
 
-      text = article.content
+      has_back_references = false
 
-      galleries = article.image_gallery.map do |gallery|
-        images = gallery.image.map {|image| "![#{image.alt}](#{image.url})"}
-        "\n\n\n\n### #{gallery.title}\n\n" + images.join("\n\n")
+      text = article.content.gsub(/<!-- *image([0-9]+) *-->/) do |match, text|
+        id = /image([0-9]+)/.match(match)[1].to_i - 1
+        gallery = article.image_gallery.first
+
+        if gallery
+          has_back_references = true
+          image = article.image_gallery.first.image[id]
+          "![#{image.alt}](#{image.url})"
+        else
+          ""
+        end
+      end
+
+      galleries = []
+
+      unless has_back_references
+        galleries = article.image_gallery.map do |gallery|
+          images = gallery.image.map {|image| "![#{image.alt}](#{image.url})"}
+          "\n\n\n\n### #{gallery.title}\n\n" + images.join("\n\n")
+        end
       end
 
       content(text + galleries.join("\n") + "\n")
