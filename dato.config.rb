@@ -107,7 +107,14 @@ directory "_posts" do
         thumbnail: article.featured_image && article.featured_image.url(w: 105),
       )
 
-      content(article.content)
+      text = article.content
+
+      galleries = article.image_gallery.map do |gallery|
+        images = gallery.image.map {|image| "![#{image.alt}](#{image.url})"}
+        "\n\n\n\n### #{gallery.title}\n\n" + images.join("\n\n")
+      end
+
+      content(text + galleries.join("\n") + "\n")
     end
   end
 end
