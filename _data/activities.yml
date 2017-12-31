@@ -88,10 +88,10 @@
   tag: Cuenta
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498647864-img_1109.JPG?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498647952-vo_wanup_teambuilding-269.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498647864-img_1109.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498647952-vo_wanup_teambuilding-269.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76959'
   title:
     en: MADMAP
@@ -164,10 +164,10 @@
   tag: When
   accesibility: 'no'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509444385-whatsapp-image-2017-10-26-at-11-16-06.jpeg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1509444385-whatsapp-image-2017-10-26-at-11-16-06.jpeg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1509444999-76b0d221-4a5f-4fbe-a4b8-53e310dfbd98.jpeg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1509445005-17cc837a-c014-4e4f-a695-9f0062e07675.jpeg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1509444385-whatsapp-image-2017-10-26-at-11-16-06.jpeg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1509444385-whatsapp-image-2017-10-26-at-11-16-06.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1509444999-76b0d221-4a5f-4fbe-a4b8-53e310dfbd98.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1509445005-17cc837a-c014-4e4f-a695-9f0062e07675.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76954'
   title:
     en: Beach Games
@@ -255,10 +255,10 @@
   tag: Kitesurf
   accesibility: 'no'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498827228-img_1221.JPG?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498827238-img_1209.JPG?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498827228-img_1221.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498827238-img_1209.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76949'
   title:
     en: Authentic Catalan Experience
@@ -369,10 +369,10 @@
   tag: 'Alella '
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498481918-14.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498481918-14.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498481921-15.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498481924-16.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498481918-14.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498481918-14.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498481921-15.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498481924-16.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76950'
   title:
     en: MasterChef
@@ -447,10 +447,10 @@
   tag: Masterchef
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498480788-52.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498480788-52.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498480790-53.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1509446050-whatsapp-image-2017-10-27-at-14-32-56.jpeg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498480788-52.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498480788-52.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498480790-53.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1509446050-whatsapp-image-2017-10-27-at-14-32-56.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76962'
   title:
     en: Crime in Sant Pere
@@ -548,10 +548,10 @@
   tag: pere
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498482213-21.png?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498482213-21.png?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498647781-20170421_110603_hdr.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498482222-22.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498482213-21.png?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498482213-21.png?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498647781-20170421_110603_hdr.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498482222-22.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76951'
   title:
     en: Nuclear emergency
@@ -606,10 +606,10 @@
   tag: Nuclear
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498480735-55.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498480735-55.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498480736-56.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498480739-57.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498480735-55.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498480735-55.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498480736-56.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498480739-57.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76952'
   title:
     en: DRAGON BOAT
@@ -691,10 +691,10 @@
   tag: Karts
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1509447291-whatsapp-image-2017-10-31-at-11-40-25.jpeg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1509447298-whatsapp-image-2017-10-31-at-11-40-25-1.jpeg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1509447291-whatsapp-image-2017-10-31-at-11-40-25.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1509447298-whatsapp-image-2017-10-31-at-11-40-25-1.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76953'
   title:
     en: LAUGHTER THERAPY WORKSHOPS
@@ -761,10 +761,10 @@
   tag: Juegos
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509451891-image-2.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1509451891-image-2.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1509451900-image.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1509451906-image-1.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1509451891-image-2.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1509451891-image-2.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1509451900-image.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1509451906-image-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76956'
   title:
     en: Creativity with graffiti
@@ -818,9 +818,9 @@
   tag: graffitis
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498481992-49.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498481992-49.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498482006-50.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498481992-49.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498481992-49.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498482006-50.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
   photo3: 
 - id: '76961'
   title:
@@ -880,8 +880,8 @@
   tag: tours
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
   photo2: 
   photo3: 
 - id: '76955'
@@ -935,10 +935,10 @@
   tag: batucada
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498480626-7.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498480626-7.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498480683-44.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498480686-45.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498480626-7.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498480626-7.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498480683-44.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498480686-45.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76957'
   title:
     en: Trivial Quiz Challenge
@@ -1002,10 +1002,10 @@
   tag: Quiz
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498480979-8.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498480979-8.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498480981-9.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498480984-10.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498480979-8.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498480979-8.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498480981-9.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498480984-10.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76960'
   title:
     en: Spartan Race
@@ -1079,10 +1079,10 @@
   tag: Race
   accesibility: 'no'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498481182-46.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498481182-46.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498481186-47.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498481192-48.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498481182-46.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498481182-46.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498481186-47.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498481192-48.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76971'
   title:
     en: Building up towers
@@ -1168,10 +1168,10 @@
   tag: Humantower
   accesibility: ask
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498481845-67.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498481845-67.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498481848-68.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498481850-69.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498481845-67.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498481845-67.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498481848-68.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498481850-69.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76963'
   title:
     en: Jeep Safari
@@ -1223,10 +1223,10 @@
   tag: Safari
   accesibility: ask
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498481449-23.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498481449-23.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498481451-24.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498481454-25.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498481449-23.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498481449-23.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498481451-24.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498481454-25.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76964'
   title:
     en: Wine tour
@@ -1297,10 +1297,10 @@
   tag: Wine
   accesibility: ask
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498481490-40.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498481490-40.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498481493-41.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498481495-42.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498481490-40.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498481490-40.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498481493-41.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498481495-42.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76965'
   title:
     en: Do it yourself
@@ -1366,10 +1366,10 @@
   tag: App
   accesibility: ask
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498481557-26.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498481557-26.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498481559-27.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498481562-28.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498481557-26.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498481557-26.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498481559-27.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498481562-28.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76966'
   title:
     en: Libon by air
@@ -1434,10 +1434,10 @@
   tag: Air
   accesibility: ask
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498481594-29.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498481594-29.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498481597-30.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498481647-31.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498481594-29.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498481594-29.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498481597-30.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498481647-31.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76967'
   title:
     en: Cooking a typical dish
@@ -1499,10 +1499,10 @@
   tag: Cooking
   accesibility: ask
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498481704-32.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498481704-32.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498481706-33.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498481708-34.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498481704-32.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498481704-32.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498481706-33.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498481708-34.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76968'
   title:
     en: Catamaran ride
@@ -1559,10 +1559,10 @@
   tag: Catamarán
   accesibility: ask
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498482351-58.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498482351-58.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498482353-59.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498482355-60.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498482351-58.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498482351-58.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498482353-59.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498482355-60.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76969'
   title:
     en: Adrenaline & Speed experience with competition pilot José Monroy
@@ -1628,10 +1628,10 @@
   tag: Circuit
   accesibility: ask
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498481759-61.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498481759-61.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498481762-62.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498481765-63.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498481759-61.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498481759-61.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498481762-62.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498481765-63.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
 - id: '76970'
   title:
     en: Photo Challenge around the city by GoCar
@@ -1718,7 +1718,7 @@
   tag: Sidecar
   accesibility: ask
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498481803-64.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop
-  photo1: https://www.datocms-assets.com/120/1498481803-64.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo2: https://www.datocms-assets.com/120/1498481806-65.jpg?ch=DPR%2CWidth&auto=format&w=1024
-  photo3: https://www.datocms-assets.com/120/1498481808-66.jpg?ch=DPR%2CWidth&auto=format&w=1024
+  thumbnail: https://www.datocms-assets.com/120/1498481803-64.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress%2Cenhance
+  photo1: https://www.datocms-assets.com/120/1498481803-64.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo2: https://www.datocms-assets.com/120/1498481806-65.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+  photo3: https://www.datocms-assets.com/120/1498481808-66.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance

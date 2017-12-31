@@ -6,8 +6,8 @@ title: Pasión por los eventos
 date: 2017-06-03 14:30:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1498552622-pasion.jpg?ch=DPR%2CWidth&auto=format&w=1024
-thumbnail: https://www.datocms-assets.com/120/1498552622-pasion.jpg?ch=DPR%2CWidth&auto=format&w=105
+image: https://www.datocms-assets.com/120/1498552622-pasion.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+thumbnail: https://www.datocms-assets.com/120/1498552622-pasion.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=pjpg&auto=compress%2Cenhance
 ---
 
 ¡Hola a tod@s! Bienvenidos a nuestro blog. 

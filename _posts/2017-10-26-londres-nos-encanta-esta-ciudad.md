@@ -6,8 +6,8 @@ title: LONDRES ¡NOS ENCANTA ESTA CIUDAD!
 date: 2017-10-26 14:00:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1502977666-principal-1.jpg?ch=DPR%2CWidth&auto=format&w=1024
-thumbnail: https://www.datocms-assets.com/120/1502977666-principal-1.jpg?ch=DPR%2CWidth&auto=format&w=105
+image: https://www.datocms-assets.com/120/1502977666-principal-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+thumbnail: https://www.datocms-assets.com/120/1502977666-principal-1.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=pjpg&auto=compress%2Cenhance
 ---
 
 Una de las ciudades que más veces he visitado fuera de España, ha sido Londres. 

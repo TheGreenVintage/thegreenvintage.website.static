@@ -6,8 +6,8 @@ title: "¡Barcelona y el amor!"
 date: 2017-11-25 10:00:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1504091145-skylinebcn.jpg?ch=DPR%2CWidth&auto=format&w=1024
-thumbnail: https://www.datocms-assets.com/120/1504091145-skylinebcn.jpg?ch=DPR%2CWidth&auto=format&w=105
+image: https://www.datocms-assets.com/120/1504091145-skylinebcn.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
+thumbnail: https://www.datocms-assets.com/120/1504091145-skylinebcn.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=pjpg&auto=compress%2Cenhance
 ---
 
 **Barcelona es una ciudad con muchos lugares preciosos y románticos**. Queremos dedicar el post de hoy para explicaros los sitios más bonitos y llenos de romanticismo de nuestra gran ciudad. 
