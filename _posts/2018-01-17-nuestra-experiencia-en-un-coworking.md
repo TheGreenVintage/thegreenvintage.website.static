@@ -3,7 +3,7 @@ layout: post
 section: blog
 locale: es
 title: Nuestra experiencia en un coworking
-date: 2017-12-04 15:00:00.000000000 Z
+date: 2018-01-17 15:00:00.000000000 Z
 tags: ''
 author: Paula Bao
 image: https://www.datocms-assets.com/120/1509027871-mgcow.jpg?ch=DPR%2CWidth&auto=format&w=1024

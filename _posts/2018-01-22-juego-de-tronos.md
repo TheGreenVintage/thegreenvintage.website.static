@@ -3,7 +3,7 @@ layout: post
 section: blog
 locale: es
 title: Juego de Tronos
-date: 2018-01-19 14:30:00.000000000 Z
+date: 2018-01-22 14:30:00.000000000 Z
 tags: ''
 author: Paula Bao
 image: https://www.datocms-assets.com/120/1509461380-58.jpg?ch=DPR%2CWidth&auto=format&w=1024
