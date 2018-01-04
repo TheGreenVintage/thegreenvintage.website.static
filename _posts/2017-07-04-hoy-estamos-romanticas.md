@@ -6,8 +6,8 @@ title: Hoy estamos románticas
 date: 2017-07-04 09:00:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1499091601-img_0708.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
-thumbnail: https://www.datocms-assets.com/120/1499091601-img_0708.JPG?ch=DPR%2CWidth&auto=format&w=105&fm=pjpg&auto=compress%2Cenhance
+image: https://www.datocms-assets.com/120/1499091601-img_0708.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
+thumbnail: https://www.datocms-assets.com/120/1499091601-img_0708.JPG?ch=DPR%2CWidth&auto=format&w=105&fm=pjpg&auto=compress
 ---
 
 **¡Hoy nos hemos levantado románticas!**

@@ -6,8 +6,8 @@ title: Nuestra experiencia en un coworking
 date: 2018-01-17 15:00:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1509027871-mgcow.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
-thumbnail: https://www.datocms-assets.com/120/1509027871-mgcow.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=pjpg&auto=compress%2Cenhance
+image: https://www.datocms-assets.com/120/1509027871-mgcow.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
+thumbnail: https://www.datocms-assets.com/120/1509027871-mgcow.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=pjpg&auto=compress
 ---
 
 Hace unos años atrás, nos preguntaban que era un coworking o como sería compartir espacio de trabajo con otras empresas u autónomos, y realmente no sabíamos absolutamente nada sobre este tema.

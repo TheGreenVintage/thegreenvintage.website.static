@@ -25,7 +25,7 @@ employees = dato.employees.map do |employee|
     name: employee.name,
     description: localize(employee, 'description'),
     skills: localize(employee, 'skills'),
-    photo: employee.photo.url(w: 300, fm: 'pjpg', auto: 'compress,enhance')
+    photo: employee.photo.url(w: 300, fm: 'pjpg', auto: 'compress')
   }
 end
 
@@ -35,7 +35,7 @@ home_slides = dato.home_slides.map do |home_slide|
   {
     title: localize(home_slide, 'title'),
     description: localize(home_slide, 'description'),
-    background: home_slide.background.url(w: 1024, fm: 'pjpg', auto: 'compress,enhance')
+    background: home_slide.background.url(w: 1024, fm: 'pjpg', auto: 'compress')
   }
 end
 
@@ -57,7 +57,7 @@ destinations = dato.destinations.map do |destination|
     brochure_file: localize(destination, 'brochure_file'),
     download_brochure: localize(destination, 'download_brochure'),
     video: destination.video,
-    photo: destination.photo.url(w: 480, h: 270, fit: 'crop', fm: 'pjpg', auto: 'compress,enhance'),
+    photo: destination.photo.url(w: 480, h: 270, fit: 'crop', fm: 'pjpg', auto: 'compress'),
   }
 end
 
@@ -83,11 +83,11 @@ activities = dato.activities.map do |activity|
     accesibility: activity.accesibility,
     destination: activity.destination.id,
 
-    thumbnail: activity.photo1 && activity.photo1.url(w: 480, h: 270, fit: 'crop', fm: 'pjpg', auto: 'compress,enhance'),
+    thumbnail: activity.photo1 && activity.photo1.url(w: 480, h: 270, fit: 'crop', fm: 'pjpg', auto: 'compress'),
 
-    photo1: activity.photo1 && activity.photo1.url(w: 1024, fm: 'pjpg', auto: 'compress,enhance'),
-    photo2: activity.photo2 && activity.photo2.url(w: 1024, fm: 'pjpg', auto: 'compress,enhance'),
-    photo3: activity.photo3 && activity.photo3.url(w: 1024, fm: 'pjpg', auto: 'compress,enhance')
+    photo1: activity.photo1 && activity.photo1.url(w: 1024, fm: 'pjpg', auto: 'compress'),
+    photo2: activity.photo2 && activity.photo2.url(w: 1024, fm: 'pjpg', auto: 'compress'),
+    photo3: activity.photo3 && activity.photo3.url(w: 1024, fm: 'pjpg', auto: 'compress')
   }
 end
 
@@ -106,8 +106,8 @@ directory "_posts" do
         date: article.publication_date,
         tags: article.tags.map(&:name).join(' '),
         author: article.author.name,
-        image: article.featured_image && article.featured_image.url(w: 1024, fm: 'pjpg', auto: 'compress,enhance'),
-        thumbnail: article.featured_image && article.featured_image.url(w: 105, fm: 'pjpg', auto: 'compress,enhance'),
+        image: article.featured_image && article.featured_image.url(w: 1024, fm: 'pjpg', auto: 'compress'),
+        thumbnail: article.featured_image && article.featured_image.url(w: 105, fm: 'pjpg', auto: 'compress'),
       )
 
       has_back_references = false

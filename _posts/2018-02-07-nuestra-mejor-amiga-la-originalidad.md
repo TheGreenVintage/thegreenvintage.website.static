@@ -6,8 +6,8 @@ title: 'Nuestra mejor amiga: LA ORIGINALIDAD'
 date: 2018-02-07 07:30:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1509981136-4-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress%2Cenhance
-thumbnail: https://www.datocms-assets.com/120/1509981136-4-1.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=pjpg&auto=compress%2Cenhance
+image: https://www.datocms-assets.com/120/1509981136-4-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
+thumbnail: https://www.datocms-assets.com/120/1509981136-4-1.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=pjpg&auto=compress
 ---
 
 Hoy queremos dedicarle este post a unos artistas de nuestro equipo, que dan un valor añadido a nuestros eventos. **¡Originalidad en estado puro!**
