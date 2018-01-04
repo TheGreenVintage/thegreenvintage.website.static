@@ -14,7 +14,7 @@ logos = dato.logos.map do |logo|
   {
     name: logo.name,
     url: logo.url,
-    image: logo.image.url(w: 280, fm: 'pjpg', auto: 'compress,enhance')
+    image: logo.image.url(w: 280, fm: 'pjpg', auto: 'compress')
   }
 end
 
