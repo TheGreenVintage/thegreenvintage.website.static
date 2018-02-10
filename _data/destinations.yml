@@ -1,8 +1,8 @@
 - id: '76940'
   name:
-    en: Barcelona
-    ca: Barcelona
-    es: Barcelona
+    en: Spain
+    ca: Espanya
+    es: España
   intro:
     en: Located on the Mediterranean sea. Barcelona is a symbol of architecture, design,
       history, tradition, culture, modernity, nightlife and cuisine are some of the
@@ -16,9 +16,9 @@
       ciudad mediterránea, cosmopolita, dinámica e innovadora, llena de contrastes,
       color, luz    y diversidad.
   title:
-    en: Barcelona, a real open-air museum
-    ca: Barcelona, un autèntic museu a l'aire lliure
-    es: Barcelona, un auténtico museo al aire libre
+    en: Spain, a real open-air museum
+    ca: Espanya, un autèntic museu a l'aire lliure
+    es: España, un auténtico museo al aire libre
   description:
     en: 'Catalonia and Barcelona has become one of the first tourist destination of
       Spain. Barcelona sited between the Mediterranean Sea and the Serra de Collserola.
@@ -104,9 +104,9 @@
   photo: https://www.datocms-assets.com/120/1498476562-1.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress
 - id: '76941'
   name:
-    en: Lisbon
-    ca: Lisboa
-    es: Lisboa
+    en: Portugal
+    ca: Portugal
+    es: Portugal
   intro:
     en: Lisbon is a magical city, where the imperial past and an independent present
       come together to make the city unique, a special place full of infinite possibilities.

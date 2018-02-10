@@ -3,7 +3,7 @@ layout: post
 section: blog
 locale: es
 title: 'Nuestra mejor amiga: LA ORIGINALIDAD'
-date: 2018-02-07 07:30:00.000000000 Z
+date: 2018-02-12 07:30:00.000000000 Z
 tags: ''
 author: Paula Bao
 image: https://www.datocms-assets.com/120/1509981136-4-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress

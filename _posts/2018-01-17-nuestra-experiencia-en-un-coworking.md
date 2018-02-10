@@ -14,6 +14,8 @@ Hace unos años atrás, nos preguntaban que era un coworking o como sería compa
 
 La entrada de hoy, la queremos aprovechar para explicar cómo ha sido nuestra experiencia personal en un coworking, las ventajas que puede tener trabajar en un espacio así, y aprovechar el momento para dedicar esta entrada a nuestros compis Coworkeros. 
 
+<!--more-->
+
 Nosotras entramos a trabajar en MG Coworking www.mgcoworking.com en abril del 2016, y desde entonces han cambiado muchas cosas en nuestra empresa.  Para los más rezagados, empezaremos explicando que es un coworking. Para nosotras un coworking, es una gran oportunidad para muchas personas que necesitan espacios de trabajo, pero que buscan optimizar tiempo y dinero. Es una filosofía de trabajo que permite a profesionales, ya sean independientes, emprendedores o bien áreas de empresas, el disponer de un espacio de trabajo compartido para poder así desarrollar proyectos o trabajar. 
 
 Para nosotras, el coworking es la evolución de los espacios de trabajo tradicionales, con un formato completamente innovador, dinámico y flexible, que permite compartir los espacios con otros profesionales y otras empresas, así como tener un espacio propio de trabajo, en un ambiente profesional e integral, generando oportunidades para los negocios.

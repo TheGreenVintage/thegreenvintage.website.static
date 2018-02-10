@@ -90,7 +90,7 @@
   destination: '76940'
   thumbnail: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress
   photo1: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
-  photo2: https://www.datocms-assets.com/120/1498647864-img_1109.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
+  photo2: https://www.datocms-assets.com/120/1515431055-dinar-d-empresa-winsystems-castell-jalpi-2017-140.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
   photo3: https://www.datocms-assets.com/120/1498647952-vo_wanup_teambuilding-269.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
 - id: '76959'
   title:
@@ -259,6 +259,63 @@
   photo1: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
   photo2: https://www.datocms-assets.com/120/1498827228-img_1221.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
   photo3: https://www.datocms-assets.com/120/1498827238-img_1209.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
+- id: '76956'
+  title:
+    en: Creativity with graffiti
+    ca: Creativitat amb grafitis
+    es: Creatividad con grafitis
+  description:
+    en: |-
+      Creative activity in team able to submerge any company into  unique art experiences.
+      The experience begins with an introduction to the world of graffiti since its inception and they will teach you the basic techniques of how to use a spray to be able to start in this underground culture. Will extract the artist that exists in every one of you!
+      During the activity, we will create a video for the memory of your company.
+    ca: "Activitat creativa en equip capaç de submergir a qualsevol empresa en experiències
+      úniques d'art, introduint-se en mons creatius desconeguts.\nL'experiència comença
+      amb una introducció al món del grafiti des dels seus inicis i li ensenyaran
+      les tècniques bàsiques de com utilitzar un spray per poder iniciar-se en aquesta
+      cultura underground.\n\nExtraurà l'artista que existeix en cadascun de vosaltres!
+      \n\nDurant l'activitat crearem un vídeo per al record de la seva empresa."
+    es: |-
+      Actividad creativa en equipo capaz de sumergir a cualquier empresa en experiencias únicas de arte, introduciéndose en mundos creativos desconocidos.
+      La experiencia comienza con una introducción al mundo del graffiti desde sus inicios y le enseñarán las técnicas básicas de cómo utilizar un spray para poder iniciarse en esta cultura underground. Extraerá el artista que existe en cada uno de vosotros!
+      Durante la actividad crearemos un vídeo para el recuerdo de su empresa.
+  localization:
+    en: 'Graffiti can be either indoors or outdoors and is the perfect activity to
+      relieve stress, promote communication and teamwork with a hip hop environment.
+
+'
+    ca: El grafiti es pot realitzar tant en interiors o a l'aire lliure i és l'activitat
+      perfecta per alliberar estrès, fomentar la comunicació i el treball en equip
+      amb un ambient d'hip-hop.
+    es: 'El graffiti se puede realizar tanto en interiores o al aire libre y es la
+      actividad perfecta para liberar estrés, fomentar la comunicación y el trabajo
+      en equipo con un ambiente de hip hop.
+
+'
+  included:
+    en: Material and professional
+    ca: Material necessari i especialista
+    es: Material necesario y especialista
+  not_included:
+    en: 
+    ca: 
+    es: 
+  contact:
+    en: Ask for more information about our workshop
+    ca: Demana més informació dels nostres tallers
+    es: Pide más información de nuestros talleres
+  selected: false
+  language: es, ca, en
+  duration: 2.0
+  pax: 10
+  price: 
+  tag: graffitis
+  accesibility: 'yes'
+  destination: '76940'
+  thumbnail: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress
+  photo1: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
+  photo2: https://www.datocms-assets.com/120/1515494522-img_0322.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
+  photo3: https://www.datocms-assets.com/120/1515494716-img_0410.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
 - id: '76949'
   title:
     en: Authentic Catalan Experience
@@ -765,63 +822,6 @@
   photo1: https://www.datocms-assets.com/120/1509451891-image-2.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
   photo2: https://www.datocms-assets.com/120/1509451900-image.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
   photo3: https://www.datocms-assets.com/120/1509451906-image-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
-- id: '76956'
-  title:
-    en: Creativity with graffiti
-    ca: Creativitat amb grafitis
-    es: Creatividad con grafitis
-  description:
-    en: |-
-      Creative activity in team able to submerge any company into  unique art experiences.
-      The experience begins with an introduction to the world of graffiti since its inception and they will teach you the basic techniques of how to use a spray to be able to start in this underground culture. Will extract the artist that exists in every one of you!
-      During the activity, we will create a video for the memory of your company.
-    ca: "Activitat creativa en equip capaç de submergir a qualsevol empresa en experiències
-      úniques d'art, introduint-se en mons creatius desconeguts.\nL'experiència comença
-      amb una introducció al món del grafiti des dels seus inicis i li ensenyaran
-      les tècniques bàsiques de com utilitzar un spray per poder iniciar-se en aquesta
-      cultura underground.\n\nExtraurà l'artista que existeix en cadascun de vosaltres!
-      \n\nDurant l'activitat crearem un vídeo per al record de la seva empresa."
-    es: |-
-      Actividad creativa en equipo capaz de sumergir a cualquier empresa en experiencias únicas de arte, introduciéndose en mundos creativos desconocidos.
-      La experiencia comienza con una introducción al mundo del graffiti desde sus inicios y le enseñarán las técnicas básicas de cómo utilizar un spray para poder iniciarse en esta cultura underground. Extraerá el artista que existe en cada uno de vosotros!
-      Durante la actividad crearemos un vídeo para el recuerdo de su empresa.
-  localization:
-    en: 'Graffiti can be either indoors or outdoors and is the perfect activity to
-      relieve stress, promote communication and teamwork with a hip hop environment.
-
-'
-    ca: El grafiti es pot realitzar tant en interiors o a l'aire lliure i és l'activitat
-      perfecta per alliberar estrès, fomentar la comunicació i el treball en equip
-      amb un ambient d'hip-hop.
-    es: 'El graffiti se puede realizar tanto en interiores o al aire libre y es la
-      actividad perfecta para liberar estrés, fomentar la comunicación y el trabajo
-      en equipo con un ambiente de hip hop.
-
-'
-  included:
-    en: Material and professional
-    ca: Material necessari i especialista
-    es: Material necesario y especialista
-  not_included:
-    en: 
-    ca: 
-    es: 
-  contact:
-    en: Ask for more information about our workshop
-    ca: Demana més informació dels nostres tallers
-    es: Pide más información de nuestros talleres
-  selected: false
-  language: es, ca, en
-  duration: 2.0
-  pax: 10
-  price: 
-  tag: graffitis
-  accesibility: 'yes'
-  destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498481992-49.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg&auto=compress
-  photo1: https://www.datocms-assets.com/120/1498481992-49.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
-  photo2: https://www.datocms-assets.com/120/1498482006-50.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
-  photo3: 
 - id: '76961'
   title:
     en: Make your own custom beer
