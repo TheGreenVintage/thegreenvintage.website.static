@@ -6,8 +6,8 @@ title: Event at Moritz
 date: 2017-11-06 09:30:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1509444695-whatsapp-image-2017-10-25-at-20-44-08.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg&auto=compress
-thumbnail: https://www.datocms-assets.com/120/1509444695-whatsapp-image-2017-10-25-at-20-44-08.jpeg?ch=DPR%2CWidth&auto=format&w=105&fm=pjpg&auto=compress
+image: https://www.datocms-assets.com/120/1509444695-whatsapp-image-2017-10-25-at-20-44-08.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg
+thumbnail: https://www.datocms-assets.com/120/1509444695-whatsapp-image-2017-10-25-at-20-44-08.jpeg?ch=DPR%2CWidth&auto=format&w=105&fm=pjpg
 ---
 
 El otro día, tuvimos una convención en el [hotel Barceló Sants](http:///www.barcelo.com/es/hoteles/espana/barcelona/barcelo-sants/). 
