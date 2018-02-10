@@ -211,7 +211,7 @@ ca:
     sent_title: El seu missatge s'ha enviat correctament
     sent_description: Gràcies per possar-se en contacte amb nosaltres!
   home:
-    title: Inici
+    title: Organització i gestió d'esdeveniments
     process:
       services:
         title: Els nostres serveis

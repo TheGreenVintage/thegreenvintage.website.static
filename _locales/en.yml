@@ -206,7 +206,7 @@ en:
     sent_title: Your message was sent successfully
     sent_description: Thank you for contacting us!
   home:
-    title: Home
+    title: Event Management
     process:
       services:
         title: Our services

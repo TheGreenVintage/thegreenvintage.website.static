@@ -209,7 +209,7 @@ es:
     sent_title: Su mensaje se ha enviado correctamente
     sent_description: Gracias por ponerse en contacte con nosotros!
   home:
-    title: Inicio
+    title: Organización y gestión de eventos
     process:
       services:
         title: Nuestros servicios
