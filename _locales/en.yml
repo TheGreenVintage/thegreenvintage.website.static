@@ -70,12 +70,14 @@ en:
       tittle: Latest tweet
   blog:
     title: Blog
+    menu: Blog
     tags: Tags
     recent: Recent posts
     share: Share
     continue: Continue reading
   team:
     title: Team
+    menu: Team
     members:
       title: Meet our team
     company:
@@ -124,6 +126,7 @@ en:
       title: Localization
   teambuilding:
     title: Team Building
+    menu: Team Building
     productivity:
       title: Improve your team's performance
       description: Employee satisfaction and happiness are essential to productivity.
@@ -145,6 +148,7 @@ en:
         , creative activities… we have it covered. Get into our ideas!
   destinations:
     title: Destinations & Events
+    menu: Destinations & Events
     destinations_title: Our destinations
     destinations_description: Our meetings, events and incentive travel programs begin
       with a deep understanding of your strategic business goals, and we transform
@@ -192,6 +196,7 @@ en:
     custom_description: We customize and give life to your next destination
   contact:
     title: Contact
+    menu: Contact
     in_contact: Keep in touch!
     proposal: Explain us your proposal
     send: Send
@@ -207,6 +212,7 @@ en:
     sent_description: Thank you for contacting us!
   home:
     title: Event Management
+    menu: Home
     process:
       services:
         title: Our services

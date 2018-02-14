@@ -69,12 +69,14 @@ ca:
       tittle: Últim tweet
   blog:
     title: Blog
+    menu: Blog
     tags: Tags
     recent: Posts recents
     share: Compartir
     continue: Continuar llegint
   team:
     title: Equip
+    menu: Equip
     members:
       title: Conegui al nostre equip
     company:
@@ -126,6 +128,7 @@ ca:
       title: Localització
   teambuilding:
     title: Team Building
+    menu: Team Building
     productivity:
       title: Millora el rendiment del seu equip
       description: La felicitat i la satisfacció dels empleats són essencials per
@@ -147,6 +150,7 @@ ca:
         d'aventura... miri la nostre selecció de propostes.
   destinations:
     title: Destinacions & Esdeveniments
+    menu: Destinacions & Esdeveniments
     destinations_title: Les nostres destinacions
     destinations_description: Les nostres reunions, esdeveniments i programes de viatges
       d'incentiu comencen amb un profund coneixement dels objectius estratègics de
@@ -197,6 +201,7 @@ ca:
     custom_description: Personalitzem i donem vida al seu pròxim destí
   contact:
     title: Contacte
+    menu: Contacte
     in_contact: Seguim en contacte
     proposal: Expliqui'ns la teva proposta
     send: Enviar
@@ -212,6 +217,7 @@ ca:
     sent_description: Gràcies per possar-se en contacte amb nosaltres!
   home:
     title: Organització i gestió d'esdeveniments
+    menu: Inici
     process:
       services:
         title: Els nostres serveis

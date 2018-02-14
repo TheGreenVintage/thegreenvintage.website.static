@@ -46,7 +46,7 @@
                             {% for sname in sections %}
                             {% assign item = sname | section %}
                             <li class="{% if page.section == item.section %}active{% endif %}">
-                              <a href="{{item.permalink}}">{{ item.section | append:'.title' | translate }}</a>
+                              <a href="{{item.permalink}}">{{ item.section | append:'.menu' | translate }}</a>
                             </li>
                             {% endfor %}
                             <!-- Your like button code -->

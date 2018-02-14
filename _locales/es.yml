@@ -69,12 +69,14 @@ es:
       tittle: Último tweet
   blog:
     title: Blog
+    menu: Blog
     tags: Tags
     recent: Posts recientes
     share: Compartir
     continue: Continuar leyendo
   team:
     title: Equipo
+    menu: Equipo
     members:
       title: Conozca a nuestro equipo
     company:
@@ -124,6 +126,7 @@ es:
       title: Localización
   teambuilding:
     title: Team Building
+    menu: Team Building
     productivity:
       title: Mejora el rendimiento de su equipo
       description: La felicidad y la satisfacción de los empleados son esenciales
@@ -145,6 +148,7 @@ es:
         de aventura... mire nuestra selección de propuestas.
   destinations:
     title: Destinaciones & Eventos
+    menu: Destinaciones & Eventos
     destinations_title: Nuestras destinaciones
     destinations_description: Nuestras reuniones, eventos y programas de viajes de
       incentivo comienzan con un profundo conocimiento de los objetivos estratégicos
@@ -195,6 +199,7 @@ es:
     custom_description: Personalizamos y damos vida a su próximo destino
   contact:
     title: Contacto
+    menu: Contacto
     in_contact: Seguimos en contacto
     proposal: Cuéntenos su propuesta
     send: Enviar
@@ -210,6 +215,7 @@ es:
     sent_description: Gracias por ponerse en contacte con nosotros!
   home:
     title: Organización y gestión de eventos
+    menu: Inicio
     process:
       services:
         title: Nuestros servicios
