@@ -38,15 +38,12 @@ section: destination
         <div class="space-70"></div>
     </div><!--row-->
     <div class="row">
-        <div class="col-md-12 margin-btm-40">
-            <div class="flexslider" style="height: 600px; overflow: hidden">
+        <div class="col-md-12 margin-btm-40 text-center">
+            <div class="flexslider" style="width: 1024px; height: 682px; margin: auto">
                 <ul class="slides">
-
-                  {% assign album = 'assets/images/destinations/' | append: page.destination.key | walk %}
-
-                  {% for picture in album %}
+                  {% for picture in page.destination.gallery %}
                     <li>
-                      <img src="/{{ picture }}" alt="" class="img-responsive">
+                      <img src="{{ picture }}" alt="" class="img-responsive">
                     </li>
                   {% endfor %}
                 </ul>

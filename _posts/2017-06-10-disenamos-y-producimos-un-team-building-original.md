@@ -6,8 +6,8 @@ title: Diseñamos y producimos un team building original
 date: 2017-06-10 09:00:00.000000000 Z
 tags: team-building
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1498552927-caution.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg
-thumbnail: https://www.datocms-assets.com/120/1498552927-caution.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=pjpg
+image: https://www.datocms-assets.com/120/1498552927-caution.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+thumbnail: https://www.datocms-assets.com/120/1498552927-caution.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=jpg
 ---
 
 Una empresa de Barcelona, profesionales de la hostelería online, apuesta por nuestra agencia para la realización del diseño y la producción de uno de sus eventos anuales. 

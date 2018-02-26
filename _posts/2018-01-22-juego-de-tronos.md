@@ -6,8 +6,8 @@ title: Juego de Tronos
 date: 2018-01-22 14:30:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1509461380-58.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg
-thumbnail: https://www.datocms-assets.com/120/1509461380-58.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=pjpg
+image: https://www.datocms-assets.com/120/1509461380-58.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+thumbnail: https://www.datocms-assets.com/120/1509461380-58.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=jpg
 ---
 
 Pues si chic@s, no puedo no escribir sobre esta gran serie.

@@ -6,8 +6,8 @@ title: Nueva empresa de Tours Turísticos en Barcelona
 date: 2017-09-01 13:30:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1502977034-30-jpg-1.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=pjpg
-thumbnail: https://www.datocms-assets.com/120/1502977034-30-jpg-1.jpeg?ch=DPR%2CWidth&auto=format&w=105&fm=pjpg
+image: https://www.datocms-assets.com/120/1502977034-30-jpg-1.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+thumbnail: https://www.datocms-assets.com/120/1502977034-30-jpg-1.jpeg?ch=DPR%2CWidth&auto=format&w=105&fm=jpg
 ---
 
 Sabemos que **Cataluña y Barcelona** se han convertido en uno de los destinos turísticos más visitados de España, sabiendo complacer a la gran mayoría de turistas: con una historia de las más antiguas de Europa, la capital, Barcelona, es ciudad que nunca duerme y llena de encanto, y no vamos a olvidar las hermosas Playas de la Costa Brava, tan cercanas de Barcelona. La variedad de tesoros artísticos, las iglesias románicas y los grandes nombres del arte moderno y la arquitectura como, Dalí, Gaudí, Miró, Picasso, hacen de Barcelona una ciudad única en Europa.

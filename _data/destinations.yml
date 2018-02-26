@@ -101,7 +101,35 @@
     ca: 'Descarrega''t el nostre catàleg '
     es: Descárgate nuestro catálogo
   video: https://www.youtube.com/embed/sqlIFmMiIqU
-  photo: https://www.datocms-assets.com/120/1498476562-1.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg
+  photo: https://www.datocms-assets.com/120/1498476562-1.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
+  gallery:
+  - https://www.datocms-assets.com/120/1519670535-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670539-2.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670542-3.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670545-4.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670547-5.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670551-6.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670553-7.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670557-8.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670559-9.JPG?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670561-10.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670564-11.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670566-13.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670570-14.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670573-15.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670575-16.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670577-17.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670579-18.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670582-19.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670584-20.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670586-21.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670589-22.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670591-23.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670594-24.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670596-25.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670599-26.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670602-27.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670604-28.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
 - id: '76941'
   name:
     en: Portugal
@@ -183,4 +211,30 @@
     ca: 'Descarrega''t el nostre catàleg '
     es: 'Descárgate nuestro catálogo '
   video: https://www.youtube.com/embed/ArSTeAiFWt4
-  photo: https://www.datocms-assets.com/120/1498476577-2.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=pjpg
+  photo: https://www.datocms-assets.com/120/1498476577-2.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
+  gallery:
+  - https://www.datocms-assets.com/120/1519670626-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670629-2.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670633-3.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670635-4.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670637-5.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670639-6.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670642-7.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670644-8.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670647-9.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670649-10.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670651-11.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670654-12.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670657-13.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670660-14.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670662-15.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670664-16.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670666-17.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670669-18.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670671-19.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670673-20.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670678-21.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670680-22.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670682-23.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670685-24.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670688-25.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg

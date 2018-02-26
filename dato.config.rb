@@ -14,7 +14,7 @@ logos = dato.logos.map do |logo|
   {
     name: logo.name,
     url: logo.url,
-    image: logo.image.url(w: 280, fm: 'pjpg')
+    image: logo.image.url(w: 280, fm: 'jpg')
   }
 end
 
@@ -25,7 +25,7 @@ employees = dato.employees.map do |employee|
     name: employee.name,
     description: localize(employee, 'description'),
     skills: localize(employee, 'skills'),
-    photo: employee.photo.url(w: 300, fm: 'pjpg')
+    photo: employee.photo.url(w: 300, fm: 'jpg')
   }
 end
 
@@ -35,13 +35,17 @@ home_slides = dato.home_slides.map do |home_slide|
   {
     title: localize(home_slide, 'title'),
     description: localize(home_slide, 'description'),
-    background: home_slide.background.url(w: 1024, fm: 'pjpg')
+    background: home_slide.background.url(w: 1024, fm: 'jpg')
   }
 end
 
 create_data_file("_data/home_slides.yml", :yaml, home_slides)
 
 destinations = dato.destinations.map do |destination|
+  gallery = destination.gallery.map do |image|
+    image.url(w: 1024, h: 682, fit: 'crop', fm: 'jpg')
+  end
+
   {
     id: destination.id,
     name: localize(destination, 'name'),
@@ -57,7 +61,8 @@ destinations = dato.destinations.map do |destination|
     brochure_file: localize(destination, 'brochure_file'),
     download_brochure: localize(destination, 'download_brochure'),
     video: destination.video,
-    photo: destination.photo.url(w: 480, h: 270, fit: 'crop', fm: 'pjpg'),
+    photo: destination.photo.url(w: 480, h: 270, fit: 'crop', fm: 'jpg'),
+    gallery: gallery
   }
 end
 
@@ -83,11 +88,11 @@ activities = dato.activities.map do |activity|
     accesibility: activity.accesibility,
     destination: activity.destination.id,
 
-    thumbnail: activity.photo1 && activity.photo1.url(w: 480, h: 270, fit: 'crop', fm: 'pjpg'),
+    thumbnail: activity.photo1 && activity.photo1.url(w: 480, h: 270, fit: 'crop', fm: 'jpg'),
 
-    photo1: activity.photo1 && activity.photo1.url(w: 1024, fm: 'pjpg'),
-    photo2: activity.photo2 && activity.photo2.url(w: 1024, fm: 'pjpg'),
-    photo3: activity.photo3 && activity.photo3.url(w: 1024, fm: 'pjpg')
+    photo1: activity.photo1 && activity.photo1.url(w: 1024, fm: 'jpg'),
+    photo2: activity.photo2 && activity.photo2.url(w: 1024, fm: 'jpg'),
+    photo3: activity.photo3 && activity.photo3.url(w: 1024, fm: 'jpg')
   }
 end
 
@@ -106,8 +111,8 @@ directory "_posts" do
         date: article.publication_date,
         tags: article.tags.map(&:name).join(' '),
         author: article.author.name,
-        image: article.featured_image && article.featured_image.url(w: 1024, fm: 'pjpg'),
-        thumbnail: article.featured_image && article.featured_image.url(w: 105, fm: 'pjpg'),
+        image: article.featured_image && article.featured_image.url(w: 1024, fm: 'jpg'),
+        thumbnail: article.featured_image && article.featured_image.url(w: 105, fm: 'jpg'),
       )
 
       has_back_references = false
