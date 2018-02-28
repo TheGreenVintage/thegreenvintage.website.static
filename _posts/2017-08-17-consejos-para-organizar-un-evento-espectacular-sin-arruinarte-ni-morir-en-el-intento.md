@@ -7,8 +7,8 @@ title: Consejos para organizar un evento espectacular sin arruinarte ni morir en
 date: 2017-08-17 08:30:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1502961443-principal6.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-thumbnail: https://www.datocms-assets.com/120/1502961443-principal6.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=jpg
+image: https://www.datocms-assets.com/120/1502961443-principal6.jpg?w=1024&fm=jpg
+thumbnail: https://www.datocms-assets.com/120/1502961443-principal6.jpg?w=105&fm=jpg
 ---
 
 Muchas personas piensan que organizar un evento es una tarea relativamente sencilla ¡hasta que se proponen organizar uno!  Llega el momento de la verdad y es entonces cuando se valoran los conocimientos y experiencias de un profesional organizador de eventos.  

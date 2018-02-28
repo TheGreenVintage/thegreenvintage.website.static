@@ -1,7 +1,7 @@
 - id: '76940'
   name:
-    en: Spain
-    ca: Espanya
+    en: Barcelona
+    ca: Barcelona
     es: España
   intro:
     en: Located on the Mediterranean sea. Barcelona is a symbol of architecture, design,
@@ -16,9 +16,9 @@
       ciudad mediterránea, cosmopolita, dinámica e innovadora, llena de contrastes,
       color, luz    y diversidad.
   title:
-    en: Spain, a real open-air museum
-    ca: Espanya, un autèntic museu a l'aire lliure
-    es: España, un auténtico museo al aire libre
+    en: Barcelona, a real open-air museum
+    ca: Barcelona, un autèntic museu a l'aire lliure
+    es: Barcelona, un auténtico museo al aire libre
   description:
     en: 'Catalonia and Barcelona has become one of the first tourist destination of
       Spain. Barcelona sited between the Mediterranean Sea and the Serra de Collserola.
@@ -101,43 +101,34 @@
     ca: 'Descarrega''t el nostre catàleg '
     es: Descárgate nuestro catálogo
   video: https://www.youtube.com/embed/sqlIFmMiIqU
-  photo: https://www.datocms-assets.com/120/1498476562-1.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
+  photo: https://www.datocms-assets.com/120/1498476562-1.jpg?w=480&h=270&fit=crop&fm=jpg
   gallery:
-  - https://www.datocms-assets.com/120/1519670535-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670539-2.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670542-3.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670545-4.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670547-5.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670551-6.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670553-7.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670557-8.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670559-9.JPG?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670561-10.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670564-11.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670566-13.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670570-14.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670573-15.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670575-16.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670577-17.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670579-18.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670582-19.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670584-20.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670586-21.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670589-22.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670591-23.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670594-24.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670596-25.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670599-26.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670602-27.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670604-28.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519742540-dinar-d-empresa-winsystems-castell-jalpi-2017-4.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519742618-18814906_1968133873431254_189886459694718951_o.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519752601-coaltrans_bcn2017_176.jpeg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670547-5.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519752407-sopar-d-empresa-kodify-2017-2.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519752808-whatsapp-image-2017-12-19-at-13-38-55.jpeg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670535-1.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670539-2.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670566-13.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519752760-img_3216.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519752753-img_0188vint.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519753153-17434669_1929405810637394_6629077634415028597_o.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519753156-23592339_2052214711689836_2449642822405298814_o.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670582-19.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519753366-screen-shot-2018-02-27-at-18-41-55.png?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519754266-lmra-beach-club-15.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519754381-_rb_9182r_fotor.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519754442-casagracia4_low-1.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519754449-de-tranquis-2.jpg?w=1024&h=682&fit=crop&fm=jpg
 - id: '76941'
   name:
-    en: Portugal
-    ca: Portugal
+    en: Madrid
+    ca: Madrid
     es: Portugal
   intro:
-    en: Lisbon is a magical city, where the imperial past and an independent present
-      come together to make the city unique, a special place full of infinite possibilities.
+    en: Madrid is a community with a rich history, great traditions and a welcoming
     ca: Lisboa és una ciutat màgica, on el passat imperial, la seva història, els
       seus paisatges i la seva gent, fan de la ciutat un lloc especial ple d'infinites
       possibilitats.
@@ -146,12 +137,14 @@
   title:
     en: Culture, history and great food
     ca: Cultura, història i gastronomia
-    es: Cultura, historia y gastronomía
+    es: Abierta y dinámica
   description:
-    en: |-
-      Lisbon the most southwestern located continental Europe capital city, it’s a place where the mix of modern Europe and its illustrious past takes on a unique flavor, almost impossible to describe in one sentence. Lisbon's cultural dynamics and its night life are the mark of a city that leads a fascinating and multifaceted existence. Lisbon is a city that is bursting with life. Cultural events, feasts, festivals and fairs are a constant part of the Portuguese capital.
-
-      Lisbon, was built on seven hills, Castelo, Graça, Monte, Penha de França, S. Pedro de Alcântara, Santa Catarina and Estrela' Lisbon extends in the shape of an amphitheater along the northern banks of the majestic Tejo River. This historic capital has uncommon character and charm, where 800 years of a wide range of cultural influences, together with the latest trends and lifestyles, create truly spectacular contrasts.
+    en: Madrid, Spain's central capital, is a city of elegant boulevards and expansive,
+      manicured parks such as the Retiro. It’s renowned for its rich repositories
+      of European art, including the Prado Museum’s works by Goya, Velázquez and other
+      Spanish masters. The heart of old Hapsburg Madrid is the portico-lined Plaza
+      Mayor, and nearby is the baroque Royal Palace and Armory, displaying historic
+      weaponry.
     ca: |-
       Lisboa és la capital de l'Europa continental situada més al sud-oest, és un lloc on la mescla de l'Europa moderna i el seu il·lustre passat adquireix un sabor únic, gairebé impossible de descriure en una frase. Dinàmica, cultural, plena de vida són la marca d'una ciutat fascinant. Fires, festes, festivals i esdeveniments culturals són una part constant de la capital portuguesa.
 
@@ -210,31 +203,31 @@
     en: Download our Lisbon Brochure
     ca: 'Descarrega''t el nostre catàleg '
     es: 'Descárgate nuestro catálogo '
-  video: https://www.youtube.com/embed/ArSTeAiFWt4
-  photo: https://www.datocms-assets.com/120/1498476577-2.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
+  video: https://www.youtube.com/watch?v=K3dWyiIt21w
+  photo: https://www.datocms-assets.com/120/1519754964-madrid-overview-sunsetovermadrid-xlarge.jpg?w=480&h=270&fit=crop&fm=jpg
   gallery:
-  - https://www.datocms-assets.com/120/1519670626-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670629-2.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670633-3.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670635-4.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670637-5.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670639-6.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670642-7.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670644-8.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670647-9.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670649-10.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670651-11.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670654-12.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670657-13.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670660-14.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670662-15.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670664-16.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670666-17.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670669-18.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670671-19.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670673-20.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670678-21.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670680-22.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670682-23.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670685-24.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670688-25.jpg?ch=DPR%2CWidth&auto=format&w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670626-1.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670629-2.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670633-3.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670635-4.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670637-5.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670639-6.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670642-7.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670644-8.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670647-9.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670649-10.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670651-11.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670654-12.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670657-13.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670660-14.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670662-15.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670664-16.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670666-17.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670669-18.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670671-19.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670673-20.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670678-21.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670680-22.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670682-23.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670685-24.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519670688-25.jpg?w=1024&h=682&fit=crop&fm=jpg

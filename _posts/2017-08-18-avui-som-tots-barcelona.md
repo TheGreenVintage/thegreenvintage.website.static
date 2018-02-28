@@ -6,8 +6,8 @@ title: Avui som tots Barcelona
 date: 2017-08-18 08:30:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1503053543-20953634_2009300809314560_5404994301322575888_n.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-thumbnail: https://www.datocms-assets.com/120/1503053543-20953634_2009300809314560_5404994301322575888_n.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=jpg
+image: https://www.datocms-assets.com/120/1503053543-20953634_2009300809314560_5404994301322575888_n.jpg?w=1024&fm=jpg
+thumbnail: https://www.datocms-assets.com/120/1503053543-20953634_2009300809314560_5404994301322575888_n.jpg?w=105&fm=jpg
 ---
 
 Avui volem dedicar aquesta entrada del blog, a la nostra estimada Barcelona. Després del atemptat d’ahir, volem dir que estem tristes, desolades, que no ens creiem el que està passant. Avui més que mai, volem expressar la nostra solidaritat a les víctimes i als seus familiars.
@@ -21,7 +21,7 @@ Barcelona és,
 
 **Això es Barcelona!!**
 
-![](https://www.datocms-assets.com/120/1503053577-img_20170818_124702.png?ch=DPR%2CWidth&auto=format)
+![](https://www.datocms-assets.com/120/1503053577-img_20170818_124702.png)
 
 Per suposat agrair a tots els serveis de emergència i serveis policials que han treballat i segueixen treballant al peu del canó per ajudar en tot el possible.  Agrair la gran feina que fan i la seva capacitat de resposta.
 

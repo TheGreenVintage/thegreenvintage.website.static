@@ -6,8 +6,8 @@ title: Material para eventos que aún necesitamos en papel
 date: 2017-08-29 08:00:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1502976806-vintage-typewriter-notebook-and-eyeglasses-on-wooden-table-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-thumbnail: https://www.datocms-assets.com/120/1502976806-vintage-typewriter-notebook-and-eyeglasses-on-wooden-table-1.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=jpg
+image: https://www.datocms-assets.com/120/1502976806-vintage-typewriter-notebook-and-eyeglasses-on-wooden-table-1.jpg?w=1024&fm=jpg
+thumbnail: https://www.datocms-assets.com/120/1502976806-vintage-typewriter-notebook-and-eyeglasses-on-wooden-table-1.jpg?w=105&fm=jpg
 ---
 
 La evolución de las **nuevas tecnologías** y el uso de las redes sociales en la comunicación corporativa están influyendo en la forma como se planifican, ejecutan y evalúan los eventos.
