@@ -21,8 +21,6 @@
 </div><!--intro with services end-->
 
 <div class="container">
-{% for destination in site.data.destinations %}
-  {% assign activities = site.data.activities | where: 'destination', destination.id | where: 'selected', true %}
+  {% assign activities = site.data.activities | where: 'selected', true %}
   {% include activitieslist.html activities=activities %}
-{% endfor %}
 </div><!--intro with services end-->

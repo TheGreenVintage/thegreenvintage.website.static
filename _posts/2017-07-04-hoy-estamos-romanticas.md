@@ -6,8 +6,8 @@ title: Hoy estamos románticas
 date: 2017-07-04 09:00:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1499091601-img_0708.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-thumbnail: https://www.datocms-assets.com/120/1499091601-img_0708.JPG?ch=DPR%2CWidth&auto=format&w=105&fm=jpg
+image: https://www.datocms-assets.com/120/1499091601-img_0708.JPG?w=1024&fm=jpg
+thumbnail: https://www.datocms-assets.com/120/1499091601-img_0708.JPG?w=105&fm=jpg
 ---
 
 **¡Hoy nos hemos levantado románticas!**
@@ -49,10 +49,10 @@ La bodega os ofrecerá todo el confort y la comodidad que necesitáis en este d�
 
 ### Rincones
 
-![](https://www.datocms-assets.com/120/1499091625-img_0703.JPG?ch=DPR%2CWidth&auto=format)
+![](https://www.datocms-assets.com/120/1499091625-img_0703.JPG)
 
-![](https://www.datocms-assets.com/120/1499091643-img_0715.JPG?ch=DPR%2CWidth&auto=format)
+![](https://www.datocms-assets.com/120/1499091643-img_0715.JPG)
 
-![](https://www.datocms-assets.com/120/1499091659-img_0737.JPG?ch=DPR%2CWidth&auto=format)
+![](https://www.datocms-assets.com/120/1499091659-img_0737.JPG)
 
-![](https://www.datocms-assets.com/120/1499091687-img_0748.JPG?ch=DPR%2CWidth&auto=format)
+![](https://www.datocms-assets.com/120/1499091687-img_0748.JPG)

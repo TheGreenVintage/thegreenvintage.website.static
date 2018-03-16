@@ -6,8 +6,8 @@ title: 'Nuestra mejor amiga: LA ORIGINALIDAD'
 date: 2018-02-12 07:30:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1509981136-4-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-thumbnail: https://www.datocms-assets.com/120/1509981136-4-1.jpg?ch=DPR%2CWidth&auto=format&w=105&fm=jpg
+image: https://www.datocms-assets.com/120/1509981136-4-1.jpg?w=1024&fm=jpg
+thumbnail: https://www.datocms-assets.com/120/1509981136-4-1.jpg?w=105&fm=jpg
 ---
 
 Hoy queremos dedicarle este post a unos artistas de nuestro equipo, que dan un valor añadido a nuestros eventos. **¡Originalidad en estado puro!**
@@ -26,7 +26,7 @@ Es por eso que queremos hablar hoy, de nuestros amigos que ofrecen unos servicio
 
 **Cuadros Vivientes o Photocall Live Painting.**
 
-![](https://www.datocms-assets.com/120/1509981162-2-2.jpg?ch=DPR%2CWidth&auto=format)
+![](https://www.datocms-assets.com/120/1509981162-2-2.jpg)
 
 El cuadro viviente es un espectáculo único y excepcional que permitirá a tus invitados disfrutar de una animación exclusiva. Una actriz o actor, se coloca delante de un lienzo y será pintado para fusionarse con el fondo, de manera que los invitados tienen la impresión de estar cara a una pintura y no a una persona. 
 
@@ -34,16 +34,16 @@ Durante el evento, la actriz o el actor se pueden mover por el espacio o hacerse
 
 **¡Es muy complicado explicarlo en palabras, por eso mismo quiero dejaros unas fotos, para que veáis lo que son capaces de hacer, unos auténticos monstruos!**
 
-![](https://www.datocms-assets.com/120/1509981165-3-1.jpg?ch=DPR%2CWidth&auto=format)
+![](https://www.datocms-assets.com/120/1509981165-3-1.jpg)
 
 
-![](https://www.datocms-assets.com/120/1509981172-5-1.jpg?ch=DPR%2CWidth&auto=format)
+![](https://www.datocms-assets.com/120/1509981172-5-1.jpg)
 
 
-![](https://www.datocms-assets.com/120/1509981177-6-1.jpg?ch=DPR%2CWidth&auto=format)
+![](https://www.datocms-assets.com/120/1509981177-6-1.jpg)
 
 
-![](https://www.datocms-assets.com/120/1509981183-7-2.jpg?ch=DPR%2CWidth&auto=format)
+![](https://www.datocms-assets.com/120/1509981183-7-2.jpg)
 
 
-![](https://www.datocms-assets.com/120/1509981188-8-2.jpg?ch=DPR%2CWidth&auto=format)
+![](https://www.datocms-assets.com/120/1509981188-8-2.jpg)

@@ -68,7 +68,9 @@ end
 
 create_data_file("_data/destinations.yml", :yaml, destinations)
 
-activities = dato.activities.map do |activity|
+activities = dato.activities.select do |activity|
+  !activity.hidden
+end.map do |activity|
   {
     id: activity.id,
     title: localize(activity, 'title'),

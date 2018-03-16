@@ -88,10 +88,10 @@
   tag: Cuenta
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1515431055-dinar-d-empresa-winsystems-castell-jalpi-2017-140.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498647952-vo_wanup_teambuilding-269.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1515431055-dinar-d-empresa-winsystems-castell-jalpi-2017-140.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1498647952-vo_wanup_teambuilding-269.jpg?w=1024&fm=jpg
 - id: '76959'
   title:
     en: MADMAP
@@ -156,7 +156,7 @@
     en: Ask for more information about our activities
     ca: Demana més informació de les nostres activitats
     es: Pide más información de nuestras actividades
-  selected: false
+  selected: true
   language: es, en
   duration: 3.0
   pax: 8
@@ -164,10 +164,10 @@
   tag: When
   accesibility: 'no'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509444385-whatsapp-image-2017-10-26-at-11-16-06.jpeg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1509444385-whatsapp-image-2017-10-26-at-11-16-06.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1509444999-76b0d221-4a5f-4fbe-a4b8-53e310dfbd98.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1509445005-17cc837a-c014-4e4f-a695-9f0062e07675.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1509444385-whatsapp-image-2017-10-26-at-11-16-06.jpeg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1509444385-whatsapp-image-2017-10-26-at-11-16-06.jpeg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1509444999-76b0d221-4a5f-4fbe-a4b8-53e310dfbd98.jpeg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1509445005-17cc837a-c014-4e4f-a695-9f0062e07675.jpeg?w=1024&fm=jpg
 - id: '76954'
   title:
     en: Beach Games
@@ -247,7 +247,7 @@
     en: Ask for more information about our activities
     ca: Demana més informació de les nostres activitats
     es: Pide más información de nuestras actividades
-  selected: false
+  selected: true
   language: ca, es, en, de, fr
   duration: 6.0
   pax: 5
@@ -255,56 +255,65 @@
   tag: Kitesurf
   accesibility: 'no'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498827228-img_1221.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498827238-img_1209.JPG?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1498827228-img_1221.JPG?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1498827238-img_1209.JPG?w=1024&fm=jpg
 - id: '76956'
   title:
     en: Creativity with graffiti
     ca: Creativitat amb grafitis
     es: Creatividad con grafitis
   description:
-    en: |-
-      Creative activity in team able to submerge any company into  unique art experiences.
-      The experience begins with an introduction to the world of graffiti since its inception and they will teach you the basic techniques of how to use a spray to be able to start in this underground culture. Will extract the artist that exists in every one of you!
-      During the activity, we will create a video for the memory of your company.
+    en: "Creative activity in team able to submerge any company into unique art experiences.\n\nThe
+      experience begins with an introduction to the world of graffiti since its inception
+      and they will teach you the basic techniques of how to use a spray to be able
+      to start in this underground culture. \n\n> Will extract the artist that exists
+      in every one of you!\n"
     ca: "Activitat creativa en equip capaç de submergir a qualsevol empresa en experiències
       úniques d'art, introduint-se en mons creatius desconeguts.\nL'experiència comença
       amb una introducció al món del grafiti des dels seus inicis i li ensenyaran
       les tècniques bàsiques de com utilitzar un spray per poder iniciar-se en aquesta
       cultura underground.\n\nExtraurà l'artista que existeix en cadascun de vosaltres!
-      \n\nDurant l'activitat crearem un vídeo per al record de la seva empresa."
-    es: |-
-      Actividad creativa en equipo capaz de sumergir a cualquier empresa en experiencias únicas de arte, introduciéndose en mundos creativos desconocidos.
-      La experiencia comienza con una introducción al mundo del graffiti desde sus inicios y le enseñarán las técnicas básicas de cómo utilizar un spray para poder iniciarse en esta cultura underground. Extraerá el artista que existe en cada uno de vosotros!
-      Durante la actividad crearemos un vídeo para el recuerdo de su empresa.
+      \n\nDurant l'activitat crearem un vídeo per al record de la seva empresa.\n\nÉs
+      l'activitat perfecta per alliberar estrès,fomentar la comunicació i el treball
+      en equip amb un ambient d'hip-hop."
+    es: "Actividad creativa en equipo capaz de sumergir a cualquier empresa en experiencias
+      únicas de arte, introduciéndose en mundos creativos desconocidos.\n\nLa experiencia
+      comienza con una introducción al mundo del graffiti desde sus inicios y le enseñarán
+      las técnicas básicas de cómo utilizar un spray para poder iniciarse en esta
+      cultura underground. \n\n> Extraerá el artista que existe en cada uno de vosotros!\n\nEs
+      la actividad perfecta para liberar estrés,fomentar la comunicación y el trabajo
+      en equipo con un ambiente hip-hop."
   localization:
-    en: 'Graffiti can be either indoors or outdoors and is the perfect activity to
-      relieve stress, promote communication and teamwork with a hip hop environment.
-
-'
-    ca: El grafiti es pot realitzar tant en interiors o a l'aire lliure i és l'activitat
-      perfecta per alliberar estrès, fomentar la comunicació i el treball en equip
-      amb un ambient d'hip-hop.
-    es: 'El graffiti se puede realizar tanto en interiores o al aire libre y es la
-      actividad perfecta para liberar estrés, fomentar la comunicación y el trabajo
-      en equipo con un ambiente de hip hop.
-
-'
+    en: Indoor/Outdoor
+    ca: Indoor/Outdoor
+    es: Indoor/Outdoor
   included:
-    en: Material and professional
-    ca: Material necessari i especialista
-    es: Material necesario y especialista
+    en: "Sprays (waterproof)\nHip Hop DJ \nPro Graffiti Artists\nProfessional assistant"
+    ca: |-
+      Esprais (pintura a l'aigua)
+      Personal: cap de producció, assistent de producció, artista pro
+      Hip Hop DJ
+      Altres materials: màscares, guants làtex i uniforme d'un sol ús ...
+    es: "Set de colores de pintura en aerosol a base de agua (no tóxico)\nPersonal:
+      jefe producción, asistente de producción, artista pro\nHip Hop DJ \nOtros materiales:
+      máscaras, guantes látex y mono desechable… "
   not_included:
-    en: 
-    ca: 
-    es: 
+    en: |-
+      Space
+      Drinks during the activity
+      Photo and video report
+    ca: |-
+      L'espai
+      Begudes durant l'activitat
+      Reportatge fotogràfic i vídeo
+    es: "Espacio\nBebidas durante la actividad\nReportaje fotográfico y vídeo "
   contact:
     en: Ask for more information about our workshop
     ca: Demana més informació dels nostres tallers
     es: Pide más información de nuestros talleres
-  selected: false
+  selected: true
   language: es, ca, en
   duration: 2.0
   pax: 10
@@ -312,10 +321,10 @@
   tag: graffitis
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1515494522-img_0322.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1515494716-img_0410.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1515494522-img_0322.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1515494716-img_0410.jpg?w=1024&fm=jpg
 - id: '76949'
   title:
     en: Authentic Catalan Experience
@@ -426,10 +435,10 @@
   tag: 'Alella '
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498481918-14.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498481918-14.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498481921-15.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498481924-16.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1498481918-14.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1498481918-14.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1498481921-15.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1498481924-16.jpg?w=1024&fm=jpg
 - id: '76950'
   title:
     en: MasterChef
@@ -504,10 +513,10 @@
   tag: Masterchef
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498480788-52.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498480788-52.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498480790-53.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1509446050-whatsapp-image-2017-10-27-at-14-32-56.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1498480788-52.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1498480788-52.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1498480790-53.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1509446050-whatsapp-image-2017-10-27-at-14-32-56.jpeg?w=1024&fm=jpg
 - id: '76962'
   title:
     en: Crime in Sant Pere
@@ -597,7 +606,7 @@
     en: Ask for more information about our tours
     ca: Demana més informació de les nostres excursions
     es: Pide más información de nuestras excursiones
-  selected: true
+  selected: false
   language: ca, es, en, fr
   duration: 3.0
   pax: 4
@@ -605,10 +614,10 @@
   tag: pere
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498482213-21.png?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498482213-21.png?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498647781-20170421_110603_hdr.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498482222-22.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1498482213-21.png?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1498482213-21.png?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1498647781-20170421_110603_hdr.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1498482222-22.jpg?w=1024&fm=jpg
 - id: '76951'
   title:
     en: Nuclear emergency
@@ -663,10 +672,10 @@
   tag: Nuclear
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498480735-55.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498480735-55.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498480736-56.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498480739-57.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1498480735-55.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1498480735-55.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1498480736-56.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1498480739-57.jpg?w=1024&fm=jpg
 - id: '76952'
   title:
     en: DRAGON BOAT
@@ -748,10 +757,10 @@
   tag: Karts
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1509447291-whatsapp-image-2017-10-31-at-11-40-25.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1509447298-whatsapp-image-2017-10-31-at-11-40-25-1.jpeg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1509447291-whatsapp-image-2017-10-31-at-11-40-25.jpeg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1509447298-whatsapp-image-2017-10-31-at-11-40-25-1.jpeg?w=1024&fm=jpg
 - id: '76953'
   title:
     en: LAUGHTER THERAPY WORKSHOPS
@@ -818,10 +827,10 @@
   tag: Juegos
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509451891-image-2.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1509451891-image-2.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1509451900-image.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1509451906-image-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1509451891-image-2.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1509451891-image-2.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1509451900-image.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1509451906-image-1.jpg?w=1024&fm=jpg
 - id: '76961'
   title:
     en: Make your own custom beer
@@ -872,7 +881,7 @@
     en: Ask for more information about our tours
     ca: Demana més informació de les nostres excursions
     es: Pide más información de nuestras excursiones
-  selected: true
+  selected: false
   language: ca, es, en
   duration: 9.0
   pax: 10
@@ -880,8 +889,8 @@
   tag: tours
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=1024&fm=jpg
   photo2: 
   photo3: 
 - id: '76955'
@@ -935,10 +944,10 @@
   tag: batucada
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498480626-7.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498480626-7.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498480683-44.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498480686-45.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1498480626-7.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1498480626-7.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1498480683-44.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1498480686-45.jpg?w=1024&fm=jpg
 - id: '76957'
   title:
     en: Trivial Quiz Challenge
@@ -1002,10 +1011,10 @@
   tag: Quiz
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498480979-8.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498480979-8.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498480981-9.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498480984-10.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1498480979-8.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1498480979-8.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1498480981-9.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1498480984-10.jpg?w=1024&fm=jpg
 - id: '76960'
   title:
     en: Spartan Race
@@ -1079,10 +1088,10 @@
   tag: Race
   accesibility: 'no'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498481182-46.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498481182-46.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498481186-47.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498481192-48.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1498481182-46.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1498481182-46.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1498481186-47.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1498481192-48.jpg?w=1024&fm=jpg
 - id: '76971'
   title:
     en: Building up towers
@@ -1120,16 +1129,16 @@
 
       Durante la actividad, se explicarán las tareas y los roles, las competencias, las estructuras y los conocimientos y técnicas necesarias para construir torres humanas. Se seleccionará y formará a una persona líder del equipo para capacitarle en la elección de las personas más adecuadas para cada puesto.
 
-      Aprender a subir, a bajar y a sostener el tronco de la torre, son algunas de las claves de la excelencia en el arte de construir torres humanas.
+      Aprender a subir, a bajar y a sostener el tronco de la torre, son algunas de las claves de la excelencia en el **arte **de construir torres humanas.
 
-      Equilibrio, flexibilidad y compromiso son los aspectos que trabajaréis mientras construis el tronco de la torre.
+      **Equilibrio, flexibilidad y compromiso** son los aspectos que trabajaréis mientras construis el tronco de la torre.
       Finalmente conseguiréis el objetivo de cargar la torre. Se requiere iniciativa y confianza; se trata de un momento de pleno logro del equipo.
 
       Una vez se ha descargado correctamente la torre, se celebrará haber logrado el objetivo.
   localization:
-    en: Barcelona
-    ca: Sales, oficines, espais a l’aire lliure si la climatologia acompanya
-    es: Salas, oficinas, espacio outdoor si la climatología acompaña
+    en: Indoor/Outdoor
+    ca: Indoor/Outdoor
+    es: Indoor/Outdoor
   included:
     en: |-
       Custom design activity
@@ -1143,7 +1152,7 @@
       Monitors Castellers (mínim 4)
       Assegurança d'accidents i responsibilitat civil
       Kit Casteller + Material didàctic
-    es: "\nDiseño de la actividad a medida\nDinamizador/Formador/es necesario/s\nMonitores
+    es: "Diseño de la actividad a medida\nDinamizador/Formador/es necesario/s\nMonitores
       Castellers (mínimo 4)\nSeguros de responsabilidad civil y de accidentes \nKit
       Casteller + Material didáctico"
   not_included:
@@ -1161,564 +1170,304 @@
     ca: Demana més informació de les nostres activitats
     es: Pide más información de nuestras actividades
   selected: false
-  language: ca, es, en, de, fr
+  language: ca, es, en
   duration: 2.0
   pax: 10
   price: 
   tag: Humantower
   accesibility: ask
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498481845-67.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498481845-67.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498481848-68.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498481850-69.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1498481845-67.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1498481845-67.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1498481848-68.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1498481850-69.jpg?w=1024&fm=jpg
 - id: '76963'
   title:
-    en: Jeep Safari
-    ca: Jeep Safari
-    es: Jeep Safari
+    en: Trencadís Workshop
+    ca: Taller de trencadís
+    es: 'Taller de Mosaico Trencadís '
   description:
     en: |-
-      The Romans called it “The Mountain of the Moon”. Few places in the world can evoke a sense of magic and mystery as does Sintra. From magical forests to romantic palaces Sintra never fails to seduce. Magical, adventurous and charming this place is a unique.
+      A short introduction will be given to ‘Trencadis’ (Catalan - ‘to break’) – The mosaic style from the ‘Modernista’ period in Barcelona c.1880 – c.1910 made famous by Gaudi.
 
-      During the tour the drivers will give explanations about Fauna, Flora, Legends & Traditions, History and Culture of the places where the jeeps passes. (Pena Palace, Sintra village, Cabo da Roca). We will finish the tour in a typical local restaurant taking lunch.
+      **Making Trencadis**
+      An introduction to the technique and ‘how to’ will explain everything that groups need to know to work on their own and as a team.
+
+      Each pair work together to make their section of the design. They also need to work with the other team members to encourage cohesion and working towards an overall design.
+
+      The whole team should decide on colours, the size of ceramic tiles used etc. Final pieces are judged based on overall look and cohesion.
+
+      **Feedback**
+      Teams are encouraged to speak about their mosaic, considering individual performance and teamwork and should give feedback on what worked well and how they might have approached things differently.
     ca: |-
-      Els romans van anomenar al poble de Sintra "La muntanya de la lluna". És un lloc que evoca sensació de màgia i misteri. Des de boscos màgics a palaus romàntics.
+      El taller començarà amb una breu introducció al 'Trencadís'. És un tipus d'aplicació ornamental del mosaic a partir de fragments ceràmics units; molt habitual i característic en l'arquitectura modernista catalana.
 
-      Recorreguts amb jeeps per Sintra, els pilots ens explicaran sobre la fauna, la flora, les llegendes tradicionals, la història i la cultura dels diferents llocs que visitarem. (Sintra, Palacio de Pena, Cap dóna Roca...). Acabarem l'excursió amb un menjar a un local típic de Sintra.
-    es: |-
-      Los romanos llamaron al pueblo de Sintra "La montaña de la luna". Es un lugar que evoca sensación de mágia y misterio. Des de bosques mágicos a palacios románticos.
-      Recorridos con jeeps por Sintra, los pilotos nos explicarán sobre la fauna, la flora, las leyendas tradicionales, la historia y la cultura de los diferentes sitios que visitaremos. (Sintra, Palacio de Pena, Cabo da Roca...) Acabaremos la excursión con una comida en un local típico de Sintra.
+      **DESENVOLUPAMENT DEL TALLER**
+
+      Dividirem als participants en grups (o creats per l'empresa). Farem una introducció a la tècnica i al "com fer-ho".
+
+      Cada grup treballarà en conjunt per fer la seva secció del disseny. És important, comunicar-se amb els altres equips per encoratjar la cohesió i treballar cap a un disseny general.
+
+      Tot l'equip ha de decidir sobre els colors, la grandària de les rajoles, etc. Les peces finals es jutgen en funció de l'aspecte general i la cohesió.
+
+      Al final del taller, cada equip haurà de defensar el seu treball i posar-ho en comú amb tots els altres grups.
+
+
+      > **VALORS TREBALLATS**
+      > Treball en equip, solucionar problemes, desenvolupar la creativitat, talent, habilitats, diversió...
+    es: "El taller empezará con una breve introducción al 'Trencadís'. Es un tipo
+      de aplicación ornamental del mosaico a partir de fragmentos cerámicos unidos;
+      muy habitual y característico en la arquitectura modernista catalana.\n\n**DESARROLLO
+      DEL TALLER**\n\nDividiremos a los participantes en grupos (o pueden venir dados
+      por la empresa). Haremos una introducción a la técnica y al \"cómo hacerlo\".\n\nCada
+      grupo trabajará en conjunto para hacer su sección del diseño. Es importante,
+      comunicarse con los otros equipos para alentar la cohesión y trabajar hacia
+      un diseño general.\n\nTodo el equipo debe decidir sobre los colores, el tamaño
+      de las baldosas, etc. Las piezas finales se juzgan en función del aspecto general
+      y la cohesión.\n\nAl final del taller, cada equipo tendrá que defender su trabajo
+      y ponerlo en común con todos los otros grupos.\n\n\n> **VALORES TRABAJADOS:**
+      \n> Trabajo en equipo, solucionar problemas, desarrollar la creatividad, talento,
+      habilidades, diversión"
   localization:
-    en: Sintra
-    ca: Sintra
-    es: Sintra
+    en: Indoor/Outdoor
+    ca: Indoor/Outdoor
+    es: Indoor/Outdoor
   included:
     en: |-
-      Guided tour
-      Pick up at the hotel
-      Jeep 4X4
-      Drivers
-      Typical lunch
+      Divide teams
+      Explain task and tutorial
+      Aprons, gloves and tools
+      30 mins design and sketch
+      1hr 15 mins mosiac
+      15 mins grouting and finishing
+      Presentation and group photo
     ca: |-
-      Ruta guiada
-      Recollida al hotel
-      Jeep 4X4
-      Conductors
-      Menjar típic de la zona
-    es: "Tour guiado\nRecogida en el hotel\nJeep 4X4\nConductores\nComida típica "
-  not_included:
-    en: 
-    ca: 
-    es: 
-  contact:
-    en: Ask for more information about our tours
-    ca: Demana més informació de les nostres excursions
-    es: Pide más información de nuestras excursiones
-  selected: true
-  language: es, en, fr, de, pt
-  duration: 10.0
-  pax: 5
-  price: 
-  tag: Safari
-  accesibility: ask
-  destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498481449-23.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498481449-23.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498481451-24.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498481454-25.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-- id: '76964'
-  title:
-    en: Wine tour
-    ca: Ruta del vi
-    es: Ruta del vino
-  description:
-    en: "Leaving Lisbon by Vasco da Gama bridge, you’ll have the chance to admire
-      the beautiful Tagus river bay. After arriving in Palmela, we’ll ascend its Castle
-      Tower for an amazing group photo opportunity. We will then drive along the mountains
-      of the  Arrábida wine region, passing by many vineyards, cork and olive trees.\n\nWe
-      will stop at a beautiful wine farm in the heart of Arrábida Park, where it is
-      time to taste some wine and visit one of Portugal’s most iconic winery, which
-      includes a XV palace, the most well preserved from its time.\nAfterwards you’ll
-      have a great chance to take spectacular photos from the highest point of the
-      Arrábida Natural Park with breathtaking views over the Atlantic Ocean.\n\nTime
-      for lunch at the picturesque fishing village of Sesimbra and relax with some
-      fresh fish and seafood dishes. Last, we will stop at Cristo Rei (inspired by
-      Rio de Janeiro’s statue of Cristo Redentor) "
-    ca: "Sortint de Lisboa pel pont Vasc dóna Gamma, tindrà l'oportunitat d'admirar
-      la bella badia de riu Tajo. Ens dirigirem a les muntanyes de la regió de vi
-      de l’Arrábida, passant per molts vinyers.\n\nFarem una parada a una bella finca
-      de vins situada al parc de l’Arrábida, on degustarem vins i visitarem el celler
-      més emblemàtic de Portugal, que inclou un palau del segle XV.\n\nTindrà temps
-      per prendre fotos espectaculars des del punt més alt del Parc Natural de l’Arrábida
-      amb impressionants vistes sobre l'oceà Atlàntic. \n\nFinalment deixarem temps
-      perquè visitin el pintoresc poble de Sensimbra, i gaudir de la gastronomia de
-      la zona. \n\nDe tornada a Lisboa realitzarem una parada en el Crist Rei (estàtua
-      inspirada en el Crist Redemptor de Rio)."
-    es: "Saliendo de Lisboa por el puente Vasco da Gama , tendrá la oportunidad de
-      admirar la hermosa bahía de río Tajo. Nos dirigiremos a lo largo de las montañas
-      de la región de vino de la Arrábida, pasando por muchos viñedos, árboles de
-      corcho y oliva.\n\nHaremos una parada en una hermosa finca de vinos en el corazón
-      del parque de Arrábida, dónde degustaremos vinos y visitaremos la bodega más
-      emblemática de Portugal, que incluye un palacio del siglo XV.\n\nTendrá tiempo
-      para tomar fotos espectaculares desde el punto más alto del Parque Natural de
-      Arrábida con impresionantes vistas sobre el océano Atlántico. \n\nPor último
-      dejaremos tiempo para que visiten el pintoresco pueblo de Sensimbra y disfrutar
-      de la gastronomía de la zona.\n\nDe vuelta a Lisboa realizaremos una parada
-      en el Cristo Rei (estatua inspirada en el Cristo Redentor de Rio)"
-  localization:
-    en: Lisbon South
-    ca: Sud de Lisboa
-    es: Sur de Lisboa
-  included:
-    en: "Guided tour\nPick up at the hotel\nWine Taste\nVisit at wine farm and palace\nVisit
-      Cristo Rei "
-    ca: |-
-      Ruta guiada
-      Recollida a l'hotel
-      Degustació de vins
-      Visita a la bodega i al Palau
-      Visita Cristo Rei
-    es: "Tour guiado\nRecogida en el hotel\nCata de Vinos\nVisita a la bodega y al
-      palacio\nVisita Cristo Rei "
-  not_included:
-    en: Lunch
-    ca: Menjars
-    es: Comidas
-  contact:
-    en: Ask for more information about our tours
-    ca: Demana més informació de les nostres excursions
-    es: Pide más información de nuestras excursiones
-  selected: false
-  language: es, en, fr, de, pt
-  duration: 10.0
-  pax: 5
-  price: 
-  tag: Wine
-  accesibility: ask
-  destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498481490-40.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498481490-40.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498481493-41.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498481495-42.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-- id: '76965'
-  title:
-    en: Do it yourself
-    ca: Crea el teu documental
-    es: Crea tu documental
-  description:
-    en: |-
-      We will make teams. During the activity, they will have to create a documentary of the city. They will have to visit the best attractions, restaurants, museums.
-
-      Will be each team a specific route on an IPAD to pass through several points in the city and try to create the best documentary within the company. With the help of organizers and local people that they can find during the activity.
-    ca: |-
-      Durant l'activitat hauran de crear un documental de la ciutat per equips. Visitaran els millors llocs, restaurants, museus, i hauran de demanar consell a diferents persones locals.
-
-      A cada equip se li donarà una ruta específica a un IPAD per passar per diversos punts de la ciutat i hauran d’intentar crear el millor documental dins de l'empresa. Amb ajuda dels organitzadors i de les persones locals que es podran trobar durant l'activitat. Al finalitzar, hauran de decidir quin és el millor documental.
-    es: "Durante la actividad crearán un documental de la ciudad por equipos. Visitaran
-      los mejores lugares, restaurantes, museos y pedirán  consejo a diferentes personas
-      locales. \n\nA cada equipo se le dará una ruta específica en un IPAD para pasar
-      por varios puntos de la ciudad y a intentar crear el mejor documental dentro
-      de la empresa. Con ayuda de los organizadores y de las personas locales que
-      se podrán encontrar durante la actividad. Al final de la actividad se valorará
-      que equipo ha hecho el mejor documental."
-  localization:
-    en: Lisbon
-    ca: Lisboa
-    es: Lisboa
-  included:
-    en: |-
-      Material for the activity
-      Pick up at the hotel
-      Company's liability insurance and insurance for personal injury
-      Editing and composition of a film
-      Map with all the places, "Ribbons of colors for each team
-      Qualified personnel to control the activity
-    ca: |-
-      Material per a l'activitat
-      Recollida a l'hotel
-      Companyia d'assegurança de responsabilitat civil i de lesions personals
-      Edició i composició d'una pel·lícula
-      Mapa amb tots els llocs
-      Cintes de colors per a cada equip
-      Personal especialitzat per controlar l'activitat
+      Explicar tasca i tutorial
+      Davantals, guants i eines
+      30 minuts de disseny i esbós
+      1 hora i 15 minuts de mosaic
+      15 minuts d'enganxar i l'acabat
+      Presentació i foto grupal
     es: |-
-      Material para la actividad
-      Recogida en el hotel
-      Compañía de seguro de responsabilidad civil y seguro de lesiones personales
-      Edición y composición de una película
-      Mapa con todos los lugares
-      Cintas de colores para cada equipo
-      Personal especializado para controlar la actividad
+      Reparto de equipos
+      Explicar tarea y tutorial
+      Delantales, guantes y herramientas
+      30 minutos de diseño y boceto
+      1 hora y 15 minutos de mosiac
+      15 minutos de rejuntado y acabado
+      Presentación y foto grupal
   not_included:
-    en: Lunch
-    ca: Menjars
-    es: Comidas
-  contact:
-    en: Ask for more information about our activities
-    ca: Demana més informació de les nostres activitats
-    es: Pide más información de nuestras actividades
-  selected: false
-  language: es, en, fr, de, pt
-  duration: 4.0
-  pax: 10
-  price: 
-  tag: App
-  accesibility: ask
-  destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498481557-26.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498481557-26.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498481559-27.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498481562-28.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-- id: '76966'
-  title:
-    en: Libon by air
-    ca: Lisboa des de l'aire
-    es: Lisboa desde el aire
-  description:
-    en: "We propose a helicopter ride along the most emblematic Lisbon landmarks,
-      with the following route: heliport, Belém Quarter ( Belém Tower Discoveries
-      Monument Jerónimos Monastery) 25 April Bridge, Downtown Lisbon Castle S.Jorge
-      and back to Heliport passing the Christ Monument.\nThis is a unique and exclusive
-      way to get to know from the air Lisbon’s most iconic symbols. \n\nDon’t forget
-      your camera!\n\nWhile the other group flies around Lisbon, the other half will
-      have the chance to visit one of the world’s most important and relevant antique
-      coach exhibition, the National Coach Museum, located in the Belém quarter."
-    ca: "Passeig en helicòpter per poder veure Lisboa des de l'aire. Ruta: heliport,
-      barri de Belém (monestir de Jerónimos de Belém) centre de Lisboa, Castell S.Jorge
-      i tornar a l'heliport passant pel monument de Christ. És una manera única i
-      exclusiva per conèixer des de l'aire els símbols més emblemàtics de la ciutat.
-      \n\nNo oblidi la seva càmera! \n\nMentre un grup està volant l'altre tindrà
-      l'oportunitat de visitar el museu nacional de cotxes antics."
-    es: "Paseo en helicóptero para poder ver Lisboa des del aire. Ruta: helipuerto,
-      barrio de Belém (monasterio de Jerónimos de Belém) centro Lisboa Castillo S.Jorge
-      y volver al helipuerto pasando el monumento de Christ. Es una manera única y
-      exclusiva para conocer desde el aire los símbolos más emblemáticos de la ciudad.
-      \n\nNo olvide su cámara!\n\nMientras un grupo está volando el otro tendrá la
-      oportunidad de visitar el museo nacional de coches antiguos."
-  localization:
-    en: Lisbon
-    ca: Lisboa
-    es: Lisboa
-  included:
-    en: |-
-      Flying 15 minutes
-      Pick up at hotel
-      Drivers
-      Visit Museum
-      Guide
-    ca: |-
-      15 minuts de vol
-      Recollida a l'hotel
-      Pilots
-      Visita al Museu
-      Guia
-    es: |-
-      Cocineros
-      Material para cocinar
-      Bebidas
-      Degustación de lo que se ha cocinado
-  not_included:
-    en: Lunch
-    ca: Menjars
-    es: Comidas
-  contact:
-    en: Ask for more information about our activities
-    ca: Demana més informació de les nostres activitats
-    es: Pide más información de nuestras actividades
-  selected: false
-  language: es, en, fr, de, pt
-  duration: 1.0
-  pax: 5
-  price: 
-  tag: Air
-  accesibility: ask
-  destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498481594-29.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498481594-29.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498481597-30.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498481647-31.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-- id: '76967'
-  title:
-    en: Cooking a typical dish
-    ca: Cuina un plat típic
-    es: Cocina un plato típico
-  description:
-    en: "The Portuguese Cooking Experience was designed to show and teach some of
-      the greatest dishes of the Portuguese gastronomy. This is an experience that
-      allows high levels of interaction among the group members in a fun and relaxed
-      atmosphere.\n\nTo ensure that everybody participates and enjoys, we split the
-      group into smaller groups. Everybody works at the same time in each sub-group,
-      with their own chef, doing a part of the menu that will be served to the participants.
-      \ \nIt is a highly fun experience, always listening to music and drinking wine,
-      great for corporate groups, learning and enjoying the typical Portuguese flavors
-      and traditions!"
-    ca: |-
-      La idea és ensenyar alguns dels millors plats de la gastronomia portuguesa. Aquesta és una experiència que permet alts nivells d'interacció entre els membres del grup en un ambient divertit i relaxat.
-
-      Per assegurar que tothom participa i gaudeix, dividirem el grup en equips més petits. Tothom treballarà al mateix temps en cada subgrup, amb el seu propi xef, fent una part del menú que se servirà als participants.
-      És una divertida experiència, sempre escoltant música i bevent vi, grans grups empresarials, aprendre i gaudir les tradicions i sabors típics portuguesos!
-    es: |-
-      La idea es enseñar algunos de los mejores platos de la gastronomía portuguesa. Esta es una experiencia que permite altos niveles de interacción entre los miembros del grupo en un ambiente divertido y relajado.
-
-      Para asegurar que todo el mundo participa y disfruta, dividiremos el grupo en grupos más pequeños. Todo el mundo trabajará al mismo tiempo en cada subgrupo, con su propio chef, haciendo una parte del menú que se servirá a los participantes.
-      Es una divertida experiencia, siempre escuchando música y bebiendo vino, grandes grupos empresariales, aprender y disfrutar las tradiciones y sabores típicos portugueses!
-  localization:
-    en: Lisbon
-    ca: Lisboa
-    es: Lisboa
-  included:
-    en: |-
-      Chefs
-      Cooking material
-      Drinks
-      Taste
-    ca: |-
-      Cuiners
-      Material per a cuinar
-      Begudes
-      Degustació dels plats cuinats
-    es: |-
-      Cocineros
-      Material para cocinar
-      Bebidas
-      Degustación de lo que se ha cocinado
-  not_included:
-    en: 
-    ca: 
-    es: 
+    en: Space
+    ca: L'espai
+    es: Espacio
   contact:
     en: Ask for more information about our workshop
-    ca: Demana més informació dels nostres tallers
-    es: Pide más información de nuestros talleres
+    ca: Demana més informació del nostre taller
+    es: Pide más información de nuestro taller
   selected: true
-  language: es, en, fr, de, pt
+  language: es, ca, en
+  duration: 2.5
+  pax: 5
+  price: 
+  tag: trencadis
+  accesibility: 'yes'
+  destination: '76941'
+  thumbnail: https://www.datocms-assets.com/120/1519896656-img-20171212-wa0008.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1519896656-img-20171212-wa0008.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1519896687-img-20171212-wa0010.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1519896702-img-20171212-wa0005.jpg?w=1024&fm=jpg
+- id: '76964'
+  title:
+    en: Game of Thrones
+    ca: Joc de trons
+    es: JUEGO DE TRONOS
+  description:
+    en: |-
+      The Iron Throne is at stake and follows the struggle of the different Houses to get hold of it. The queen of the seven Kingdoms, Cersei, of the Lannister family, has died leaving a message under her deathbed in which she marked a new regulation for her succession. By surprise for the Lannister, no one will inherit the crown and it is time to know what will be the way to designate the
+      new king.
+
+      For this, the king's last hand summons the most powerful Houses in an unprecedented act. Only one of the Houses will be made with the possession of the throne until another is achieved snatch in new battles.
+
+      To take over the throne, it must be the most skillful House. Only the one who manages to open a large safe closed with chains will find inside the king's crown. If it fails, only the king's hand can sit on the throne until there is a king.
+    ca: |-
+      El Tron de Ferro està en joc i segueix la lluita de les diferents Cases per fer-se amb ell. La reina dels set Regnes, Cersei, de la família Lannister, ha mort deixant un missatge sota el seu llit de mort en el qual marcava un nou reglament per a la seva successió. Per sorpresa pels Lannister, ningú heretarà la corona i és moment de saber quin serà la manera de designar al
+      nou rei.
+
+      Per a això, l'última mà del rei convoca a les Cases més poderoses en un acte sense precedents. Solament una de les Cases es farà amb la possessió del tron fins que una altra l'hi aconsegueixi arrabassar en noves batalles.
+
+      Per fer-se amb el tron caldrà ser la Casa més hàbil. Solament la que aconsegueixi obrir una gran caixa forta tancada amb cadenes trobarà a l'interior la corona del rei. Si no ho aconsegueix, solament la mà del rei podrà asseure's en el tron fins que hi hagi rei.
+    es: |
+      El Trono de Hierro está en juego y sigue la lucha de las diferentes Casas por hacerse con él. La reina de los siete Reinos, Cersei, de la familia Lannister, ha muerto dejando un mensaje bajo su lecho de muerte en el que marcaba un nuevo reglamento para su sucesión. Por sorpresa para los Lannister, nadie heredará la corona y es momento de saber cuál será la manera de designar al
+      nuevo rey.
+
+      Para ello, la última mano del rey convoca a las Casas más poderosas en un acto sin precedentes. Solo una de las Casas se hará con la posesión del trono hasta que otra se lo logre arrebatar en nuevas batallas.
+
+      Para hacerse con el trono habrá que ser la Casa más hábil. Solo la que logre abrir una gran caja fuerte cerrada con cadenas encontrará en el interior la corona del rey. Si no lo consigue, solo la mano del rey podrá sentarse en el trono hasta que haya rey.
+  localization:
+    en: Castle & Gardens, meeting rooms, venues
+    ca: Castells, jardins, venues
+    es: Castillos, jardines, espacios de eventos
+  included:
+    en: |-
+      Design of tests and puzzles
+      Replica of the Crown
+      Staff and material for the development of the activity
+      Props of the series
+      Transport of material and personnel
+    ca: "Disseny de proves i enigmes \nRèplica de la Corona \nPersonal i material
+      per al desenvolupament de l'activitat\nAtrezzo de la sèrie\nTransporti de material
+      i personal"
+    es: "Diseño de pruebas y enigmas \nRéplica de la Corona \nPersonal  y material
+      para el desarrollo de la actividad\nAtrezzo de la serie\nTransporte de material
+      y personal"
+  not_included:
+    en: |-
+      Space
+      Replica of the Iron Throne
+    ca: |-
+      L'espai
+      Rèplica del tron de ferro
+    es: "Espacio\nRéplica del trono de hierro "
+  contact:
+    en: Ask for more information
+    ca: 'Demana més informació '
+    es: 'Pide más información '
+  selected: true
+  language: ca, es, en
   duration: 2.0
   pax: 10
   price: 
-  tag: Cooking
-  accesibility: ask
+  tag: escape
+  accesibility: 'yes'
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498481704-32.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498481704-32.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498481706-33.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498481708-34.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-- id: '76968'
+  thumbnail: https://www.datocms-assets.com/120/1519899547-dinar-d-empresa-winsystems-castell-jalpi-2017-30.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1519899547-dinar-d-empresa-winsystems-castell-jalpi-2017-30.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1519898505-dinar-d-empresa-winsystems-castell-jalpi-2017-61.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1519899519-dinar-d-empresa-winsystems-castell-jalpi-2017-97.jpg?w=1024&fm=jpg
+- id: '76966'
   title:
-    en: Catamaran ride
-    ca: Passeig amb catamarà
-    es: Paseo en catamarán
+    en: Create your own song
+    ca: 'Creeu la vostra pròpia cançó! '
+    es: "¡Crear vuestra propia canción!"
   description:
-    en: "We’ll pick up the guests at the Hotel and take them to one of Lisbon’s pier
-      where is located our modern and recently inaugurated catamaran. \n\nWe will
-      take you during a 2,5 hours tour along the Tagus river, in a circuit connecting
-      the two bridges 25 Abril and Vasco da Gama, for a perspective of Lisbon’s main
-      attractions,  such as the riverside downtown, Belém quarter, Parque das Nações
-      (Expo98). \n\nOpen bar for soft drinks, beer and sangria  on board, together
-      with a 30 minutes cocktail with canapés at mile of the trip, to make sure the
-      networking and interaction between the participants is always present. Certainly
-      an afternoon to be remembered by all the participants. "
-    ca: "Us recollirem a l'hotel i anirem a un dels molls de Lisboa, on està situat
-      el nostre catamarà modern i recentment inaugurat. \n\nRealitzarem un recorregut
-      pel riu Tajo, un circuit que connecta els ponts 25 d'abril i Basc dóna Gamma.
-      Barra lliure de refrescs, cervesa i sangria a bord, juntament amb 30 minuts
-      de còctel amb canapès. Sens dubte una tarda per recordar."
-    es: "Os recogeremos en el hotel  y iremos a uno de los muelles de Lisboa, dónde
-      está situado nuestro catamarán moderno y recientemente inaugurado.\n\nRealizaremos
-      un recorrido por el río Tajo, un circuito que conecta los puentes  25 de abril
-      y Vasco da Gama. Barra libre de refrescos, cerveza y sandria a bordo, junto
-      con 30 minutos de coctel con canapés. Sin duda una tarde para recordar. "
+    en: "It is a small-format sound experience for 3D sound, where attendees participate,
+      record, transit intimately, using headphones and the device (dummy head). The
+      tracks are then listened to through headphones allowing for the listener to
+      hear from the dummy's perspective. \n\nWe will begin the dynamics with the participants
+      sitting in a circle around the microphone wearing headphones and have their
+      eyes covered.\n\nPeople are then invited to take advantage of the mask and explore
+      the sounds with different materials and generate a sound laboratory that turns
+      into a musical improvisation.\n\nThe idea is for everyone to participate and
+      leave their imprints in the creation of the song. Music is also part of the
+      brand image of a company.\n\nAt the end of the activity you will be given **the
+      recording of your single!**\n\n> Three-dimensional sound experience! It encourages
+      listener, creativity, fun and a great number of sensations."
+    ca: "És una experiència sonora de petit format amb so 3D, on els assistents, hi
+      participen, recorren, transiten de manera íntima, mitjançant auriculars i el
+      dispositiu (*Dummyhead*),; cap a una vivència única.\n\nComençarem la dinàmica
+      amb els participants asseguts en rotllana al voltant del micròfon porten uns
+      auriculars i tenen els ulls tapats.\n\nEls sons són amplificats per la tecnologia
+      binaural i això genera un efecte molt potent en el oient, que a més, al no poder
+      ubicar en un espai real d'on provenen aquests sons, té una sensació de sorpresa
+      constant.\n\nDesprés es convida a les persones a treure's l'antifaç i a explorar
+      amb diferents materials els sons i es genera un laboratori sonor que acava convertint-se
+      amb una improvització musical. \n\nLa idea és que tothom participi i deixi la
+      seva impremta en la creació de la cançó. La música també és part de la imatge
+      de marca d'una empresa.\n\nAl final de l'activitat se us entregarà la gravació
+      del vostre single!\n\n> Experiència sensorial grupal única que fomenta l'escolta,
+      la creativitat, la diversió i un gran nombre de sensacions."
+    es: "Es una experiencia sonora de pequeño formato con sonido 3D, donde los asistentes,
+      participan, recorren, transitan de manera íntima, mediante auriculares y el
+      dispositivo (*dummy head*). \n\nEmpezaremos la dinámica con todos los participantes
+      sentados en redonda alrededor del micrófono Cada uno tendrá sus auriculares
+      y su antifaz para empezar con los ojos cerrados.\n\nLos sonidos son amplificados
+      por la tecnología binaural y esto genera un efecto muy potente al oyente, y
+      aporta durante toda la sesión una sensación de sorpresa constante. Una vez hecho
+      esto, invitamos a las personas a sacarse el antifaz y a explorar con los diferentes
+      materiales con los que podemos hacer diferentes sonidos y generar un laboratorio
+      sonoro que acaba convirtiéndose en una improvisación musical.\n\nLa idea es
+      que todo el mundo participe y deje su imprenta en la creación de la canción.
+      La música también es parte de la imagen de marca de una empresa.\n\nAl final
+      de la actividad se os entregará **la grabación de vuestro single!**\n\n> Es
+      una experiencia sensorial grupal única que fomenta  la escucha, la creatividad,
+      la diversión y un gran número de sensaciones."
   localization:
-    en: Lisbon
-    ca: Lisboa
-    es: Lisboa
+    en: Offices, meetings rooms, bars, venues
+    ca: Oficines, sales, bars, venues
+    es: Oficinas, salas, bares, venues
   included:
-    en: "1 hour and a half tour of the river Tagus\nFree soft drinks, beer and sangria
-      \n30 minute cocktail"
+    en: |-
+      Material for the development of the activity
+      Music professional staff
     ca: |-
-      1 hora i mitja de recorregut pel riu Tajo
-      Barra lliure de refrescos, cervesa i sangria
-      Còctel de 30 minuts
+      Material necessari per al desenvolupament
+      Personal professional en l'àmbit de la música
     es: |-
-      1 hora y media de recorrido por el río Tajo
-      Barra libre de refrescos, cerveza y sangría
-      Coctel de 30 minutos
+      Material necesario para el desarrollo
+      Personal profesional en el ámbito de la música
+  not_included:
+    en: Space
+    ca: Espacio
+    es: Espacio
+  contact:
+    en: Ask for more information about our activities
+    ca: Demana més informació sobre l'experiència
+    es: Pide más información de nuestras actividades
+  selected: false
+  language: ca, es, en
+  duration: 1.5
+  pax: 6
+  price: 
+  tag: music
+  accesibility: 'yes'
+  destination: '76941'
+  thumbnail: https://www.datocms-assets.com/120/1519994618-_1110623.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1519994618-_1110623.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1519994677-_1110583.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1519995436-_1110534.jpg?w=1024&fm=jpg
+- id: '76967'
+  title:
+    en: Skateboarding Workshops
+    ca: 'Iniciació al skate '
+    es: 'Iniciación al skate '
+  description:
+    en: "Learn to skate. We teach from the most basic notions such as momentum, brake,
+      turns, obstacles ... \n> The limit is up to you!"
+    ca: "Aprèn a patinar amb un skate. Us ensenyem des de les nocions més bàsiques
+      com a impuls, fre, girs, obstacles ... \n> El límit ho poses tu!"
+    es: "Aprende a patinar con un skate. Os enseñamos desde las nociones más básicas
+      como impulso, freno, giros, obstáculos ... \n> ¡El límite lo pones tú!"
+  localization:
+    en: 'Skatepark '
+    ca: 'Skatepark '
+    es: 'Skatepark '
+  included:
+    en: |-
+      Skateboard monitor
+      Skateboard
+      Helmets and protections
+      Liability insurance
+    ca: "Monitor de skate \nTaula de skate\nCascs i proteccions\nAssegurança Responsabilitat
+      Civil "
+    es: "Monitor de skate \nTabla de skate\nCascos y protecciones\nSeguro de Responsabilidad
+      Civil"
   not_included:
     en: 
-    ca: 
-    es: 
+    ca: ''
+    es: ''
   contact:
-    en: Ask for more information about our activities
-    ca: Demana més informació de les nostres activitats
-    es: Pide más información de nuestras actividades
-  selected: true
-  language: es, en, fr, de, pt
-  duration: 1.0
-  pax: 10
-  price: 
-  tag: Catamarán
-  accesibility: ask
-  destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498482351-58.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498482351-58.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498482353-59.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498482355-60.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-- id: '76969'
-  title:
-    en: Adrenaline & Speed experience with competition pilot José Monroy
-    ca: Experiència amb un pilot de competició professional
-    es: Experiencia con un piloto de competición
-  description:
-    en: |-
-      Departing from the Hotel in Lisbon, we will head 45km south crossing the Tagus river to its other bank, through the 25 of April bridge and then coming back via Vasco da Gama bridge, which will offer to the participants nice panoramic views to Lisbon and surroundings.
-
-      We will divide the group into smaller teams and after a safety briefing we will proceed to a 20 minutes qualifying stage. Next step will be a 120 minutes Endurance race surrounded by competition spirit without never loosing of sight the good mood of each one of the participants.
-
-      The 3 winning teams will have the chance to take a 2 laps ride with Portuguese competition pilot José Monroy, who will be our host for this afternoon. As a plus there will be also a draw where 8 lucky group participants will win the chance to take a ride in José Monroy’s competition SEAT Leon Cupra vehicle.
-
-      Full-coverage of this event in video and photo is included and will be given to each one of the participants. Also trophies will be awarded to the 3 best lap’s participant pilots. Participation medals are also included and will be awarded to all activity guests by 4 pit hostesses.
-    ca: "Sortirem de l'hotel i anirem a 45km cap al sud travessant el riu Tajo, el
-      25 d'abril bridge i després tornar a través del pont Vasc da Gama, que oferirà
-      als participants panoràmiques vistes de Lisboa i voltants. \n\nDividirem el
-      grup en equips més petits i després d'una reunió de seguretat es procedirà als
-      20 minuts de la fase prèvia. Després es començarà la carrera de resistència.
-      Els tres equips guanyadors tindran l'oportunitat de fer dues voltes amb el pilot
-      de competició portuguès José Monroy. \nDurant l'esdeveniment realitzarem un
-      sorteig on 8 participants podran fer pujar i donar una volta al SEAT Leon Cupra
-      de José Monroy. \n\nCobertura completa de l'esdeveniment en vídeo i foto. S'atorgaran
-      trofeus als pilots participants i medalles de participació."
-    es: "Saldremos del  hotel y nos dirigimos a 45km hacia el sur cruzando el río
-      Tajo a su otra orilla, el 25 de abril bridge y luego regresar a través del puente
-      Vasco da Gama, que ofrecerá a las participantes panorámicas vistas a Lisboa
-      y alrededores. \n\nDividiremos el grupo en equipos más pequeños y después de
-      una reunión de seguridad se procederá a los 20 minutos de la fase previa. Después
-      se empezará la carrera de resistencia . Los tres equipos ganadores tendrán la
-      oportunidad de dar un paseo de dos vueltas con el piloto de competición portugués
-      José Monroy. \nDurante el evento realizaremos un sorteo dónde 8 participantes
-      podrán dar un paseo en el SEAT Leon Cupra de  José Monroy. \n\nCobertura completa
-      del evento en video y foto. Se otorgarán trofeos a los pilotos participantes,
-      medallas de participación."
-  localization:
-    en: Lisbon
-    ca: Lisboa
-    es: Lisboa
-  included:
-    en: |-
-      Career
-      Material for the activity
-      Trophies and medals of participation
-      Pictures and videos
-    ca: "Carrera \nMaterial per a l'activitat\nTrofeus i medalles de participació\nVídeos
-      i fotografies"
-    es: "Carrera \nMaterial para la actividad\nTrofeos y medallas de participación\nVídeos
-      y fotografías"
-  not_included:
-    en: Lunch
-    ca: Menjars
-    es: Comidas
-  contact:
-    en: Ask for more information about our activities
-    ca: Demana més informació de les nostres activitats
-    es: Pide más información de nuestras actividades
+    en: 'Ask for more information '
+    ca: 'Demana més informació '
+    es: 'Pide más información '
   selected: false
-  language: es, en, fr, de, pt
-  duration: 6.0
-  pax: 10
-  price: 
-  tag: Circuit
-  accesibility: ask
-  destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498481759-61.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498481759-61.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498481762-62.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498481765-63.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-- id: '76970'
-  title:
-    en: Photo Challenge around the city by GoCar
-    ca: Concurs fotogràfic per la ciutat amb GoCar
-    es: Concurso fotográfico por la ciudad con GoCar
-  description:
-    en: |+
-      Forget the tourist bus queues and make the most of your valuable holiday time with GoCar Lisbon.
-
-      We propose a Photo Challenge combined by GoCars. Discover the most beautiful places of the city, like getting inside the old quarters and admiring its viewpoints.
-
-      This activity is organized in rotation: while some teams are discovering the city center on foot, others are taking the GoCar to the Moorish maze of Alfama, Castle and Graça, with picturesque stops in amazing view points.
-
-      In all stops the group has to take pictures and answer some questions. As an alternative, the Sidecar tour can also be done in Belém, to explore its World Heritage Monuments. These pictures must be original, striking and appealing, to win the prize for best photographer!
-
-    ca: "Proposem un concurs fotogràfic, que es realitza amb Gocars.\n\nL'objectiu
-      és apropar als participants a la cultura portuguesa, les tradicions i permetre
-      que es relacionin amb la gent local. La idea d'aquest concurs és capturar i
-      mostrar meravelloses imatges que transmetin l'essència de Lisboa.\n\nDividirem
-      el grup en dos. Mentre uns realitzen una ruta a peu pel centre de la ciutat,
-      la resta descobriran la ciutat a bord d'un GoCar. \n\nDurant els recorreguts
-      realitzarem diferents parades i tots els participants hauran de prendre fotografies
-      que posteriorment seran ensenyades a tot el grup.\n\nNo us oblideu de capturar
-      imatges originals, impactants i cridaneres, per guanyar el premi al millor fotògraf!"
-    es: "Proponemos un concurso fotográfico, que se realiza con Gocars.\n\nEl objetivo
-      es acercar a los participantes a la cultura portuguesa, las tradiciones y permitir
-      que se relacionen con la gente local.  La idea de este concurso es capturar
-      y mostrar maravillosas imágenes que transmitan la esencia de Lisboa.\n\nDividiremos
-      el grupo en dos.  Mientras unos realizan una ruta a pie por el centro de la
-      ciudad, el resto descubrirán la ciudad a bordo de un GoCar. \n\nDurante los
-      recorridos realizaremos diferentes paradas y todos los participantes deberán
-      tomar fotografías que posteriormente se enseñaran al resto. \n\nNo os olvidéis
-      de capturar imágenes originales, impactantes y llamativas, para ganar el premio
-      al mejor fotógrafo!"
-  localization:
-    en: Lisbon
-    ca: Lisboa
-    es: Lisboa
-  included:
-    en: |-
-      Folder
-      Digital camera
-      Pendrive
-      Map
-      Roadbook
-      Ticket for Glória Lift
-      Ginja (cherry liqueur)
-      Water
-      Custard tart
-      Sidecar Ride
-    ca: |-
-      Càmeres digitals
-      Pendrive
-      Mapa
-      Roadbook
-      Bitllet d'ascensor de Glória
-      Ginja (licor de cirera)
-      Aigua
-      Pastís de natilles
-      Passeig en Sidecar
-    es: |-
-      Cámaras digitales
-      Pendrive
-      Mapa
-      Roadbook
-      Billete de ascensor de Glória
-      Ginja (licor de cereza)
-      Agua
-      Tarta de natillas
-      Paseo en Sidecar
-  not_included:
-    en: Lunch
-    ca: Menjars
-    es: Comidas
-  contact:
-    en: Ask for more information about our activities
-    ca: Demana més informació de les nostres activitats
-    es: Pide más información de nuestras actividades
-  selected: false
-  language: es, en, fr, de, pt
+  language: ca, es, en
   duration: 2.0
-  pax: 10
+  pax: 5
   price: 
-  tag: Sidecar
-  accesibility: ask
+  tag: Skate
+  accesibility: 'no'
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1498481803-64.jpg?ch=DPR%2CWidth&auto=format&w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498481803-64.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498481806-65.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498481808-66.jpg?ch=DPR%2CWidth&auto=format&w=1024&fm=jpg
+  thumbnail: https://www.datocms-assets.com/120/1519902146-13235176_881569228638393_8433572892571173484_o.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1519902146-13235176_881569228638393_8433572892571173484_o.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1519902156-11045465_756694847792499_7128162302594086320_o.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1519922506-captura-de-pantalla-2018-03-01-a-les-17-41-22.png?w=1024&fm=jpg
