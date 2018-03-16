@@ -4,10 +4,10 @@ section: blog
 locale: es
 title: La Cápsula
 date: 2018-03-10 23:00:00.000000000 Z
-tags: ''
+tags: team-building events
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1519837738-microphone-1209816_1920.jpg?w=1024&fm=jpg
-thumbnail: https://www.datocms-assets.com/120/1519837738-microphone-1209816_1920.jpg?w=105&fm=jpg
+image: https://www.datocms-assets.com/120/1519981660-_1110623.jpg?w=1024&fm=jpg
+thumbnail: https://www.datocms-assets.com/120/1519981660-_1110623.jpg?w=105&fm=jpg
 ---
 
 
@@ -25,8 +25,8 @@ Lo más extraordinario de la aventura es que mediante un micrófono en forma de 
 Al final de la sesión, disfrutaréis de unas canciones ejecutadas por nuestros músicos y se cierra el ciclo de nuestra exclusiva propuesta de sonido binaural. 
 Queremos explicar, un poco más la dinámica de esta gran actividad.
 
--	Laboratorio Sonoro, donde los participantes se sentarán en redonda alrededor del micrófono. Cada uno tendrá sus auriculares y su antifaz para empezar con los ojos cerrados. Durante los primeros minutos recibirán una lluvia sonora dinamizada por los profesionales donde irán sintiendo diferentes sensaciones. Los sonidos son amplificados por la tecnología binaural y esto genera un efecto muy potente al oyente, y aporta durante toda la sesión una sensación de sorpresa constante. Una vez hecho esto, invitamos a las personas a sacarse el antifaz y a explorar con los diferentes materiales con los que podemos hacer diferentes sonidos y generar un laboratorio sonoro que acaba convirtiéndose en una improvisación musical.
--	Dirección de orquestra  (dinámica de grupo). En esta segunda parte se introducen conceptos musicales a través de gestos y distribuimos los roles por grupos (percusión, melódicos y armónicos). Uno de nuestros profesionales será el director que guiará a todo el grupo. Todos los participantes pueden ser director si se animan.
+**Laboratorio Sonoro**, donde los participantes se sentarán en redonda alrededor del micrófono. Cada uno tendrá sus auriculares y su antifaz para empezar con los ojos cerrados. Durante los primeros minutos recibirán una lluvia sonora dinamizada por los profesionales donde irán sintiendo diferentes sensaciones. Los sonidos son amplificados por la tecnología binaural y esto genera un efecto muy potente al oyente, y aporta durante toda la sesión una sensación de sorpresa constante. Una vez hecho esto, invitamos a las personas a sacarse el antifaz y a explorar con los diferentes materiales con los que podemos hacer diferentes sonidos y generar un laboratorio sonoro que acaba convirtiéndose en una improvisación musical.
+**Dirección de orquestra**  (dinámica de grupo). En esta segunda parte se introducen conceptos musicales a través de gestos y distribuimos los roles por grupos (percusión, melódicos y armónicos). Uno de nuestros profesionales será el director que guiará a todo el grupo. Todos los participantes pueden ser director si se animan.
 El resultado es una dinámica de grupo donde es importantísimo estar atento, escuchar al resto y se genera una sensación muy especial: estar todo el mundo generando juntos una “pieza musical”. 
 Todo es muy diferente de lo que estamos acostumbrados, puesto que parece que estemos encerrados dentro de una cápsula.
 

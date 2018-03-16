@@ -10,8 +10,8 @@ ca:
     message: Recurs no trobat
   meta:
     description: The Green Vintage és una agència de receptiu amb seu a Barcelona
-      i Lisboa que ofereix serveis de team building i viatges d'incentiu per a empreses,
-      tan nacionals com a internacionals.
+      que ofereix serveis de team building i viatges d'incentiu per a empreses, tan
+      nacionals com a internacionals.
     keywords: esdeveniments, team building, activitats, startup, experiències, serveis,
       congressos, conferències, exposicions, reunions, dmc, festes, sopars, corporatius,
       barcelona, catalunya
@@ -82,7 +82,7 @@ ca:
     company:
       title: Coneix The Green Vintage
       description: |-
-        Sóm una agència receptiva amb seu a Barcelona i Lisboa. Som apasionats en dirigir, crear, organitzar viatges d’incentiu i activitats de team building. Produim motivació, inspiració i generem experiències.
+        Sóm una agència receptiva amb seu a Barcelona. Som apasionats en dirigir, crear, organitzar viatges d’incentiu i activitats de team building. Produim motivació, inspiració i generem experiències.
 
         Som enèrgics i reactius, sent l'entusiasme el nostre punt fort. La complementarietat dels nostres perfils ens permet ser creatius. L'excel·lent coneixement del sector, l'òptima col·laboració amb proveïdors i la inquietud per la innovació i l'excel·lència ens permeten materialitzar qualsevol projecte amb total garantia. Ens movem pensant sempre en solucions.
     commitment_title: El nostre compromís
@@ -203,7 +203,7 @@ ca:
     title: Contacte
     menu: Contacte
     in_contact: Seguim en contacte
-    proposal: Expliqui'ns la teva proposta
+    proposal: Expliqui'ns la seva proposta
     send: Enviar
     message_placeholder: Missatge
     subject_placeholder: Assumpte

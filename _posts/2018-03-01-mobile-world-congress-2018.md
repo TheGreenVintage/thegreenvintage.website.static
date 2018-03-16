@@ -18,8 +18,16 @@ Nosotras creemos que este evento tiene una gran repercusión sobre la ciudad de 
 
 **¿Qué es el MWC?**
 
-El Mobile World Congress (MWC) es un congreso que se hace cada año y hace referencia a la comunicación móvil. Des del año 2006 se celebra en Barcelona. Se considera el congreso más importante del sector y lo fundó Delson Group Inc.
+El Mobile World Congress (MWC) es un congreso que se hace cada año y hace referencia a la comunicación móvil. Desde el año 2006 se celebra en Barcelona. Se considera el congreso más importante del sector y lo fundó Delson Group Inc.
 Se trata la tecnología global y el I+D para fomentar la colaboración internacional en la comunicación móvil. Es muy conocido por ser el espacio donde se produce un mayor número de presentaciones de avances en móviles. Generalmente, acuden a este gran evento infinidad de científicos, empresarios, ingenieros, inversores y también muchos apasionados del sector que, aunque no se dediquen plenamente a ello, deciden acudir a la cita.
-Muchas son las marcas que han estado presentes este año. Y tú, ¿has asistido al Mobile World Congress 2018? Si quieres hacer un evento relacionado con el MWC, no dudes en contactar con nosotras, ¡será un placer ayudarte!
+Muchas son las marcas que han estado presentes este año. Y tú, ¿has asistido al Mobile World Congress 2018? Si quieres realizar un evento relacionado con el MWC, no dudes en contactar con nosotros. 
+
+> ¡será un placer ayudarte!
 
 
+
+
+
+### MWC18
+
+![](https://www.datocms-assets.com/120/1520008263-1-1.jpg)

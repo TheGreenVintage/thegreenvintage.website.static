@@ -61,7 +61,7 @@ section: destination
     </div><!--row-->
 
     <div class="row">
-      {% assign related_activities = site.data.activities | where: 'destination', page.destination.id | where: 'selected', true %}
+      {% assign related_activities = site.data.activities | sample:3 %}
       {% include activitieslist.html activities=related_activities %}
     </div><!--grid-->
 

@@ -2,7 +2,7 @@
   name:
     en: Barcelona
     ca: Barcelona
-    es: España
+    es: Barcelona
   intro:
     en: Located on the Mediterranean sea. Barcelona is a symbol of architecture, design,
       history, tradition, culture, modernity, nightlife and cuisine are some of the
@@ -16,9 +16,9 @@
       ciudad mediterránea, cosmopolita, dinámica e innovadora, llena de contrastes,
       color, luz    y diversidad.
   title:
-    en: Barcelona, a real open-air museum
-    ca: Barcelona, un autèntic museu a l'aire lliure
-    es: Barcelona, un auténtico museo al aire libre
+    en: A real open-air museum
+    ca: Un autèntic museu a l'aire lliure
+    es: Un auténtico museo al aire libre
   description:
     en: 'Catalonia and Barcelona has become one of the first tourist destination of
       Spain. Barcelona sited between the Mediterranean Sea and the Serra de Collserola.
@@ -93,11 +93,11 @@
     ca: "<em>International Congress and Convention Association</em> (ICCA)"
     es: "<em>International Congress and Convention Association</em> (ICCA)"
   brochure_file:
-    en: The Green Vintage - Barcelona.pdf
-    ca: The Green Vintage - Barcelona.pdf
-    es: The Green Vintage - Barcelona.pdf
+    en: The Green Vintage Events - Brochure.pdf
+    ca: The Green Vintages Events - Nosotros.pdf
+    es: The Green Vintages Events - Nosotros.pdf
   download_brochure:
-    en: Download our Barcelona Brochure
+    en: Download our Brochure
     ca: 'Descarrega''t el nostre catàleg '
     es: Descárgate nuestro catálogo
   video: https://www.youtube.com/embed/sqlIFmMiIqU
@@ -122,22 +122,22 @@
   - https://www.datocms-assets.com/120/1519754381-_rb_9182r_fotor.jpg?w=1024&h=682&fit=crop&fm=jpg
   - https://www.datocms-assets.com/120/1519754442-casagracia4_low-1.jpg?w=1024&h=682&fit=crop&fm=jpg
   - https://www.datocms-assets.com/120/1519754449-de-tranquis-2.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519857360-17632402_1933154763595832_6109322241986277119_o.jpg?w=1024&h=682&fit=crop&fm=jpg
 - id: '76941'
   name:
     en: Madrid
     ca: Madrid
-    es: Portugal
+    es: Madrid
   intro:
     en: Madrid is a community with a rich history, great traditions and a welcoming
-    ca: Lisboa és una ciutat màgica, on el passat imperial, la seva història, els
-      seus paisatges i la seva gent, fan de la ciutat un lloc especial ple d'infinites
-      possibilitats.
-    es: Lisboa es una ciudad mágica, donde el pasado imperial, su historia, sus paisajes
-      y su gente, hacen de la ciudad un lugar especial lleno de infinitas posibilidades.
+    ca: Madrid és una ciutat màgica, on la seva història, els seus paisatges i la
+      seva gent, fan de la ciutat un lloc especial ple d'infinites possibilitats.
+    es: Madrid es una ciudad mágica, donde su historia, sus paisajes y su gente, hacen
+      de la ciudad un lugar especial lleno de infinitas posibilidades.
   title:
-    en: Culture, history and great food
-    ca: Cultura, història i gastronomia
-    es: Abierta y dinámica
+    en: Culture, history, art and great food
+    ca: Ciutat vital, acollidora i cosmopolita
+    es: Ciudad vital, acogedora y cosmopolita
   description:
     en: Madrid, Spain's central capital, is a city of elegant boulevards and expansive,
       manicured parks such as the Retiro. It’s renowned for its rich repositories
@@ -145,89 +145,60 @@
       Spanish masters. The heart of old Hapsburg Madrid is the portico-lined Plaza
       Mayor, and nearby is the baroque Royal Palace and Armory, displaying historic
       weaponry.
-    ca: |-
-      Lisboa és la capital de l'Europa continental situada més al sud-oest, és un lloc on la mescla de l'Europa moderna i el seu il·lustre passat adquireix un sabor únic, gairebé impossible de descriure en una frase. Dinàmica, cultural, plena de vida són la marca d'una ciutat fascinant. Fires, festes, festivals i esdeveniments culturals són una part constant de la capital portuguesa.
-
-      Lisboa, va ser construïda sobre set turons, Castelo, Graça, Muntanya, Penha de França, S. Pedro de Alcântara, Santa Catarina i Estrela de Lisboa s'estén en forma d'un amfiteatre de la riba nord del riu Tajo. Aquesta històrica capital té caràcter encantador, on 800 anys d'una àmplia gamma d'influències culturals, juntament amb les últimes tendències i estils de vida, han generat contrastos veritablement espectaculars.
-    es: |-
-      Lisboa es la capital de la Europa continental situada más al suroeste, es un lugar donde la mezcla de la Europa moderna y su ilustre pasado adquiere un sabor único, casi imposible de describir en una frase. Dinámica, cultural, llena de vida son la marca de una ciudad fascinante y multifacética.  Ferias, fiestas, festivales y eventos culturales son una parte constante de la capital portuguesa.
-
-      Lisboa, fue construida sobre siete colinas, Castelo, Graça, Monte, Penha de França, S. Pedro de Alcântara, Santa Catarina y Estrela de Lisboa se extiende en forma de un anfiteatro de la orilla norte del río Tajo. Esta histórica capital tiene carácter infrecuente y encanto, donde 800 años de una amplia gama de influencias culturales, junto con las últimas tendencias y estilos de vida, han generado contrastes verdaderamente espectaculares.
+    ca: Madrid, capital d'Espanya, és una ciutat cosmopolita que combina les infraestructures
+      més modernes i la seva condició de centre econòmic, financer, administratiu
+      i de serveis amb un immens patrimoni cultural i artístic, llegat de segles d'història
+      apassionant.
+    es: Madrid, capital de España, es una ciudad cosmopolita que combina las infraestructuras
+      más modernas y su condición de centro económico, financiero, administrativo
+      y de servicios con un inmenso patrimonio cultural y artístico, legado de siglos
+      de historia apasionante.
   message:
-    en: |2-
-
-      Lisbon, capital of Portugal, magical and unique
-    ca: Lisboa, capital de Portugal, màgica i única
-    es: Lisboa, capital de Portugal, mágica y única
+    en: " Its rich artistic and gastronomic heritage, advanced transport network,
+      the quality of the accommodation and the passion with which the locals enjoy
+      Madrid's become one of the most attractive cities in the world."
+    ca: Una atractiva mezcla de tradición y modernidad
+    es: Una atractiva mezcla de tradición y modernidad
   venues_title:
     en: Events, spaces and venues
     ca: Esdeveniments, espais i venues
     es: Eventos, espacios y venues
   venues_description:
-    en: Lisbon is considered one of the most popular destination for international
-      congress. Furthermore, statistics says the capital of Portugal hosts close to
-      100 international corporate events per year. Wide range of places to make your
-      event different.
-    ca: 'Lisboa és considerada una de les destinacions més populars per als congressos
-      internacionals. A més, les estadístiques diuen que la capital portuguesa arriba
-      a assolir més de 100 esdeveniments internacionals a l''any. Milers d''opcions
-      perquè el seu esdeveniment sigui únic i original.
-
-'
-    es: Lisboa es considerado uno de los destinos más populares para los congresos
-      internacionales. Además, las estadísticas dicen que la capital portuguesa llega
-      a abarcar más de 100 eventos internacionales al año.Miles de opciones para que
-      su evento sea único y original.
+    en: The city of Madrid has untold venues that are ideal for hosting a wide range
+      of events, from showrooms to product launches, press conferences and even company
+      celebrations.
+    ca: Madrid compta amb una àmplia varietat d'espais multifuncionals per a esdeveniments,
+      presentacions de producte i una àmplia gamma d'allotjaments.
+    es: Madrid cuenta con una amplia variedad de espacios multifuncionales para eventos,
+      presentaciones de producto, amplia gamma de alojamientos.
   activities_title:
-    en: Lisboa experiences to enjoy
+    en: Madrid experiences to enjoy
     ca: Experiències per gaudir
     es: Experiencias para disfrutar
   activities_description:
-    en: Sun, beach, activities, culture, food and music. That’s why Lisbon is a suitable
-      destination for any incentive program and offers a wide range of activities.
-    ca: Sol, platja, activitats, cultura, gastronomia i música. És per això que Lisboa
-      és una destinació convenient per a qualsevol programa d'incentiu que ofereix
-      una gran varietat d'activitats.
-    es: 'Sol, playa, actividades, cultura, comida y música. Es por ello que Lisboa
-      es un destino conveniente para cualquier programa de incentivos que ofrece una
-      gran variedad de actividades. '
+    en: Activities, culture, food and music. That’s why Madrid is a suitable destination
+      for any incentive program and offers a wide range of activities.
+    ca: Activitats, cultura​ i​​ bon​ menjar​.​ Madrid és una destinació adequada
+      per a qualsevol programa d'incentius i ​activitats de team building​
+    es: Actividades, cultura​ y​​ buena​ comida​.​ Madrid es un destino adecuado para
+      cualquier programa de incentivos y ​actividades de team building​
   message_short:
     en: "<em>International Congress and Convention Association</em> (ICCA)"
     ca: "<em>International Congress and Convention Association</em> (ICCA)"
     es: "<em>International Congress and Convention Association</em> (ICCA)"
   brochure_file:
-    en: The Green Vintage - Lisbon.pdf
-    ca: The Green Vintage - Lisboa.pdf
-    es: The Green Vintage - Lisboa.pdf
+    en: The Green Vintage Events - Brochure.pdf
+    ca: The Green Vintage Events - Brochure.pdf
+    es: The Green Vintage Events - Brochure.pdf
   download_brochure:
-    en: Download our Lisbon Brochure
+    en: Download our Brochure
     ca: 'Descarrega''t el nostre catàleg '
     es: 'Descárgate nuestro catálogo '
-  video: https://www.youtube.com/watch?v=K3dWyiIt21w
+  video: https://www.youtube.com/embed/K3dWyiIt21w
   photo: https://www.datocms-assets.com/120/1519754964-madrid-overview-sunsetovermadrid-xlarge.jpg?w=480&h=270&fit=crop&fm=jpg
   gallery:
-  - https://www.datocms-assets.com/120/1519670626-1.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670629-2.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670633-3.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670635-4.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670637-5.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670639-6.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670642-7.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670644-8.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670647-9.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670649-10.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670651-11.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670654-12.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670657-13.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670660-14.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670662-15.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670664-16.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670666-17.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670669-18.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670671-19.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670673-20.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670678-21.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670680-22.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670682-23.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670685-24.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670688-25.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519856929-t40_15-10-17-laestacion-79_1_69354.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519856932-_ssg7014.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1520007904-carrusel_penthouse2.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1520009068-img_2403.JPG?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1520009073-top-espacios-eventos-canela-768x512.jpg?w=1024&h=682&fit=crop&fm=jpg
