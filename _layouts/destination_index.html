@@ -21,12 +21,10 @@ section: destination
           {{ page.destination | field: 'description' | newline_to_br | strip_newlines }}
           </p>
 
-          {% if page.locale == 'en' %}
-            {% assign bfile = page.destination | field: 'brochure_file' %}
-            <p>
-              <a href="/assets/files/{{ page.locale }}/{{ bfile }}" download="{{ bfile }}" class="btn btn-radius theme-btn-color">{{ page.destination | field: 'download_brochure' }}</a>
-            </p>
-          {% endif %}
+          {% assign bfile = page.destination | field: 'brochure_file' %}
+          <p>
+            <a href="/assets/files/{{ page.locale }}/{{ bfile }}" download="{{ bfile }}" class="btn btn-radius theme-btn-color">{{ page.destination | field: 'download_brochure' }}</a>
+          </p>
         </div>
     </div>
     <div class="row">
