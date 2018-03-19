@@ -3,7 +3,7 @@ layout: post
 section: blog
 locale: es
 title: Taller de Graffity
-date: 2018-03-22 07:00:00.000000000 Z
+date: 2018-03-29 06:00:00.000000000 Z
 tags: ''
 author: Paula Bao
 image: https://www.datocms-assets.com/120/1519839008-1515494539-img_0343.jpg?w=1024&fm=jpg
