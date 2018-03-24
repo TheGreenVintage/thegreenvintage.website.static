@@ -80,7 +80,7 @@
     en: Ask for more information about our activities
     ca: Demana més informació de les nostres activitats
     es: Pide más información de nuestras actividades
-  selected: false
+  selected: true
   language: es, ca, en
   duration: 2.0
   pax: 10
@@ -259,72 +259,6 @@
   photo1: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1498827228-img_1221.JPG?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1498827238-img_1209.JPG?w=1024&fm=jpg
-- id: '76956'
-  title:
-    en: Creativity with graffiti
-    ca: Creativitat amb grafitis
-    es: Creatividad con grafitis
-  description:
-    en: "Creative activity in team able to submerge any company into unique art experiences.\n\nThe
-      experience begins with an introduction to the world of graffiti since its inception
-      and they will teach you the basic techniques of how to use a spray to be able
-      to start in this underground culture. \n\n> Will extract the artist that exists
-      in every one of you!\n"
-    ca: "Activitat creativa en equip capaç de submergir a qualsevol empresa en experiències
-      úniques d'art, introduint-se en mons creatius desconeguts.\nL'experiència comença
-      amb una introducció al món del grafiti des dels seus inicis i li ensenyaran
-      les tècniques bàsiques de com utilitzar un spray per poder iniciar-se en aquesta
-      cultura underground.\n\nExtraurà l'artista que existeix en cadascun de vosaltres!
-      \n\nDurant l'activitat crearem un vídeo per al record de la seva empresa.\n\nÉs
-      l'activitat perfecta per alliberar estrès,fomentar la comunicació i el treball
-      en equip amb un ambient d'hip-hop."
-    es: "Actividad creativa en equipo capaz de sumergir a cualquier empresa en experiencias
-      únicas de arte, introduciéndose en mundos creativos desconocidos.\n\nLa experiencia
-      comienza con una introducción al mundo del graffiti desde sus inicios y le enseñarán
-      las técnicas básicas de cómo utilizar un spray para poder iniciarse en esta
-      cultura underground. \n\n> Extraerá el artista que existe en cada uno de vosotros!\n\nEs
-      la actividad perfecta para liberar estrés,fomentar la comunicación y el trabajo
-      en equipo con un ambiente hip-hop."
-  localization:
-    en: Indoor/Outdoor
-    ca: Indoor/Outdoor
-    es: Indoor/Outdoor
-  included:
-    en: "Sprays (waterproof)\nHip Hop DJ \nPro Graffiti Artists\nProfessional assistant"
-    ca: |-
-      Esprais (pintura a l'aigua)
-      Personal: cap de producció, assistent de producció, artista pro
-      Hip Hop DJ
-      Altres materials: màscares, guants làtex i uniforme d'un sol ús ...
-    es: "Set de colores de pintura en aerosol a base de agua (no tóxico)\nPersonal:
-      jefe producción, asistente de producción, artista pro\nHip Hop DJ \nOtros materiales:
-      máscaras, guantes látex y mono desechable… "
-  not_included:
-    en: |-
-      Space
-      Drinks during the activity
-      Photo and video report
-    ca: |-
-      L'espai
-      Begudes durant l'activitat
-      Reportatge fotogràfic i vídeo
-    es: "Espacio\nBebidas durante la actividad\nReportaje fotográfico y vídeo "
-  contact:
-    en: Ask for more information about our workshop
-    ca: Demana més informació dels nostres tallers
-    es: Pide más información de nuestros talleres
-  selected: true
-  language: es, ca, en
-  duration: 2.0
-  pax: 10
-  price: 
-  tag: graffitis
-  accesibility: 'yes'
-  destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1515494522-img_0322.jpg?w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1515494716-img_0410.jpg?w=1024&fm=jpg
 - id: '76949'
   title:
     en: Authentic Catalan Experience
@@ -427,7 +361,7 @@
     en: Ask for more information about our activities
     ca: Demana més informació de les nostres activitats
     es: Pide más información de nuestras actividades
-  selected: true
+  selected: false
   language: es, ca, en, fr, de, pt
   duration: 6.0
   pax: 2
@@ -439,6 +373,72 @@
   photo1: https://www.datocms-assets.com/120/1498481918-14.jpg?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1498481921-15.jpg?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1498481924-16.jpg?w=1024&fm=jpg
+- id: '76956'
+  title:
+    en: Creativity with graffiti
+    ca: Creativitat amb grafitis
+    es: Creatividad con grafitis
+  description:
+    en: "Creative activity in team able to submerge any company into unique art experiences.\n\nThe
+      experience begins with an introduction to the world of graffiti since its inception
+      and they will teach you the basic techniques of how to use a spray to be able
+      to start in this underground culture. \n\n> Will extract the artist that exists
+      in every one of you!\n"
+    ca: "Activitat creativa en equip capaç de submergir a qualsevol empresa en experiències
+      úniques d'art, introduint-se en mons creatius desconeguts.\nL'experiència comença
+      amb una introducció al món del grafiti des dels seus inicis i li ensenyaran
+      les tècniques bàsiques de com utilitzar un spray per poder iniciar-se en aquesta
+      cultura underground.\n\nExtraurà l'artista que existeix en cadascun de vosaltres!
+      \n\nDurant l'activitat crearem un vídeo per al record de la seva empresa.\n\nÉs
+      l'activitat perfecta per alliberar estrès,fomentar la comunicació i el treball
+      en equip amb un ambient d'hip-hop."
+    es: "Actividad creativa en equipo capaz de sumergir a cualquier empresa en experiencias
+      únicas de arte, introduciéndose en mundos creativos desconocidos.\n\nLa experiencia
+      comienza con una introducción al mundo del graffiti desde sus inicios y le enseñarán
+      las técnicas básicas de cómo utilizar un spray para poder iniciarse en esta
+      cultura underground. \n\n> Extraerá el artista que existe en cada uno de vosotros!\n\nEs
+      la actividad perfecta para liberar estrés,fomentar la comunicación y el trabajo
+      en equipo con un ambiente hip-hop."
+  localization:
+    en: Indoor/Outdoor
+    ca: Indoor/Outdoor
+    es: Indoor/Outdoor
+  included:
+    en: "Sprays (waterproof)\nHip Hop DJ \nPro Graffiti Artists\nProfessional assistant"
+    ca: |-
+      Esprais (pintura a l'aigua)
+      Personal: cap de producció, assistent de producció, artista pro
+      Hip Hop DJ
+      Altres materials: màscares, guants làtex i uniforme d'un sol ús ...
+    es: "Set de colores de pintura en aerosol a base de agua (no tóxico)\nPersonal:
+      jefe producción, asistente de producción, artista pro\nHip Hop DJ \nOtros materiales:
+      máscaras, guantes látex y mono desechable… "
+  not_included:
+    en: |-
+      Space
+      Drinks during the activity
+      Photo and video report
+    ca: |-
+      L'espai
+      Begudes durant l'activitat
+      Reportatge fotogràfic i vídeo
+    es: "Espacio\nBebidas durante la actividad\nReportaje fotográfico y vídeo "
+  contact:
+    en: Ask for more information about our workshop
+    ca: Demana més informació dels nostres tallers
+    es: Pide más información de nuestros talleres
+  selected: true
+  language: es, ca, en
+  duration: 2.0
+  pax: 10
+  price: 
+  tag: graffitis
+  accesibility: 'yes'
+  destination: '76940'
+  thumbnail: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1515494522-img_0322.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1515494716-img_0410.jpg?w=1024&fm=jpg
 - id: '76950'
   title:
     en: MasterChef
@@ -1425,6 +1425,121 @@
   photo1: https://www.datocms-assets.com/120/1519994618-_1110623.jpg?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1519994677-_1110583.jpg?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1519995436-_1110534.jpg?w=1024&fm=jpg
+- id: '76965'
+  title:
+    en: 'Lights, Camera, Action! '
+    ca: Llums, càmera i acció!
+    es: "¡Luces, cámara, acción! "
+  description:
+    en: "Managing each film requires effective teamwork,communication, planning, project
+      management and cooperation to enable the films to be produced to\nspecification.
+      \n\nWithin 5 hours, we prepare, dress, shoot, edit and project your film! We
+      turn a film into a fresh and fun experience.\n\nAfter the screening, we will
+      distribute the Oscar awards. We propose 4 recognitions (individual and collective
+      awards)\n\n- Best male character\n- Best female character\n- The best group
+      of characters\n- The best movie\n\nThere are different styles and movies: Dracula,
+      Robin Hood, The Lost Ark, The Fox, The Swing War, The Lost Treasure.\n\n> A
+      team building film is an innovative event that provides an opportunity to deal
+      with new issues in the company through an interesting activity in an unusual
+      context."
+    ca: "L’equip d’actors ens ha fallat a última hora i ens disposem a rodar una pel·lícula
+      amb qui tenim a mà. Convertim als participants en els actors de la pel·lícula
+      i els vestim com el personatge que representen.\n\nNo hi ha jerarquies, els
+      fem actuar e interrelacionar-se recreant l’atmosfera d’un rodatge;... tots ens
+      hauràn d’ajudar amb els efectes especials, o en l’escena del ball... I tot amb
+      una única finalitat, tirar endavant l’objectiu final comú: LA PEL.LÍCULA.\n\nEn
+      un plaç de 5 hores, preparem, vestim, rodem, editem i projectem la vostra pel.lícula!
+      Convertim un rodatge cinematogràfic en una experiència fresca i divertida! \n\nDesprés
+      de la projecció farem el repartiment dels premis. Proposem 4 reconeixements
+      (premis individuals i col·lectius)\n\n- Millor personatge masculí\n- Millor
+      personatge femení\n- Millor grup de personatges\n- Millor pel·lícula\n\n\nHi
+      ha diferents estils i pel·lícules: DRÀCULA, ROBIN HOOD, L'ARCA PERDUDA, EL ZORRO,
+      LA GUERRA DEL SWING, PISTOLES AL SOL i EL TRESOR PERDUT\n\n> Anima't a participar!
+      Treu l'actor que portes dins!"
+    es: |-
+      El equipo de actores nos ha fallado a última hora y nos disponemos a rodar una película con lo que tenemos a mano. Convertimos a los participantes en los actores de la película y los vestimos como el personaje que representan.
+
+      No hay jerarquías, los hacemos actuar e interrelacionarse recreando la atmósfera de un rodaje;... alguien tendrá que ayudar con los efectos especiales, o en la escena del baile... Y todo con un único fin, llevar adelante el objetivo final común: LA PELÍCULA.
+
+      En un plazo de 5 horas, preparamos, vestimos, rodamos, editamos y proyectamos vuestra película. ¡Convertimos un rodaje cinematográfico en una experiencia fresca y divertida!
+
+      Después de la proyección haremos el reparto de premios. Proponemos 4 reconocimientos (premios individuales y colectivos)
+
+      - Mejor personaje masculino
+      - Mejor personaje femenino
+      - Mejor grupo de personajes
+      - Mejor película
+
+
+      Hay diferentes estilos y películas: Drácula,  Robin Hood, El Arca Perdida, El Zorro, La Guerra Del Swing y El Tesoro Perdido.
+
+      > ¡Anímate a participar! ¡Saca el actor que llevas dentro!
+  localization:
+    en: Indoor/Outdoor
+    ca: Indoor/Outdoor
+    es: Indoor/Outdoor
+  included:
+    en: |-
+      Props Theatre employees and participants
+      Special Effects Lighting and Equipment
+      Edition of Shooting
+      Pre-production and shooting scripts
+      Staff needed for development and editing
+      Film projection
+      Send video file
+      Oscar winners
+      Silent film
+      Transfer
+    ca: |-
+      Attrezzo necessari per als participants i personal
+      Equip d’il.luminació, gravació i efectes si és necessari
+      Components per l’ edició del rodatge de l’activitat
+      Preproduccions i guions realitzats amb anterioritat
+      Personal necessari pel, desenvolupament i edició
+      Projecció de la pel.lícula
+      Enviament del vídeo posterior a l'activitat
+      Entrega premis "Estàtua Òscar"
+      Desplaçaments
+    es: |-
+      Attrezzo necesario para los participantes y personal
+      Equipo de iluminación, grabación y efectos si es necesario
+      Componentes por la edición del rodaje de la actividad
+      Preproducciones y guiones realizados con anterioridad
+      Personal necesario para el desarrollo y edición
+      Proyección de la película
+      Envío del vídeo posterior a la actividad
+      Entrega de premios "La estatuilla de los Oscar"
+      Desplazamientos
+      Cine mudo
+  not_included:
+    en: |-
+      Space rental
+      Audiovisual material: projector, portable screen, self-powered subwoofer
+      Makeup workshop
+      Customize the theme of the movie
+      Personalized awards
+    ca: "Lloguer de l’espai \nMaterial audiovisual: projector – pantalla portàtil
+      – equip autoamplificat \nTaller de maquillatge \nPersonalitzar la temàtica de
+      la pel·lícula\nPremis personalitzats"
+    es: "Alquiler del espacio \nMaterial audiovisual: proyector – pantalla portátil
+      – equipo autoamplificado\nTaller de maquillaje \nPersonalizar la temática de
+      la película\nPremios personalizados"
+  contact:
+    en: Ask for more information about our movies
+    ca: 'Demana més informació de les nostres pel·lícules '
+    es: Pide más información sobre nuestras películas
+  selected: false
+  language: ca, es, en
+  duration: 2.0
+  pax: 10
+  price: 
+  tag: cine
+  accesibility: 'yes'
+  destination: '76941'
+  thumbnail: https://www.datocms-assets.com/120/1519990410-_dsc5268.JPG?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1519990410-_dsc5268.JPG?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1519990423-cheap-film-dau-96.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1519990778-cheap-film-dau-62.jpg?w=1024&fm=jpg
 - id: '76967'
   title:
     en: Skateboarding Workshops
@@ -1471,3 +1586,80 @@
   photo1: https://www.datocms-assets.com/120/1519902146-13235176_881569228638393_8433572892571173484_o.jpg?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1519902156-11045465_756694847792499_7128162302594086320_o.jpg?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1519922506-captura-de-pantalla-2018-03-01-a-les-17-41-22.png?w=1024&fm=jpg
+- id: '76970'
+  title:
+    en: BRAINGAMING
+    ca: BRAINGAMING
+    es: BRAINGAMING
+  description:
+    en: "\n> TRAIN YOUR BRAIN AND HAVE FUN \n\n**BENEFITS**\n\n• Have fun and feel
+      good\n• Memory formation\n• Cognitive formation\n• Reduce risks of mental diseases\n•
+      Speed up your responses\n• Reduce Stress\n• Teamwork\n• Speed up your concentration\n•
+      Have fun with your colleagues"
+    ca: |-
+      **Què és “BRAINGAMING”?**
+
+      BRAINGAMING és una sessió de jocs pensada i dissenyada per portar al
+      grup a una estona de diversió, intercanvi i evasió.
+
+      Utilitzant jocs de taula d’última generació i de regles senzilles es conduirà una activitat fresca i distesa.
+
+      Una consecució de jocs estructurada per etapes que provoquen les reaccions esperades fins a deixar als participants en la situació idònia per compartir, relacionar-se o tornar a treballar un cop han relaxat la ment.
+
+      > Jocs de velocitat visual, agilitat tàctil, intel·ligències emocionals o rols ocults faran que tothom pugui treure el millor de sí mateix.
+
+      Els jocs són conduïts per monitoratge expert que combina el coneixement de les regles amb la gestió de grups.
+    es: |-
+      **¿Qué es el “BRAINGAMING”?**
+
+      BRAINGAMING es una sesión de juegos pensada y diseñada para traer al
+      grupo a un rato de diversión, intercambio y evasión.
+
+      Utilizando juegos de mesa de última generación y de reglas sencillas se conducirá una actividad fresca y distendida.
+
+      Una consecución de juegos estructurada por etapas que provocan las reacciones esperadas hasta dejar a los participantes en la situación idónea para compartir, relacionarse o volver a trabajar una vez han relajado la mente.
+
+      > Juegos de velocidad visual, agilidad táctil, inteligencias emocionales o roles ocultos harán que todo el mundo pueda sacar el mejor de sí mismo.
+
+      Los juegos son conducidos por monitorización experta que combina el conocimiento de las reglas con la gestión de grupos.
+  localization:
+    en: Indoor/outdoor
+    ca: Indoor/outdoor
+    es: Indoor/outdoor
+  included:
+    en: |-
+      Material
+      Staff
+      Transfer
+    ca: |-
+      Material necessari per conduir l’activitat
+      Monitor
+      Desplaçament
+    es: |-
+      Material necesario para conducir la actividad
+      Monitor
+      Desplazamiento
+  not_included:
+    en: 'Rent space '
+    ca: |-
+      Lloguer de l’espai on es realitza l’activitat si s’escau
+      Manutenció del monitor si l’activitat és de més de 3 hores de durada
+    es: |-
+      Alquiler del espacio donde se realiza la actividad (si es necesario)
+      Manutención del monitor si la actividad es de más de 3 horas de duración
+  contact:
+    en: Ask for more information about our games
+    ca: Demana més informació sobre els jocs que disposem
+    es: Pide más información sobre los juegos que disponemos
+  selected: false
+  language: ca, es, en
+  duration: 2.0
+  pax: 10
+  price: 
+  tag: game
+  accesibility: 'yes'
+  destination: '76941'
+  thumbnail: https://www.datocms-assets.com/120/1521737591-captura-de-pantalla-2018-03-22-a-les-17-52-38.png?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1521737591-captura-de-pantalla-2018-03-22-a-les-17-52-38.png?w=1024&fm=jpg
+  photo2: 
+  photo3: 

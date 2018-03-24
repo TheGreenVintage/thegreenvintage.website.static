@@ -48,28 +48,28 @@
     ca: Barcelona es posiciona com una de les ciutats més visitades d'Europa. Ocupa
       actualment el 5è lloc en  el  rànquing  mundial  en major nombre de congressos
       internacionals.
-    es: "\nBarcelona se posiciona como una de las ciudades más visitadas de Europa.
+    es: 'Barcelona se posiciona como una de las ciudades más visitadas de Europa.
       Ocupa actualmente el 5o puesto en el ranking mundial en mayor número de congresos
-      internacionales.  "
+      internacionales.  '
   venues_title:
     en: Events, spaces and venues
     ca: Esdeveniments, espais i venues
     es: Eventos, espacios y venues
   venues_description:
     en: Barcelona is the world's mobile technology and smart city capital and it is
-      a unique destination for an exceptional event. For the second consecutive year
-      Barcelona has been chosen as the best destination for meetings and conferences
-      in Europe, announced at the 2015 World Travel Awards.
-    ca: |-
-      Admirar la seva arquitectura, degustar la seva sorprenent gastronomia, gaudir de l'ampli ventall d'activitats que ens ofereix i descobrir els últims avanços tecnològics són part del seu atractiu. Sens  dubte, una  destinació única per a un esdeveniment excepcional.
-
-      Barcelona, ha  estat escollida per segon any consecutiu com a millor destinació de reunions i conferències d’Europa al certamen <em>World Travel Awards</em> 2015
-    es: "Admirar su arquitectura, degustar su sorprendente gastronomía, disfrutar
-      del amplio abanico de   actividades que nos ofrece y descubrir los últimos avances
-      tecnológicos son parte de su atractivo.  Sin duda, un destino único para un
-      evento excepcional. \n\nBarcelona, ha sido elegida por segundo año consecutivo
-      como mejor destino de reuniones y  conferencias de Europa en el certamen <em>World
-      Travel Awards</em> 2015"
+      a unique destination for an exceptional event. Third year that Barcelona has
+      been chosen as the best destination for meetings and conferences in Europe,
+      announced at the 2017 World Travel Awards.
+    ca: Admirar la seva arquitectura, degustar la seva sorprenent gastronomia, gaudir
+      de l'ampli ventall d'activitats que ens ofereix i descobrir els últims avanços
+      tecnològics són part del seu atractiu. Barcelona, ha estat escollida per tercera
+      vegada com a millor destinació de reunions i conferències d’Europa al certamen
+      <em>World Travel Awards</em> 2017
+    es: Admirar su arquitectura, degustar su sorprendente gastronomía, disfrutar del
+      amplio abanico de actividades que nos ofrece y descubrir los últimos avances
+      tecnológicos son parte de su atractivo. Barcelona, ha sido elegida por tercera
+      vez como mejor destino de reuniones y conferencias de Europa en el certamen
+      <em>World Travel Awards</em> 2017
   activities_title:
     en: Barcelona experiences to enjoy
     ca: Experiències per gaudir
@@ -114,15 +114,14 @@
   - https://www.datocms-assets.com/120/1519754381-_rb_9182r_fotor.jpg?w=1024&h=682&fit=crop&fm=jpg
   - https://www.datocms-assets.com/120/1519754442-casagracia4_low-1.jpg?w=1024&h=682&fit=crop&fm=jpg
   - https://www.datocms-assets.com/120/1519754449-de-tranquis-2.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519753156-23592339_2052214711689836_2449642822405298814_o.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519752760-img_3216.jpg?w=1024&h=682&fit=crop&fm=jpg
+  - https://www.datocms-assets.com/120/1519752753-img_0188vint.jpg?w=1024&h=682&fit=crop&fm=jpg
   - https://www.datocms-assets.com/120/1519670535-1.jpg?w=1024&h=682&fit=crop&fm=jpg
   - https://www.datocms-assets.com/120/1519670539-2.jpg?w=1024&h=682&fit=crop&fm=jpg
   - https://www.datocms-assets.com/120/1519670566-13.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519752760-img_3216.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519752753-img_0188vint.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519753156-23592339_2052214711689836_2449642822405298814_o.jpg?w=1024&h=682&fit=crop&fm=jpg
   - https://www.datocms-assets.com/120/1519670582-19.jpg?w=1024&h=682&fit=crop&fm=jpg
   - https://www.datocms-assets.com/120/1519754266-lmra-beach-club-15.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519857360-17632402_1933154763595832_6109322241986277119_o.jpg?w=1024&h=682&fit=crop&fm=jpg
 - id: '76941'
   name:
     en: Madrid
