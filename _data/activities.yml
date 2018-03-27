@@ -831,68 +831,101 @@
   photo1: https://www.datocms-assets.com/120/1509451891-image-2.jpg?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1509451900-image.jpg?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1509451906-image-1.jpg?w=1024&fm=jpg
-- id: '76961'
+- id: '76963'
   title:
-    en: Make your own custom beer
-    ca: CREA LA TEVA PRÒPIA CERVESA
-    es: CREA TU PROPIA CERVEZA
+    en: Trencadís Workshop
+    ca: Taller de trencadís
+    es: 'Taller de Mosaico Trencadís '
   description:
     en: |-
-      If you like beer, you can not miss this 100% participatory workshop. You will learn how to prepare your own craft beers from scratch.
+      A short introduction will be given to ‘Trencadis’ (Catalan - ‘to break’) – The mosaic style from the ‘Modernista’ period in Barcelona c.1880 – c.1910 made famous by Gaudi.
 
-      The workshop involves the coordinated work of the team, which will have to organize, innovate and agree on all decisions that involve the development of the product: from the amount of hops to the design of the label.
+      **Making Trencadis**
+      An introduction to the technique and ‘how to’ will explain everything that groups need to know to work on their own and as a team.
 
-      Our beer experts will give you some premises, but your creativity will be the protagonist of the day!
+      Each pair work together to make their section of the design. They also need to work with the other team members to encourage cohesion and working towards an overall design.
+
+      The whole team should decide on colours, the size of ceramic tiles used etc. Final pieces are judged based on overall look and cohesion.
+
+      **Feedback**
+      Teams are encouraged to speak about their mosaic, considering individual performance and teamwork and should give feedback on what worked well and how they might have approached things differently.
     ca: |-
-      Si us agrada la cervesa, no us podeu perdre aquest taller 100% participatiu. Aprendreu com preparar les vostres pròpies cerveses artesanes des de zero.
+      El taller començarà amb una breu introducció al 'Trencadís'. És un tipus d'aplicació ornamental del mosaic a partir de fragments ceràmics units; molt habitual i característic en l'arquitectura modernista catalana.
 
-      El taller implica el treball coordinat de l'equip, que haurà d'organitzar-se, innovar i consensuar totes les decisions que impliquin el desenvolupament del producte: des de la quantitat de llúpol fins al disseny de l'etiqueta.
+      **DESENVOLUPAMENT DEL TALLER**
 
-      Els nostres experts cervesers us donaran algunes premisses, però serà la vostra creativitat la protagonista de la jornada!
-    es: |-
-      Si os gusta la cerveza, no os podéis perder este taller 100% participativo. Aprenderéis cómo preparar vuestras propias cervezas artesanas desde cero.
+      Dividirem als participants en grups (o creats per l'empresa). Farem una introducció a la tècnica i al "com fer-ho".
 
-      El taller implica el trabajo coordinado del equipo, que tendrá que organizarse, innovar y consensuar todas las decisiones que impliquen el desarrollo del producto: desde la cantidad de lúpulo hasta el diseño de la etiqueta.
+      Cada grup treballarà en conjunt per fer la seva secció del disseny. És important, comunicar-se amb els altres equips per encoratjar la cohesió i treballar cap a un disseny general.
 
-      Nuestros expertos cerveceros os darán algunas premisas, pero será vuestra creatividad la protagonista de la jornada!
+      Tot l'equip ha de decidir sobre els colors, la grandària de les rajoles, etc. Les peces finals es jutgen en funció de l'aspecte general i la cohesió.
+
+      Al final del taller, cada equip haurà de defensar el seu treball i posar-ho en comú amb tots els altres grups.
+
+
+      > **VALORS TREBALLATS**
+      > Treball en equip, solucionar problemes, desenvolupar la creativitat, talent, habilitats, diversió...
+    es: "El taller empezará con una breve introducción al 'Trencadís'. Es un tipo
+      de aplicación ornamental del mosaico a partir de fragmentos cerámicos unidos;
+      muy habitual y característico en la arquitectura modernista catalana.\n\n**DESARROLLO
+      DEL TALLER**\n\nDividiremos a los participantes en grupos (o pueden venir dados
+      por la empresa). Haremos una introducción a la técnica y al \"cómo hacerlo\".\n\nCada
+      grupo trabajará en conjunto para hacer su sección del diseño. Es importante,
+      comunicarse con los otros equipos para alentar la cohesión y trabajar hacia
+      un diseño general.\n\nTodo el equipo debe decidir sobre los colores, el tamaño
+      de las baldosas, etc. Las piezas finales se juzgan en función del aspecto general
+      y la cohesión.\n\nAl final del taller, cada equipo tendrá que defender su trabajo
+      y ponerlo en común con todos los otros grupos.\n\n\n> **VALORES TRABAJADOS:**
+      \n> Trabajo en equipo, solucionar problemas, desarrollar la creatividad, talento,
+      habilidades, diversión"
   localization:
-    en: Barcelona
-    ca: Barcelona
-    es: Barcelona
+    en: Indoor/Outdoor
+    ca: Indoor/Outdoor
+    es: Indoor/Outdoor
   included:
-    en: "All the brewing material: ingredients, utensils ..\nWorkshop led by 2 beer
-      experts + support Staff \nLogo and label design\nPack of beers prepared by the
-      participants"
+    en: |-
+      Divide teams
+      Explain task and tutorial
+      Aprons, gloves and tools
+      30 mins design and sketch
+      1hr 15 mins mosiac
+      15 mins grouting and finishing
+      Presentation and group photo
     ca: |-
-      Tot el material cerveser: ingredients, estris...
-      Taller dirigit per 2 experts cervesers + Staff per donar suport
-      Disseny de logo i etiquetes
-      Pack de Cerveses preparades pels participants
+      Explicar tasca i tutorial
+      Davantals, guants i eines
+      30 minuts de disseny i esbós
+      1 hora i 15 minuts de mosaic
+      15 minuts d'enganxar i l'acabat
+      Presentació i foto grupal
     es: |-
-      Todo el material cervecero: ingredientes, utensilios..
-      Taller dirigido por 2 expertos cerveceros + Staff apoyo
-      Diseño de logo y etiquetas
-      Pack de Cervezas preparadas por los participantes
+      Reparto de equipos
+      Explicar tarea y tutorial
+      Delantales, guantes y herramientas
+      30 minutos de diseño y boceto
+      1 hora y 15 minutos de mosiac
+      15 minutos de rejuntado y acabado
+      Presentación y foto grupal
   not_included:
-    en: ''
-    ca: ''
-    es: ''
+    en: Space
+    ca: L'espai
+    es: Espacio
   contact:
-    en: Ask for more information about our tours
-    ca: Demana més informació de les nostres excursions
-    es: Pide más información de nuestras excursiones
-  selected: false
-  language: ca, es, en
-  duration: 9.0
-  pax: 10
+    en: Ask for more information about our workshop
+    ca: Demana més informació del nostre taller
+    es: Pide más información de nuestro taller
+  selected: true
+  language: es, ca, en
+  duration: 2.5
+  pax: 5
   price: 
-  tag: tours
+  tag: trencadis
   accesibility: 'yes'
-  destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=1024&fm=jpg
-  photo2: 
-  photo3: 
+  destination: '76941'
+  thumbnail: https://www.datocms-assets.com/120/1519896656-img-20171212-wa0008.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1519896656-img-20171212-wa0008.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1519896687-img-20171212-wa0010.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1519896702-img-20171212-wa0005.jpg?w=1024&fm=jpg
 - id: '76955'
   title:
     en: Workshop of batucada
@@ -1181,101 +1214,6 @@
   photo1: https://www.datocms-assets.com/120/1498481845-67.jpg?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1498481848-68.jpg?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1498481850-69.jpg?w=1024&fm=jpg
-- id: '76963'
-  title:
-    en: Trencadís Workshop
-    ca: Taller de trencadís
-    es: 'Taller de Mosaico Trencadís '
-  description:
-    en: |-
-      A short introduction will be given to ‘Trencadis’ (Catalan - ‘to break’) – The mosaic style from the ‘Modernista’ period in Barcelona c.1880 – c.1910 made famous by Gaudi.
-
-      **Making Trencadis**
-      An introduction to the technique and ‘how to’ will explain everything that groups need to know to work on their own and as a team.
-
-      Each pair work together to make their section of the design. They also need to work with the other team members to encourage cohesion and working towards an overall design.
-
-      The whole team should decide on colours, the size of ceramic tiles used etc. Final pieces are judged based on overall look and cohesion.
-
-      **Feedback**
-      Teams are encouraged to speak about their mosaic, considering individual performance and teamwork and should give feedback on what worked well and how they might have approached things differently.
-    ca: |-
-      El taller començarà amb una breu introducció al 'Trencadís'. És un tipus d'aplicació ornamental del mosaic a partir de fragments ceràmics units; molt habitual i característic en l'arquitectura modernista catalana.
-
-      **DESENVOLUPAMENT DEL TALLER**
-
-      Dividirem als participants en grups (o creats per l'empresa). Farem una introducció a la tècnica i al "com fer-ho".
-
-      Cada grup treballarà en conjunt per fer la seva secció del disseny. És important, comunicar-se amb els altres equips per encoratjar la cohesió i treballar cap a un disseny general.
-
-      Tot l'equip ha de decidir sobre els colors, la grandària de les rajoles, etc. Les peces finals es jutgen en funció de l'aspecte general i la cohesió.
-
-      Al final del taller, cada equip haurà de defensar el seu treball i posar-ho en comú amb tots els altres grups.
-
-
-      > **VALORS TREBALLATS**
-      > Treball en equip, solucionar problemes, desenvolupar la creativitat, talent, habilitats, diversió...
-    es: "El taller empezará con una breve introducción al 'Trencadís'. Es un tipo
-      de aplicación ornamental del mosaico a partir de fragmentos cerámicos unidos;
-      muy habitual y característico en la arquitectura modernista catalana.\n\n**DESARROLLO
-      DEL TALLER**\n\nDividiremos a los participantes en grupos (o pueden venir dados
-      por la empresa). Haremos una introducción a la técnica y al \"cómo hacerlo\".\n\nCada
-      grupo trabajará en conjunto para hacer su sección del diseño. Es importante,
-      comunicarse con los otros equipos para alentar la cohesión y trabajar hacia
-      un diseño general.\n\nTodo el equipo debe decidir sobre los colores, el tamaño
-      de las baldosas, etc. Las piezas finales se juzgan en función del aspecto general
-      y la cohesión.\n\nAl final del taller, cada equipo tendrá que defender su trabajo
-      y ponerlo en común con todos los otros grupos.\n\n\n> **VALORES TRABAJADOS:**
-      \n> Trabajo en equipo, solucionar problemas, desarrollar la creatividad, talento,
-      habilidades, diversión"
-  localization:
-    en: Indoor/Outdoor
-    ca: Indoor/Outdoor
-    es: Indoor/Outdoor
-  included:
-    en: |-
-      Divide teams
-      Explain task and tutorial
-      Aprons, gloves and tools
-      30 mins design and sketch
-      1hr 15 mins mosiac
-      15 mins grouting and finishing
-      Presentation and group photo
-    ca: |-
-      Explicar tasca i tutorial
-      Davantals, guants i eines
-      30 minuts de disseny i esbós
-      1 hora i 15 minuts de mosaic
-      15 minuts d'enganxar i l'acabat
-      Presentació i foto grupal
-    es: |-
-      Reparto de equipos
-      Explicar tarea y tutorial
-      Delantales, guantes y herramientas
-      30 minutos de diseño y boceto
-      1 hora y 15 minutos de mosiac
-      15 minutos de rejuntado y acabado
-      Presentación y foto grupal
-  not_included:
-    en: Space
-    ca: L'espai
-    es: Espacio
-  contact:
-    en: Ask for more information about our workshop
-    ca: Demana més informació del nostre taller
-    es: Pide más información de nuestro taller
-  selected: true
-  language: es, ca, en
-  duration: 2.5
-  pax: 5
-  price: 
-  tag: trencadis
-  accesibility: 'yes'
-  destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1519896656-img-20171212-wa0008.jpg?w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1519896656-img-20171212-wa0008.jpg?w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1519896687-img-20171212-wa0010.jpg?w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1519896702-img-20171212-wa0005.jpg?w=1024&fm=jpg
 - id: '76964'
   title:
     en: Game of Thrones
@@ -1344,6 +1282,68 @@
   photo1: https://www.datocms-assets.com/120/1519899547-dinar-d-empresa-winsystems-castell-jalpi-2017-30.jpg?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1519898505-dinar-d-empresa-winsystems-castell-jalpi-2017-61.jpg?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1519899519-dinar-d-empresa-winsystems-castell-jalpi-2017-97.jpg?w=1024&fm=jpg
+- id: '76961'
+  title:
+    en: Make your own custom beer
+    ca: CREA LA TEVA PRÒPIA CERVESA
+    es: CREA TU PROPIA CERVEZA
+  description:
+    en: |-
+      If you like beer, you can not miss this 100% participatory workshop. You will learn how to prepare your own craft beers from scratch.
+
+      The workshop involves the coordinated work of the team, which will have to organize, innovate and agree on all decisions that involve the development of the product: from the amount of hops to the design of the label.
+
+      Our beer experts will give you some premises, but your creativity will be the protagonist of the day!
+    ca: |-
+      Si us agrada la cervesa, no us podeu perdre aquest taller 100% participatiu. Aprendreu com preparar les vostres pròpies cerveses artesanes des de zero.
+
+      El taller implica el treball coordinat de l'equip, que haurà d'organitzar-se, innovar i consensuar totes les decisions que impliquin el desenvolupament del producte: des de la quantitat de llúpol fins al disseny de l'etiqueta.
+
+      Els nostres experts cervesers us donaran algunes premisses, però serà la vostra creativitat la protagonista de la jornada!
+    es: |-
+      Si os gusta la cerveza, no os podéis perder este taller 100% participativo. Aprenderéis cómo preparar vuestras propias cervezas artesanas desde cero.
+
+      El taller implica el trabajo coordinado del equipo, que tendrá que organizarse, innovar y consensuar todas las decisiones que impliquen el desarrollo del producto: desde la cantidad de lúpulo hasta el diseño de la etiqueta.
+
+      Nuestros expertos cerveceros os darán algunas premisas, pero será vuestra creatividad la protagonista de la jornada!
+  localization:
+    en: Barcelona
+    ca: Barcelona
+    es: Barcelona
+  included:
+    en: "All the brewing material: ingredients, utensils ..\nWorkshop led by 2 beer
+      experts + support Staff \nLogo and label design\nPack of beers prepared by the
+      participants"
+    ca: |-
+      Tot el material cerveser: ingredients, estris...
+      Taller dirigit per 2 experts cervesers + Staff per donar suport
+      Disseny de logo i etiquetes
+      Pack de Cerveses preparades pels participants
+    es: |-
+      Todo el material cervecero: ingredientes, utensilios..
+      Taller dirigido por 2 expertos cerveceros + Staff apoyo
+      Diseño de logo y etiquetas
+      Pack de Cervezas preparadas por los participantes
+  not_included:
+    en: ''
+    ca: ''
+    es: ''
+  contact:
+    en: Ask for more information about our tours
+    ca: Demana més informació de les nostres excursions
+    es: Pide más información de nuestras excursiones
+  selected: false
+  language: ca, es, en
+  duration: 9.0
+  pax: 10
+  price: 
+  tag: tours
+  accesibility: 'yes'
+  destination: '76940'
+  thumbnail: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=1024&fm=jpg
+  photo2: 
+  photo3: 
 - id: '76966'
   title:
     en: Create your own song
