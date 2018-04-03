@@ -4,10 +4,10 @@ section: activity
 ---
 
 <div class="space-70"></div>
-<div class="container portfolio-details">
+<div class="container portfolio-details" style="width: 65vw !important">
     <div class="row">
         <div class="col-md-12 margin-btm-40">
-            <div class="flexslider" style="height: 600px; overflow: hidden">
+            <div class="flexslider" style="width: 800px; overflow: hidden">
                 <ul class="slides">
                     {% if page.activity.photo1 %}
                     <li><img src="{{ page.activity.photo1 }}" alt="" class="img-responsive"></li>
@@ -23,7 +23,7 @@ section: activity
                 </ul>
             </div><!--flex slider-->
         </div>
-        <div class="col-md-8 portfolio-single-slide margin-btm-40">
+        <div class="col-md-12 portfolio-single-slide margin-btm-40">
             <div class="portfolio-single-desc">
                 <h3>{{ page.activity | field: 'title' }}</h3>
                 {{ page.activity | field: 'description' | markdownify }}
@@ -60,65 +60,7 @@ section: activity
                 {% endif %}
             </div><!--portfolio detail-->
         </div>
-        <div class="col-md-4">
-            <div class="portfolio-side-bar">
-                {% assign languages = page.activity.language | split: ',' %}
-                <p><strong>{{ 'activities.pax' | translate }}:</strong> {{ page.activity.pax }}</p>
-                <p><strong>{{ 'activities.duration' | translate }}:</strong> {{ page.activity.duration }} {{ 'activities.hours' | translate }}</p>
-
-                {% if page.activity.preu %}
-                <p><strong>{{ 'activities.price.title' | translate }}:</strong> {{ page.activity.preu }} &euro;</p>
-                {% endif %}
-
-                <p>
-                  <strong>{{ 'activities.languages.title' | translate }}:</strong>
-                  {% for language in languages %}
-                    {% assign clean_language = language | slugify %}
-                    <span title="{{ 'common.languages.' | append: clean_language | translate }}">{{ clean_language | upcase }}</span>{% if forloop.index < languages.size %}, {% endif %}
-                  {% endfor %}
-                </p>
-                <p><strong>{{ 'activities.accesibility.title' | translate }}:</strong> {{ 'activities.accesibility.' | append: page.activity.accesibility | translate }}</p>
-                <p><strong>{{ 'activities.localization.title' | translate }}:</strong> {{ page.activity | field: 'localization' }}</p>
-
-                <br>
-                <p>
-                    {% assign item = 'contact' | section %}
-                    <a href="{{item.permalink}}" class="btn btn-radius theme-btn-color">{{ 'footer.contact_us' | translate }}</a>
-                </p>
-            </div>
-        </div>
     </div>
-
-    <hr>
-
-    <div class="row">
-        <div class="space-70"></div>
-        <div class="col-md-12 text-center">
-            <h2>{{ 'activities.related' | translate }}</h2>
-        </div>
-        <div class="space-70"></div>
-    </div><!--row-->
-
-    <div class="row">
-        {% assign related_activities = site.data.activities | where_exp:"item", "item.id != page.activity.id" | sample:3 %}
-        {% for related_activity in related_activities %}
-        <div class=" mix design col-md-4 col-sm-6 margin-btm-40">
-            <div class="portfolio-sec">
-                <div class="portfolio-thumnail">
-                    <a href="/{{ page.locale}}/activities/{{ related_activity | field: 'title' | slugify }}">
-                        <img class="img-responsive" src="{{ related_activity.thumbnail }}" title="{{ related_activity | field: 'title' }}" alt="{{ related_activity | field: 'title' }}">
-                    </a>
-                </div>
-                <div class="portfolio-desc text-center">
-                    <h4 class="portfolio-post-title">{{ related_activity | field: 'title' }}</h4>
-                    <h4><a href="/{{ page.locale}}/activities/{{ related_activity | field: 'title' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
-                </div>
-            </div>
-        </div><!--portfolio item -->
-        {% endfor %}
-    </div><!--grid-->
-
-    <div class="space-70"></div>
 </div><!--portfolio single container end-->
 
 {% include json-ld-product.html %}

@@ -3,7 +3,7 @@ layout: post
 section: blog
 locale: es
 title: Ciudades españolas para tu viaje de incentivo
-date: 2018-04-12 09:00:00.000000000 Z
+date: 2018-04-25 09:00:00.000000000 Z
 tags: ''
 author: Paula Bao
 image: https://www.datocms-assets.com/120/1521471585-1.jpg?w=1024&fm=jpg
