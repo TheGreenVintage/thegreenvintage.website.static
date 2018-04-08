@@ -90,11 +90,11 @@ end.map do |activity|
     accesibility: activity.accesibility,
     destination: activity.destination.id,
 
-    thumbnail: activity.photo1 && activity.photo1.url(w: 480, h: 270, fit: 'crop', fm: 'jpg'),
+    thumbnail: activity.photo1 && activity.photo1.url(w: 480, h: 270, fit: 'crop', fm: 'jpg', crop: 'faces,entropy'),
 
-    photo1: activity.photo1 && activity.photo1.url(w: 1024, fm: 'jpg'),
-    photo2: activity.photo2 && activity.photo2.url(w: 1024, fm: 'jpg'),
-    photo3: activity.photo3 && activity.photo3.url(w: 1024, fm: 'jpg')
+    photo1: activity.photo1 && activity.photo1.url(w: 1024, h: 576, fit: 'crop', fm: 'jpg', crop: 'faces,entropy'),
+    photo2: activity.photo2 && activity.photo2.url(w: 1024, h: 576, fit: 'crop', fm: 'jpg', crop: 'faces,entropy'),
+    photo3: activity.photo3 && activity.photo3.url(w: 1024, h: 576, fit: 'crop', fm: 'jpg', crop: 'faces,entropy')
   }
 end
 
