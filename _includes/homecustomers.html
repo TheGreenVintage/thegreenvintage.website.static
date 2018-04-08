@@ -8,16 +8,13 @@
         </div>
     </div><!--row-->
 
-    {% assign logo_groups = site.data.logos | in_groups_of: 4 %}
-    {% for logo_group in logo_groups %}
     <div class="row" style="padding-top: 100px">
-        {% for logo in logo_group %}
-        <div class="col-md-3 text-center">
+      {% for logo in site.data.logos %}
+        <div class="col-md-3 logo">
           <a href="{{ logo.url }}" target="_blank" rel="nofollow">
             <img src="{{ logo.image }}" alt="{{ logo.name }}">
           </a>
         </div>
-        {% endfor %}
+      {% endfor %}
     </div>
-    {% endfor %}
 </div>
