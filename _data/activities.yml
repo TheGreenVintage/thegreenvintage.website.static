@@ -90,10 +90,10 @@
   tag: Cuenta
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1515431055-dinar-d-empresa-winsystems-castell-jalpi-2017-140.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1498647952-vo_wanup_teambuilding-269.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1498647899-img_1154.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1515431055-dinar-d-empresa-winsystems-castell-jalpi-2017-140.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1498647952-vo_wanup_teambuilding-269.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76959'
   title:
     en: MADMAP
@@ -166,10 +166,10 @@
   tag: When
   accesibility: 'no'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509444385-whatsapp-image-2017-10-26-at-11-16-06.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1509444385-whatsapp-image-2017-10-26-at-11-16-06.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1509444999-76b0d221-4a5f-4fbe-a4b8-53e310dfbd98.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1509445005-17cc837a-c014-4e4f-a695-9f0062e07675.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1509444385-whatsapp-image-2017-10-26-at-11-16-06.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1509444385-whatsapp-image-2017-10-26-at-11-16-06.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1509444999-76b0d221-4a5f-4fbe-a4b8-53e310dfbd98.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1509445005-17cc837a-c014-4e4f-a695-9f0062e07675.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76954'
   title:
     en: Beach Games
@@ -257,10 +257,10 @@
   tag: Kitesurf
   accesibility: 'no'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1498827228-img_1221.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1498827238-img_1209.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1498827228-img_1221.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1498827238-img_1209.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76949'
   title:
     en: Authentic Catalan Experience
@@ -371,10 +371,10 @@
   tag: 'Alella '
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498481918-14.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498481918-14.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1522331336-dsc_0948.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1522331000-can_bertran_-alella-_-_6-1.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1498481918-14.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1498481918-14.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1522331336-dsc_0948.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1522331000-can_bertran_-alella-_-_6-1.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76956'
   title:
     en: Creativity with graffiti
@@ -440,10 +440,10 @@
   tag: graffitis
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1515494522-img_0322.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1515494716-img_0410.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1515494522-img_0322.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1515494716-img_0410.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76950'
   title:
     en: MasterChef
@@ -527,10 +527,10 @@
   tag: Masterchef
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498480788-52.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498480788-52.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1498480790-53.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1509446050-whatsapp-image-2017-10-27-at-14-32-56.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1498480788-52.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1498480788-52.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1498480790-53.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1509446050-whatsapp-image-2017-10-27-at-14-32-56.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76951'
   title:
     en: Nuclear emergency
@@ -585,10 +585,10 @@
   tag: Nuclear
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498480735-55.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498480735-55.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1498480736-56.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1498480739-57.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1498480735-55.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1498480735-55.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1498480736-56.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1498480739-57.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76962'
   title:
     en: Crime in Sant Pere
@@ -686,10 +686,10 @@
   tag: pere
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498482213-21.png?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498482213-21.png?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1498647781-20170421_110603_hdr.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1498482222-22.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1498482213-21.png?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1498482213-21.png?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1498647781-20170421_110603_hdr.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1498482222-22.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76952'
   title:
     en: DRAGON BOAT
@@ -771,10 +771,10 @@
   tag: Karts
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1509447291-whatsapp-image-2017-10-31-at-11-40-25.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1509447298-whatsapp-image-2017-10-31-at-11-40-25-1.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1509447291-whatsapp-image-2017-10-31-at-11-40-25.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1509447298-whatsapp-image-2017-10-31-at-11-40-25-1.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76953'
   title:
     en: LAUGHTER THERAPY WORKSHOPS
@@ -840,10 +840,10 @@
   tag: Juegos
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509451891-image-2.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1509451891-image-2.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1509451900-image.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1509451906-image-1.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1509451891-image-2.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1509451891-image-2.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1509451900-image.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1509451906-image-1.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76963'
   title:
     en: Trencadís Workshop
@@ -935,10 +935,10 @@
   tag: trencadis
   accesibility: 'yes'
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1519896656-img-20171212-wa0008.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1519896656-img-20171212-wa0008.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1519896687-img-20171212-wa0010.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1519896702-img-20171212-wa0005.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1519896656-img-20171212-wa0008.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1519896656-img-20171212-wa0008.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1519896687-img-20171212-wa0010.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1519896702-img-20171212-wa0005.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76955'
   title:
     en: Percussion Workshop
@@ -1016,10 +1016,10 @@
   tag: batucada
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498480626-7.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498480626-7.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1498480683-44.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1498480686-45.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1498480626-7.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1498480626-7.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1498480683-44.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1498480686-45.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76957'
   title:
     en: Trivial Quiz Challenge
@@ -1083,10 +1083,10 @@
   tag: Quiz
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498480979-8.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498480979-8.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1498480981-9.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1498480984-10.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1498480979-8.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1498480979-8.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1498480981-9.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1498480984-10.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76960'
   title:
     en: Spartan Race
@@ -1162,10 +1162,10 @@
   tag: Race
   accesibility: 'no'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498481182-46.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498481182-46.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1498481186-47.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1498481192-48.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1498481182-46.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1498481182-46.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1498481186-47.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1498481192-48.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76971'
   title:
     en: Building up towers
@@ -1251,10 +1251,10 @@
   tag: Humantower
   accesibility: ask
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498481845-67.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498481845-67.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1498481848-68.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1498481850-69.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1498481845-67.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1498481845-67.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1498481848-68.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1498481850-69.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76964'
   title:
     en: Game of Thrones
@@ -1321,10 +1321,10 @@
   tag: escape
   accesibility: 'yes'
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1519899547-dinar-d-empresa-winsystems-castell-jalpi-2017-30.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1519899547-dinar-d-empresa-winsystems-castell-jalpi-2017-30.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1519898505-dinar-d-empresa-winsystems-castell-jalpi-2017-61.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1519899519-dinar-d-empresa-winsystems-castell-jalpi-2017-97.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1519899547-dinar-d-empresa-winsystems-castell-jalpi-2017-30.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1519899547-dinar-d-empresa-winsystems-castell-jalpi-2017-30.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1519898505-dinar-d-empresa-winsystems-castell-jalpi-2017-61.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1519899519-dinar-d-empresa-winsystems-castell-jalpi-2017-97.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76961'
   title:
     en: Make your own custom beer
@@ -1383,8 +1383,8 @@
   tag: tours
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: 
   photo3: 
 - id: '76966'
@@ -1464,10 +1464,10 @@
   tag: music
   accesibility: 'yes'
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1519994618-_1110623.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1519994618-_1110623.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1519994677-_1110583.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1519995436-_1110534.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1519994618-_1110623.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1519994618-_1110623.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1519994677-_1110583.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1519995436-_1110534.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76965'
   title:
     en: Lights, Camera, Action!
@@ -1579,10 +1579,10 @@
   tag: cine
   accesibility: 'yes'
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1519990410-_dsc5268.JPG?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1519990410-_dsc5268.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1519990423-cheap-film-dau-96.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1519990778-cheap-film-dau-62.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1519990410-_dsc5268.JPG?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1519990410-_dsc5268.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1519990423-cheap-film-dau-96.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1519990778-cheap-film-dau-62.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76967'
   title:
     en: Skateboarding Workshops
@@ -1635,10 +1635,10 @@
   tag: Skate
   accesibility: 'no'
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1519902146-13235176_881569228638393_8433572892571173484_o.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1519902146-13235176_881569228638393_8433572892571173484_o.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1519902156-11045465_756694847792499_7128162302594086320_o.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1519922506-captura-de-pantalla-2018-03-01-a-les-17-41-22.png?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1519902146-13235176_881569228638393_8433572892571173484_o.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1519902146-13235176_881569228638393_8433572892571173484_o.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1519902156-11045465_756694847792499_7128162302594086320_o.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1519922506-captura-de-pantalla-2018-03-01-a-les-17-41-22.png?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76968'
   title:
     en: MURDER MYSTERY GAME
@@ -1737,9 +1737,9 @@
   tag: film
   accesibility: 'yes'
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1522252220-img_20170302_151850_fotor.jpg?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1522252220-img_20170302_151850_fotor.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1521222491-img_20170302_170214.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1522252220-img_20170302_151850_fotor.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1522252220-img_20170302_151850_fotor.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1521222491-img_20170302_170214.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: 
 - id: '76970'
   title:
@@ -1814,7 +1814,7 @@
   tag: game
   accesibility: 'yes'
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1521737591-captura-de-pantalla-2018-03-22-a-les-17-52-38.png?w=480&h=270&fit=crop&fm=jpg&crop=faces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1521737591-captura-de-pantalla-2018-03-22-a-les-17-52-38.png?w=1024&h=576&fit=crop&fm=jpg&crop=faces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1521737591-captura-de-pantalla-2018-03-22-a-les-17-52-38.png?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1521737591-captura-de-pantalla-2018-03-22-a-les-17-52-38.png?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: 
   photo3: 
