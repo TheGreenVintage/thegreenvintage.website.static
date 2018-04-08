@@ -1,23 +1,20 @@
 - id: '76958'
   title:
-    en: 'Custom Room Escape '
-    ca: Room Escape personalitzats
-    es: Room Escape personalizados
+    en: CUSTOM ROOM ESCAPE
+    ca: ROOM ESCAPE PERSONALITZATS
+    es: ROOM ESCAPE PERSONALIZADOS
   description:
-    en: "Room Escape is an intense Team Building activity in which players will enter
-      a space and should find a way to escape in less than 60 minutes. To do this
-      they must solve a codes, clues and some other challenges until they achieve
-      the final goal. The experience will have an attractive story to immerse the
-      players in a misterious enviroment.\n\nWe take the Room Escape to the place
-      you tell us: offices, convention room, hotel where your company's staff is staying…\n\nIn
-      addition, you have the possibility to request a personalized experience, with
-      a story line and materials adapted to your company, products and goals, a totally
-      customized experience.\n\nFor large groups, you can play into several teams
-      and simultaneously perform the Room Escape with a common final goal or in competition
-      mode, depending on the Team Building goals you have. \nFinally, if you wish,
-      we can include in the experience a Coach that makes previous and subsequent
-      group dynamics or make a report for your company with the roles, attitudes or
-      potentialities observed during the game.\n\nTime is running out!"
+    en: "Escape Room is an interactive team building game that can be customised and
+      run anywhere. Solve challenging puzzles to escape the room within 60 minutes.
+      The experience will have an attractive story to immerse the players in a mysterious
+      enviroment.\n\nWe create unforgettable adventures only for your employees! \n\nWe
+      have come up with creative guidelines and a customized story line. The design
+      and structure are made according to your company's image and goals. It's not
+      a linear experience, and so solving a puzzle may require several parts that
+      come together as you progress.\n\nThis can be done in different spaces: your
+      offices, hotels, venues, castles...  \n\nWe can accommodate large groups of
+      up to 200 people so they can play the game simultaneously. \n\n> Time is running
+      out!\n\nThe game is designed for intense **cooperation** and **working together**. "
     ca: |-
       Som especialistes a fer una **readaptació** d'un tipus d'activitat que en aquest moment està en auge: els jocs de fuita, coneguts també com a Room Escapes. Es tracta d'un joc en grup que consisteix, bàsicament, a resoldre un misteri i escapar d'una habitació en tan sols 60 minuts. Per a aconseguir-ho, han de desxifrar una sèrie d'enigmes, trobar claus, i –com no- passar una estona divertida amb els seus amics.
 
@@ -28,6 +25,9 @@
       Els grups es divideixen en diferents equips, i realitzen de forma simultània el Room Escape amb un objectiu final comú o bé en manera de competició, en funció dels objectius de team building que perseguiu.
 
       > Corre, que el temps s'acaba!
+
+
+      **Valors que treballem:** treball en equip, presa de decisions, habilitats, competències, reforçar els vincles, estratègies, capacitat de reacció, millorar la comunicació...
     es: "Somos especialistas en hacer una **readaptación** de un tipo de actividad
       que en este momento está en auge: los juegos de escape, conocidos también como
       Room Escapes. Se trata de un juego en grupo que consiste, básicamente, en que
@@ -43,11 +43,13 @@
       grupos se dividen en diferentes equipos, y realizan de forma simultánea el Room
       Escape con un objetivo final común o bien en modo de competición, en función
       de los objetivos de team building que persigáis.\n\n> ¡Corre, que el tiempo
-      se acaba!"
+      se acaba!\n\n\n**Los valores que trabajamos:** trabajo en equipo, toma de decisiones,
+      habilidades, competencias, reforzar vínculos, estrategias, capacidad de reacción,
+      mejorar la comunicación..."
   localization:
-    en: 'Meeting rooms, office, outdoor spaces if the weather is nice '
-    ca: Qualsevol lloc i espai
-    es: Cualquier lugar y espacio
+    en: Indoor
+    ca: Indoor
+    es: Indoor
   included:
     en: |-
       Previous motivation
@@ -80,7 +82,7 @@
     en: Ask for more information about our activities
     ca: Demana més informació de les nostres activitats
     es: Pide más información de nuestras actividades
-  selected: false
+  selected: true
   language: es, ca, en
   duration: 2.0
   pax: 10
@@ -95,8 +97,8 @@
 - id: '76959'
   title:
     en: MADMAP
-    ca: Orientació a Muntanya
-    es: Orientación en Montaña
+    ca: ORIENTACIÓ A MUNTANYA
+    es: ORIENTACIÓN EN MONTAÑA
   description:
     en: "The activity is developed by teams of up to 10 people. The\nParticipants
       will be abandoned to an unknown point with a map and will have to find different
@@ -112,22 +114,22 @@
       \n\nPer tal d’assolir el seu objectiu hauran de desenvolupar diferents estratègies.
       **Els rols que adaptin els participants seran determinants per assolir l’èxit
       de la missió!**\n\nDurant l’activitat d’orientació i a un temps determinat els
-      participants hauran de desenvolupar diferents dinàmiques de grup que, alhora
-      que divertides, cohesionaran al grup. Només quan tots els equips arribin a la
-      meta podran desenvolupar la dinàmica final."
+      participants hauran de desenvolupar diferents **dinàmiques de grup** que, alhora
+      que **divertides**, **cohesionaran al grup**. Només quan tots els equips arribin
+      a la meta podran desenvolupar la dinàmica final."
     es: "La actividad se desarrolla por equipos de hasta 10 personas. Los \nparticipantes
       serán abandonados a un punto desconocido con un mapa y tendrán que encontrar
       diferentes puntos a lo largo de un recorrido sorprendida para llegar a la localización
       final. \n\nPara lograr su objetivo tendrán que desarrollar diferentes estrategias.
       **Los roles que adapten los participantes serán determinantes para lograr el
       éxito de la misión!**\n\nDurante la actividad de orientación y a un tiempo determinado
-      los participantes tendrán que desarrollar diferentes dinámicas de grupo que,
-      a la vez que divertidas, cohesionarán al grupo. Sólo cuando todos los equipos
-      lleguen a la meta podrán desarrollar la dinámica final.\n\n"
+      los participantes tendrán que desarrollar diferentes **dinámicas de grupo**
+      que, a la vez que **divertidas**, **cohesionarán al grupo**. Sólo cuando todos
+      los equipos lleguen a la meta podrán desarrollar la dinámica final.\n\n"
   localization:
-    en: 'Outdoor spaces if the weather is nice '
-    ca: Espais a l’aire lliure si la climatologia acompanya
-    es: Espacio outdoor si la climatología acompaña
+    en: Outdoor
+    ca: Outdoor
+    es: Outdoor
   included:
     en: |-
       Material for the development of the activity
@@ -157,8 +159,8 @@
     ca: Demana més informació de les nostres activitats
     es: Pide más información de nuestras actividades
   selected: true
-  language: es, en
-  duration: 3.0
+  language: ca, es, en
+  duration: 2.0
   pax: 8
   price: 
   tag: When
@@ -205,9 +207,9 @@
       tubos con agujeros)\n* Kayaks / Windsurf\n* Big Sup (Paddle Surf)\n* Catamarán\n\n>
       Mucha competición, diversión y buenos momentos. "
   localization:
-    en: Mediterranean Sea
-    ca: Costa de Barcelona
-    es: Costa de Barcelona
+    en: Outdoor
+    ca: Outdoor
+    es: Outdoor
   included:
     en: |-
       Welcome, briefing, organization of the group in teams
@@ -259,6 +261,120 @@
   photo1: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1498827228-img_1221.JPG?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1498827238-img_1209.JPG?w=1024&fm=jpg
+- id: '76949'
+  title:
+    en: Authentic Catalan Experience
+    ca: Viu una experiència vinícola!
+    es: "¡Vive una experiencia vinícola!"
+  description:
+    en: "Alella is a small charming village located in the comarca of Maresme, between
+      the Mediterranean Sea and the coastal mountain, just 15km away from Barcelona.
+      The coastal town combines a thousand-year tradition of winemaking with architectural
+      highlights from the ancient, Romanesque, Baroque and Modernist periods. \n\nThis
+      wonderful tour will provide knowledgement about Catalan history, culture, gastronomy
+      and it is perfect to be close to local people. \n\nThe first activity will be
+      done in a typical farmhouse of the 14th century, surrounded by vineyards. Is
+      a small, family-run winery that offers a small production of wines made from
+      mostly local grapes grown over thirteen hectares of land. You will visit the
+      cellar and the vineyards. Finally you will taste four organic and high quality
+      wines.\n\nAfter that we will do a Modernist Walking Tour. It is much more than
+      a series of photo opportunities (although don't forget your camera!). Dig deep
+      into the roots of the movement and explore the social, political and cultural
+      issues. The result is a memorable one of the most important art of the world
+      and a tribute to some of its most talented artists.\n\nDuring this walking tour
+      we ‘ll make a stop at the local market of Alella, which opened its doors in
+      X, you will learn about locally grown products, get to know some of the vendors
+      who have been there for years. This casual stop is for you to savour typical
+      gastronomic heritage from a local perspective.\n\nVermouth is more than a simple
+      drink, it is a beautiful tradition. Enjoy a typical Spanish vermouth and tapas
+      in a truly authentic Catalan Tavern, which opened its doors 29 years ago. \nDiscover
+      the tavern that has become reference as a traditional place to take vermouth
+      in the middle of this special village.\n\n> Live and authentic experience of
+      the 19th century in Alella, near Barcelona."
+    ca: "Alella és una petita població situada a la comarca del Maresme, entre el
+      mar Mediterrani i la serralada de la costa anomenada Serralada del Litoral.
+      A més és conegut pels seus vinyers i la producció de vi, a només 15 km de Barcelona.
+      Amb aquest Tour podrà descobrir com vivia la burgesia catalana entre els segles
+      XIX i XX, i que encara conserva un imponent patrimoni modernista i manté viva
+      la seva identitat cultural. El municipi vinícola dóna nom a una de les denominacions
+      d'origen més petites i antigues de la península: La denominació d'origen Alella.\n\nLa
+      primera activitat es durà a terme en una típica masia del segle XIV, envoltada
+      de vinyers. Disposen de 13 hectàrees de vinyers de 25 anys, amb cultius ecològics.
+      Visita guiada pel vinyer, pel celler, i finalment una degustació de quatre vins
+      orgànics i d'alta qualitat.\n\nContinuarem amb un itinerari cultural que ofereix
+      la possibilitat de fer un recorregut per la història del segle XIX i principis
+      del XX. Arquitectes com Jeroni Martorell o Josep Puig i Cadafalch van desenvolupar
+      alguns dels seus projectes en aquest bonic poble. Endinsant-nos en les formes
+      i els colors de l'arquitectura alellenca podrem extreure algunes de les característiques
+      generals d'aquest moviment. Durant aquest recorregut a peu farem una parada
+      al mercat local d'Alella, on coneixerà els productes locals de la comarca. \nEl
+      Maresme compta amb un microclima i unes condicions orogràfiques molt favorables
+      per al cultiu de la maduixa, el raïm, els pèsols i les síndries.\n\nEl Vermut
+      és més que una simple beguda, és una bella tradició. Gaudeixi d'un típic vermut
+      amb una gran varietat de tapes a una autèntica taverna catalana. La taverna
+      va obrir les seves portes fa 29 anys i és un referent en el preciós poble d'Alella
+      i els seus voltants.\n\n> Viu una experiència vinícola amb Denominació d'Origen!"
+    es: "Alella es una pequeña población situada en la comarca del Maresme, entre
+      el mar Mediterráneo y la cordillera de la costa llamada Serralada del Litoral.
+      Además es conocido por sus viñedos y la producción de vino, a sólo 15 km de
+      Barcelona. Con este Tour podrá descubrir cómo vivía la burguesía catalana entre
+      los siglos XIX y XX, y que aún conserva un imponente patrimonio modernista y
+      mantiene viva su identidad cultural. El municipio vinícola da nombre a una de
+      las denominaciones de origen más pequeñas y antiguas de la península: La denominación
+      de origen Alella. \n\nLa primera actividad se llevará a cabo en una típica masía
+      del siglo XIV, rodeada de viñedos. Disponen de 13 hectáreas de viñedos de 25
+      años, con cultivos ecológicos. Visita guiada por el viñedo, por la bodega, y
+      finalmente una degustación de cuatro vinos orgánicos y de alta calidad.\n\nContinuaremos
+      con un itinerario cultural que ofrece la posibilidad de hacer un recorrido por
+      la historia del siglo XIX y principios del XX. Arquitectos como Jeroni Martorell
+      o Josep Puig y Cadafalch desarrollaron algunos de sus proyectos en este bonito
+      pueblo. Adentrándonos en las formas y los colores de la arquitectura alellenca
+      podremos extraer algunas de las características generales de este movimiento.\n\nDurante
+      este recorrido a pie vamos a hacer una parada en el mercado local de Alella,
+      donde conocerà  acerca de los productos locales de la comarca. El Maresme cuenta
+      con un microclima y unas condiciones orográficas muy favorables para el cultivo
+      de la fresa, la uva, los guisantes y las sandías.\n\nEl Vermut es más que una
+      simple bebida, es una hermosa tradición. Disfrute de un típico vermut acompanyado
+      con una gran variedad de tapas en una auténtica taberna catalana. La taberna
+      abrió sus puertas hace 29 años y es un referente en el bonito puebo de Alella
+      y sus alrededores.\n\n> ¡Vive una experiencia vinícola con Denominación de Origen!"
+  localization:
+    en: Outdoor
+    ca: Outdoor
+    es: Outdoor
+  included:
+    en: |-
+      Transportation & guide
+      Visit the winery, vineyard and wine tasting (4 organic wines)
+      Modernist Walking Tour
+      Visit local market
+      Vermouth time
+    ca: "Trajecte d'anada i tornada \nAcompanyament d'un guia local \nVisita al celler,
+      vinyes i tast de vins (4 vins ecològics)\nItinerari Modernista per Alella\nMercat
+      local \nL'hora del Vermut "
+    es: "Trayecto de ida y vuelta\nAcompañamiento de un guía local \nVisita a bodega,
+      viñedos y cata de vinos (4 vinos de alta calidad)\nItinerario Modernista por
+      Alella\nMercado local \nLa hora del Vermut "
+  not_included:
+    en: 
+    ca: 
+    es: 
+  contact:
+    en: Ask for more information about our activities
+    ca: Demana més informació de les nostres activitats
+    es: Pide más información de nuestras actividades
+  selected: false
+  language: es, ca, en
+  duration: 6.0
+  pax: 2
+  price: 
+  tag: 'Alella '
+  accesibility: 'yes'
+  destination: '76940'
+  thumbnail: https://www.datocms-assets.com/120/1498481918-14.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1498481918-14.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1522331336-dsc_0948.JPG?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1522331000-can_bertran_-alella-_-_6-1.jpg?w=1024&fm=jpg
 - id: '76956'
   title:
     en: Creativity with graffiti
@@ -325,120 +441,6 @@
   photo1: https://www.datocms-assets.com/120/1515494539-img_0343.jpg?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1515494522-img_0322.jpg?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1515494716-img_0410.jpg?w=1024&fm=jpg
-- id: '76949'
-  title:
-    en: Authentic Catalan Experience
-    ca: Viu una experiència vinícola!
-    es: "¡Vive una experiencia vinícola!"
-  description:
-    en: "Alella is a small charming village located in the comarca of Maresme, between
-      the Mediterranean Sea and the coastal mountain, just 15km away from Barcelona.
-      The coastal town combines a thousand-year tradition of winemaking with architectural
-      highlights from the ancient, Romanesque, Baroque and Modernist periods. \n\nThis
-      wonderful tour will provide knowledgement about Catalan history, culture, gastronomy
-      and it is perfect to be close to local people. \n\nThe first activity will be
-      done in a typical farmhouse of the 14th century, surrounded by vineyards. Is
-      a small, family-run winery that offers a small production of wines made from
-      mostly local grapes grown over thirteen hectares of land. You will visit the
-      cellar and the vineyards. Finally you will taste four organic and high quality
-      wines.\n\nAfter that we will do a Modernist Walking Tour. It is much more than
-      a series of photo opportunities (although don't forget your camera!). Dig deep
-      into the roots of the movement and explore the social, political and cultural
-      issues. The result is a memorable one of the most important art of the world
-      and a tribute to some of its most talented artists.\n\nDuring this walking tour
-      we ‘ll make a stop at the local market of Alella, which opened its doors in
-      X, you will learn about locally grown products, get to know some of the vendors
-      who have been there for years. This casual stop is for you to savour typical
-      gastronomic heritage from a local perspective.\n\nVermouth is more than a simple
-      drink, it is a beautiful tradition. Enjoy a typical Spanish vermouth and tapas
-      in a truly authentic Catalan Tavern, which opened its doors 29 years ago. \nDiscover
-      the tavern that has become reference as a traditional place to take vermouth
-      in the middle of this special village.\n\nLive and authentic experience of the
-      19th century in Alella, near Barcelona."
-    ca: "Alella és una petita població situada a la comarca del Maresme, entre el
-      mar Mediterrani i la serralada de la costa anomenada Serralada del Litoral.
-      A més és conegut pels seus vinyers i la producció de vi, a només 15 km de Barcelona.
-      Amb aquest Tour podrà descobrir com vivia la burgesia catalana entre els segles
-      XIX i XX, i que encara conserva un imponent patrimoni modernista i manté viva
-      la seva identitat cultural. El municipi vinícola dóna nom a una de les denominacions
-      d'origen més petites i antigues de la península: La denominació d'origen Alella.\n\nLa
-      primera activitat es durà a terme en una típica masia del segle XIV, envoltada
-      de vinyers. Disposen de 13 hectàrees de vinyers de 25 anys, amb cultius ecològics.
-      Visita guiada pel vinyer, pel celler, i finalment una degustació de quatre vins
-      orgànics i d'alta qualitat.\n\nContinuarem amb un itinerari cultural que ofereix
-      la possibilitat de fer un recorregut per la història del segle XIX i principis
-      del XX. Arquitectes com Jeroni Martorell o Josep Puig i Cadafalch van desenvolupar
-      alguns dels seus projectes en aquest bonic poble. Endinsant-nos en les formes
-      i els colors de l'arquitectura alellenca podrem extreure algunes de les característiques
-      generals d'aquest moviment. Durant aquest recorregut a peu farem una parada
-      al mercat local d'Alella, on coneixerà els productes locals de la comarca. \nEl
-      Maresme compta amb un microclima i unes condicions orogràfiques molt favorables
-      per al cultiu de la maduixa, el raïm, els pèsols i les síndries.\n\nEl Vermut
-      és més que una simple beguda, és una bella tradició. Gaudeixi d'un típic vermut
-      amb una gran varietat de tapes a una autèntica taverna catalana. La taverna
-      va obrir les seves portes fa 29 anys i és un referent en el preciós poble d'Alella
-      i els seus voltants.\n\nViu una experiència vinícola amb Denominació d'Origen!"
-    es: "Alella es una pequeña población situada en la comarca del Maresme, entre
-      el mar Mediterráneo y la cordillera de la costa llamada Serralada del Litoral.
-      Además es conocido por sus viñedos y la producción de vino, a sólo 15 km de
-      Barcelona. Con este Tour podrá descubrir cómo vivía la burguesía catalana entre
-      los siglos XIX y XX, y que aún conserva un imponente patrimonio modernista y
-      mantiene viva su identidad cultural. El municipio vinícola da nombre a una de
-      las denominaciones de origen más pequeñas y antiguas de la península: La denominación
-      de origen Alella. \n\nLa primera actividad se llevará a cabo en una típica masía
-      del siglo XIV, rodeada de viñedos. Disponen de 13 hectáreas de viñedos de 25
-      años, con cultivos ecológicos. Visita guiada por el viñedo, por la bodega, y
-      finalmente una degustación de cuatro vinos orgánicos y de alta calidad.\n\nContinuaremos
-      con un itinerario cultural que ofrece la posibilidad de hacer un recorrido por
-      la historia del siglo XIX y principios del XX. Arquitectos como Jeroni Martorell
-      o Josep Puig y Cadafalch desarrollaron algunos de sus proyectos en este bonito
-      pueblo. Adentrándonos en las formas y los colores de la arquitectura alellenca
-      podremos extraer algunas de las características generales de este movimiento.\n\nDurante
-      este recorrido a pie vamos a hacer una parada en el mercado local de Alella,
-      donde conocerà  acerca de los productos locales de la comarca. El Maresme cuenta
-      con un microclima y unas condiciones orográficas muy favorables para el cultivo
-      de la fresa, la uva, los guisantes y las sandías.\n\nEl Vermut es más que una
-      simple bebida, es una hermosa tradición. Disfrute de un típico vermut acompanyado
-      con una gran variedad de tapas en una auténtica taberna catalana. La taberna
-      abrió sus puertas hace 29 años y es un referente en el bonito puebo de Alella
-      y sus alrededores.\n\n¡Vive una experiencia vinícola con Denominación de Origen!"
-  localization:
-    en: Alella
-    ca: Alella
-    es: Alella
-  included:
-    en: |-
-      Transportation & guide
-      Visit the winery, vineyard and wine tasting (4 organic wines)
-      Modernist Walking Tour
-      Visit local market
-      Vermouth time
-    ca: "Trajecte d'anada i tornada \nAcompanyament d'un guia local \nVisita al celler,
-      vinyes i tast de vins (4 vins ecològics)\nItinerari Modernista per Alella\nMercat
-      local \nL'hora del Vermut "
-    es: "Trayecto de ida y vuelta\nAcompañamiento de un guía local \nVisita a bodega,
-      viñedos y cata de vinos (4 vinos de alta calidad)\nItinerario Modernista por
-      Alella\nMercado local \nLa hora del Vermut "
-  not_included:
-    en: 
-    ca: 
-    es: 
-  contact:
-    en: Ask for more information about our activities
-    ca: Demana més informació de les nostres activitats
-    es: Pide más información de nuestras actividades
-  selected: true
-  language: es, ca, en, fr, de, pt
-  duration: 6.0
-  pax: 2
-  price: 
-  tag: 'Alella '
-  accesibility: 'yes'
-  destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498481918-14.jpg?w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498481918-14.jpg?w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498481921-15.jpg?w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498481924-16.jpg?w=1024&fm=jpg
 - id: '76950'
   title:
     en: MasterChef
@@ -479,9 +481,9 @@
       cohesión del grupo y el control de la situación cuando se trabaja bajo presión.
       \n\n> 3...2…1… ¡a cocinar!"
   localization:
-    en: Barcelona
-    ca: Barcelona
-    es: Barcelona
+    en: Indoor/Outdoor
+    ca: Indoor/Outdoor
+    es: Indoor/Outdoor
   included:
     en: |-
       Visit Santa Caterina market
@@ -517,6 +519,64 @@
   photo1: https://www.datocms-assets.com/120/1498480788-52.jpg?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1498480790-53.jpg?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1509446050-whatsapp-image-2017-10-27-at-14-32-56.jpeg?w=1024&fm=jpg
+- id: '76951'
+  title:
+    en: Nuclear emergency
+    ca: Emergència Nuclear
+    es: Emergencia Nuclear
+  description:
+    en: "An evil character has set up a nuclear bomb inside the building and just
+      a team like yours can defuse it and avoid its self-destruction. Guided by a
+      Russian actress and your  synced  watches, you'll be split into teams to overcome
+      our quests, which will allow you to crack the necessary codes to defuse the
+      ticking bomb. \n\nOnce they have completed all their missions, they meet again
+      in the main hall to disconnect the 3 nuclear reactors. The result will depend
+      on the result of the tests. Will they be able to disable it?"
+    ca: |-
+      Un malvat personatge ha instal·lat una bomba nuclear a l'edifici i només un equip com el vostre pot desactivar-la i evitar la seva autodestrucció. Guiats per una actriu i amb els rellotges sincronitzats, us dividirem en equips perquè aneu assolint amb les missions, aquestes us portaran a desxifrar els codis necessaris per desactivar la gran bomba que amenaça en explotar a qualsevol moment.
+
+      Una vegada han realitzat totes les seves missions, es reuneixen novament a la sala principal per desconnectar els 3 reactors nuclears. El resultat dependrà del resultat de les proves. Aconseguiran desactivar-ho?
+    es: |-
+      Un malvado personaje ha instalado una bomba nuclear en el edificio y sólo un equipo como el vuestro puede desactivarla y evitar su autodestrucción. Guiados por una actriz y con los relojes sincronizados, os dividiremos en equipos para que vayáis cumpliendo con las misiones que os llevarán a descifrar los códigos necesarios para desactivar la gran bomba que amenaza con explotar en cualquier momento.
+
+      Una vez han realizado todas sus misiones, se reúnen nuevamente en la sala principal para desconectar los 3 reactores nucleares. El resultado dependerá del resultado de las pruebas. **¿Conseguirán desactivarlo?**
+  localization:
+    en: Indoor
+    ca: Indoor
+    es: Indoor
+  included:
+    en: |-
+      Material for the development of the activity
+      Technological devices
+      Group coordinators
+    ca: |-
+      Material per al correcte desenvolupament de l'activitat
+      Dispositius tecnològics
+      Instructors
+    es: |-
+      Material para el desarrollo de la actividad
+      Dispositivos tecnológicos
+      Coordinadores dedicados al grupo
+  not_included:
+    en: 
+    ca: 
+    es: 
+  contact:
+    en: Ask for more information about our activities
+    ca: Demana més informació de les nostres activitats
+    es: Pide más información de nuestras actividades
+  selected: false
+  language: es, en
+  duration: 3.0
+  pax: 10
+  price: 
+  tag: Nuclear
+  accesibility: 'yes'
+  destination: '76940'
+  thumbnail: https://www.datocms-assets.com/120/1498480735-55.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1498480735-55.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1498480736-56.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1498480739-57.jpg?w=1024&fm=jpg
 - id: '76962'
   title:
     en: Crime in Sant Pere
@@ -567,9 +627,9 @@
       de orientación (con brújula y mapa)\n– Acertijos, jeroglíficos, etc.\n– Sacar
       conclusiones a partir de información proporcionada o encontrada"
   localization:
-    en: Barcelona
-    ca: Barcelona
-    es: Barcelona
+    en: Outdoor
+    ca: 'Outdoor '
+    es: Outdoor
   included:
     en: "Backpack\nMap\nRoadbook \nCompass\nMP3\nInformation, clues (photos, drawings,
       puzzles, etc.)"
@@ -618,64 +678,6 @@
   photo1: https://www.datocms-assets.com/120/1498482213-21.png?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1498647781-20170421_110603_hdr.jpg?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1498482222-22.jpg?w=1024&fm=jpg
-- id: '76951'
-  title:
-    en: Nuclear emergency
-    ca: Emergència Nuclear
-    es: Emergencia Nuclear
-  description:
-    en: "An evil character has set up a nuclear bomb inside the building and just
-      a team like yours can defuse it and avoid its self-destruction. Guided by a
-      Russian actress and your  synced  watches, you'll be split into teams to overcome
-      our quests, which will allow you to crack the necessary codes to defuse the
-      ticking bomb. \n\nOnce they have completed all their missions, they meet again
-      in the main hall to disconnect the 3 nuclear reactors. The result will depend
-      on the result of the tests. Will they be able to disable it?"
-    ca: |-
-      Un malvat personatge ha instal·lat una bomba nuclear a l'edifici i només un equip com el vostre pot desactivar-la i evitar la seva autodestrucció. Guiats per una actriu i amb els rellotges sincronitzats, us dividirem en equips perquè aneu assolint amb les missions, aquestes us portaran a desxifrar els codis necessaris per desactivar la gran bomba que amenaça en explotar a qualsevol moment.
-
-      Una vegada han realitzat totes les seves missions, es reuneixen novament a la sala principal per desconnectar els 3 reactors nuclears. El resultat dependrà del resultat de les proves. Aconseguiran desactivar-ho?
-    es: |-
-      Un malvado personaje ha instalado una bomba nuclear en el edificio y sólo un equipo como el vuestro puede desactivarla y evitar su autodestrucción. Guiados por una actriz y con los relojes sincronizados, os dividiremos en equipos para que vayáis cumpliendo con las misiones que os llevarán a descifrar los códigos necesarios para desactivar la gran bomba que amenaza con explotar en cualquier momento.
-
-      Una vez han realizado todas sus misiones, se reúnen nuevamente en la sala principal para desconectar los 3 reactores nucleares. El resultado dependerá del resultado de las pruebas. ¿Conseguirán desactivarlo?
-  localization:
-    en: 'Meeting rooms, office, outdoor spaces if the weather is nice '
-    ca: Sales, oficines, espais a l’aire lliure si la climatologia acompanya
-    es: Salas, oficinas, espacio outdoor si la climatología acompaña
-  included:
-    en: |-
-      Material for the development of the activity
-      Technological devices
-      Group coordinators
-    ca: |-
-      Material per al correcte desenvolupament de l'activitat
-      Dispositius tecnològics
-      Instructors
-    es: |-
-      Material para el desarrollo de la actividad
-      Dispositivos tecnológicos
-      Coordinadores dedicados al grupo
-  not_included:
-    en: 
-    ca: 
-    es: 
-  contact:
-    en: Ask for more information about our activities
-    ca: Demana més informació de les nostres activitats
-    es: Pide más información de nuestras actividades
-  selected: false
-  language: es, en
-  duration: 3.0
-  pax: 10
-  price: 
-  tag: Nuclear
-  accesibility: 'yes'
-  destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498480735-55.jpg?w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1498480735-55.jpg?w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1498480736-56.jpg?w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1498480739-57.jpg?w=1024&fm=jpg
 - id: '76952'
   title:
     en: DRAGON BOAT
@@ -710,9 +712,9 @@
       \n\nSu gran éxito se fundamenta en el hecho de fusionar el deporte y el ocio
       con valores pedagógicos y sociales."
   localization:
-    en: Castelldefels (Barcelona) or Banyoles (Girona)
-    ca: Castelldefels o Banyoles
-    es: 'Castelldefels o Banyoles '
+    en: Outdoor
+    ca: Outdoor
+    es: Outdoor
   included:
     en: |-
       Arrival + Coffee break
@@ -804,9 +806,9 @@
       y cohesión grupal\n3. Energetización y celebración\n4. Dinámica de la risa\n5.
       Relajación\n6. Puesta en común"
   localization:
-    en: We moved to wherever you want to celebrate this workshop
-    ca: Ens traslladem on vulguis per celebrar aquest taller
-    es: Nos trasladamos a donde quieras para celebrar este taller
+    en: Indoor/Outdoor
+    ca: Indoor/Outdoor
+    es: Indoor/Outdoor
   included:
     en: Coach
     ca: Coach
@@ -831,93 +833,152 @@
   photo1: https://www.datocms-assets.com/120/1509451891-image-2.jpg?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1509451900-image.jpg?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1509451906-image-1.jpg?w=1024&fm=jpg
-- id: '76961'
+- id: '76963'
   title:
-    en: Make your own custom beer
-    ca: CREA LA TEVA PRÒPIA CERVESA
-    es: CREA TU PROPIA CERVEZA
+    en: Trencadís Workshop
+    ca: Taller de trencadís
+    es: 'Taller de Mosaico Trencadís '
   description:
     en: |-
-      If you like beer, you can not miss this 100% participatory workshop. You will learn how to prepare your own craft beers from scratch.
+      A short introduction will be given to ‘Trencadis’ (Catalan - ‘to break’) – The mosaic style from the ‘Modernista’ period in Barcelona c.1880 – c.1910 made famous by Gaudi.
 
-      The workshop involves the coordinated work of the team, which will have to organize, innovate and agree on all decisions that involve the development of the product: from the amount of hops to the design of the label.
+      **Making Trencadis**
+      An introduction to the technique and ‘how to’ will explain everything that groups need to know to work on their own and as a team.
 
-      Our beer experts will give you some premises, but your creativity will be the protagonist of the day!
+      Each pair work together to make their section of the design. They also need to work with the other team members to encourage cohesion and working towards an overall design.
+
+      The whole team should decide on colours, the size of ceramic tiles used etc. Final pieces are judged based on overall look and cohesion.
+
+      **Feedback**
+      Teams are encouraged to speak about their mosaic, considering individual performance and teamwork and should give feedback on what worked well and how they might have approached things differently.
     ca: |-
-      Si us agrada la cervesa, no us podeu perdre aquest taller 100% participatiu. Aprendreu com preparar les vostres pròpies cerveses artesanes des de zero.
+      El taller començarà amb una breu introducció al 'Trencadís'. És un tipus d'aplicació ornamental del mosaic a partir de fragments ceràmics units; molt habitual i característic en l'arquitectura modernista catalana.
 
-      El taller implica el treball coordinat de l'equip, que haurà d'organitzar-se, innovar i consensuar totes les decisions que impliquin el desenvolupament del producte: des de la quantitat de llúpol fins al disseny de l'etiqueta.
+      **DESENVOLUPAMENT DEL TALLER**
 
-      Els nostres experts cervesers us donaran algunes premisses, però serà la vostra creativitat la protagonista de la jornada!
-    es: |-
-      Si os gusta la cerveza, no os podéis perder este taller 100% participativo. Aprenderéis cómo preparar vuestras propias cervezas artesanas desde cero.
+      Dividirem als participants en grups (o creats per l'empresa). Farem una introducció a la tècnica i al "com fer-ho".
 
-      El taller implica el trabajo coordinado del equipo, que tendrá que organizarse, innovar y consensuar todas las decisiones que impliquen el desarrollo del producto: desde la cantidad de lúpulo hasta el diseño de la etiqueta.
+      Cada grup treballarà en conjunt per fer la seva secció del disseny. És important, comunicar-se amb els altres equips per encoratjar la cohesió i treballar cap a un disseny general.
 
-      Nuestros expertos cerveceros os darán algunas premisas, pero será vuestra creatividad la protagonista de la jornada!
+      Tot l'equip ha de decidir sobre els colors, la grandària de les rajoles, etc. Les peces finals es jutgen en funció de l'aspecte general i la cohesió.
+
+      Al final del taller, cada equip haurà de defensar el seu treball i posar-ho en comú amb tots els altres grups.
+
+
+      > **VALORS TREBALLATS**
+      > Treball en equip, solucionar problemes, desenvolupar la creativitat, talent, habilitats, diversió...
+    es: "El taller empezará con una breve introducción al 'Trencadís'. Es un tipo
+      de aplicación ornamental del mosaico a partir de fragmentos cerámicos unidos;
+      muy habitual y característico en la arquitectura modernista catalana.\n\n**DESARROLLO
+      DEL TALLER**\n\nDividiremos a los participantes en grupos (o pueden venir dados
+      por la empresa). Haremos una introducción a la técnica y al \"cómo hacerlo\".\n\nCada
+      grupo trabajará en conjunto para hacer su sección del diseño. Es importante,
+      comunicarse con los otros equipos para alentar la cohesión y trabajar hacia
+      un diseño general.\n\nTodo el equipo debe decidir sobre los colores, el tamaño
+      de las baldosas, etc. Las piezas finales se juzgan en función del aspecto general
+      y la cohesión.\n\nAl final del taller, cada equipo tendrá que defender su trabajo
+      y ponerlo en común con todos los otros grupos.\n\n\n> **VALORES TRABAJADOS:**
+      \n> Trabajo en equipo, solucionar problemas, desarrollar la creatividad, talento,
+      habilidades, diversión"
   localization:
-    en: Barcelona
-    ca: Barcelona
-    es: Barcelona
+    en: Indoor/Outdoor
+    ca: Indoor/Outdoor
+    es: Indoor/Outdoor
   included:
-    en: "All the brewing material: ingredients, utensils ..\nWorkshop led by 2 beer
-      experts + support Staff \nLogo and label design\nPack of beers prepared by the
-      participants"
+    en: |-
+      Divide teams
+      Explain task and tutorial
+      Aprons, gloves and tools
+      30 mins design and sketch
+      1hr 15 mins mosiac
+      15 mins grouting and finishing
+      Presentation and group photo
     ca: |-
-      Tot el material cerveser: ingredients, estris...
-      Taller dirigit per 2 experts cervesers + Staff per donar suport
-      Disseny de logo i etiquetes
-      Pack de Cerveses preparades pels participants
+      Explicar tasca i tutorial
+      Davantals, guants i eines
+      30 minuts de disseny i esbós
+      1 hora i 15 minuts de mosaic
+      15 minuts d'enganxar i l'acabat
+      Presentació i foto grupal
     es: |-
-      Todo el material cervecero: ingredientes, utensilios..
-      Taller dirigido por 2 expertos cerveceros + Staff apoyo
-      Diseño de logo y etiquetas
-      Pack de Cervezas preparadas por los participantes
+      Reparto de equipos
+      Explicar tarea y tutorial
+      Delantales, guantes y herramientas
+      30 minutos de diseño y boceto
+      1 hora y 15 minutos de mosiac
+      15 minutos de rejuntado y acabado
+      Presentación y foto grupal
   not_included:
-    en: ''
-    ca: ''
-    es: ''
+    en: Space
+    ca: L'espai
+    es: Espacio
   contact:
-    en: Ask for more information about our tours
-    ca: Demana més informació de les nostres excursions
-    es: Pide más información de nuestras excursiones
-  selected: false
-  language: ca, es, en
-  duration: 9.0
-  pax: 10
+    en: Ask for more information about our workshop
+    ca: Demana més informació del nostre taller
+    es: Pide más información de nuestro taller
+  selected: true
+  language: es, ca, en
+  duration: 2.5
+  pax: 5
   price: 
-  tag: tours
+  tag: trencadis
   accesibility: 'yes'
-  destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=1024&fm=jpg
-  photo2: 
-  photo3: 
+  destination: '76941'
+  thumbnail: https://www.datocms-assets.com/120/1519896656-img-20171212-wa0008.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1519896656-img-20171212-wa0008.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1519896687-img-20171212-wa0010.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1519896702-img-20171212-wa0005.jpg?w=1024&fm=jpg
 - id: '76955'
   title:
-    en: Workshop of batucada
-    ca: Taller de batucada
-    es: Taller de batucada
+    en: Percussion Workshop
+    ca: 'Taller de Percussió '
+    es: Taller de percusión
   description:
     en: |-
-      The workshop aims to bring people to the universe of percussion, initiating them in musical practice, learning different Brazilian rhythms, developing creative, musical abilities, the breaking of paradigms, positive leadership, work in equipment, listening, etc.
+      We all need to vibrate, express, enjoy, get excited and amuse ourselves.
 
-      Participants will have a workshop with instruments and will be led by a professional who will help them at all times. It will be a fun and exciting experience!
-    ca: "El Taller té com a objectiu apropar a persones a l'univers de la percussió,
-      iniciant-les en la pràctica musical, aprenent diferents ritmes brasilers, executant-los
-      en grup, desenvolupant les capacitats creatives, musicals, el lideratge positiu,
-      la ruptura de paradigmes, el treball en equip, l'escolta, etc. \n\nEls participants
-      realitzaran un taller amb instruments i seran dirigits per un professional que
-      els ajudarà en tot moment. Serà una experiència divertida i emocionant amb un
-      enfocament lúdic i integrador."
-    es: |-
-      El Taller tiene como objetivo acercar a personas al universo de la percusión, iniciándolas en la práctica musical, aprendiendo diferentes ritmos brasileños, ejecutándolos en grupo, desarrollando las capacidades creativas, musicales, el liderazgo positivo, la ruptura de paradigmas, el trabajo en equipo, la escucha, etc.
+      Our workshops are dynamic sessions that combine drumming and experiential exercises to grow cooperation and rapport among your team members.
 
-      Los participantes realizarán un taller con instrumentos y serán dirigidos por un profesional que les ayudará en todo momento. Será una experiencia divertida y emocionante con un enfoque lúdico e integrador.
+      Percussion allows us to demonstrate that being out of our comfort zone we are able to achieve unbelievable results working as a team.
+
+      **Our Drumming Team Building will deliver:**
+
+      * Better communication
+      * Stronger teams
+      * Collaboration and cooperation
+      * Stronger leadership and self-initiative
+      * Enhanced energy
+      * Barriers between staff can be resolved
+      * Productivity increases and profits go up
+
+      > Of course, it can also be done just for fun!!
+    ca: |-
+      Realitzem dinàmiques de treball en equip utilitzant instruments de percussió. L'objectiu és apropar a persones a l'univers de la percussió, iniciant-les en la pràctica musical i aprenent diferents ritmes.
+
+      **Valors que treballem**
+
+      * Sinergia
+      * Contribució personal a l'objectiu comú
+      * Treballar fora de la zona de confort
+      * El valor i coneixement que cadascun adquireix i aporta al grup musical
+      * Treballar l'escolta i la coordinació
+      * Desenvolupament de les capacitats creatives
+      * Lideratge
+      * Trencament de paradigmes
+
+      > Una experiència divertida i emocionant des d'un enfocament lúdic i integrador.
+    es: "Realizamos dinámicas de trabajo en equipo utilizando instrumentos de percusión.
+      El objetivo es acercar a personas al universo de la percusión, iniciándolas
+      en la práctica musical y aprendiendo diferentes ritmos. \n\n**Valores que trabajamos**\n\n*
+      Sinergia\n* Contribución personal al objetivo común \n* Trabajar fuera de la
+      zona de confort\n* El valor y conocimiento que cada uno adquiere y aporta al
+      ensamble musical\n* Trabajar la escucha y la coordinación \n* Desarrollo de
+      capacidades creativas\n* Liderazgo  \n* Ruptura de paradigmas \n\n> Una experiencia
+      divertida y emocionante con un enfoque lúdico e integrador."
   localization:
-    en: 'Meeting rooms, office, outdoor spaces if the weather is nice '
-    ca: Sales, oficines, espais a l’aire lliure si la climatologia acompanya
-    es: Salas, oficinas, espacio outdoor si la climatología acompaña
+    en: Indoor / Outdoor
+    ca: Indoor / Outdoor
+    es: Indoor / Outdoor
   included:
     en: |-
       Instruments
@@ -973,9 +1034,9 @@
 
       Risas, aplausos y gritos de euforia... son emociones que se viven durante el juego y que hacen que esta actividad empresarial sea todo un éxito.
   localization:
-    en: 'Meeting rooms, office, outdoor spaces if the weather is nice '
-    ca: Sales, oficines, espais a l’aire lliure si la climatologia acompanya
-    es: Salas, oficinas, espacio outdoor si la climatología acompaña
+    en: Indoor
+    ca: Indoor
+    es: Indoor
   included:
     en: |-
       Ipad for group
@@ -1046,9 +1107,9 @@
       la actitud, la innovación, la creatividad y muchos otros al mismo tiempo que
       desarrolla valores corporativos en el nivel de su gente."
   localization:
-    en: 'Outdoor spaces  '
-    ca: Espai outdoor
-    es: Espacio outdoor
+    en: 'Outdoor '
+    ca: Outdoor
+    es: Outdoor
   included:
     en: |-
       Material for the development of the activity
@@ -1181,101 +1242,6 @@
   photo1: https://www.datocms-assets.com/120/1498481845-67.jpg?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1498481848-68.jpg?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1498481850-69.jpg?w=1024&fm=jpg
-- id: '76963'
-  title:
-    en: Trencadís Workshop
-    ca: Taller de trencadís
-    es: 'Taller de Mosaico Trencadís '
-  description:
-    en: |-
-      A short introduction will be given to ‘Trencadis’ (Catalan - ‘to break’) – The mosaic style from the ‘Modernista’ period in Barcelona c.1880 – c.1910 made famous by Gaudi.
-
-      **Making Trencadis**
-      An introduction to the technique and ‘how to’ will explain everything that groups need to know to work on their own and as a team.
-
-      Each pair work together to make their section of the design. They also need to work with the other team members to encourage cohesion and working towards an overall design.
-
-      The whole team should decide on colours, the size of ceramic tiles used etc. Final pieces are judged based on overall look and cohesion.
-
-      **Feedback**
-      Teams are encouraged to speak about their mosaic, considering individual performance and teamwork and should give feedback on what worked well and how they might have approached things differently.
-    ca: |-
-      El taller començarà amb una breu introducció al 'Trencadís'. És un tipus d'aplicació ornamental del mosaic a partir de fragments ceràmics units; molt habitual i característic en l'arquitectura modernista catalana.
-
-      **DESENVOLUPAMENT DEL TALLER**
-
-      Dividirem als participants en grups (o creats per l'empresa). Farem una introducció a la tècnica i al "com fer-ho".
-
-      Cada grup treballarà en conjunt per fer la seva secció del disseny. És important, comunicar-se amb els altres equips per encoratjar la cohesió i treballar cap a un disseny general.
-
-      Tot l'equip ha de decidir sobre els colors, la grandària de les rajoles, etc. Les peces finals es jutgen en funció de l'aspecte general i la cohesió.
-
-      Al final del taller, cada equip haurà de defensar el seu treball i posar-ho en comú amb tots els altres grups.
-
-
-      > **VALORS TREBALLATS**
-      > Treball en equip, solucionar problemes, desenvolupar la creativitat, talent, habilitats, diversió...
-    es: "El taller empezará con una breve introducción al 'Trencadís'. Es un tipo
-      de aplicación ornamental del mosaico a partir de fragmentos cerámicos unidos;
-      muy habitual y característico en la arquitectura modernista catalana.\n\n**DESARROLLO
-      DEL TALLER**\n\nDividiremos a los participantes en grupos (o pueden venir dados
-      por la empresa). Haremos una introducción a la técnica y al \"cómo hacerlo\".\n\nCada
-      grupo trabajará en conjunto para hacer su sección del diseño. Es importante,
-      comunicarse con los otros equipos para alentar la cohesión y trabajar hacia
-      un diseño general.\n\nTodo el equipo debe decidir sobre los colores, el tamaño
-      de las baldosas, etc. Las piezas finales se juzgan en función del aspecto general
-      y la cohesión.\n\nAl final del taller, cada equipo tendrá que defender su trabajo
-      y ponerlo en común con todos los otros grupos.\n\n\n> **VALORES TRABAJADOS:**
-      \n> Trabajo en equipo, solucionar problemas, desarrollar la creatividad, talento,
-      habilidades, diversión"
-  localization:
-    en: Indoor/Outdoor
-    ca: Indoor/Outdoor
-    es: Indoor/Outdoor
-  included:
-    en: |-
-      Divide teams
-      Explain task and tutorial
-      Aprons, gloves and tools
-      30 mins design and sketch
-      1hr 15 mins mosiac
-      15 mins grouting and finishing
-      Presentation and group photo
-    ca: |-
-      Explicar tasca i tutorial
-      Davantals, guants i eines
-      30 minuts de disseny i esbós
-      1 hora i 15 minuts de mosaic
-      15 minuts d'enganxar i l'acabat
-      Presentació i foto grupal
-    es: |-
-      Reparto de equipos
-      Explicar tarea y tutorial
-      Delantales, guantes y herramientas
-      30 minutos de diseño y boceto
-      1 hora y 15 minutos de mosiac
-      15 minutos de rejuntado y acabado
-      Presentación y foto grupal
-  not_included:
-    en: Space
-    ca: L'espai
-    es: Espacio
-  contact:
-    en: Ask for more information about our workshop
-    ca: Demana més informació del nostre taller
-    es: Pide más información de nuestro taller
-  selected: true
-  language: es, ca, en
-  duration: 2.5
-  pax: 5
-  price: 
-  tag: trencadis
-  accesibility: 'yes'
-  destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1519896656-img-20171212-wa0008.jpg?w=480&h=270&fit=crop&fm=jpg
-  photo1: https://www.datocms-assets.com/120/1519896656-img-20171212-wa0008.jpg?w=1024&fm=jpg
-  photo2: https://www.datocms-assets.com/120/1519896687-img-20171212-wa0010.jpg?w=1024&fm=jpg
-  photo3: https://www.datocms-assets.com/120/1519896702-img-20171212-wa0005.jpg?w=1024&fm=jpg
 - id: '76964'
   title:
     en: Game of Thrones
@@ -1304,9 +1270,9 @@
 
       Para hacerse con el trono habrá que ser la Casa más hábil. Solo la que logre abrir una gran caja fuerte cerrada con cadenas encontrará en el interior la corona del rey. Si no lo consigue, solo la mano del rey podrá sentarse en el trono hasta que haya rey.
   localization:
-    en: Castle & Gardens, meeting rooms, venues
-    ca: Castells, jardins, venues
-    es: Castillos, jardines, espacios de eventos
+    en: Indoor/Outdoor
+    ca: Indoor/Outdoor
+    es: Indoor/Outdoor
   included:
     en: |-
       Design of tests and puzzles
@@ -1344,6 +1310,68 @@
   photo1: https://www.datocms-assets.com/120/1519899547-dinar-d-empresa-winsystems-castell-jalpi-2017-30.jpg?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1519898505-dinar-d-empresa-winsystems-castell-jalpi-2017-61.jpg?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1519899519-dinar-d-empresa-winsystems-castell-jalpi-2017-97.jpg?w=1024&fm=jpg
+- id: '76961'
+  title:
+    en: Make your own custom beer
+    ca: CREA LA TEVA PRÒPIA CERVESA
+    es: CREA TU PROPIA CERVEZA
+  description:
+    en: |-
+      If you like beer, you can not miss this 100% participatory workshop. You will learn how to prepare your own craft beers from scratch.
+
+      The workshop involves the coordinated work of the team, which will have to organize, innovate and agree on all decisions that involve the development of the product: from the amount of hops to the design of the label.
+
+      Our beer experts will give you some premises, but your creativity will be the protagonist of the day!
+    ca: |-
+      Si us agrada la cervesa, no us podeu perdre aquest taller 100% participatiu. Aprendreu com preparar les vostres pròpies cerveses artesanes des de zero.
+
+      El taller implica el treball coordinat de l'equip, que haurà d'organitzar-se, innovar i consensuar totes les decisions que impliquin el desenvolupament del producte: des de la quantitat de llúpol fins al disseny de l'etiqueta.
+
+      Els nostres experts cervesers us donaran algunes premisses, però serà la vostra creativitat la protagonista de la jornada!
+    es: |-
+      Si os gusta la cerveza, no os podéis perder este taller 100% participativo. Aprenderéis cómo preparar vuestras propias cervezas artesanas desde cero.
+
+      El taller implica el trabajo coordinado del equipo, que tendrá que organizarse, innovar y consensuar todas las decisiones que impliquen el desarrollo del producto: desde la cantidad de lúpulo hasta el diseño de la etiqueta.
+
+      Nuestros expertos cerveceros os darán algunas premisas, pero será vuestra creatividad la protagonista de la jornada!
+  localization:
+    en: Indoor
+    ca: Indoor
+    es: Indoor
+  included:
+    en: "All the brewing material: ingredients, utensils ..\nWorkshop led by 2 beer
+      experts + support Staff \nLogo and label design\nPack of beers prepared by the
+      participants"
+    ca: |-
+      Tot el material cerveser: ingredients, estris...
+      Taller dirigit per 2 experts cervesers + Staff per donar suport
+      Disseny de logo i etiquetes
+      Pack de Cerveses preparades pels participants
+    es: |-
+      Todo el material cervecero: ingredientes, utensilios..
+      Taller dirigido por 2 expertos cerveceros + Staff apoyo
+      Diseño de logo y etiquetas
+      Pack de Cervezas preparadas por los participantes
+  not_included:
+    en: ''
+    ca: ''
+    es: ''
+  contact:
+    en: Ask for more information about our tours
+    ca: Demana més informació de les nostres excursions
+    es: Pide más información de nuestras excursiones
+  selected: false
+  language: ca, es, en
+  duration: 9.0
+  pax: 10
+  price: 
+  tag: tours
+  accesibility: 'yes'
+  destination: '76940'
+  thumbnail: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=1024&fm=jpg
+  photo2: 
+  photo3: 
 - id: '76966'
   title:
     en: Create your own song
@@ -1392,9 +1420,9 @@
       una experiencia sensorial grupal única que fomenta  la escucha, la creatividad,
       la diversión y un gran número de sensaciones."
   localization:
-    en: Offices, meetings rooms, bars, venues
-    ca: Oficines, sales, bars, venues
-    es: Oficinas, salas, bares, venues
+    en: Indoor
+    ca: Indoor
+    es: Indoor
   included:
     en: |-
       Material for the development of the activity
@@ -1425,34 +1453,159 @@
   photo1: https://www.datocms-assets.com/120/1519994618-_1110623.jpg?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1519994677-_1110583.jpg?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1519995436-_1110534.jpg?w=1024&fm=jpg
+- id: '76965'
+  title:
+    en: 'Lights, Camera, Action! '
+    ca: Llums, càmera i acció!
+    es: "¡Luces, cámara, acción! "
+  description:
+    en: "Managing each film requires effective teamwork,communication, planning, project
+      management and cooperation to enable the films to be produced to\nspecification.
+      \n\nWithin 5 hours, we prepare, dress, shoot, edit and project your film! We
+      turn a film into a fresh and fun experience.\n\nAfter the screening, we will
+      distribute the Oscar awards. We propose 4 recognitions (individual and collective
+      awards)\n\n- Best male character\n- Best female character\n- The best group
+      of characters\n- The best movie\n\nThere are different styles and movies: Dracula,
+      Robin Hood, The Lost Ark, The Fox, The Swing War, The Lost Treasure.\n\n> A
+      team building film is an innovative event that provides an opportunity to deal
+      with new issues in the company through an interesting activity in an unusual
+      context."
+    ca: "L’equip d’actors ens ha fallat a última hora i ens disposem a rodar una pel·lícula
+      amb qui tenim a mà. Convertim als participants en els actors de la pel·lícula
+      i els vestim com el personatge que representen.\n\nNo hi ha jerarquies, els
+      fem actuar e interrelacionar-se recreant l’atmosfera d’un rodatge;... tots ens
+      hauràn d’ajudar amb els efectes especials, o en l’escena del ball... I tot amb
+      una única finalitat, tirar endavant l’objectiu final comú: LA PEL.LÍCULA.\n\nEn
+      un plaç de 5 hores, preparem, vestim, rodem, editem i projectem la vostra pel.lícula!
+      Convertim un rodatge cinematogràfic en una experiència fresca i divertida! \n\nDesprés
+      de la projecció farem el repartiment dels premis. Proposem 4 reconeixements
+      (premis individuals i col·lectius)\n\n- Millor personatge masculí\n- Millor
+      personatge femení\n- Millor grup de personatges\n- Millor pel·lícula\n\n\nHi
+      ha diferents estils i pel·lícules: DRÀCULA, ROBIN HOOD, L'ARCA PERDUDA, EL ZORRO,
+      LA GUERRA DEL SWING, PISTOLES AL SOL i EL TRESOR PERDUT\n\n> Anima't a participar!
+      Treu l'actor que portes dins!"
+    es: |-
+      El equipo de actores nos ha fallado a última hora y nos disponemos a rodar una película con lo que tenemos a mano. Convertimos a los participantes en los actores de la película y los vestimos como el personaje que representan.
+
+      No hay jerarquías, los hacemos actuar e interrelacionarse recreando la atmósfera de un rodaje;... alguien tendrá que ayudar con los efectos especiales, o en la escena del baile... Y todo con un único fin, llevar adelante el objetivo final común: LA PELÍCULA.
+
+      En un plazo de 5 horas, preparamos, vestimos, rodamos, editamos y proyectamos vuestra película. ¡Convertimos un rodaje cinematográfico en una experiencia fresca y divertida!
+
+      Después de la proyección haremos el reparto de premios. Proponemos 4 reconocimientos (premios individuales y colectivos)
+
+      - Mejor personaje masculino
+      - Mejor personaje femenino
+      - Mejor grupo de personajes
+      - Mejor película
+
+
+      Hay diferentes estilos y películas: Drácula,  Robin Hood, El Arca Perdida, El Zorro, La Guerra Del Swing y El Tesoro Perdido.
+
+      > ¡Anímate a participar! ¡Saca el actor que llevas dentro!
+  localization:
+    en: Indoor/Outdoor
+    ca: Indoor/Outdoor
+    es: Indoor/Outdoor
+  included:
+    en: |-
+      Props Theatre employees and participants
+      Special Effects Lighting and Equipment
+      Edition of Shooting
+      Pre-production and shooting scripts
+      Staff needed for development and editing
+      Film projection
+      Send video file
+      Oscar winners
+      Silent film
+      Transfer
+    ca: |-
+      Attrezzo necessari per als participants i personal
+      Equip d’il.luminació, gravació i efectes si és necessari
+      Components per l’ edició del rodatge de l’activitat
+      Preproduccions i guions realitzats amb anterioritat
+      Personal necessari pel, desenvolupament i edició
+      Projecció de la pel.lícula
+      Enviament del vídeo posterior a l'activitat
+      Entrega premis "Estàtua Òscar"
+      Desplaçaments
+    es: |-
+      Attrezzo necesario para los participantes y personal
+      Equipo de iluminación, grabación y efectos si es necesario
+      Componentes por la edición del rodaje de la actividad
+      Preproducciones y guiones realizados con anterioridad
+      Personal necesario para el desarrollo y edición
+      Proyección de la película
+      Envío del vídeo posterior a la actividad
+      Entrega de premios "La estatuilla de los Oscar"
+      Desplazamientos
+      Cine mudo
+  not_included:
+    en: |-
+      Space rental
+      Audiovisual material: projector, portable screen, self-powered subwoofer
+      Makeup workshop
+      Customize the theme of the movie
+      Personalized awards
+    ca: "Lloguer de l’espai \nMaterial audiovisual: projector – pantalla portàtil
+      – equip autoamplificat \nTaller de maquillatge \nPersonalitzar la temàtica de
+      la pel·lícula\nPremis personalitzats"
+    es: "Alquiler del espacio \nMaterial audiovisual: proyector – pantalla portátil
+      – equipo autoamplificado\nTaller de maquillaje \nPersonalizar la temática de
+      la película\nPremios personalizados"
+  contact:
+    en: Ask for more information about our movies
+    ca: 'Demana més informació de les nostres pel·lícules '
+    es: Pide más información sobre nuestras películas
+  selected: false
+  language: ca, es, en
+  duration: 2.0
+  pax: 10
+  price: 
+  tag: cine
+  accesibility: 'yes'
+  destination: '76941'
+  thumbnail: https://www.datocms-assets.com/120/1519990410-_dsc5268.JPG?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1519990410-_dsc5268.JPG?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1519990423-cheap-film-dau-96.jpg?w=1024&fm=jpg
+  photo3: https://www.datocms-assets.com/120/1519990778-cheap-film-dau-62.jpg?w=1024&fm=jpg
 - id: '76967'
   title:
     en: Skateboarding Workshops
     ca: 'Iniciació al skate '
     es: 'Iniciación al skate '
   description:
-    en: "Learn to skate. We teach from the most basic notions such as momentum, brake,
-      turns, obstacles ... \n> The limit is up to you!"
-    ca: "Aprèn a patinar amb un skate. Us ensenyem des de les nocions més bàsiques
-      com a impuls, fre, girs, obstacles ... \n> El límit ho poses tu!"
-    es: "Aprende a patinar con un skate. Os enseñamos desde las nociones más básicas
-      como impulso, freno, giros, obstáculos ... \n> ¡El límite lo pones tú!"
+    en: "Improve your skills, have fun and learn a few new tricks while you’re there.
+      In this course you will learn to move around the skate in a fun and safe enviroment,
+      ensuring a positive experience. \n\nWe teach from the most basic notions such
+      as momentum, brake, turns, obstacles... \n\nCustomized according to the level
+      of the colleagues, the aspects that you want to learn.\n\n> The limit is up
+      to you!"
+    ca: |-
+      Aprèn a patinar amb un skate a mà dels millors professionals de totes les modalitats (street, rampa, freestyle).
+
+      Us ensenyem des de les nocions més bàsiques com a impuls, fre, girs, obstacles... Diversió assegurada aprenent les habilitats bàsiques per desplaçar-se amb seguretat amb l'skate.
+
+      A més, descobrireu la cultura, la seva història i la terminologia del skate.
+
+      > El límit ho poses tu!
+    es: "Aprende a patinar con un skate a mano de los mejores profesionales de todas
+      las modalidades (street, rampa, freestyle). \n\nOs enseñamos desde las nociones
+      más básicas como impulso, freno, giros, obstáculos... Diversión asegurada aprendiendo
+      las habilidades básicas para desplazarte con seguridad con el skate.\n\nAdemás,
+      os adentrareis en la cultura, historia y terminología del skate.\n\n\n> ¡El
+      límite lo pones tú!\n\n"
   localization:
-    en: 'Skatepark '
-    ca: 'Skatepark '
-    es: 'Skatepark '
+    en: Outdoor
+    ca: Outdoor
+    es: Outdoor
   included:
-    en: |-
-      Skateboard monitor
-      Skateboard
-      Helmets and protections
-      Liability insurance
+    en: "Skateboard monitor \nSkateboards & helmets provided\nLiability insurance"
     ca: "Monitor de skate \nTaula de skate\nCascs i proteccions\nAssegurança Responsabilitat
       Civil "
     es: "Monitor de skate \nTabla de skate\nCascos y protecciones\nSeguro de Responsabilidad
       Civil"
   not_included:
-    en: 
+    en: ''
     ca: ''
     es: ''
   contact:
@@ -1461,7 +1614,7 @@
     es: 'Pide más información '
   selected: false
   language: ca, es, en
-  duration: 2.0
+  duration: 1.0
   pax: 5
   price: 
   tag: Skate
@@ -1471,3 +1624,179 @@
   photo1: https://www.datocms-assets.com/120/1519902146-13235176_881569228638393_8433572892571173484_o.jpg?w=1024&fm=jpg
   photo2: https://www.datocms-assets.com/120/1519902156-11045465_756694847792499_7128162302594086320_o.jpg?w=1024&fm=jpg
   photo3: https://www.datocms-assets.com/120/1519922506-captura-de-pantalla-2018-03-01-a-les-17-41-22.png?w=1024&fm=jpg
+- id: '76968'
+  title:
+    en: 'MURDER MYSTERY GAME '
+    ca: 'ASSASSINAT A LA MANSIÓ '
+    es: CLUEDO EN VIVO
+  description:
+    en: "**The history**\n\nLord Cobblepot has been killed! Could it have been your
+      despondent wife? Your distrustful partner? Your beautiful and young secretary?
+      Or, as the canons send, once again the murderer is the steward?\n\nInvestigate
+      the murder yourself, gather the possible clues scattered throughout his mansion
+      and interrogate the suspects themselves to be the first to solve the case and
+      find out who has ended the seemingly immaculate life of the English lord millionaire!\n\n*So,
+      now it’s up to you to solve the murder!*\n\n\n> **Values we work:** teamwork,
+      creativity, talent, strengthen links, strategies, reaction capacity, improve
+      communication, leadership and emotional intelligence.\n> "
+    ca: "“Assassinat a la Mansió” és un joc interactiu. Els participants\nsón convocats
+      i hauran de viure diverses, es plantejarà un enigma que s’haurà de resoldre
+      de forma cooperativa.\n\nEls nostres actors conduïran la història i estaran
+      amb\nels participants en tot moment.\n\nTot el plantejament i desenvolupament
+      es farà de forma atmosfèrica i sense sortir de la història de manera que convidem
+      als assistents a traslladar-se durant unes hores en un altre temps i en un altre
+      lloc sense sortir del seu paper.\n\n**La Història**\n\nLord Cobblepot ha sigut
+      assassinat! Haurà estat la seva abatuda esposa? El seu desconfiat soci? La seva
+      bella i jove secretària? O, com manen els cànons, un cop més l'assassí és el
+      majordom? \n\nInvestiga tu mateix l'assassinat, reuneix les possibles pistes
+      escampades per la seva mansió i interroga els propis sospitosos per ser el primer
+      en resoldre el cas i descobrir qui ha acabat amb la vida aparentment immaculada
+      del milionari lord anglès!\n\n> **Valors que treballem:** El treball en equip,
+      la creativitat, el talent, reforçar els vincles, estratègies, capacitat de reacció,
+      millorar la comunicació, lideratge i la intel·ligència emocional.\n> "
+    es: "*Ha habido un asesinato en la mansión y todos sois sospechosos hasta que
+      aparezca el asesino*\n\nLos participantes son convocados y tendrán que vivir
+      diversas, se planteará un enigma que se tendrá que resolver de forma cooperativa.\n\nNuestros
+      actores conducirán la historia y estarán con los participantes en todo momento.\n\nTodo
+      el planteamiento y desarrollo se hará de forma atmosférica y sin salir de la
+      historia de forma que invitamos a los asistentes a trasladarse durante unas
+      horas en otro tiempo y en otro lugar sin salir de su papel.\n\n**La Historia**\n\nLord
+      Cobblepot ha sido asesinado! Habrá sido su abatida esposa? Su desconfiado socio?
+      Su bella y joven secretaria? O, como mandan los cánones, una vez más el asesino
+      es el mayordomo? \n\nInvestiga tú mismo el asesinato, reúne las posibles pistas
+      dispersadas por su mansión e interroga los propios sospechosos para ser el primero
+      en resolver el caso y descubrir quien ha acabado con la vida aparentemente inmaculada
+      del millonario lord inglés!\n\n> **Valores que trabajamos:** trabajo en equipo,
+      creatividad, talento, reforzar los vínculos, estrategias, capacidad de reacción,
+      mejorar la comunicación, liderazgo y la inteligencia emocional. "
+  localization:
+    en: Indoor
+    ca: 'Indoor '
+    es: Indoor
+  included:
+    en: "Creation, development and direction of the event\nOrganization and execution\nThe
+      staff needed to develop the story\nMakeup artist \nCostumes for participants\nSpecial
+      effects that are necessary\nNecessary material"
+    ca: |-
+      Creació, desenvolupament i direcció de l’esdeveniment
+      Organització i execució de l’esdeveniment
+      El personal necessari per desenvolupar la història
+      Maquillador i maquillatge
+      Vestuari dels participants
+      Efectes especials que siguin necessaris
+      Material necessari
+    es: |-
+      Creación, desarrollo y dirección del evento
+      Organización y ejecución
+      El personal necesario para desarrollar la historia
+      Maquillador y maquillaje
+      Vestuario de los participantes
+      Efectos especiales que sean necesarios
+      Material necesario
+  not_included:
+    en: |-
+      Space rental
+      Alterations of the script to adapt them to the needs of times, company or others
+      Photo and video report
+    ca: |-
+      Lloguer de l’espai on es desenvolupa l’activitat
+      Alteracions del guió per adaptar-les a les necessitats de temps, empresa o altres
+      Cocktail de benvinguda i copa de cava final
+      Reportatge fotogràfic i vídeo
+    es: |-
+      Alquiler del espacio donde se desarrolla la actividad
+      Alteraciones del guión para adaptarlas a las necesidades de tiempos, empresa u otras
+      Reportaje fotográfico y vídeo
+  contact:
+    en: Ask for more information about our games
+    ca: Demana més informació d'altres jocs en viu
+    es: Pide más información sobre otras temáticas
+  selected: false
+  language: ca, es, en
+  duration: 2.0
+  pax: 10
+  price: 
+  tag: film
+  accesibility: 'yes'
+  destination: '76941'
+  thumbnail: https://www.datocms-assets.com/120/1522252220-img_20170302_151850_fotor.jpg?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1522252220-img_20170302_151850_fotor.jpg?w=1024&fm=jpg
+  photo2: https://www.datocms-assets.com/120/1521222491-img_20170302_170214.jpg?w=1024&fm=jpg
+  photo3: 
+- id: '76970'
+  title:
+    en: BRAINGAMING
+    ca: BRAINGAMING
+    es: BRAINGAMING
+  description:
+    en: "\n> TRAIN YOUR BRAIN AND HAVE FUN \n\n**BENEFITS**\n\n• Have fun and feel
+      good\n• Memory formation\n• Cognitive formation\n• Reduce risks of mental diseases\n•
+      Speed up your responses\n• Reduce Stress\n• Teamwork\n• Speed up your concentration\n•
+      Have fun with your colleagues"
+    ca: |-
+      **Què és “BRAINGAMING”?**
+
+      BRAINGAMING és una sessió de jocs pensada i dissenyada per portar al
+      grup a una estona de diversió, intercanvi i evasió.
+
+      Utilitzant jocs de taula d’última generació i de regles senzilles es conduirà una activitat fresca i distesa.
+
+      Una consecució de jocs estructurada per etapes que provoquen les reaccions esperades fins a deixar als participants en la situació idònia per compartir, relacionar-se o tornar a treballar un cop han relaxat la ment.
+
+      > Jocs de velocitat visual, agilitat tàctil, intel·ligències emocionals o rols ocults faran que tothom pugui treure el millor de sí mateix.
+
+      Els jocs són conduïts per monitoratge expert que combina el coneixement de les regles amb la gestió de grups.
+    es: |-
+      **¿Qué es el “BRAINGAMING”?**
+
+      BRAINGAMING es una sesión de juegos pensada y diseñada para traer al
+      grupo a un rato de diversión, intercambio y evasión.
+
+      Utilizando juegos de mesa de última generación y de reglas sencillas se conducirá una actividad fresca y distendida.
+
+      Una consecución de juegos estructurada por etapas que provocan las reacciones esperadas hasta dejar a los participantes en la situación idónea para compartir, relacionarse o volver a trabajar una vez han relajado la mente.
+
+      > Juegos de velocidad visual, agilidad táctil, inteligencias emocionales o roles ocultos harán que todo el mundo pueda sacar el mejor de sí mismo.
+
+      Los juegos son conducidos por monitorización experta que combina el conocimiento de las reglas con la gestión de grupos.
+  localization:
+    en: Indoor/outdoor
+    ca: Indoor/outdoor
+    es: Indoor/outdoor
+  included:
+    en: |-
+      Material
+      Staff
+      Transfer
+    ca: |-
+      Material necessari per conduir l’activitat
+      Monitor
+      Desplaçament
+    es: |-
+      Material necesario para conducir la actividad
+      Monitor
+      Desplazamiento
+  not_included:
+    en: 'Rent space '
+    ca: |-
+      Lloguer de l’espai on es realitza l’activitat si s’escau
+      Manutenció del monitor si l’activitat és de més de 3 hores de durada
+    es: |-
+      Alquiler del espacio donde se realiza la actividad (si es necesario)
+      Manutención del monitor si la actividad es de más de 3 horas de duración
+  contact:
+    en: Ask for more information about our games
+    ca: Demana més informació sobre els jocs que disposem
+    es: Pide más información sobre los juegos que disponemos
+  selected: false
+  language: ca, es, en
+  duration: 2.0
+  pax: 10
+  price: 
+  tag: game
+  accesibility: 'yes'
+  destination: '76941'
+  thumbnail: https://www.datocms-assets.com/120/1521737591-captura-de-pantalla-2018-03-22-a-les-17-52-38.png?w=480&h=270&fit=crop&fm=jpg
+  photo1: https://www.datocms-assets.com/120/1521737591-captura-de-pantalla-2018-03-22-a-les-17-52-38.png?w=1024&fm=jpg
+  photo2: 
+  photo3: 
