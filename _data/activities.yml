@@ -14,7 +14,7 @@
       come together as you progress.\n\nThis can be done in different spaces: your
       offices, hotels, venues, castles...  \n\nWe can accommodate large groups of
       up to 200 people so they can play the game simultaneously. \n\n> Time is running
-      out!\n\nThe game is designed for intense **cooperation** and **working together**. "
+      out!\n\nThe game is designed for intense **cooperation** and **working together**."
     ca: |-
       Som especialistes a fer una **readaptació** d'un tipus d'activitat que en aquest moment està en auge: els jocs de fuita, coneguts també com a Room Escapes. Es tracta d'un joc en grup que consisteix, bàsicament, a resoldre un misteri i escapar d'una habitació en tan sols 60 minuts. Per a aconseguir-ho, han de desxifrar una sèrie d'enigmes, trobar claus, i –com no- passar una estona divertida amb els seus amics.
 
@@ -125,7 +125,7 @@
       éxito de la misión!**\n\nDurante la actividad de orientación y a un tiempo determinado
       los participantes tendrán que desarrollar diferentes **dinámicas de grupo**
       que, a la vez que **divertidas**, **cohesionarán al grupo**. Sólo cuando todos
-      los equipos lleguen a la meta podrán desarrollar la dinámica final.\n\n"
+      los equipos lleguen a la meta podrán desarrollar la dinámica final."
   localization:
     en: Outdoor
     ca: Outdoor
@@ -205,7 +205,7 @@
       de equipo.  \n\n**Actividades en rotación donde se enfrentarán los diferentes
       equipos:**\n\n* Voley / Fútbol playa\n* Multichallenge (tirar de la cuerda,
       tubos con agujeros)\n* Kayaks / Windsurf\n* Big Sup (Paddle Surf)\n* Catamarán\n\n>
-      Mucha competición, diversión y buenos momentos. "
+      Mucha competición, diversión y buenos momentos."
   localization:
     en: Outdoor
     ca: Outdoor
@@ -351,10 +351,10 @@
       Vermouth time
     ca: "Trajecte d'anada i tornada \nAcompanyament d'un guia local \nVisita al celler,
       vinyes i tast de vins (4 vins ecològics)\nItinerari Modernista per Alella\nMercat
-      local \nL'hora del Vermut "
+      local \nL'hora del Vermut"
     es: "Trayecto de ida y vuelta\nAcompañamiento de un guía local \nVisita a bodega,
       viñedos y cata de vinos (4 vinos de alta calidad)\nItinerario Modernista por
-      Alella\nMercado local \nLa hora del Vermut "
+      Alella\nMercado local \nLa hora del Vermut"
   not_included:
     en: 
     ca: 
@@ -385,7 +385,7 @@
       experience begins with an introduction to the world of graffiti since its inception
       and they will teach you the basic techniques of how to use a spray to be able
       to start in this underground culture. \n\n> Will extract the artist that exists
-      in every one of you!\n"
+      in every one of you!"
     ca: "Activitat creativa en equip capaç de submergir a qualsevol empresa en experiències
       úniques d'art, introduint-se en mons creatius desconeguts.\nL'experiència comença
       amb una introducció al món del grafiti des dels seus inicis i li ensenyaran
@@ -414,7 +414,7 @@
       Altres materials: màscares, guants làtex i uniforme d'un sol ús ...
     es: "Set de colores de pintura en aerosol a base de agua (no tóxico)\nPersonal:
       jefe producción, asistente de producción, artista pro\nHip Hop DJ \nOtros materiales:
-      máscaras, guantes látex y mono desechable… "
+      máscaras, guantes látex y mono desechable…"
   not_included:
     en: |-
       Space
@@ -424,7 +424,10 @@
       L'espai
       Begudes durant l'activitat
       Reportatge fotogràfic i vídeo
-    es: "Espacio\nBebidas durante la actividad\nReportaje fotográfico y vídeo "
+    es: |-
+      Espacio
+      Bebidas durante la actividad
+      Reportaje fotográfico y vídeo
   contact:
     en: Ask for more information about our workshop
     ca: Demana més informació dels nostres tallers
@@ -492,13 +495,22 @@
       Fully equipped kitchen
       Beverages: water, wine and soft drinks
       Possibility to adapt the menu to restrictions or food allergies
-    ca: "Visita al mercat de Santa Caterina\nDegustació d'un producte de la terra\nXef
-      expert\nMaterial per al correcte desenvolupament de l'activitat\nCuina equipada\nBegudes:
-      aigua, vi i refrescos\nPossibilitat d'adaptar el menú a restriccions o al·lèrgies
-      alimentàries "
-    es: "Visita mercado Santa Caterina\nCata de un producto de la tierra\nChef experto\nMaterial
-      para el desarrollo de la actividad\nCocina equipada\nBebidas: agua, vino y refrescos\nPosibilidad
-      de adaptar el menú a restricciones o alérgias alimentarias "
+    ca: |-
+      Visita al mercat de Santa Caterina
+      Degustació d'un producte de la terra
+      Xef expert
+      Material per al correcte desenvolupament de l'activitat
+      Cuina equipada
+      Begudes: aigua, vi i refrescos
+      Possibilitat d'adaptar el menú a restriccions o al·lèrgies alimentàries
+    es: |-
+      Visita mercado Santa Caterina
+      Cata de un producto de la tierra
+      Chef experto
+      Material para el desarrollo de la actividad
+      Cocina equipada
+      Bebidas: agua, vino y refrescos
+      Posibilidad de adaptar el menú a restricciones o alérgias alimentarias
   not_included:
     en: 
     ca: 
@@ -628,7 +640,7 @@
       conclusiones a partir de información proporcionada o encontrada"
   localization:
     en: Outdoor
-    ca: 'Outdoor '
+    ca: Outdoor
     es: Outdoor
   included:
     en: "Backpack\nMap\nRoadbook \nCompass\nMP3\nInformation, clues (photos, drawings,
@@ -682,7 +694,7 @@
   title:
     en: DRAGON BOAT
     ca: Dragon boat
-    es: 'DRAGON BOAT '
+    es: DRAGON BOAT
   description:
     en: |-
       > Oars ... Ready!
@@ -767,15 +779,14 @@
   title:
     en: LAUGHTER THERAPY WORKSHOPS
     ca: Taller de Risoteràpia
-    es: 'TALLER DE RISOTERAPIA '
+    es: TALLER DE RISOTERAPIA
   description:
-    en: "Through games and simple activities, we create a lively and fun environment
-      that reveals **complicity, spontaneity, creativity,  joy and a calm state of
-      mind, generating a strong group cohesion**. Releasing deep laughter, it helps
-      to release stress and body tensions, creating a positive state.\n\nAll this
-      is done progressively and respectfully making the experience easy and beneficial
-      to all participants regardless their condition.\n\nIf you are part of a group
-      we can organize a specific laughter therapy workshop. "
+    en: |-
+      Through games and simple activities, we create a lively and fun environment that reveals **complicity, spontaneity, creativity,  joy and a calm state of mind, generating a strong group cohesion**. Releasing deep laughter, it helps to release stress and body tensions, creating a positive state.
+
+      All this is done progressively and respectfully making the experience easy and beneficial to all participants regardless their condition.
+
+      If you are part of a group we can organize a specific laughter therapy workshop.
     ca: "Un taller de Risoteràpia és una pràctica grupal per despertar i expressar
       cadascú la seva alegria, espontaneïtat, creativitat i complicitat. \n\nÉs un
       temps perquè cada persona gaudeixi de la llibertat i la frescor que porta jugar
@@ -837,7 +848,7 @@
   title:
     en: Trencadís Workshop
     ca: Taller de trencadís
-    es: 'Taller de Mosaico Trencadís '
+    es: Taller de Mosaico Trencadís
   description:
     en: |-
       A short introduction will be given to ‘Trencadis’ (Catalan - ‘to break’) – The mosaic style from the ‘Modernista’ period in Barcelona c.1880 – c.1910 made famous by Gaudi.
@@ -931,7 +942,7 @@
 - id: '76955'
   title:
     en: Percussion Workshop
-    ca: 'Taller de Percussió '
+    ca: Taller de Percussió
     es: Taller de percusión
   description:
     en: |-
@@ -1027,7 +1038,7 @@
       Per començar aquesta activitat, es dividirà als assistents en grups i se'ls lliurarà una tablet. Hi ha un presentador que dirigeix i controla, enviant les preguntes simultàniament a tots els dispositius dels concursants i presentant les classificacions finals en pantalla.
 
       Riures, aplaudiments, i crits d’eufòria... són emocions que es viuen durant el joc i que fan que aquesta activitat empresarial sigui tot un èxit.
-    es: |
+    es: |-
       El trivial de empresa Desafío Quiz es un juego interactivo que permite de forma original y divertida dar a conocer nuevos productos o marcas, cohesión de grupo, reforzar la cultura de la organización...
 
       Para empezar esta actividad, se dividirá a los asistentes en grupos y se les entregará una tablet. Hay un presentador que dirige y controla, enviando las preguntas simultáneamente a todos los dispositivos de los concursantes y presentando las clasificaciones finales en pantalla.
@@ -1107,7 +1118,7 @@
       la actitud, la innovación, la creatividad y muchos otros al mismo tiempo que
       desarrolla valores corporativos en el nivel de su gente."
   localization:
-    en: 'Outdoor '
+    en: Outdoor
     ca: Outdoor
     es: Outdoor
   included:
@@ -1128,11 +1139,13 @@
       y servicio de guardarropía\nAvituallamiento en carrera \nCeremonia de entrega
       de premios  \nTécnicos deportivos con competencia en primeros auxilios, seguridad
       y conducción de grupos\nServicio de enfermería\nSeguros para la actividad\nMúsica
-      y animación "
+      y animación"
   not_included:
     en: 
-    ca: "Trasllats d'anada i tornada\nDinar en un restaurant\nFesta de l'escuma en
-      finalitzar l'activitat "
+    ca: |-
+      Trasllats d'anada i tornada
+      Dinar en un restaurant
+      Festa de l'escuma en finalitzar l'activitat
     es: |-
       Traslados (opcional)
       Almuerzo (opcional)
@@ -1172,7 +1185,7 @@
       and commitment are the features we work on while we build up the tower’s “trunk”.\n\nFinally,
       we succeed in crowning the human tower. Initiative and confidence will be required;
       this is the time of the team’s full achievement.\n\nOnce everyone in the tower
-      is safely down again, we celebrate the accomplished goal. "
+      is safely down again, we celebrate the accomplished goal."
     ca: |-
       L'any 2010, els castells eren declarats Patrimoni Cultural Immaterial per la Unesco. Viu l'experiència de convertir-te en una colla castellera. El primer pas, enfaixar-se!
 
@@ -1262,7 +1275,7 @@
       Per a això, l'última mà del rei convoca a les Cases més poderoses en un acte sense precedents. Solament una de les Cases es farà amb la possessió del tron fins que una altra l'hi aconsegueixi arrabassar en noves batalles.
 
       Per fer-se amb el tron caldrà ser la Casa més hàbil. Solament la que aconsegueixi obrir una gran caixa forta tancada amb cadenes trobarà a l'interior la corona del rei. Si no ho aconsegueix, solament la mà del rei podrà asseure's en el tron fins que hi hagi rei.
-    es: |
+    es: |-
       El Trono de Hierro está en juego y sigue la lucha de las diferentes Casas por hacerse con él. La reina de los siete Reinos, Cersei, de la familia Lannister, ha muerto dejando un mensaje bajo su lecho de muerte en el que marcaba un nuevo reglamento para su sucesión. Por sorpresa para los Lannister, nadie heredará la corona y es momento de saber cuál será la manera de designar al
       nuevo rey.
 
@@ -1293,11 +1306,13 @@
     ca: |-
       L'espai
       Rèplica del tron de ferro
-    es: "Espacio\nRéplica del trono de hierro "
+    es: |-
+      Espacio
+      Réplica del trono de hierro
   contact:
     en: Ask for more information
-    ca: 'Demana més informació '
-    es: 'Pide más información '
+    ca: Demana més informació
+    es: Pide más información
   selected: true
   language: ca, es, en
   duration: 2.0
@@ -1375,7 +1390,7 @@
 - id: '76966'
   title:
     en: Create your own song
-    ca: 'Creeu la vostra pròpia cançó! '
+    ca: Creeu la vostra pròpia cançó!
     es: "¡Crear vuestra propia canción!"
   description:
     en: "It is a small-format sound experience for 3D sound, where attendees participate,
@@ -1455,9 +1470,9 @@
   photo3: https://www.datocms-assets.com/120/1519995436-_1110534.jpg?w=1024&fm=jpg
 - id: '76965'
   title:
-    en: 'Lights, Camera, Action! '
+    en: Lights, Camera, Action!
     ca: Llums, càmera i acció!
-    es: "¡Luces, cámara, acción! "
+    es: "¡Luces, cámara, acción!"
   description:
     en: "Managing each film requires effective teamwork,communication, planning, project
       management and cooperation to enable the films to be produced to\nspecification.
@@ -1554,7 +1569,7 @@
       la película\nPremios personalizados"
   contact:
     en: Ask for more information about our movies
-    ca: 'Demana més informació de les nostres pel·lícules '
+    ca: Demana més informació de les nostres pel·lícules
     es: Pide más información sobre nuestras películas
   selected: false
   language: ca, es, en
@@ -1571,8 +1586,8 @@
 - id: '76967'
   title:
     en: Skateboarding Workshops
-    ca: 'Iniciació al skate '
-    es: 'Iniciación al skate '
+    ca: Iniciació al skate
+    es: Iniciación al skate
   description:
     en: "Improve your skills, have fun and learn a few new tricks while you’re there.
       In this course you will learn to move around the skate in a fun and safe enviroment,
@@ -1593,7 +1608,7 @@
       más básicas como impulso, freno, giros, obstáculos... Diversión asegurada aprendiendo
       las habilidades básicas para desplazarte con seguridad con el skate.\n\nAdemás,
       os adentrareis en la cultura, historia y terminología del skate.\n\n\n> ¡El
-      límite lo pones tú!\n\n"
+      límite lo pones tú!"
   localization:
     en: Outdoor
     ca: Outdoor
@@ -1601,7 +1616,7 @@
   included:
     en: "Skateboard monitor \nSkateboards & helmets provided\nLiability insurance"
     ca: "Monitor de skate \nTaula de skate\nCascs i proteccions\nAssegurança Responsabilitat
-      Civil "
+      Civil"
     es: "Monitor de skate \nTabla de skate\nCascos y protecciones\nSeguro de Responsabilidad
       Civil"
   not_included:
@@ -1609,9 +1624,9 @@
     ca: ''
     es: ''
   contact:
-    en: 'Ask for more information '
-    ca: 'Demana més informació '
-    es: 'Pide más información '
+    en: Ask for more information
+    ca: Demana més informació
+    es: Pide más información
   selected: false
   language: ca, es, en
   duration: 1.0
@@ -1626,19 +1641,22 @@
   photo3: https://www.datocms-assets.com/120/1519922506-captura-de-pantalla-2018-03-01-a-les-17-41-22.png?w=1024&fm=jpg
 - id: '76968'
   title:
-    en: 'MURDER MYSTERY GAME '
-    ca: 'ASSASSINAT A LA MANSIÓ '
+    en: MURDER MYSTERY GAME
+    ca: ASSASSINAT A LA MANSIÓ
     es: CLUEDO EN VIVO
   description:
-    en: "**The history**\n\nLord Cobblepot has been killed! Could it have been your
-      despondent wife? Your distrustful partner? Your beautiful and young secretary?
-      Or, as the canons send, once again the murderer is the steward?\n\nInvestigate
-      the murder yourself, gather the possible clues scattered throughout his mansion
-      and interrogate the suspects themselves to be the first to solve the case and
-      find out who has ended the seemingly immaculate life of the English lord millionaire!\n\n*So,
-      now it’s up to you to solve the murder!*\n\n\n> **Values we work:** teamwork,
-      creativity, talent, strengthen links, strategies, reaction capacity, improve
-      communication, leadership and emotional intelligence.\n> "
+    en: |-
+      **The history**
+
+      Lord Cobblepot has been killed! Could it have been your despondent wife? Your distrustful partner? Your beautiful and young secretary? Or, as the canons send, once again the murderer is the steward?
+
+      Investigate the murder yourself, gather the possible clues scattered throughout his mansion and interrogate the suspects themselves to be the first to solve the case and find out who has ended the seemingly immaculate life of the English lord millionaire!
+
+      *So, now it’s up to you to solve the murder!*
+
+
+      > **Values we work:** teamwork, creativity, talent, strengthen links, strategies, reaction capacity, improve communication, leadership and emotional intelligence.
+      >
     ca: "“Assassinat a la Mansió” és un joc interactiu. Els participants\nsón convocats
       i hauran de viure diverses, es plantejarà un enigma que s’haurà de resoldre
       de forma cooperativa.\n\nEls nostres actors conduïran la història i estaran
@@ -1653,7 +1671,7 @@
       en resoldre el cas i descobrir qui ha acabat amb la vida aparentment immaculada
       del milionari lord anglès!\n\n> **Valors que treballem:** El treball en equip,
       la creativitat, el talent, reforçar els vincles, estratègies, capacitat de reacció,
-      millorar la comunicació, lideratge i la intel·ligència emocional.\n> "
+      millorar la comunicació, lideratge i la intel·ligència emocional.\n>"
     es: "*Ha habido un asesinato en la mansión y todos sois sospechosos hasta que
       aparezca el asesino*\n\nLos participantes son convocados y tendrán que vivir
       diversas, se planteará un enigma que se tendrá que resolver de forma cooperativa.\n\nNuestros
@@ -1668,10 +1686,10 @@
       en resolver el caso y descubrir quien ha acabado con la vida aparentemente inmaculada
       del millonario lord inglés!\n\n> **Valores que trabajamos:** trabajo en equipo,
       creatividad, talento, reforzar los vínculos, estrategias, capacidad de reacción,
-      mejorar la comunicación, liderazgo y la inteligencia emocional. "
+      mejorar la comunicación, liderazgo y la inteligencia emocional."
   localization:
     en: Indoor
-    ca: 'Indoor '
+    ca: Indoor
     es: Indoor
   included:
     en: "Creation, development and direction of the event\nOrganization and execution\nThe
@@ -1729,8 +1747,8 @@
     ca: BRAINGAMING
     es: BRAINGAMING
   description:
-    en: "\n> TRAIN YOUR BRAIN AND HAVE FUN \n\n**BENEFITS**\n\n• Have fun and feel
-      good\n• Memory formation\n• Cognitive formation\n• Reduce risks of mental diseases\n•
+    en: "> TRAIN YOUR BRAIN AND HAVE FUN \n\n**BENEFITS**\n\n• Have fun and feel good\n•
+      Memory formation\n• Cognitive formation\n• Reduce risks of mental diseases\n•
       Speed up your responses\n• Reduce Stress\n• Teamwork\n• Speed up your concentration\n•
       Have fun with your colleagues"
     ca: |-
@@ -1777,7 +1795,7 @@
       Monitor
       Desplazamiento
   not_included:
-    en: 'Rent space '
+    en: Rent space
     ca: |-
       Lloguer de l’espai on es realitza l’activitat si s’escau
       Manutenció del monitor si l’activitat és de més de 3 hores de durada

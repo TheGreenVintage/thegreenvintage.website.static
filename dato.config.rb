@@ -3,7 +3,7 @@ require 'byebug'
 def localize(model, field)
   translations = I18n.available_locales.map do |locale|
     I18n.with_locale(locale) do
-      [locale.to_sym, model.send(field)]
+      [locale.to_sym, model.send(field).try(:strip)]
     end
   end
 
