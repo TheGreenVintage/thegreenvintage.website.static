@@ -21,6 +21,7 @@ module Jekyll
         input["#{field}_#{locale}"]
       else
         load_translations
+        I18n.config.enforce_available_locales = false
         I18n.t input, locale: locale
       end
     end
