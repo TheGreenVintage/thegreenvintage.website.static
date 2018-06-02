@@ -17,7 +17,7 @@ module Jekyll
   end
 
   class ActivityPageGenerator < Generator
-    include Filters
+    include Utils
 
     safe true
 
@@ -28,7 +28,7 @@ module Jekyll
           locale = locale_array.first
           activities = site.data['activities']
           activities.each do |activity|
-            name = uri_escape(activity['title'][locale])
+            name = slugify(activity['title'][locale], mode: 'latin')
             site.pages << ActivityPage.new(site, site.source, File.join(locale, dir, name), activity, locale, activities)
           end
         end

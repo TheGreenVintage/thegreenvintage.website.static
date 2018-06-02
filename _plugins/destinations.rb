@@ -17,7 +17,7 @@ module Jekyll
   end
 
   class DestinationPageGenerator < Generator
-    include Filters
+    include Utils
 
     safe true
 
@@ -28,7 +28,7 @@ module Jekyll
           locale = locale_array.first
           destinations = site.data['destinations']
           destinations.each do |destination|
-            name = uri_escape(destination['name'][locale])
+            name = slugify(destination['name'][locale], mode: 'latin')
             site.pages << DestinationPage.new(site, site.source, File.join(locale, dir, name), destination, locale, destinations)
           end
         end
