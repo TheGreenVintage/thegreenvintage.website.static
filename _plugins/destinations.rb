@@ -17,6 +17,8 @@ module Jekyll
   end
 
   class DestinationPageGenerator < Generator
+    include Filters
+
     safe true
 
     def generate(site)
@@ -26,7 +28,7 @@ module Jekyll
           locale = locale_array.first
           destinations = site.data['destinations']
           destinations.each do |destination|
-            name = Filters.uri_escapeslugify(destination['name'][locale])
+            name = uri_escape(destination['name'][locale])
             site.pages << DestinationPage.new(site, site.source, File.join(locale, dir, name), destination, locale, destinations)
           end
         end
