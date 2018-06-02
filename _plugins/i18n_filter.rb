@@ -21,7 +21,6 @@ module Jekyll
         input["#{field}_#{locale}"]
       else
         load_translations
-        I18n.config.enforce_available_locales = false
         I18n.t input, locale: locale
       end
     end
@@ -43,7 +42,11 @@ module Jekyll
 
     def load_translations
       if I18n.backend.send(:translations).empty?
-        I18n.backend.load_translations Dir[File.join(File.dirname(__FILE__),'../_locales/*.yml')]
+        I18n.available_locales = [:en, :es ,:ca]
+        I18n.backend.load_translations '_locales/en.yml'
+        I18n.backend.load_translations '_locales/es.yml'
+        I18n.backend.load_translations '_locales/ca.yml'
+        I18n.config.enforce_available_locales = false
         I18n.locale = LOCALE
       end
     end
