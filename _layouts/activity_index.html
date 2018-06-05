@@ -25,7 +25,7 @@ section: activity
         </div>
         <div class="col-md-8 portfolio-single-slide margin-btm-40">
             <div class="portfolio-single-desc">
-                <h3>{{ page.activity | field: 'title' }}</h3>
+                <h2>{{ page.activity | field: 'title' }}</h2>
                 {{ page.activity | field: 'description' | markdownify }}
                 {% assign included = page.activity | field: 'included' | newline_to_br | split: '<br />' %}
                 {% assign included_size = included | size %}
@@ -94,7 +94,7 @@ section: activity
     <div class="row">
         <div class="space-70"></div>
         <div class="col-md-12 text-center">
-            <h2>{{ 'activities.related' | translate }}</h2>
+            <h3>{{ 'activities.related' | translate }}</h3>
         </div>
         <div class="space-70"></div>
     </div><!--row-->
