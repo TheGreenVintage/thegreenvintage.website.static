@@ -1,0 +1,16 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="{% if page.locale %}{{ site.locales[page.locale] | slugify }}{% else %}{{ site.locales[site.locale] }}{% endif %}" prefix="og: http://ogp.me/ns#">
+
+    {% include head.html %}
+
+    <body>
+
+      {{ content }}
+
+    </body>
+
+</html>
