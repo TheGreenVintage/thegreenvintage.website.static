@@ -3,7 +3,7 @@ layout: post
 section: blog
 locale: es
 title: Ideas para incorporar tecnologías interactivas en su evento
-date: 2018-05-08 10:00:00.000000000 Z
+date: 2018-05-31 10:00:00.000000000 Z
 tags: ''
 author: Paula Bao
 image: https://www.datocms-assets.com/120/1522146474-paper-3224643_1920.jpg?w=1024&fm=jpg

@@ -22,7 +22,7 @@ Los citamos en las chimeneas del paralelo. Un lugar dónde sus muros están repl
 
 Una vez en el estudio, la experiencia comenzó con una introducción al mundo del graffiti desde sus inicios y les enseñarón las técnicas básicas de cómo utilizar un spray para poder iniciarse en esta cultura underground. 
 
-¡Este taller extraerá el artista que existe en cada uno de vosotros! 
+> ¡Este taller extraerá el artista que existe en cada uno de vosotros! 
 
 ![](https://www.datocms-assets.com/120/1519839067-1515494522-img_0322.jpg)
 
@@ -41,3 +41,4 @@ En este taller en concreto, los graffiti que se dibujaron tenían relación con 
 
 ¿Os atrevéis con una actividad diferente?
 
+Podéis encontrar toda la información en la [página de la actividad](https://www.thegreenvintage.com/es/activities/creatividad-con-grafitis/)

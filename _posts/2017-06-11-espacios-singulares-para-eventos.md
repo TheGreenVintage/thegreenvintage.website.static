@@ -4,7 +4,7 @@ section: blog
 locale: es
 title: Espacios singulares para eventos
 date: 2017-06-11 09:00:00.000000000 Z
-tags: events team-building
+tags: events team building
 author: Paula Bao
 image: https://www.datocms-assets.com/120/1498552982-principal.jpg?w=1024&fm=jpg
 thumbnail: https://www.datocms-assets.com/120/1498552982-principal.jpg?w=105&fm=jpg

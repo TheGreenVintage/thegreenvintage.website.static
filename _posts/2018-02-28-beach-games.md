@@ -4,7 +4,7 @@ section: blog
 locale: es
 title: BEACH GAMES
 date: 2018-02-28 10:00:00.000000000 Z
-tags: events team-building Gimkhana eventoscorporativos juegosenlaplaya
+tags: events team building Gimkhana eventoscorporativos juegosenlaplaya
 author: Paula Bao
 image: https://www.datocms-assets.com/120/1517827334-1498827228-img_1221.jpg?w=1024&fm=jpg
 thumbnail: https://www.datocms-assets.com/120/1517827334-1498827228-img_1221.jpg?w=105&fm=jpg

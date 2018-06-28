@@ -1,15 +1,18 @@
 - name: Softonic
   url: https://www.softonic.com/
   image: https://www.datocms-assets.com/120/1498056147-softonic-logo.png?w=280&fm=jpg
-- name: Social Point
-  url: http://www.socialpoint.es/
-  image: https://www.datocms-assets.com/120/1515084139-djirqekxkaaexxd.png?w=280&fm=jpg
+- name: Levi
+  url: https://www.levi.com
+  image: https://www.datocms-assets.com/120/1528720040-batwing-text-solid-rgb-red-png.jpg?w=280&fm=jpg
 - name: Bic
   url: https://www.bicworld.com/
   image: https://www.datocms-assets.com/120/1515083707-1280px-bic_logo-svg.png?w=280&fm=jpg
 - name: Hartmann
   url: https://hartmann.info/
   image: https://www.datocms-assets.com/120/1523015155-hartmann_logo.jpg?w=280&fm=jpg
+- name: Social Point
+  url: http://www.socialpoint.es/
+  image: https://www.datocms-assets.com/120/1515084139-djirqekxkaaexxd.png?w=280&fm=jpg
 - name: Wanup
   url: https://www.wanup.com/
   image: https://www.datocms-assets.com/120/1523015031-af_log_wanup_color_positivo_rgb.png?w=280&fm=jpg
@@ -19,6 +22,9 @@
 - name: Weekendesk
   url: http://www.weekendesk.fr/
   image: https://www.datocms-assets.com/120/1498056196-weekendesk-logo.png?w=280&fm=jpg
+- name: Cebado Oficial
+  url: http://www.cebado.es/
+  image: https://www.datocms-assets.com/120/1530003870-logo.png?w=280&fm=jpg
 - name: Trovit
   url: http://www.trovit.es/
   image: https://www.datocms-assets.com/120/1523014748-1629_58da53c0db77dc8679c249a426494083705381d9_trovit_m.png?w=280&fm=jpg
