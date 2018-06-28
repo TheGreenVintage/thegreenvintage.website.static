@@ -1,0 +1,11 @@
+# Redirect domain aliases to primary domain
+https://www.thegreenvintageevents.com/* https://www.thegreenvintage.com/:splat 301!
+https://thegreenvintageevents.com/* https://www.thegreenvintage.com/:splat 301!
+https://www.greenvintagevents.com/* https://www.thegreenvintage.com/:splat 301!
+https://greenvintagevents.com/* https://www.thegreenvintage.com/:splat 301!
+
+# These extra rules are required because HTTPS is not forced
+http://www.thegreenvintageevents.com/* https://www.thegreenvintage.com/:splat 301!
+http://thegreenvintageevents.com/* https://www.thegreenvintage.com/:splat 301!
+http://www.greenvintagevents.com/* https://www.thegreenvintage.com/:splat 301!
+http://greenvintagevents.com/* https://www.thegreenvintage.com/:splat 301!
