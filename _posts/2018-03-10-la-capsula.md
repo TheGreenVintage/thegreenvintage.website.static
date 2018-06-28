@@ -4,7 +4,7 @@ section: blog
 locale: es
 title: La Cápsula
 date: 2018-03-10 23:00:00.000000000 Z
-tags: team-building events
+tags: team building events
 author: Paula Bao
 image: https://www.datocms-assets.com/120/1519981660-_1110623.jpg?w=1024&fm=jpg
 thumbnail: https://www.datocms-assets.com/120/1519981660-_1110623.jpg?w=105&fm=jpg
@@ -41,3 +41,4 @@ Os dejo un vídeo para que podáis ver lo que es esta gran experiencia.
 
 [https://www.youtube.com/watch?v=0vuxCtl4Zys](http://)
 
+Podéis encontrar toda la información en la [página de la actividad](https://www.thegreenvintage.com/es/activities/crear-vuestra-propia-cancion/)

@@ -2,7 +2,7 @@
 layout: post
 section: blog
 locale: es
-title: Una joya rural a tan solo 15km de Barcelona.
+title: Una joya rural a tan solo 15km de Barcelona
 date: 2018-05-03 08:00:00.000000000 Z
 tags: ''
 author: Paula Bao

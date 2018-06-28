@@ -2,9 +2,9 @@
 layout: post
 section: blog
 locale: es
-title: Diseñamos y producimos un team building original
+title: Diseñamos y producimos un Room Escape personalizado
 date: 2017-06-10 09:00:00.000000000 Z
-tags: team-building
+tags: team building
 author: Paula Bao
 image: https://www.datocms-assets.com/120/1498552927-caution.jpg?w=1024&fm=jpg
 thumbnail: https://www.datocms-assets.com/120/1498552927-caution.jpg?w=105&fm=jpg
@@ -19,8 +19,17 @@ Hicimos una **readaptación** de un tipo de actividad que en este momento está 
  <!--more-->
  
 El pasado 11 de Mayo, diseñamos un Room Escape personalizado para una empresa. Fue un **Room Escape talla XXL**,  80 participantes, 10 equipos, pruebas físicas por el bosque, enigmas en el castillo… ¡misterio y adrenalina! 
+
 **Diseñamos** una historia basada en la actividad de la empresa. La compañía tenía un grave problema interno. Los sistemas informáticos habían detectado un ciberataque a la empresa.
+
 En concreto, alguien desconocido había efectuado una reserva falsa en la web que, al confirmarse, había instalado un virus en toda la red de reservas de la compañía, alterando los datos de todas las reservas futuras. Con ayuda de una Agencia de Investigación, los participantes deberían encontrar el ordenador des del que se efectuó la reserva para poder detener el virus!
+
 Al finalizar el Room Escape, entre todos, hicimos **dinámicas de Scrum** para reflexionar sobre los valores de la empresa y hacer una evaluación de cómo había ido la actividad. **Superación, trabajo en equipo, proactividad y fidelidad** fueron unos de los tantos **valores** trabajados en nuestro team building.
  
 Acabamos el día, con un cóctel en el castillo, música y un poco de baile. **Buen ambiente, un lugar privilegiado y unas vistas espectaculares!**
+
+Aquí os dejamos el video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uQ-BZFsVnuk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
+
+Podéis encontrar toda la información en la [página de la actividad](https://www.thegreenvintage.com/es/activities/room-escape-personalizados/)
