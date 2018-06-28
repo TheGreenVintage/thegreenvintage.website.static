@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.thegreenvintage.com" # the base hostname & protocol for your site
 cdn: '' # cdn.thegreenvintage.com
 exclude: [Gemfile, Gemfile.lock, vendor]
+include: [_redirects]
 
 permalink: /es/blog/:year/:month/:day/:title.html
 
