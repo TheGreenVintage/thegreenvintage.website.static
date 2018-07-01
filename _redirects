@@ -10,6 +10,6 @@ http://thegreenvintageevents.com/* https://www.thegreenvintage.com/:splat 301!
 http://www.greenvintagevents.com/* https://www.thegreenvintage.com/:splat 301!
 http://greenvintagevents.com/* https://www.thegreenvintage.com/:splat 301!
 
-/  /en/  302  Language=en
-/  /es/  302  Language=es
 /  /ca/  302  Language=ca
+/  /es/  302  Language=es
+/  /en/  302
