@@ -10,6 +10,23 @@ def localize(model, field)
   Hash[*translations.flatten(1)]
 end
 
+landings = dato.landings.map do |landing|
+  content = landing.content.map do |block|
+    {
+      type: block.item_type.api_key
+    }.merge(block.attributes)
+  end
+
+  {
+    main_title: landing.main_title,
+    content: content
+  }
+end
+
+create_data_file("_data/landings.yml", :yaml, landings)
+
+return
+
 logos = dato.logos.map do |logo|
   {
     name: logo.name,

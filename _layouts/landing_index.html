@@ -1,0 +1,31 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="{{page.locale}}">
+
+    {% include head.html %}
+
+    <body>
+
+      <div class="row">
+          <div class="col-md-12 text-center">
+              <h2>{{ page.landing.main_title }}</h2>
+          </div>
+      </div>
+
+      <div class="space-70"></div>
+
+      {% for block in page.landing.content %}
+      {% assign block_name = 'landings/' | append: block.type | append: '.html' %}
+
+      {% include {{ block_name }} block=block %}
+        <div class="space-70"></div>
+      {% endfor %}
+
+      {% include analytics.html %}
+
+      {% include json-ld.html %}
+    </body>
+</html>

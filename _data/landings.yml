@@ -1,0 +1,11 @@
+- main_title: Room escapes personalizados
+  content:
+  - type: block
+    title: title1 foo bar
+    description: descasdaasdasdasd aas dasd asd asd ad asdas dasd a sd
+    picture: 
+  - type: block
+    title: title2 foo bar
+    description: descasdaasdasdasd aas dasd asd asd ad asdas dasd a sd
+    picture: 
+  - type: contact_form
