@@ -5,13 +5,13 @@
     <div class=" mix design col-md-4 col-sm-6 margin-btm-40">
         <div class="portfolio-sec">
             <div class="portfolio-thumbnail">
-                <a href="/{{ page.locale}}/activities/{{ related_activity | field: 'title' | slugify }}">
+                <a href="/{{ page.locale}}/activities/{{ related_activity | field: 'title' | slugify: 'latin' }}">
                     <img class="img-responsive" src="{{ related_activity.thumbnail }}" title="{{ related_activity | field: 'title' }}" alt="{{ related_activity | field: 'title' }}">
                 </a>
             </div>
             <div class="portfolio-desc text-center">
                 <h4 class="portfolio-post-title">{{ related_activity | field: 'title' }}</h4>
-                <h4><a href="/{{ page.locale}}/activities/{{ related_activity.permalink }}aaaaa" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
+                <h4><a href="/{{ page.locale}}/activities/{{ related_activity | field: 'title' | slugify: 'latin' }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
             </div>
         </div>
     </div><!--portfolio item -->
