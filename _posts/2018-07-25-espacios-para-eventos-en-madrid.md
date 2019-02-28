@@ -3,7 +3,7 @@ layout: post
 section: blog
 locale: es
 title: Espacios para eventos en Madrid
-date: 2018-07-17 08:30:00.000000000 Z
+date: 2018-07-25 08:30:00.000000000 Z
 tags: ''
 author: Paula Bao
 image: https://www.datocms-assets.com/120/1530609853-se-alquila-02.jpg?w=1024&fm=jpg

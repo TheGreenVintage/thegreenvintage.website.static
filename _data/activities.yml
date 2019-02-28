@@ -80,7 +80,7 @@
       Ejecución
       Valoración
   not_included:
-    en: 
+    en: ''
     ca: Espai
     es: Espacio
   contact:
@@ -196,80 +196,6 @@
   photo1: https://www.datocms-assets.com/120/1528975155-grv7103.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1528976794-grv7240.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1528976727-grv7288.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '313656'
-  title:
-    en: TAKESHI'S CASTLE CHALLENGES
-    ca: HUMOR AMARILLO
-    es: HUMOR AMARILLO
-  description:
-    en: "Takeshi's Castle is a Japanese game show that aired between 1986 and 1990.
-      \n\n> Relive your favorite TV moments! \n\nIt is made up of fun challenges such
-      as the famous \"Battle of the Warriors\", \"The Floating Inflatable\", \"Flying
-      Bicycle\", “Hungry Frogs ”, “The Breasts” and everyone's favorite \"Killing
-      Rollers\"and others challenges!\n\nChallenges are playful and competitive activities
-      in which participants must test the **coordination, communication and cooperation**
-      of the group members, the **self ingenuity and ability** of each one of them."
-    ca: |-
-      Si vas vibrar amb les proves esbojarrades que els japonesos feien al mític programa "Humor Amarillo". Reviu amb els teus companys el mític concurs televisiu!
-
-      Us organitzem una jornada amb proves súper divertides com la famosa “Lluita de Guerrers”, “l’Inflable Flotant”, “la Bicicleta Voladora”, “el Tragabolas”, “les Mamelles Assessines” o els clàssics “Rodillos” entre d'altres proves!
-
-      Aquest tipus de desafiaments lúdics i competitius fan que els participants hagin de posar a prova la **coordinació**, la **comunicació** i la **cooperació** de tots membres del grup, i l'**enginy** i la **capacitat** de cadascun d'ells.
-
-      > Els riures i el bon humor estan garantits en aquest Team Building
-    es: "Revive con tus compañeros el mítico concurso de televisión japonés. Os organizamos
-      una jornada con pruebas súper divertidas como la famosa “Lucha de Guerreros”,
-      El Hinchable Flotante, La Bicicleta Voladora, “el Tragabolas\", “Pelotas Asesinas”
-      o los clásicos “Rodillos” entre otras pruebas! \n\nEste tipo de desafíos lúdicos
-      y competitivos hacen que los participantes deban poner a prueba la **coordinación**,
-      **comunicación** y **cooperación** de todos los miembros del grupo, y el **ingenio**
-      y la **capacidad** de cada uno de ellos.\n\n> Las risas y el buen humor están
-      garantizados en este Team Building"
-  localization:
-    en: Outdoor
-    ca: Outdoor
-    es: Outdoor
-  included:
-    en: |-
-      Welcome, briefing, organization of the group in teams
-      RC insurance
-      All the material for the proper development of this activity
-    ca: |-
-      Benvinguda , briefing, organització del grup en equips
-      Segur de responsabilitat civil
-      Tot el material per al correcte desenvolupament d'aquesta activitat
-    es: |-
-      Bienvenida, briefing, organización del grupo en equipos
-      Seguro RC
-      Todo el material para el correcto desarrollo de esta actividad
-  not_included:
-    en: "Breakfast / Lunch / dinner \nProfessional video & photo service\nD'j service\nTransport\nExclusive
-      space"
-    ca: "Esmorzars /Dinars/ Sopars \nServei professional de vídeo i fotografia\nServei
-      D'j\nTransporti\nEspai exclusiu\nPremis per als guanyadors"
-    es: |-
-      Desayuno / Almuerzo / Cena
-      Servicio profesional de video y fotografía
-      Servicio D'j
-      Transporte
-      Espacio exclusivo
-      Premios para los ganadores
-  contact:
-    en: 'yes'
-    ca: 'yes'
-    es: 'yes'
-  selected: false
-  language: ca, es, en
-  duration: 2.0
-  pax: 10
-  price: 
-  tag: humor
-  accesibility: 'no'
-  destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1528985850-290a4678.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1528985850-290a4678.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1528974081-img20180612131839.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1528985905-290a4445.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76959'
   title:
     en: MOUNTAIN ORIENTATION
@@ -342,10 +268,84 @@
   tag: When
   accesibility: 'no'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509444385-whatsapp-image-2017-10-26-at-11-16-06.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1509444385-whatsapp-image-2017-10-26-at-11-16-06.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1551386900-whatsapp-image-2019-02-28-at-1-55-56-pm.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1551386900-whatsapp-image-2019-02-28-at-1-55-56-pm.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1509444999-76b0d221-4a5f-4fbe-a4b8-53e310dfbd98.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1509445005-17cc837a-c014-4e4f-a695-9f0062e07675.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+- id: '313656'
+  title:
+    en: TAKESHI'S CASTLE CHALLENGES
+    ca: HUMOR AMARILLO
+    es: HUMOR AMARILLO
+  description:
+    en: "Takeshi's Castle is a Japanese game show that aired between 1986 and 1990.
+      \n\n> Relive your favorite TV moments! \n\nIt is made up of fun challenges such
+      as the famous \"Battle of the Warriors\", \"The Floating Inflatable\", \"Flying
+      Bicycle\", “Hungry Frogs ”, “The Breasts” and everyone's favorite \"Killing
+      Rollers\"and others challenges!\n\nChallenges are playful and competitive activities
+      in which participants must test the **coordination, communication and cooperation**
+      of the group members, the **self ingenuity and ability** of each one of them."
+    ca: |-
+      Si vas vibrar amb les proves esbojarrades que els japonesos feien al mític programa "Humor Amarillo". Reviu amb els teus companys el mític concurs televisiu!
+
+      Us organitzem una jornada amb proves súper divertides com la famosa “Lluita de Guerrers”, “l’Inflable Flotant”, “la Bicicleta Voladora”, “el Tragabolas”, “les Mamelles Assessines” o els clàssics “Rodillos” entre d'altres proves!
+
+      Aquest tipus de desafiaments lúdics i competitius fan que els participants hagin de posar a prova la **coordinació**, la **comunicació** i la **cooperació** de tots membres del grup, i l'**enginy** i la **capacitat** de cadascun d'ells.
+
+      > Els riures i el bon humor estan garantits en aquest Team Building
+    es: "Revive con tus compañeros el mítico concurso de televisión japonés. Os organizamos
+      una jornada con pruebas súper divertidas como la famosa “Lucha de Guerreros”,
+      El Hinchable Flotante, La Bicicleta Voladora, “el Tragabolas\", “Pelotas Asesinas”
+      o los clásicos “Rodillos” entre otras pruebas! \n\nEste tipo de desafíos lúdicos
+      y competitivos hacen que los participantes deban poner a prueba la **coordinación**,
+      **comunicación** y **cooperación** de todos los miembros del grupo, y el **ingenio**
+      y la **capacidad** de cada uno de ellos.\n\n> Las risas y el buen humor están
+      garantizados en este Team Building"
+  localization:
+    en: Outdoor
+    ca: ''
+    es: ''
+  included:
+    en: |-
+      Welcome, briefing, organization of the group in teams
+      RC insurance
+      All the material for the proper development of this activity
+    ca: |-
+      Benvinguda , briefing, organització del grup en equips
+      Segur de responsabilitat civil
+      Tot el material per al correcte desenvolupament d'aquesta activitat
+    es: |-
+      Bienvenida, briefing, organización del grupo en equipos
+      Seguro RC
+      Todo el material para el correcto desarrollo de esta actividad
+  not_included:
+    en: "Breakfast / Lunch / dinner \nProfessional video & photo service\nD'j service\nTransport\nExclusive
+      space"
+    ca: "Esmorzars /Dinars/ Sopars \nServei professional de vídeo i fotografia\nServei
+      D'j\nTransporti\nEspai exclusiu\nPremis per als guanyadors"
+    es: |-
+      Desayuno / Almuerzo / Cena
+      Servicio profesional de video y fotografía
+      Servicio D'j
+      Transporte
+      Espacio exclusivo
+      Premios para los ganadores
+  contact:
+    en: 'yes'
+    ca: 'yes'
+    es: 'yes'
+  selected: false
+  language: ca, es, en
+  duration: 2.0
+  pax: 10
+  price: 
+  tag: humor
+  accesibility: 'no'
+  destination: '76940'
+  thumbnail: https://www.datocms-assets.com/120/1528985850-290a4678.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1528985850-290a4678.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1528974081-img20180612131839.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1528985905-290a4445.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76950'
   title:
     en: MASTERCHEF
@@ -414,9 +414,9 @@
       Bebidas: agua, vino y refrescos
       Posibilidad de adaptar el menú a restricciones o alérgias alimentarias
   not_included:
-    en: 
-    ca: 
-    es: 
+    en: ''
+    ca: ''
+    es: ''
   contact:
     en: Ask for more information about our activities
     ca: Demana més informació de les nostres activitats
@@ -429,10 +429,115 @@
   tag: Masterchef
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498480788-52.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498480788-52.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1498480790-53.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1551386981-whatsapp-image-2019-02-28-at-1-56-37-pm.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1551386981-whatsapp-image-2019-02-28-at-1-56-37-pm.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1551386996-whatsapp-image-2019-02-28-at-2-05-29-pm.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1509446050-whatsapp-image-2017-10-27-at-14-32-56.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+- id: '76967'
+  title:
+    en: HIVE-MIND
+    ca: COS I MENT
+    es: CUERPO Y MENTE
+  description:
+    en: "Hive-mind is a physical play of team work and problem solving in real time.
+      The participants gradually build up complex patterns through focused movement,
+      unpredictability and chance create an environment where participants have no
+      choice but to be constantly aware and in the moment. \n\nThe state of mind associated
+      with peak performance, created through a combination of concentration and playfulness,
+      can tackle any number of problems, and once discovered and experienced, can
+      be applied to all areas of life.\n\nWe target the specific areas of the brain
+      associated with joy, the feeling of success and connection, so that your creativity
+      is unleashed; we create positive neural-pathways and anchors and teach you how
+      to leverage them, allowing you to even enjoy doing things you don’t like. The
+      obstacles you face along the way become easier to solve, and your energy levels
+      and your capacity for learning increase which allows you to achieve more in
+      less time.\n\n> Individuals increase their personal impact, teams develop a
+      hive-mentality. We improve the quality of your company by allowing individuals
+      and teams to switch on FLOW at will.\n> \n\nThe training is designed for intense
+      **cooperation, creativity and problem solving in real time**\n\n<iframe width=\"560\"
+      height=\"315\" src=\"https://www.youtube.com/embed/BGJQm5sY0yQ\" frameborder=\"0\"
+      allow=\"autoplay; encrypted-media\" allowfullscreen> </iframe>"
+    ca: "És un joc físic de resiliència i diversió, on entrenarem per aconseguir el
+      teu màxim estat de rendiment.\n\nDurant l'entrenament, aprendrem de manera segura
+      i eficaç a llançar i recepcionar el material dissenyat especialment per a aquest
+      entrenament: ampolles d'aigua fetes de plàstic reciclable.\n\nLa incertesa i
+      l'ús de l'atzar creen l'ambient perfecte on els participants només podran prendre
+      consciència del que estan fent i estar presents en el moment, transformant el
+      seu cos en un portal cap a l'estat d'alt rendiment mental.\n\nSigui llançant
+      ampolles o bregant amb una gran càrrega de treball. L'estat mental associat
+      al màxim rendiment, creat a través d'una combinació de concentració i diversió,
+      pot abordar qualsevol quantitat de problemes i, una vegada que s'experimenta,
+      es pot aplicar a totes les àrees de la vida.\n\nAquest exclusiu entrenament
+      està enfocat a:\n\n- Combatre el desgast emocional\n- Millorar les relacions
+      humanes entre l'equip i de cara al client\n- Augmentar la creativitat\n- Resolució
+      de problemes en temps real\n- Incrementar el rendiment laboral\n- I aconseguir
+      un millor equilibri entre treball i vida personal\n\n> És sorprenent el que
+      es pot aconseguir en un estat de màxim rendiment quan és compartit entre els
+      membres d'un equip.\n> \n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BGJQm5sY0yQ\"
+      frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen> </iframe>"
+    es: "Es un juego físico de resiliencia y diversión, donde entrenaremos para que
+      alcances tu máximo estado de rendimiento. \n\nDurante el entrenamiento, aprenderemos
+      de manera segura y eficaz a lanzar y recepcionar el material diseñado especialmente
+      para éste entrenamiento: botellas de agua hechas de plástico reciclable.\n\nLa
+      incertidumbre y el uso del azar crean el ambiente perfecto donde los participantes
+      sólo podrán tomar conciencia de lo que están haciendo y estar presentes en el
+      momento, transformando su cuerpo en un portal hacia el estado de alto rendimiento
+      mental.\n\nYa sea lanzando botellas o lidiando con una gran carga de trabajo.
+      El estado mental asociado al máximo rendimiento, creado a través de una combinación
+      de concentración y diversión, puede abordar cualquier cantidad de problemas
+      y, una vez que se experimenta, se puede aplicar a todas las áreas de la vida.\n\nÉste
+      exclusivo entrenamiento está enfocado a:\n\n- Combatir el desgaste emocional\n-
+      Mejorar las relaciones humanas entre el equipo y de cara al cliente\n- Aumentar
+      la creatividad\n- Resolución de problemas en tiempo real\n- Incrementar el rendimiento
+      laboral\n- Y lograr un mejor equilibrio entre trabajo y vida personal\n\n> Es
+      sorprendente lo que se puede lograr en un estado de máximo rendimiento cuando
+      es compartido entre los miembros de un equipo.\n> \n<iframe width=\"560\" height=\"315\"
+      src=\"https://www.youtube.com/embed/BGJQm5sY0yQ\" frameborder=\"0\" allow=\"autoplay;
+      encrypted-media\" allowfullscreen> </iframe>"
+  localization:
+    en: Outdoor/Indoor
+    ca: Outdoor/Indoor
+    es: Outdoor/Indoor
+  included:
+    en: |-
+      Previous motivation
+      Live Training
+      Support staff before, during and after
+      We can accommodate large groups of up to 200 people so they can play the game simultaneously.
+    ca: |-
+      Entrenadors
+      Introducció teòrica
+      Escalfament (cos i ment)
+      Entrenament i resoldre problemes en temps real
+      Conclusió i valoració
+      Apte per a grups grans +200 de persones
+    es: |-
+      Entrenadores
+      Introducción teorica
+      Calentamiento (cuerpo y mente)
+      Entrenamiento y resolver problemas en tiempo real
+      Conclusión y valoración
+      Apto para grupos grandes +200 personas
+  not_included:
+    en: ''
+    ca: Lloguer de l'espai de treball
+    es: Alquiler del espacio de trabajo
+  contact:
+    en: Ask for more information
+    ca: Demana més informació
+    es: Pide más información
+  selected: false
+  language: es, en
+  duration: 2.0
+  pax: 10
+  price: 
+  tag: Hive-mind
+  accesibility: 'yes'
+  destination: '76941'
+  thumbnail: https://www.datocms-assets.com/120/1549882233-mg71017-1151.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1549882233-mg71017-1151.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1549882241-mg71017-1442.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1549882248-mg71017-1251.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76969'
   title:
     en: SURVIVAL GAME
@@ -657,9 +762,9 @@
       Dispositivos tecnológicos
       Coordinadores dedicados al grupo
   not_included:
-    en: 
-    ca: 
-    es: 
+    en: ''
+    ca: ''
+    es: ''
   contact:
     en: Ask for more information about our activities
     ca: Demana més informació de les nostres activitats
@@ -676,120 +781,68 @@
   photo1: https://www.datocms-assets.com/120/1498480735-55.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1498480736-56.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1498480739-57.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '76949'
+- id: '76961'
   title:
-    en: Authentic Catalan Experience
-    ca: Viu una experiència vinícola!
-    es: "¡Vive una experiencia vinícola!"
+    en: Make your own custom beer
+    ca: CREA LA TEVA PRÒPIA CERVESA
+    es: CREA TU PROPIA CERVEZA
   description:
-    en: "Alella is a small charming village located in the comarca of Maresme, between
-      the Mediterranean Sea and the coastal mountain, just 15km away from Barcelona.
-      The coastal town combines a thousand-year tradition of winemaking with architectural
-      highlights from the ancient, Romanesque, Baroque and Modernist periods. \n\nThis
-      wonderful tour will provide knowledgement about Catalan history, culture, gastronomy
-      and it is perfect to be close to local people. \n\nThe first activity will be
-      done in a typical farmhouse of the 14th century, surrounded by vineyards. Is
-      a small, family-run winery that offers a small production of wines made from
-      mostly local grapes grown over thirteen hectares of land. You will visit the
-      cellar and the vineyards. Finally you will taste four organic and high quality
-      wines.\n\nAfter that we will do a Modernist Walking Tour. It is much more than
-      a series of photo opportunities (although don't forget your camera!). Dig deep
-      into the roots of the movement and explore the social, political and cultural
-      issues. The result is a memorable one of the most important art of the world
-      and a tribute to some of its most talented artists.\n\nDuring this walking tour
-      we ‘ll make a stop at the local market of Alella, which opened its doors in
-      X, you will learn about locally grown products, get to know some of the vendors
-      who have been there for years. This casual stop is for you to savour typical
-      gastronomic heritage from a local perspective.\n\nVermouth is more than a simple
-      drink, it is a beautiful tradition. Enjoy a typical Spanish vermouth and tapas
-      in a truly authentic Catalan Tavern, which opened its doors 29 years ago. \nDiscover
-      the tavern that has become reference as a traditional place to take vermouth
-      in the middle of this special village.\n\n> Live and authentic experience of
-      the 19th century in Alella, near Barcelona."
-    ca: "Alella és una petita població situada a la comarca del Maresme, entre el
-      mar Mediterrani i la serralada de la costa anomenada Serralada del Litoral.
-      A més és conegut pels seus vinyers i la producció de vi, a només 15 km de Barcelona.
-      Amb aquest Tour podrà descobrir com vivia la burgesia catalana entre els segles
-      XIX i XX, i que encara conserva un imponent patrimoni modernista i manté viva
-      la seva identitat cultural. El municipi vinícola dóna nom a una de les denominacions
-      d'origen més petites i antigues de la península: La denominació d'origen Alella.\n\nLa
-      primera activitat es durà a terme en una típica masia del segle XIV, envoltada
-      de vinyers. Disposen de 13 hectàrees de vinyers de 25 anys, amb cultius ecològics.
-      Visita guiada pel vinyer, pel celler, i finalment una degustació de quatre vins
-      orgànics i d'alta qualitat.\n\nContinuarem amb un itinerari cultural que ofereix
-      la possibilitat de fer un recorregut per la història del segle XIX i principis
-      del XX. Arquitectes com Jeroni Martorell o Josep Puig i Cadafalch van desenvolupar
-      alguns dels seus projectes en aquest bonic poble. Endinsant-nos en les formes
-      i els colors de l'arquitectura alellenca podrem extreure algunes de les característiques
-      generals d'aquest moviment. Durant aquest recorregut a peu farem una parada
-      al mercat local d'Alella, on coneixerà els productes locals de la comarca. \nEl
-      Maresme compta amb un microclima i unes condicions orogràfiques molt favorables
-      per al cultiu de la maduixa, el raïm, els pèsols i les síndries.\n\nEl Vermut
-      és més que una simple beguda, és una bella tradició. Gaudeixi d'un típic vermut
-      amb una gran varietat de tapes a una autèntica taverna catalana. La taverna
-      va obrir les seves portes fa 29 anys i és un referent en el preciós poble d'Alella
-      i els seus voltants.\n\n> Viu una experiència vinícola amb Denominació d'Origen!"
-    es: "Alella es una pequeña población situada en la comarca del Maresme, entre
-      el mar Mediterráneo y la cordillera de la costa llamada Serralada del Litoral.
-      Además es conocido por sus viñedos y la producción de vino, a sólo 15 km de
-      Barcelona. Con este Tour podrá descubrir cómo vivía la burguesía catalana entre
-      los siglos XIX y XX, y que aún conserva un imponente patrimonio modernista y
-      mantiene viva su identidad cultural. El municipio vinícola da nombre a una de
-      las denominaciones de origen más pequeñas y antiguas de la península: La denominación
-      de origen Alella. \n\nLa primera actividad se llevará a cabo en una típica masía
-      del siglo XIV, rodeada de viñedos. Disponen de 13 hectáreas de viñedos de 25
-      años, con cultivos ecológicos. Visita guiada por el viñedo, por la bodega, y
-      finalmente una degustación de cuatro vinos orgánicos y de alta calidad.\n\nContinuaremos
-      con un itinerario cultural que ofrece la posibilidad de hacer un recorrido por
-      la historia del siglo XIX y principios del XX. Arquitectos como Jeroni Martorell
-      o Josep Puig y Cadafalch desarrollaron algunos de sus proyectos en este bonito
-      pueblo. Adentrándonos en las formas y los colores de la arquitectura alellenca
-      podremos extraer algunas de las características generales de este movimiento.\n\nDurante
-      este recorrido a pie vamos a hacer una parada en el mercado local de Alella,
-      donde conocerà  acerca de los productos locales de la comarca. El Maresme cuenta
-      con un microclima y unas condiciones orográficas muy favorables para el cultivo
-      de la fresa, la uva, los guisantes y las sandías.\n\nEl Vermut es más que una
-      simple bebida, es una hermosa tradición. Disfrute de un típico vermut acompanyado
-      con una gran variedad de tapas en una auténtica taberna catalana. La taberna
-      abrió sus puertas hace 29 años y es un referente en el bonito puebo de Alella
-      y sus alrededores.\n\n> ¡Vive una experiencia vinícola con Denominación de Origen!"
-  localization:
-    en: Outdoor
-    ca: Outdoor
-    es: Outdoor
-  included:
     en: |-
-      Transportation & guide
-      Visit the winery, vineyard and wine tasting (4 organic wines)
-      Modernist Walking Tour
-      Visit local market
-      Vermouth time
-    ca: "Trajecte d'anada i tornada \nAcompanyament d'un guia local \nVisita al celler,
-      vinyes i tast de vins (4 vins ecològics)\nItinerari Modernista per Alella\nMercat
-      local \nL'hora del Vermut"
-    es: "Trayecto de ida y vuelta\nAcompañamiento de un guía local \nVisita a bodega,
-      viñedos y cata de vinos (4 vinos de alta calidad)\nItinerario Modernista por
-      Alella\nMercado local \nLa hora del Vermut"
+      If you like beer, you can not miss this 100% participatory workshop. You will learn how to prepare your own craft beers from scratch.
+
+      The workshop involves the coordinated work of the team, which will have to organize, innovate and agree on all decisions that involve the development of the product: from the amount of hops to the design of the label.
+
+      Our beer experts will give you some premises, but your creativity will be the protagonist of the day!
+    ca: |-
+      Si us agrada la cervesa, no us podeu perdre aquest taller 100% participatiu. Aprendreu com preparar les vostres pròpies cerveses artesanes des de zero.
+
+      El taller implica el treball coordinat de l'equip, que haurà d'organitzar-se, innovar i consensuar totes les decisions que impliquin el desenvolupament del producte: des de la quantitat de llúpol fins al disseny de l'etiqueta.
+
+      Els nostres experts cervesers us donaran algunes premisses, però serà la vostra creativitat la protagonista de la jornada!
+    es: |-
+      Si os gusta la cerveza, no os podéis perder este taller 100% participativo. Aprenderéis cómo preparar vuestras propias cervezas artesanas desde cero.
+
+      El taller implica el trabajo coordinado del equipo, que tendrá que organizarse, innovar y consensuar todas las decisiones que impliquen el desarrollo del producto: desde la cantidad de lúpulo hasta el diseño de la etiqueta.
+
+      Nuestros expertos cerveceros os darán algunas premisas, pero será vuestra creatividad la protagonista de la jornada!
+  localization:
+    en: Indoor
+    ca: Indoor
+    es: Indoor
+  included:
+    en: "All the brewing material: ingredients, utensils ..\nWorkshop led by 2 beer
+      experts + support Staff \nLogo and label design\nPack of beers prepared by the
+      participants"
+    ca: |-
+      Tot el material cerveser: ingredients, estris...
+      Taller dirigit per 2 experts cervesers + Staff per donar suport
+      Disseny de logo i etiquetes
+      Pack de Cerveses preparades pels participants
+    es: |-
+      Todo el material cervecero: ingredientes, utensilios..
+      Taller dirigido por 2 expertos cerveceros + Staff apoyo
+      Diseño de logo y etiquetas
+      Pack de Cervezas preparadas por los participantes
   not_included:
-    en: 
-    ca: 
-    es: 
+    en: ''
+    ca: ''
+    es: ''
   contact:
-    en: Ask for more information about our activities
-    ca: Demana més informació de les nostres activitats
-    es: Pide más información de nuestras actividades
+    en: Ask for more information about our tours
+    ca: Demana més informació de les nostres excursions
+    es: Pide más información de nuestras excursiones
   selected: false
-  language: es, ca, en
-  duration: 6.0
-  pax: 2
+  language: ca, es, en
+  duration: 2.0
+  pax: 10
   price: 
-  tag: 'Alella '
+  tag: tours
   accesibility: 'yes'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498481918-14.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498481918-14.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1522331336-dsc_0948.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1522331000-can_bertran_-alella-_-_6-1.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1549451430-img20190205184335.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1549451430-img20190205184335.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1549455668-img20190206123045.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1549455674-img20190206123329.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76952'
   title:
     en: DRAGON BOAT
@@ -925,8 +978,8 @@
     ca: Coach
     es: Coach
   not_included:
-    en: 
-    ca: 
+    en: ''
+    ca: ''
     es: ''
   contact:
     en: Ask for more information about our tours
@@ -1102,9 +1155,9 @@
       Instrumentos
       Instructor
   not_included:
-    en: 
-    ca: 
-    es: 
+    en: ''
+    ca: ''
+    es: ''
   contact:
     en: Ask for more information about our workshop
     ca: Demana més informació dels nostres tallers
@@ -1169,9 +1222,9 @@
       Tiempo y clasificación
       Contenidos 100 % adaptables
   not_included:
-    en: 
-    ca: 
-    es: 
+    en: ''
+    ca: ''
+    es: ''
   contact:
     en: Ask for more information about our business game with ipads
     ca: Demana més informació dels nostres jocs amb Ipads
@@ -1260,7 +1313,7 @@
   photo3: https://www.datocms-assets.com/120/1519899519-dinar-d-empresa-winsystems-castell-jalpi-2017-97.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76960'
   title:
-    en: Spartan Race
+    en: Race
     ca: Carrera d'obstacles
     es: CARRERA DE OBSTÁCULOS
   description:
@@ -1312,7 +1365,7 @@
       y conducción de grupos\nServicio de enfermería\nSeguros para la actividad\nMúsica
       y animación"
   not_included:
-    en: 
+    en: ''
     ca: |-
       Trasllats d'anada i tornada
       Dinar en un restaurant
@@ -1333,8 +1386,8 @@
   tag: Race
   accesibility: 'no'
   destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498481182-46.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498481182-46.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1532443625-lady-21758441920.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1532443625-lady-21758441920.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1498481186-47.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1498481192-48.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76971'
@@ -1503,8 +1556,8 @@
   tag: music
   accesibility: 'yes'
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1519994618-_1110623.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1519994618-_1110623.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1549466569-whatsapp-image-2019-02-06-at-15-49-06.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1549466569-whatsapp-image-2019-02-06-at-15-49-06.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1519994677-_1110583.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1519995436-_1110534.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76965'
@@ -1723,62 +1776,6 @@
   photo1: https://www.datocms-assets.com/120/1498482213-21.png?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1498647781-20170421_110603_hdr.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1498482222-22.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '76967'
-  title:
-    en: Skateboarding Workshops
-    ca: Iniciació al skate
-    es: Iniciación al skate
-  description:
-    en: "Improve your skills, have fun and learn a few new tricks while you’re there.
-      In this course you will learn to move around the skate in a fun and safe enviroment,
-      ensuring a positive experience. \n\nWe teach from the most basic notions such
-      as momentum, brake, turns, obstacles... \n\nCustomized according to the level
-      of the colleagues, the aspects that you want to learn.\n\n> The limit is up
-      to you!"
-    ca: |-
-      Aprèn a patinar amb un skate a mà dels millors professionals de totes les modalitats (street, rampa, freestyle).
-
-      Us ensenyem des de les nocions més bàsiques com a impuls, fre, girs, obstacles... Diversió assegurada aprenent les habilitats bàsiques per desplaçar-se amb seguretat amb l'skate.
-
-      A més, descobrireu la cultura, la seva història i la terminologia del skate.
-
-      > El límit ho poses tu!
-    es: "Aprende a patinar con un skate a mano de los mejores profesionales de todas
-      las modalidades (street, rampa, freestyle). \n\nOs enseñamos desde las nociones
-      más básicas como impulso, freno, giros, obstáculos... Diversión asegurada aprendiendo
-      las habilidades básicas para desplazarte con seguridad con el skate.\n\nAdemás,
-      os adentrareis en la cultura, historia y terminología del skate.\n\n\n> ¡El
-      límite lo pones tú!"
-  localization:
-    en: Outdoor
-    ca: Outdoor
-    es: Outdoor
-  included:
-    en: "Skateboard monitor \nSkateboards & helmets provided\nLiability insurance"
-    ca: "Monitor de skate \nTaula de skate\nCascs i proteccions\nAssegurança Responsabilitat
-      Civil"
-    es: "Monitor de skate \nTabla de skate\nCascos y protecciones\nSeguro de Responsabilidad
-      Civil"
-  not_included:
-    en: ''
-    ca: ''
-    es: ''
-  contact:
-    en: Ask for more information
-    ca: Demana més informació
-    es: Pide más información
-  selected: false
-  language: ca, es, en
-  duration: 1.0
-  pax: 5
-  price: 
-  tag: Skate
-  accesibility: 'no'
-  destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1519902146-13235176_881569228638393_8433572892571173484_o.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1519902146-13235176_881569228638393_8433572892571173484_o.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1519902156-11045465_756694847792499_7128162302594086320_o.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1519922506-captura-de-pantalla-2018-03-01-a-les-17-41-22.png?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76968'
   title:
     en: MURDER MYSTERY GAME
@@ -1872,76 +1869,14 @@
   selected: false
   language: ca, es, en
   duration: 2.0
-  pax: 10
+  pax: 15
   price: 
   tag: film
   accesibility: 'yes'
   destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1522252220-img_20170302_151850_fotor.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1522252220-img_20170302_151850_fotor.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1549466542-whatsapp-image-2019-02-06-at-15-54-20.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1549466542-whatsapp-image-2019-02-06-at-15-54-20.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1521222491-img_20170302_170214.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: 
-- id: '76961'
-  title:
-    en: Make your own custom beer
-    ca: CREA LA TEVA PRÒPIA CERVESA
-    es: CREA TU PROPIA CERVEZA
-  description:
-    en: |-
-      If you like beer, you can not miss this 100% participatory workshop. You will learn how to prepare your own craft beers from scratch.
-
-      The workshop involves the coordinated work of the team, which will have to organize, innovate and agree on all decisions that involve the development of the product: from the amount of hops to the design of the label.
-
-      Our beer experts will give you some premises, but your creativity will be the protagonist of the day!
-    ca: |-
-      Si us agrada la cervesa, no us podeu perdre aquest taller 100% participatiu. Aprendreu com preparar les vostres pròpies cerveses artesanes des de zero.
-
-      El taller implica el treball coordinat de l'equip, que haurà d'organitzar-se, innovar i consensuar totes les decisions que impliquin el desenvolupament del producte: des de la quantitat de llúpol fins al disseny de l'etiqueta.
-
-      Els nostres experts cervesers us donaran algunes premisses, però serà la vostra creativitat la protagonista de la jornada!
-    es: |-
-      Si os gusta la cerveza, no os podéis perder este taller 100% participativo. Aprenderéis cómo preparar vuestras propias cervezas artesanas desde cero.
-
-      El taller implica el trabajo coordinado del equipo, que tendrá que organizarse, innovar y consensuar todas las decisiones que impliquen el desarrollo del producto: desde la cantidad de lúpulo hasta el diseño de la etiqueta.
-
-      Nuestros expertos cerveceros os darán algunas premisas, pero será vuestra creatividad la protagonista de la jornada!
-  localization:
-    en: Indoor
-    ca: Indoor
-    es: Indoor
-  included:
-    en: "All the brewing material: ingredients, utensils ..\nWorkshop led by 2 beer
-      experts + support Staff \nLogo and label design\nPack of beers prepared by the
-      participants"
-    ca: |-
-      Tot el material cerveser: ingredients, estris...
-      Taller dirigit per 2 experts cervesers + Staff per donar suport
-      Disseny de logo i etiquetes
-      Pack de Cerveses preparades pels participants
-    es: |-
-      Todo el material cervecero: ingredientes, utensilios..
-      Taller dirigido por 2 expertos cerveceros + Staff apoyo
-      Diseño de logo y etiquetas
-      Pack de Cervezas preparadas por los participantes
-  not_included:
-    en: ''
-    ca: ''
-    es: ''
-  contact:
-    en: Ask for more information about our tours
-    ca: Demana més informació de les nostres excursions
-    es: Pide más información de nuestras excursiones
-  selected: false
-  language: ca, es, en
-  duration: 9.0
-  pax: 10
-  price: 
-  tag: tours
-  accesibility: 'yes'
-  destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1509467803-teambeer-y-cata-de-cerveza-cuina-canela-fina-barcelona-cursos-activitats-actividades-empresa-talleres-teambuliding-espacio-gastronomico-grupos-1.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: 
   photo3: 
 - id: '76970'
   title:
@@ -2020,3 +1955,117 @@
   photo1: https://www.datocms-assets.com/120/1521737591-captura-de-pantalla-2018-03-22-a-les-17-52-38.png?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: 
   photo3: 
+- id: '76949'
+  title:
+    en: Authentic Catalan Experience
+    ca: Viu una experiència vinícola!
+    es: "¡Vive una experiencia vinícola!"
+  description:
+    en: "Alella is a small charming village located in the comarca of Maresme, between
+      the Mediterranean Sea and the coastal mountain, just 15km away from Barcelona.
+      The coastal town combines a thousand-year tradition of winemaking with architectural
+      highlights from the ancient, Romanesque, Baroque and Modernist periods. \n\nThis
+      wonderful tour will provide knowledgement about Catalan history, culture, gastronomy
+      and it is perfect to be close to local people. \n\nThe first activity will be
+      done in a typical farmhouse of the 14th century, surrounded by vineyards. Is
+      a small, family-run winery that offers a small production of wines made from
+      mostly local grapes grown over thirteen hectares of land. You will visit the
+      cellar and the vineyards. Finally you will taste four organic and high quality
+      wines.\n\nAfter that we will do a Modernist Walking Tour. It is much more than
+      a series of photo opportunities (although don't forget your camera!). Dig deep
+      into the roots of the movement and explore the social, political and cultural
+      issues. The result is a memorable one of the most important art of the world
+      and a tribute to some of its most talented artists.\n\nDuring this walking tour
+      we ‘ll make a stop at the local market of Alella, which opened its doors in
+      X, you will learn about locally grown products, get to know some of the vendors
+      who have been there for years. This casual stop is for you to savour typical
+      gastronomic heritage from a local perspective.\n\nVermouth is more than a simple
+      drink, it is a beautiful tradition. Enjoy a typical Spanish vermouth and tapas
+      in a truly authentic Catalan Tavern, which opened its doors 29 years ago. \nDiscover
+      the tavern that has become reference as a traditional place to take vermouth
+      in the middle of this special village.\n\n> Live and authentic experience of
+      the 19th century in Alella, near Barcelona."
+    ca: "Alella és una petita població situada a la comarca del Maresme, entre el
+      mar Mediterrani i la serralada de la costa anomenada Serralada del Litoral.
+      A més és conegut pels seus vinyers i la producció de vi, a només 15 km de Barcelona.
+      Amb aquest Tour podrà descobrir com vivia la burgesia catalana entre els segles
+      XIX i XX, i que encara conserva un imponent patrimoni modernista i manté viva
+      la seva identitat cultural. El municipi vinícola dóna nom a una de les denominacions
+      d'origen més petites i antigues de la península: La denominació d'origen Alella.\n\nLa
+      primera activitat es durà a terme en una típica masia del segle XIV, envoltada
+      de vinyers. Disposen de 13 hectàrees de vinyers de 25 anys, amb cultius ecològics.
+      Visita guiada pel vinyer, pel celler, i finalment una degustació de quatre vins
+      orgànics i d'alta qualitat.\n\nContinuarem amb un itinerari cultural que ofereix
+      la possibilitat de fer un recorregut per la història del segle XIX i principis
+      del XX. Arquitectes com Jeroni Martorell o Josep Puig i Cadafalch van desenvolupar
+      alguns dels seus projectes en aquest bonic poble. Endinsant-nos en les formes
+      i els colors de l'arquitectura alellenca podrem extreure algunes de les característiques
+      generals d'aquest moviment. Durant aquest recorregut a peu farem una parada
+      al mercat local d'Alella, on coneixerà els productes locals de la comarca. \nEl
+      Maresme compta amb un microclima i unes condicions orogràfiques molt favorables
+      per al cultiu de la maduixa, el raïm, els pèsols i les síndries.\n\nEl Vermut
+      és més que una simple beguda, és una bella tradició. Gaudeixi d'un típic vermut
+      amb una gran varietat de tapes a una autèntica taverna catalana. La taverna
+      va obrir les seves portes fa 29 anys i és un referent en el preciós poble d'Alella
+      i els seus voltants.\n\n> Viu una experiència vinícola amb Denominació d'Origen!"
+    es: "Alella es una pequeña población situada en la comarca del Maresme, entre
+      el mar Mediterráneo y la cordillera de la costa llamada Serralada del Litoral.
+      Además es conocido por sus viñedos y la producción de vino, a sólo 15 km de
+      Barcelona. Con este Tour podrá descubrir cómo vivía la burguesía catalana entre
+      los siglos XIX y XX, y que aún conserva un imponente patrimonio modernista y
+      mantiene viva su identidad cultural. El municipio vinícola da nombre a una de
+      las denominaciones de origen más pequeñas y antiguas de la península: La denominación
+      de origen Alella. \n\nLa primera actividad se llevará a cabo en una típica masía
+      del siglo XIV, rodeada de viñedos. Disponen de 13 hectáreas de viñedos de 25
+      años, con cultivos ecológicos. Visita guiada por el viñedo, por la bodega, y
+      finalmente una degustación de cuatro vinos orgánicos y de alta calidad.\n\nContinuaremos
+      con un itinerario cultural que ofrece la posibilidad de hacer un recorrido por
+      la historia del siglo XIX y principios del XX. Arquitectos como Jeroni Martorell
+      o Josep Puig y Cadafalch desarrollaron algunos de sus proyectos en este bonito
+      pueblo. Adentrándonos en las formas y los colores de la arquitectura alellenca
+      podremos extraer algunas de las características generales de este movimiento.\n\nDurante
+      este recorrido a pie vamos a hacer una parada en el mercado local de Alella,
+      donde conocerà  acerca de los productos locales de la comarca. El Maresme cuenta
+      con un microclima y unas condiciones orográficas muy favorables para el cultivo
+      de la fresa, la uva, los guisantes y las sandías.\n\nEl Vermut es más que una
+      simple bebida, es una hermosa tradición. Disfrute de un típico vermut acompanyado
+      con una gran variedad de tapas en una auténtica taberna catalana. La taberna
+      abrió sus puertas hace 29 años y es un referente en el bonito puebo de Alella
+      y sus alrededores.\n\n> ¡Vive una experiencia vinícola con Denominación de Origen!"
+  localization:
+    en: Outdoor
+    ca: Outdoor
+    es: Outdoor
+  included:
+    en: |-
+      Transportation & guide
+      Visit the winery, vineyard and wine tasting (4 organic wines)
+      Modernist Walking Tour
+      Visit local market
+      Vermouth time
+    ca: "Trajecte d'anada i tornada \nAcompanyament d'un guia local \nVisita al celler,
+      vinyes i tast de vins (4 vins ecològics)\nItinerari Modernista per Alella\nMercat
+      local \nL'hora del Vermut"
+    es: "Trayecto de ida y vuelta\nAcompañamiento de un guía local \nVisita a bodega,
+      viñedos y cata de vinos (4 vinos de alta calidad)\nItinerario Modernista por
+      Alella\nMercado local \nLa hora del Vermut"
+  not_included:
+    en: ''
+    ca: ''
+    es: ''
+  contact:
+    en: Ask for more information about our activities
+    ca: Demana més informació de les nostres activitats
+    es: Pide más información de nuestras actividades
+  selected: false
+  language: es, ca, en
+  duration: 6.0
+  pax: 2
+  price: 
+  tag: 'Alella '
+  accesibility: 'yes'
+  destination: '76940'
+  thumbnail: https://www.datocms-assets.com/120/1498481918-14.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1498481918-14.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1522331336-dsc_0948.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1522331000-can_bertran_-alella-_-_6-1.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy

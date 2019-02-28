@@ -53,6 +53,4 @@ La bodega os ofrecerá todo el confort y la comodidad que necesitáis en este d�
 
 ![](https://www.datocms-assets.com/120/1499091643-img_0715.JPG)
 
-![](https://www.datocms-assets.com/120/1499091659-img_0737.JPG)
-
 ![](https://www.datocms-assets.com/120/1499091687-img_0748.JPG)
