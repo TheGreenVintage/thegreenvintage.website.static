@@ -14,7 +14,7 @@ logos = dato.logos.map do |logo|
   {
     name: logo.name,
     url: logo.url,
-    image: logo.image.url(w: 280, fm: 'jpg')
+    image: logo.image && logo.image.url(w: 280, fm: 'jpg')
   }
 end
 
@@ -25,7 +25,7 @@ employees = dato.employees.map do |employee|
     name: employee.name,
     description: localize(employee, 'description'),
     skills: localize(employee, 'skills'),
-    photo: employee.photo.url(w: 300, fm: 'jpg')
+    photo: employee.photo && employee.photo.url(w: 300, fm: 'jpg')
   }
 end
 
@@ -35,7 +35,7 @@ home_slides = dato.home_slides.map do |home_slide|
   {
     title: localize(home_slide, 'title'),
     description: localize(home_slide, 'description'),
-    background: home_slide.background.url(w: 1024, fm: 'jpg')
+    background: home_slide.background && home_slide.background.url(w: 1024, fm: 'jpg')
   }
 end
 
@@ -61,7 +61,7 @@ destinations = dato.destinations.map do |destination|
     brochure_file: localize(destination, 'brochure_file'),
     download_brochure: localize(destination, 'download_brochure'),
     video: destination.video,
-    photo: destination.photo.url(w: 480, h: 270, fit: 'crop', fm: 'jpg'),
+    photo: destination.photo && destination.photo.url(w: 480, h: 270, fit: 'crop', fm: 'jpg'),
     gallery: gallery
   }
 end
@@ -123,9 +123,8 @@ directory "_posts" do
         id = /image([0-9]+)/.match(match)[1].to_i - 1
         gallery = article.image_gallery.first
 
-        if gallery
+        if gallery && (image = gallery.image[id])
           has_back_references = true
-          image = article.image_gallery.first.image[id]
           "![#{image.alt}](#{image.url})"
         else
           ""
