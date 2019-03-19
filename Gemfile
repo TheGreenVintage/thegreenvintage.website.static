@@ -8,4 +8,4 @@ gem 'i18n'
 
 gem 'uglifier'
 gem 'byebug'
-gem 'dato', '~> 0.3.30'
+gem 'dato', '~> 0.6.18'
