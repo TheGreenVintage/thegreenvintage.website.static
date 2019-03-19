@@ -37,9 +37,9 @@ El Hotel se alza imponente en la antigua sede de la “Fundación Textil Algodon
 
 ![](https://www.datocms-assets.com/120/1551179892-cottonhouse.jpg)
 
-![](https://www.datocms-assets.com/120/1551179894-cotton2.jpg)
+![](https://www.datocms-assets.com/120/1551180391-alma1.jpg)
 
-![](https://www.datocms-assets.com/120/1551179895-cotton3.jpg)
+![](https://www.datocms-assets.com/120/1551180395-alma2.jpg)
 
 
 **3.	The Secret Place**
@@ -49,13 +49,13 @@ Situado en el centro de Barcelona a escasos pasos de Passeig de Gràcia. Un oasi
 Verde que te quiero verde, en el centro de la ciudad.
 
 
-![](https://www.datocms-assets.com/120/1551180391-alma1.jpg)
-
-
-![](https://www.datocms-assets.com/120/1551180395-alma2.jpg)
-
-
 ![](https://www.datocms-assets.com/120/1551180438-alma3.jpg)
+
+
+![](https://www.datocms-assets.com/120/1551180831-bonay1.jpg)
+
+
+![](https://www.datocms-assets.com/120/1551180833-bonay3.jpg)
 
 **4.	A Little walking around Barcelona**
 
@@ -63,19 +63,19 @@ Hotel alojado en un edificio neoclásico del año 1869 situado en el corazón de
 Zona muy tranquila del Ensanche Derecho, uno de los barrios más icónicos de nuestra ciudad. Dando un corto paseo, aún más corto en bicicleta, se llega a la playa, al barrio gótico y al Borne, a los mejores mercados de la zona y a preciosos parques.
 Anímate a recorrer las calles más genuinas de Barcelona.
 
-![](https://www.datocms-assets.com/120/1551180831-bonay1.jpg)
-
-![](https://www.datocms-assets.com/120/1551180833-bonay3.jpg)
-
 ![](https://www.datocms-assets.com/120/1551180835-bonay2.jpg)
+
+![](https://www.datocms-assets.com/120/1551181219-alex3.jpg)
+
+![](https://www.datocms-assets.com/120/1551181317-alex.jpg)
 
 **5.	Big Little Jewel**
 
 Fusión de calidad y eficiencia en un ambiente donde se conjuntan el vanguardismo y lo tradicional. Espacios de diferentes estilos, con la última tecnología e instalaciones de gran comodidad, que se adaptan a la necesidad de cada persona y circunstancias. 
 
-![](https://www.datocms-assets.com/120/1551181219-alex3.jpg)
 
-![](https://www.datocms-assets.com/120/1551181317-alex.jpg)
+
+
 
 
 Espero que os haya gustado nuestra selección de hoteles de Barcelona. 
