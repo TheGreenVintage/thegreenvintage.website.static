@@ -196,6 +196,160 @@
   photo1: https://www.datocms-assets.com/120/1528975155-grv7103.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1528976794-grv7240.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1528976727-grv7288.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+- id: '76962'
+  title:
+    en: THE VINTAGE WACKY RACES
+    ca: CARRERA D'ANDRÒMINES
+    es: CARRERA DE AUTOS LOCOS
+  description:
+    en: "> Ready, Steady... design your dream car in this adrenaline fuelled team
+      building challenge.\n\nLet your team’s personality shine as you not only build
+      the chassis but put all your creative ideas into the bodywork too. Choose striking
+      colours, stickers, spoilers and more. \n\nThis is fun with a capital ‘F’.\n\nEveryone
+      will have a key role whether they’re designing, assembling, or painting the
+      bodywork. Time is of the essence, so teamwork is essential, no standing around
+      in the pit stop.\n\nOnce your dream machine is roadworthy, you’ll compete against
+      other teams on our custom-made track. A couple of chicanes, a bottleneck and
+      a hairpin bend or two to\ntest out your cars. All pull power too as we’re believes
+      in ‘No Oil’. One elected driver per team and the rest to stabilise and pull
+      the car around at break neck speed!!\n\nThey’ll be a place on the podium for
+      the three winning teams, oh! And some bubby too!!"
+    ca: "Benvinguts a la Gran Carrera d'andròmines. Esteu preparats per a una bona
+      dosi d'adrenalina, destresa i diversió?\n\nUs dividirem per equips, i en cada
+      box trobareu el material necessari per a crear el vostre cotxe. Cartó, fustes,
+      pintura, papers, adhesius i més. Imaginació i creativitat al poder.\n\nAmb ajuda
+      d'experts, cada equip haurà de construir el cotxe, donant-li un toc personal
+      a la carrosseria. Trieu bé els colors, el lema del vostre equip, proveu que
+      circuli... **Convertiu-vos en la millor escuderia de carreras**\n\nTots els
+      participants juguen un paper clau en el procés, ja sigui que estiguin dissenyant,
+      contruïnt l'estructura del cotxe o pintant la carrosseria. El temps és essencial,
+      per la qual cosa el bon treball en equip, evitarà una parada en boxes.\n\nUna
+      vegada acabat el disseny, donarem pas a la gran carrera. Un circuit amb corbes
+      i obstacles llestos per a vosaltres! Trieu un pilot per equip i la resta sereu
+      els encarregats d'estabilitzar i donar velocitat al cotxe.\n> \n> El podium
+      us espera! Preparats, llestos...!\n\n**Els valors que treballem:** treball en
+      equip, presa de decisions, distribució de tasques, habilitats, competitivitat,
+      reforçar vincles, estratègies, adrenalina i sobretot diversió."
+    es: "Bienvenidos a la Gran Carrera de los Coches Locos.  ¿Estáis preparados para
+      una buena dosis de adrenalina, destreza y diversión?\n\nOs dividiremos por equipos,
+      y en cada box encontraréis el material necesario para crear el Auto Loco. Cartón,
+      maderas, pintura, papeles, pegatinas y más. Imaginación y creatividad al poder.\n\nCon
+      ayuda de expertos, cada equipo deberá construir el coche, dándole un toque personal
+      a la carrocería. Elegid bien los colores, el lema de vuestro equipo, probad
+      que circule... **Convertíos en la mejor escudería de carreras**\n\nTodos los
+      participantes juegan un papel clave en el proceso, ya sea que estén diseñando,
+      ensamblando la estructura del coche o pintando la carrocería. El tiempo es esencial,
+      por lo que el buen trabajo en equipo, evitará una parada en boxes.\n\nUna vez
+      terminado el diseño, daremos paso a la gran carrera. Un circuito con curvas
+      y obstáculos listos para vosotros! Elegid un piloto por equipo y el resto seréis
+      los encargados de estabilizar y dar velocidad al auto. \n\n> ¡El podium os espera!
+      ¡Preparados, listos...!\n\n**Los valores que trabajamos:** trabajo en equipo,
+      toma de decisiones, distribución de tareas, habilidades, competitividad, reforzar
+      vínculos, estrategias, adrenalina y sobretodo diversión."
+  localization:
+    en: Outdoor
+    ca: Outdoor/ Indoor
+    es: Outdoor
+  included:
+    en: ''
+    ca: ''
+    es: ''
+  not_included:
+    en: |-
+      Awards and presents for (winning) teams
+      Video / photo coverage
+    ca: ''
+    es: 'Extras: podium, balas de paja, banderas, boxes con logo de la empresa.'
+  contact:
+    en: Ask for more information about our race
+    ca: Demana més informació de les nostres cotxes
+    es: Pide más información coches
+  selected: true
+  language: es, en, ca
+  duration: 2.5
+  pax: 15
+  price: 
+  tag: cars
+  accesibility: ask
+  destination: '76940'
+  thumbnail: https://www.datocms-assets.com/120/1567524005-290a7497.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1567524005-290a7497.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1567678478-290a7169.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1567511653-290a7745.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+- id: '313656'
+  title:
+    en: TAKESHI'S CASTLE CHALLENGES
+    ca: HUMOR AMARILLO
+    es: HUMOR AMARILLO
+  description:
+    en: "Takeshi's Castle is a Japanese game show that aired between 1986 and 1990.
+      \n\n> Relive your favorite TV moments! \n\nIt is made up of fun challenges such
+      as the famous \"Battle of the Warriors\", \"The Floating Inflatable\", \"Flying
+      Bicycle\", “Hungry Frogs ”, “The Breasts” and everyone's favorite \"Killing
+      Rollers\"and others challenges!\n\nChallenges are playful and competitive activities
+      in which participants must test the **coordination, communication and cooperation**
+      of the group members, the **self ingenuity and ability** of each one of them."
+    ca: |-
+      Si vas vibrar amb les proves esbojarrades que els japonesos feien al mític programa "Humor Amarillo". Reviu amb els teus companys el mític concurs televisiu!
+
+      Us organitzem una jornada amb proves súper divertides com la famosa “Lluita de Guerrers”, “l’Inflable Flotant”, “la Bicicleta Voladora”, “el Tragabolas”, “les Mamelles Assessines” o els clàssics “Rodillos” entre d'altres proves!
+
+      Aquest tipus de desafiaments lúdics i competitius fan que els participants hagin de posar a prova la **coordinació**, la **comunicació** i la **cooperació** de tots membres del grup, i l'**enginy** i la **capacitat** de cadascun d'ells.
+
+      > Els riures i el bon humor estan garantits en aquest Team Building
+    es: "Revive con tus compañeros el mítico concurso de televisión japonés. Os organizamos
+      una jornada con pruebas súper divertidas como la famosa “Lucha de Guerreros”,
+      El Hinchable Flotante, La Bicicleta Voladora, “el Tragabolas\", “Pelotas Asesinas”
+      o los clásicos “Rodillos” entre otras pruebas! \n\nEste tipo de desafíos lúdicos
+      y competitivos hacen que los participantes deban poner a prueba la **coordinación**,
+      **comunicación** y **cooperación** de todos los miembros del grupo, y el **ingenio**
+      y la **capacidad** de cada uno de ellos.\n\n> Las risas y el buen humor están
+      garantizados en este Team Building"
+  localization:
+    en: Outdoor
+    ca: ''
+    es: ''
+  included:
+    en: |-
+      Welcome, briefing, organization of the group in teams
+      RC insurance
+      All the material for the proper development of this activity
+    ca: |-
+      Benvinguda , briefing, organització del grup en equips
+      Segur de responsabilitat civil
+      Tot el material per al correcte desenvolupament d'aquesta activitat
+    es: |-
+      Bienvenida, briefing, organización del grupo en equipos
+      Seguro RC
+      Todo el material para el correcto desarrollo de esta actividad
+  not_included:
+    en: "Breakfast / Lunch / dinner \nProfessional video & photo service\nD'j service\nTransport\nExclusive
+      space"
+    ca: "Esmorzars /Dinars/ Sopars \nServei professional de vídeo i fotografia\nServei
+      D'j\nTransporti\nEspai exclusiu\nPremis per als guanyadors"
+    es: |-
+      Desayuno / Almuerzo / Cena
+      Servicio profesional de video y fotografía
+      Servicio D'j
+      Transporte
+      Espacio exclusivo
+      Premios para los ganadores
+  contact:
+    en: 'yes'
+    ca: 'yes'
+    es: 'yes'
+  selected: false
+  language: ca, es, en
+  duration: 2.0
+  pax: 10
+  price: 
+  tag: humor
+  accesibility: 'no'
+  destination: '76940'
+  thumbnail: https://www.datocms-assets.com/120/1528985850-290a4678.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1528985850-290a4678.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1528974081-img20180612131839.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1528985905-290a4445.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76959'
   title:
     en: MOUNTAIN ORIENTATION
@@ -272,80 +426,6 @@
   photo1: https://www.datocms-assets.com/120/1551386900-whatsapp-image-2019-02-28-at-1-55-56-pm.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1509444999-76b0d221-4a5f-4fbe-a4b8-53e310dfbd98.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1509445005-17cc837a-c014-4e4f-a695-9f0062e07675.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '313656'
-  title:
-    en: TAKESHI'S CASTLE CHALLENGES
-    ca: HUMOR AMARILLO
-    es: HUMOR AMARILLO
-  description:
-    en: "Takeshi's Castle is a Japanese game show that aired between 1986 and 1990.
-      \n\n> Relive your favorite TV moments! \n\nIt is made up of fun challenges such
-      as the famous \"Battle of the Warriors\", \"The Floating Inflatable\", \"Flying
-      Bicycle\", “Hungry Frogs ”, “The Breasts” and everyone's favorite \"Killing
-      Rollers\"and others challenges!\n\nChallenges are playful and competitive activities
-      in which participants must test the **coordination, communication and cooperation**
-      of the group members, the **self ingenuity and ability** of each one of them."
-    ca: |-
-      Si vas vibrar amb les proves esbojarrades que els japonesos feien al mític programa "Humor Amarillo". Reviu amb els teus companys el mític concurs televisiu!
-
-      Us organitzem una jornada amb proves súper divertides com la famosa “Lluita de Guerrers”, “l’Inflable Flotant”, “la Bicicleta Voladora”, “el Tragabolas”, “les Mamelles Assessines” o els clàssics “Rodillos” entre d'altres proves!
-
-      Aquest tipus de desafiaments lúdics i competitius fan que els participants hagin de posar a prova la **coordinació**, la **comunicació** i la **cooperació** de tots membres del grup, i l'**enginy** i la **capacitat** de cadascun d'ells.
-
-      > Els riures i el bon humor estan garantits en aquest Team Building
-    es: "Revive con tus compañeros el mítico concurso de televisión japonés. Os organizamos
-      una jornada con pruebas súper divertidas como la famosa “Lucha de Guerreros”,
-      El Hinchable Flotante, La Bicicleta Voladora, “el Tragabolas\", “Pelotas Asesinas”
-      o los clásicos “Rodillos” entre otras pruebas! \n\nEste tipo de desafíos lúdicos
-      y competitivos hacen que los participantes deban poner a prueba la **coordinación**,
-      **comunicación** y **cooperación** de todos los miembros del grupo, y el **ingenio**
-      y la **capacidad** de cada uno de ellos.\n\n> Las risas y el buen humor están
-      garantizados en este Team Building"
-  localization:
-    en: Outdoor
-    ca: ''
-    es: ''
-  included:
-    en: |-
-      Welcome, briefing, organization of the group in teams
-      RC insurance
-      All the material for the proper development of this activity
-    ca: |-
-      Benvinguda , briefing, organització del grup en equips
-      Segur de responsabilitat civil
-      Tot el material per al correcte desenvolupament d'aquesta activitat
-    es: |-
-      Bienvenida, briefing, organización del grupo en equipos
-      Seguro RC
-      Todo el material para el correcto desarrollo de esta actividad
-  not_included:
-    en: "Breakfast / Lunch / dinner \nProfessional video & photo service\nD'j service\nTransport\nExclusive
-      space"
-    ca: "Esmorzars /Dinars/ Sopars \nServei professional de vídeo i fotografia\nServei
-      D'j\nTransporti\nEspai exclusiu\nPremis per als guanyadors"
-    es: |-
-      Desayuno / Almuerzo / Cena
-      Servicio profesional de video y fotografía
-      Servicio D'j
-      Transporte
-      Espacio exclusivo
-      Premios para los ganadores
-  contact:
-    en: 'yes'
-    ca: 'yes'
-    es: 'yes'
-  selected: false
-  language: ca, es, en
-  duration: 2.0
-  pax: 10
-  price: 
-  tag: humor
-  accesibility: 'no'
-  destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1528985850-290a4678.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1528985850-290a4678.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1528974081-img20180612131839.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1528985905-290a4445.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76950'
   title:
     en: MASTERCHEF
@@ -928,6 +1008,120 @@
   photo1: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1509447291-whatsapp-image-2017-10-31-at-11-40-25.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1509447298-whatsapp-image-2017-10-31-at-11-40-25-1.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+- id: '76970'
+  title:
+    en: PERFORM YOUR OWN COMEDY SET
+    ca: CREAR EL TEU PROPI MONÒLEG
+    es: MONOLOGUEANDO
+  description:
+    en: "Do not worry! Most of us are funny without even knowing it ourselves. The
+      stage is the extra layer that makes you step aside from your regular script.
+      Almost without knowing who you will make people laugh and you will laugh as
+      well.\n\nWhen we analyze our habits and routines, our virtues and defects, our
+      contradictions, we will soon realize who absurd and funny our lives are.\n\nThis
+      is a workshop that promotes **spontaneity, a good laugh and feeling surprised**\n\n\n**PERFORM
+      YOUR OWN STAND UP COMEDY SET**\n\nThe goal is to create a set, your own or in
+      groups. Between 3 and 5 minutes long depending on of the amount of people.\n\nWe
+      may transform ourselves into politician, famous people, entrepreneurs or even,
+      if we dear to, we could become ourselves, a characterized version of us.\n\nThe
+      assistants would perform in front of everyone with a microphone. Everyone would
+      try out their texts in a healthy environment.\n\n\nWITH THIS WORKSHOP YOU WILL
+      LEARN: \n\n1. To laugh at yourself.\n2. To reinforce communication skills\n3.
+      To improve the energy of your team\n\n\nKEY ASPECTS OF OUR SCENIC WORKSHOP \n\n*
+      Getting rid of our **Stagefright**\n* Activities of guided **role-playing activities**.
+      Changing our roles within our company.\n* We will build funny situations for
+      our stand up comedy sets."
+    ca: |-
+      **> TOTS PODEM FER RIURE AMB UN MONÒLEG? JO,PUC?**
+
+      > Molts diuen: Jo, és que no tinc gràcia.
+
+      No et preocupis. La majoria som divertits sense saber-ho. L'escenari és qui et fa sortir-te del guió i gairebé sense adonar-te faràs riure i riuràs
+
+      Si analitzem els nostres hàbits, els nostres defectes i virtuts, les nostres incoherències rapidament tots descobreixen l'absurda i divertides que són les nostres vides.
+
+      Es tracta d'un taller que fomenta **espontaneïtat, riure sa i sorpresa.**  Claus per a construir un equip fort i unit.
+
+
+      **REPRESENTA EL TEU PROPI MONÒLEG**
+
+      L'objectiu és crear monòlegs, propis o en grup, de 3 a 5 minuts depenent del número d'assistents.
+
+      Ens transformarem en actors famosos, polítics, emprenedors, podrem ser, si ens atrevim, fins nosaltres mateixos, una versió caricaturitzada de la nostra personalitat.
+
+      Els assistents representaran els seus monòlegs davant de tots amb el seu micròfon. S'aniran provant els textos treballats en un clima festiu i agradable.
+
+
+      AMB AQUEST TALLER APRENDRÀS
+
+      1. A RIURE'T DE TU MATEIX
+      2. A REFORÇAR LA COMUNICACIÓ
+      3. A MILLORAR L'ENERGIA DEL TEU EQUIP
+
+      CLAUS DEL NOSTRE TALLER ESCÈNIC
+
+      * **Eliminar la por** a pujar-se dalt d'un escenari
+      * Activitats de **role-playing** guiades. Canviant de rols dins de l'empresa i posant-nos en el paper d'altres membres de l'empresa.
+      * Creem situacions i escenes divertides per als nostres monòlegs.
+    es: "**> TODOS PODEMOS HACER REÍR ¿HACER UN MONÓLOGO? ¿YO?**\n\n> Muchos dicen:
+      Yo, es que no tengo gracia. \n\nNo te preocupes. La mayoría somos divertidos
+      sin saberlo. El escenario es quien te hace salirte del guión y casi sin darte
+      cuenta harás reír y reíras.\n\nSi analizamos nuetros hábitos, nuestros defectos
+      y virtudes, nuestras incoherencias pronto todos descubren lo absurda y divertidas
+      que son nuestras vidas. \n\nSe trata de un taller que fomenta **espontaneidad,
+      risa sana y sorpresa.** Claves para construir un equipo fuerte y unido. \n\n\n**REPRESENTA
+      TU PROPIO MONÓLOGO**\n\nEl objetivo es crear monólogos, propios o en grupo,
+      de 3 a 5 minutos dependiendo del número de asisitentes.\n\nNos transformaremos
+      en actores famosos,políticos, emprendedores, podremos ser, si nos atrevemos,
+      hasta nosotros mismos, una versión caricaturizada de nuestra personalidad\n\nLos
+      asistentes representarán sus monólogos delante de todos con su micrófono. Se
+      irán probando los textos trabajados en un clima festivo y agradable.\n\n\nCON
+      ESTE TALLER APRENDERÁS\n\n1. A REÍRTE DE TI MISMO\n2. A REFORZAR LA COMUNICACIÓN\n3.
+      A MEJORAR LA ENERGÍA DE TU EQUIPO\n\nCLAVES DE NUESTRO TALLER ESCÉNICO\n\n*
+      **Eliminar el miedo** a subirse a un escenario \n* Actividades de **role-playing
+      guiadas**. Cambiando de roles dentro de la empresa y poniéndonos en el papel
+      de otros miembros de la empresa.\n* Creamos situaciones y escenas divertidas
+      para nuestros monólogos."
+  localization:
+    en: Indoor/outdoor
+    ca: Indoor/outdoor
+    es: Indoor/outdoor
+  included:
+    en: |-
+      Material
+      Staff
+    ca: |-
+      Material necessari per conduir l’activitat
+      Personal
+      Equip: 2 Micros + 2 altaveus hi-fi de 50w Bq Acoustics
+    es: |-
+      Material necesario para conducir la actividad
+      Personal
+      Equipo: 2 Micros + 2 altavoces hi-fi de 50w Bq Acoustics
+  not_included:
+    en: "Rent space \nChairs for all participants"
+    ca: |-
+      Lloguer de l’espai on es realitza l’activitat si s’escau
+      Cadires per a tots els participants
+    es: |-
+      Alquiler del espacio donde se realiza la actividad (si es necesario)
+      Sillas para todos los participantes
+  contact:
+    en: Ask for more information about our comedy
+    ca: Demana més informació sobre els monòlegs
+    es: Pide más información sobre los monólogos
+  selected: false
+  language: ca, es, en
+  duration: 2.5
+  pax: 6
+  price: 
+  tag: game
+  accesibility: 'yes'
+  destination: '76941'
+  thumbnail: https://www.datocms-assets.com/120/1553252131-talentgarden06.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1553252131-talentgarden06.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1553252144-talentgarden09.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1553252157-talentgarden20.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76953'
   title:
     en: LAUGHTER THERAPY WORKSHOPS
@@ -1299,7 +1493,7 @@
     en: Ask for more information
     ca: Demana més informació
     es: Pide más información
-  selected: true
+  selected: false
   language: ca, es, en
   duration: 2.0
   pax: 10
@@ -1311,85 +1505,6 @@
   photo1: https://www.datocms-assets.com/120/1519899547-dinar-d-empresa-winsystems-castell-jalpi-2017-30.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1519898505-dinar-d-empresa-winsystems-castell-jalpi-2017-61.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1519899519-dinar-d-empresa-winsystems-castell-jalpi-2017-97.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '76960'
-  title:
-    en: Race
-    ca: Carrera d'obstacles
-    es: CARRERA DE OBSTÁCULOS
-  description:
-    en: |-
-      (3 miles + 20 obstacles): is a great race for all members of your organization. No matter their level, they will feel a sense of accomplishment at the finish line.
-
-      Teams of leaders come together to hone their skill at handling unforeseeable obstacles, breaking up tasks, encouraging one another, and never giving up. We test your team’s physical, emotional and mental limits, ultimately turning you into an unbreakable unit.
-    ca: "> Només aquells triats, caiguts en batalla podran aconseguir el *Valhalla*,
-      el regne on es preparen per a la batalla del final dels dies... \n\nCarrera
-      de 10 obstacles de 5 km de longitud en un entorn natural únic amb més de 140.000
-      m², a 1 hora de Barcelona.\n\n**Obstacles:** De cara a terra, llançament de
-      javelina, pas de fang, salt de paret, Pont del mico, teranyina, passos en altura,
-      trasllat de pesos, camp de Pneumàtics i mur d'escuma.\n\nLa carrera d'obstacles
-      és una forma de desenvolupar habilitats com la generositat, el lideratge, l'esperit
-      d'equip, la resiliència, el compromís, la iniciativa, l'actitud, la innovació,
-      la creativitat i molts altres al mateix temps que desenvolupa valors corporatius
-      en el nivell de la seva gent."
-    es: "> Sólo aquellos elegidos, caídos en batalla podran alcanzar el Valhalla,
-      el reino donde se preparan para la batalla del final de los días... \n\nCarrera
-      de 10 obstáculos de 5 km de longitud en un entorno natural único con más de
-      140.000 m2, a 1 hora de Barcelona.\n\n**Obstáculos:** Cuerpo a tierra, lanzamiento
-      de jabalina, paso de barro, salto de pared, puente de mono, telaraña, pasos
-      en altura, traslado de pesos, campo de neumáticos y muro de espuma. \n\nLa carrera
-      de obstáculos es una forma de desarrollar habilidades como la generosidad, el
-      liderazgo, el espíritu de equipo, la resiliencia, el compromiso, la iniciativa,
-      la actitud, la innovación, la creatividad y muchos otros al mismo tiempo que
-      desarrolla valores corporativos en el nivel de su gente."
-  localization:
-    en: Outdoor
-    ca: Outdoor
-    es: Outdoor
-  included:
-    en: |-
-      Material for the development of the activity
-      Group coordinate
-    ca: |-
-      Recepció dels participants: Cafè de benvinguda
-      Briefing motivacional.
-      Vestuaris i servei de guarda-roba
-      Avituallament en carrera
-      Cerimònia de lliurament de premis
-      Tècnics esportius amb competència en primers auxilis, seguretat i conducció de grups
-      Servei d'infermeria
-      Segurs per a l'activitat
-      Música i animació
-    es: "Recepción de los participantes: Café de bienvenida\nBriefing motivacional\nVestuarios
-      y servicio de guardarropía\nAvituallamiento en carrera \nCeremonia de entrega
-      de premios  \nTécnicos deportivos con competencia en primeros auxilios, seguridad
-      y conducción de grupos\nServicio de enfermería\nSeguros para la actividad\nMúsica
-      y animación"
-  not_included:
-    en: ''
-    ca: |-
-      Trasllats d'anada i tornada
-      Dinar en un restaurant
-      Festa de l'escuma en finalitzar l'activitat
-    es: |-
-      Traslados (opcional)
-      Almuerzo (opcional)
-      Fiesta de la espuma al finalizar
-  contact:
-    en: Ask for more information about our workshop
-    ca: Demana més informació dels nostres tallers
-    es: Pide más información de nuestros talleres
-  selected: false
-  language: es, en, ca
-  duration: 4.0
-  pax: 20
-  price: 
-  tag: Race
-  accesibility: 'no'
-  destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1532443625-lady-21758441920.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1532443625-lady-21758441920.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1498481186-47.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1498481192-48.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76971'
   title:
     en: Building up towers
@@ -1675,107 +1790,6 @@
   photo1: https://www.datocms-assets.com/120/1519990410-_dsc5268.JPG?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1519990423-cheap-film-dau-96.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1519990778-cheap-film-dau-62.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '76962'
-  title:
-    en: Crime in Sant Pere
-    ca: Crim a Sant Pere
-    es: Crimen en Sant Pere
-  description:
-    en: "Get in the character of a police inspector investigating a case of robbery
-      in the Born district. In this game full of suspense, you will walk by the most
-      marvelous places and monuments of Born and get an in-depth grasp of the golden
-      age of modernism.\n\nBeginning of the game: You arrive by train at “Estació
-      de França” (Barcelona’s train station) this very morning, at 8:22 am on Friday,
-      27 August. You have just been transferred to the “Mossos d’Esquadra” (Catalan
-      police) Department of La Ribera, Born. Your new colleagues have given you the
-      latest case to investigate: some archives were stolen from the “Sant Pere de
-      Puelles” Church yesterday. You start studying the information you have in front
-      of the “Palau de la Música”. Open your eyes…\n\nExamples of trials: \n– Look
-      for clues or information using maps, pictures, etc.\n– Compare information available
-      on the field and information provided within the playing material\n– Deduce
-      information from visual or sound clues\n– Look for information about a monument
-      / building\n– Discard wrong tracks\n– Find your way using old maps or pictures"
-    ca: "En aquest joc us posareu a la pell d’un policia que investiga un cas de robatori
-      al barri del Born. Durant aquesta gimcana portada amb un suspens insostenible,
-      descobrireu meravellosos monuments i detalls del barri, molts racons amagats,
-      i us impregnareu de l’època daurada del modernisme.\n\nEl joc comença de la
-      següent manera: Acabes d’arribar avui, divendres 27 d’agost, a la “Estació de
-      França”, Barcelona, ​​amb el tren de les 8h22. Has estat nomenat cap de la seu
-      dels Mossos d’Esquadra al barri de la Ribera, al Born. Els teus nous col·legues
-      t’han reservat l’últim crim. Algú ha robat els arxius de Sant Pere de les Puelles.
-      L’única cosa que tens per resoldre el cas són els diferents documents que t’han
-      donat a la comissaria. Ara, tot és a les teves mans!\n\nExemples de proves:
-      \n– Cercar llocs / monuments a partir de preguntes de lògica / d’orientació\n–
-      Buscar informació sobre un monument, una escultura, etc.\n– Proves de cultura
-      general\n– Proves d’orientació (amb brúixola i mapa)\n– Endevinalles, jeroglífics\n–
-      Arribar a conclusions a partir de l’informació proporcionada o trobada"
-    es: "En este juego os pondréis en la piel un policía que investiga un caso de
-      robo en el barrio del Born. Durante esta gincana que transcurre con un suspense
-      frenético, descubriréis maravillosos monumentos y detalles del barrio, muchos
-      rincones escondidos y os impregnaréis de la época de oro del modernismo.\n\nEl
-      juego empieza de esta manera: Acabas de llegar hoy, viernes 27 de agosto, a
-      la Estación de Francia de Barcelona, por el tren de las 8h22. Has sido nombrado
-      jefe de la sede de los Mossos d’Esquadra del barrio de la Ribera en el Born.
-      Tus nuevos colegas te han reservado el último crimen. Alguien ha robado los
-      archivos de San Pere de les Puelles. Lo único de lo que dispones para resolver
-      el caso son los diferentes documentos que te han entregado en la comisaría.
-      Ahora… ¡todo está en tus manos!\n\nEjemplos de pruebas: \n– Buscar sitios /
-      monumentos a partir de preguntas de lógica y de orientación\n– Buscar información
-      sobre un monumento, una escultura, etc.\n– Pruebas de cultura general\n– Pruebas
-      de orientación (con brújula y mapa)\n– Acertijos, jeroglíficos, etc.\n– Sacar
-      conclusiones a partir de información proporcionada o encontrada"
-  localization:
-    en: Outdoor
-    ca: Outdoor
-    es: Outdoor
-  included:
-    en: "Backpack\nMap\nRoadbook \nCompass\nMP3\nInformation, clues (photos, drawings,
-      puzzles, etc.)"
-    ca: |-
-      Motxilla
-      Mapa del lloc
-      Brúixola i prismàtics
-      Llibre de ruta amb instruccions, enigmes i altra informació útil (mapes, fotos, etc.)
-    es: |-
-      Mochila
-      Mapa del sitio
-      Brújula y prismáticos
-      Libro de ruta con instrucciones, enigmas y otra información útil (mapas, fotos, etc.)
-  not_included:
-    en: |-
-      Awards and presents for (winning) teams
-      Stop over in a bar / tapas
-      Lunch / dinner in a restaurant (at the end of the game)
-      Video / photo coverage
-      Bike tour
-    ca: |-
-      Premis per a tots els equips (recomenat)
-      Parada a un bar / tapes (durant el joc i / o al final)
-      Gimcana amb bicicleta
-      Vídeo del joc / Reportatge fotogràfic
-      Sopar o dinar en un restaurant
-    es: |-
-      Premios para todos los equipos
-      Mug del evento con logos
-      Bebida + Tapa al final del juego
-      Video: reportaje + DVD 10 minutos
-      Fotos: Reportaje + álbum digital
-  contact:
-    en: Ask for more information about our tours
-    ca: Demana més informació de les nostres excursions
-    es: Pide más información de nuestras excursiones
-  selected: false
-  language: ca, es, en, fr
-  duration: 3.0
-  pax: 4
-  price: 
-  tag: pere
-  accesibility: 'yes'
-  destination: '76940'
-  thumbnail: https://www.datocms-assets.com/120/1498482213-21.png?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498482213-21.png?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1498647781-20170421_110603_hdr.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1498482222-22.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76968'
   title:
     en: MURDER MYSTERY GAME
@@ -1878,83 +1892,85 @@
   photo1: https://www.datocms-assets.com/120/1549466542-whatsapp-image-2019-02-06-at-15-54-20.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1521222491-img_20170302_170214.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: 
-- id: '76970'
+- id: '76960'
   title:
-    en: BRAINGAMING
-    ca: BRAINGAMING
-    es: BRAINGAMING
+    en: Race
+    ca: Carrera d'obstacles
+    es: CARRERA DE OBSTÁCULOS
   description:
-    en: "> TRAIN YOUR BRAIN AND HAVE FUN \n\n**BENEFITS**\n\n• Have fun and feel good\n•
-      Memory formation\n• Cognitive formation\n• Reduce risks of mental diseases\n•
-      Speed up your responses\n• Reduce Stress\n• Teamwork\n• Speed up your concentration\n•
-      Have fun with your colleagues"
-    ca: |-
-      **Què és “BRAINGAMING”?**
+    en: |-
+      (3 miles + 20 obstacles): is a great race for all members of your organization. No matter their level, they will feel a sense of accomplishment at the finish line.
 
-      BRAINGAMING és una sessió de jocs pensada i dissenyada per portar al
-      grup a una estona de diversió, intercanvi i evasió.
-
-      Utilitzant jocs de taula d’última generació i de regles senzilles es conduirà una activitat fresca i distesa.
-
-      Una consecució de jocs estructurada per etapes que provoquen les reaccions esperades fins a deixar als participants en la situació idònia per compartir, relacionar-se o tornar a treballar un cop han relaxat la ment.
-
-      > Jocs de velocitat visual, agilitat tàctil, intel·ligències emocionals o rols ocults faran que tothom pugui treure el millor de sí mateix.
-
-      Els jocs són conduïts per monitoratge expert que combina el coneixement de les regles amb la gestió de grups.
-    es: |-
-      **¿Qué es el “BRAINGAMING”?**
-
-      BRAINGAMING es una sesión de juegos pensada y diseñada para traer al
-      grupo a un rato de diversión, intercambio y evasión.
-
-      Utilizando juegos de mesa de última generación y de reglas sencillas se conducirá una actividad fresca y distendida.
-
-      Una consecución de juegos estructurada por etapas que provocan las reacciones esperadas hasta dejar a los participantes en la situación idónea para compartir, relacionarse o volver a trabajar una vez han relajado la mente.
-
-      > Juegos de velocidad visual, agilidad táctil, inteligencias emocionales o roles ocultos harán que todo el mundo pueda sacar el mejor de sí mismo.
-
-      Los juegos son conducidos por monitorización experta que combina el conocimiento de las reglas con la gestión de grupos.
+      Teams of leaders come together to hone their skill at handling unforeseeable obstacles, breaking up tasks, encouraging one another, and never giving up. We test your team’s physical, emotional and mental limits, ultimately turning you into an unbreakable unit.
+    ca: "> Només aquells triats, caiguts en batalla podran aconseguir el *Valhalla*,
+      el regne on es preparen per a la batalla del final dels dies... \n\nCarrera
+      de 10 obstacles de 5 km de longitud en un entorn natural únic amb més de 140.000
+      m², a 1 hora de Barcelona.\n\n**Obstacles:** De cara a terra, llançament de
+      javelina, pas de fang, salt de paret, Pont del mico, teranyina, passos en altura,
+      trasllat de pesos, camp de Pneumàtics i mur d'escuma.\n\nLa carrera d'obstacles
+      és una forma de desenvolupar habilitats com la generositat, el lideratge, l'esperit
+      d'equip, la resiliència, el compromís, la iniciativa, l'actitud, la innovació,
+      la creativitat i molts altres al mateix temps que desenvolupa valors corporatius
+      en el nivell de la seva gent."
+    es: "> Sólo aquellos elegidos, caídos en batalla podran alcanzar el Valhalla,
+      el reino donde se preparan para la batalla del final de los días... \n\nCarrera
+      de 10 obstáculos de 5 km de longitud en un entorno natural único con más de
+      140.000 m2, a 1 hora de Barcelona.\n\n**Obstáculos:** Cuerpo a tierra, lanzamiento
+      de jabalina, paso de barro, salto de pared, puente de mono, telaraña, pasos
+      en altura, traslado de pesos, campo de neumáticos y muro de espuma. \n\nLa carrera
+      de obstáculos es una forma de desarrollar habilidades como la generosidad, el
+      liderazgo, el espíritu de equipo, la resiliencia, el compromiso, la iniciativa,
+      la actitud, la innovación, la creatividad y muchos otros al mismo tiempo que
+      desarrolla valores corporativos en el nivel de su gente."
   localization:
-    en: Indoor/outdoor
-    ca: Indoor/outdoor
-    es: Indoor/outdoor
+    en: Outdoor
+    ca: Outdoor
+    es: Outdoor
   included:
     en: |-
-      Material
-      Staff
-      Transfer
+      Material for the development of the activity
+      Group coordinate
     ca: |-
-      Material necessari per conduir l’activitat
-      Monitor
-      Desplaçament
-    es: |-
-      Material necesario para conducir la actividad
-      Monitor
-      Desplazamiento
+      Recepció dels participants: Cafè de benvinguda
+      Briefing motivacional.
+      Vestuaris i servei de guarda-roba
+      Avituallament en carrera
+      Cerimònia de lliurament de premis
+      Tècnics esportius amb competència en primers auxilis, seguretat i conducció de grups
+      Servei d'infermeria
+      Segurs per a l'activitat
+      Música i animació
+    es: "Recepción de los participantes: Café de bienvenida\nBriefing motivacional\nVestuarios
+      y servicio de guardarropía\nAvituallamiento en carrera \nCeremonia de entrega
+      de premios  \nTécnicos deportivos con competencia en primeros auxilios, seguridad
+      y conducción de grupos\nServicio de enfermería\nSeguros para la actividad\nMúsica
+      y animación"
   not_included:
-    en: Rent space
+    en: ''
     ca: |-
-      Lloguer de l’espai on es realitza l’activitat si s’escau
-      Manutenció del monitor si l’activitat és de més de 3 hores de durada
+      Trasllats d'anada i tornada
+      Dinar en un restaurant
+      Festa de l'escuma en finalitzar l'activitat
     es: |-
-      Alquiler del espacio donde se realiza la actividad (si es necesario)
-      Manutención del monitor si la actividad es de más de 3 horas de duración
+      Traslados (opcional)
+      Almuerzo (opcional)
+      Fiesta de la espuma al finalizar
   contact:
-    en: Ask for more information about our games
-    ca: Demana més informació sobre els jocs que disposem
-    es: Pide más información sobre los juegos que disponemos
+    en: Ask for more information about our workshop
+    ca: Demana més informació dels nostres tallers
+    es: Pide más información de nuestros talleres
   selected: false
-  language: ca, es, en
-  duration: 2.0
-  pax: 10
+  language: es, en, ca
+  duration: 4.0
+  pax: 20
   price: 
-  tag: game
-  accesibility: 'yes'
-  destination: '76941'
-  thumbnail: https://www.datocms-assets.com/120/1521737591-captura-de-pantalla-2018-03-22-a-les-17-52-38.png?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1521737591-captura-de-pantalla-2018-03-22-a-les-17-52-38.png?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: 
-  photo3: 
+  tag: Race
+  accesibility: 'no'
+  destination: '76940'
+  thumbnail: https://www.datocms-assets.com/120/1532443625-lady-21758441920.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1532443625-lady-21758441920.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1498481186-47.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1498481192-48.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76949'
   title:
     en: Authentic Catalan Experience

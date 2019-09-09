@@ -30,3 +30,29 @@
     ca: Director Executiu i Fundador
     es: Director Ejecutivo y Fundador
   photo: https://www.datocms-assets.com/120/1498054425-gemma.jpg?w=300&fm=jpg
+- name: Dave
+  description:
+    en: Dave has a passion for all things creative. Art, photography, gastronomy....
+      Our graphic designer, creative and art director
+    ca: Dave té passió per tot el creatiu. Art, fotografia, gastronomia... és el nostre
+      dissenyador gràfic, director creatiu i director d'art
+    es: Dave siente pasión por todo lo creativo. Arte, fotografía, gastronomía...
+      Es nuestro diseñador gráfico, director creativo y director de arte.
+  skills:
+    en: Creative managment
+    ca: Director Creatiu
+    es: Director Creativo
+  photo: https://www.datocms-assets.com/120/1568022473-davebuena.jpg?w=300&fm=jpg
+- name: Ivan
+  description:
+    en: Ivan is passionate about sport and mountain guide. Designer and coordinator
+      of outdoor activities.
+    ca: Apassionat de l'esport i guia de muntanya. Dissenyador i coordinador d'activitats
+      outdoor. "El contacte amb la natura, una necessitat vital"
+    es: Apasionado del deporte y guía de montaña. Diseñador y coordinador de actividades
+      outdoor. "El contacto con la natura, una necesidad vital"
+  skills:
+    en: Outdoor & Sporting Goods
+    ca: Director esportiu
+    es: Director deportivo
+  photo: https://www.datocms-assets.com/120/1568024152-ivan.jpg?w=300&fm=jpg
