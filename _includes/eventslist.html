@@ -1,0 +1,19 @@
+<div class="row">
+    <div class="space-70"></div>
+    {% assign events = site.data.events %}
+    {% for event in events %}
+    <div class=" mix design col-md-4 col-sm-6 margin-btm-40">
+        <div class="portfolio-sec">
+            <div class="portfolio-thumnail">
+                <a href="/{{ page.locale}}/events/{{ event | field: 'title' | slugify: 'latin' }}">
+                    <img class="img-responsive" src="{{ event.thumbnail }}" title="{{ event | field: 'title' }}" alt="{{ event | field: 'title' }}">
+                </a>
+            </div>
+            <div class="portfolio-desc text-center">
+                <h4 class="portfolio-post-title">{{ event | field: 'title' }}</h4>
+                <h4><a href="/{{ page.locale}}/events/{{ event | field: 'title' | slugify: 'latin' }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
+            </div>
+        </div>
+    </div><!--portfolio item -->
+    {% endfor %}
+</div><!--grid-->

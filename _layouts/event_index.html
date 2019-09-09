@@ -1,0 +1,74 @@
+---
+layout: default
+section: event
+---
+
+<div class="space-70"></div>
+<div class="container portfolio-details">
+    <div class="row">
+        <div class="col-md-12 margin-btm-40">
+            <div class="flexslider" style="height: 600px; overflow: hidden">
+                <ul class="slides">
+                    {% if page.event.photo1 %}
+                    <li><img src="{{ page.event.photo1 }}" alt=""></li>
+                    {% endif %}
+
+                    {% if page.event.photo2 %}
+                    <li><img src="{{ page.event.photo2 }}" alt=""></li>
+                    {% endif %}
+
+                    {% if page.event.photo3 %}
+                    <li><img src="{{ page.event.photo3 }}" alt=""></li>
+                    {% endif %}
+                </ul>
+            </div><!--flex slider-->
+        </div>
+        <div class="col-md-8 portfolio-single-slide margin-btm-40">
+            <div class="portfolio-single-desc">
+                <h2>{{ page.event | field: 'title' }}</h2>
+                {{ page.event | field: 'description' | markdownify }}
+            </div><!--portfolio detail-->
+        </div>
+        <div class="col-md-4">
+            <div class="portfolio-side-bar">
+                <p>
+                    {% assign item = 'contact' | section %}
+                    <a href="{{item.permalink}}" class="btn btn-radius theme-btn-color">{{ 'footer.contact_us' | translate }}</a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
+        <div class="space-70"></div>
+        <div class="col-md-12 text-center">
+            <h3>{{ 'events.related' | translate }}</h3>
+        </div>
+        <div class="space-70"></div>
+    </div><!--row-->
+
+    <div class="row">
+        {% assign related_events = site.data.events | where_exp:"item", "item.id != page.event.id" | sample:3 %}
+        {% for related_event in related_events %}
+        <div class=" mix design col-md-4 col-sm-6 margin-btm-40">
+            <div class="portfolio-sec">
+                <div class="portfolio-thumnail">
+                    <a href="/{{ page.locale}}/events/{{ related_event | field: 'title' | slugify }}">
+                        <img class="img-responsive" src="{{ related_event.thumbnail }}" title="{{ related_event | field: 'title' }}" alt="{{ related_event | field: 'title' }}">
+                    </a>
+                </div>
+                <div class="portfolio-desc text-center">
+                    <h4 class="portfolio-post-title">{{ related_event | field: 'title' }}</h4>
+                    <h4><a href="/{{ page.locale}}/events/{{ related_event | field: 'title' | slugify }}" class="btn theme-btn-default btn-lg">{{ 'generic.more_info' | translate }}</a></h4>
+                </div>
+            </div>
+        </div><!--portfolio item -->
+        {% endfor %}
+    </div><!--grid-->
+
+    <div class="space-70"></div>
+</div><!--portfolio single container end-->
+
+{% include json-ld-event.html %}

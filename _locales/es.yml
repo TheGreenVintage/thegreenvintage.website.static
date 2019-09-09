@@ -29,7 +29,7 @@ es:
     navigation: Navegación
     more_info: Más información
     address: Carrer de Casp, 79 Sobreático
-    postal: 08013
+    postal: '08013'
     town: Barcelona
     region: Cataluña
     country: España
@@ -197,6 +197,14 @@ es:
     where: Destinaciones
     custom_title: Otras destinaciones
     custom_description: Personalizamos y damos vida a su próximo destino
+  events:
+    menu: Eventos
+    title: Eventos
+    events_title: Nuestros eventos
+    events_description: Nuestras reuniones, eventos y programas de viajes de incentivo
+      comienzan con un profundo conocimiento de los objetivos estratégicos de su empresa,
+      y que transforman ese entendimiento en creatividad y experiencias memorables.
+    related: Otros eventos
   contact:
     title: Contacto
     menu: Contacto

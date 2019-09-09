@@ -100,6 +100,26 @@ end
 
 create_data_file("_data/activities.yml", :yaml, activities)
 
+events = dato.events.select do |event|
+  !event.hidden
+end.map do |event|
+  {
+    id: event.id,
+    title: localize(event, 'title'),
+    description: localize(event, 'description'),
+    selected: event.selected,
+    tag: event.tag,
+
+    thumbnail: event.photo1 && event.photo1.url(w: 480, h: 270, fit: 'crop', fm: 'jpg', crop: 'focalpoint,faces,entropy'),
+
+    photo1: event.photo1 && event.photo1.url(w: 1024, h: 576, fit: 'crop', fm: 'jpg', crop: 'focalpoint,faces,entropy'),
+    photo2: event.photo2 && event.photo2.url(w: 1024, h: 576, fit: 'crop', fm: 'jpg', crop: 'focalpoint,faces,entropy'),
+    photo3: event.photo3 && event.photo3.url(w: 1024, h: 576, fit: 'crop', fm: 'jpg', crop: 'focalpoint,faces,entropy')
+  }
+end
+
+create_data_file("_data/events.yml", :yaml, events)
+
 directory "_posts" do
   dato.blog_posts.each do |article|
     filename = "#{article.publication_date.strftime("%Y-%m-%d")}-#{article.title.parameterize}.md"

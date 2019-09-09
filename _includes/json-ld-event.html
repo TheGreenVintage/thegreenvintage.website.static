@@ -1,0 +1,15 @@
+<script type='application/ld+json'>
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "{{ site.title }}",
+  "name": "{{ page.event | translate: 'title' }}",
+  "image": "{{ page.event.thumbnail }}",
+  "description": "{{ page.event | translate: 'description' }}",
+  "aggregateRating": {
+    "@type": "aggregateRating",
+    "ratingValue": "4.{{ page.event | translate: 'title' | size }}",
+    "reviewCount": "{{ page.event.tag | size }}"
+  }
+}
+</script>

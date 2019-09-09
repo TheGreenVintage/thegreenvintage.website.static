@@ -29,7 +29,7 @@ en:
     navigation: Navegation
     more_info: More information
     address: Carrer de Casp, 79 Penthouse
-    postal: 08013
+    postal: '08013'
     town: Barcelona
     region: Catalonia
     country: Spain
@@ -193,6 +193,14 @@ en:
     where: Destinations
     custom_title: Custom-made
     custom_description: We customize and give life to your next destination
+  events:
+    menu: Events
+    title: Events
+    events_title: Our events
+    events_description: Our meetings, events and incentive travel programs begin with
+      a deep understanding of your strategic business goals, and we transform that
+      understanding into creativity, memorable experiences.
+    related: Other events
   contact:
     title: Contact
     menu: Contact
