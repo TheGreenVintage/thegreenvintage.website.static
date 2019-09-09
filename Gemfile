@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '3.8.2'
-gem 'jekyll-sitemap', '1.2.0'
-gem 'jekyll-seo-tag', '2.5.0'
+gem 'jekyll', '4.0.0'
+gem 'jekyll-sitemap', '1.3.1'
+gem 'jekyll-seo-tag', '2.6.1'
 
 gem 'i18n'
 
 gem 'uglifier'
 gem 'byebug'
-gem 'dato', '~> 0.6.18'
+gem 'dato', '~> 0.7.5'
