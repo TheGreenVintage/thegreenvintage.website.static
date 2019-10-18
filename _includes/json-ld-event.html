@@ -3,12 +3,12 @@
   "@context": "http://www.schema.org",
   "@type": "product",
   "brand": "{{ site.title }}",
-  "name": "{{ page.event | translate: 'title' }}",
+  "name": "{{ page.event | field: 'title' }}",
   "image": "{{ page.event.thumbnail }}",
-  "description": "{{ page.event | translate: 'description' }}",
+  "description": "{{ page.event | field: 'description' }}",
   "aggregateRating": {
     "@type": "aggregateRating",
-    "ratingValue": "4.{{ page.event | translate: 'title' | size }}",
+    "ratingValue": "4.{{ page.event | field: 'title' | size }}",
     "reviewCount": "{{ page.event.tag | size }}"
   }
 }
