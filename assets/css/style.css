@@ -2893,6 +2893,10 @@ a.carousel-control i {
 
 }
 
+.portfolio-details h2 {
+  text-transform: uppercase;
+}
+
 .logo img {
   max-height: 75px;
 }

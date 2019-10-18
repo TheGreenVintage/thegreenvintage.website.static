@@ -40,12 +40,6 @@ en:
       linkedin: Follow On Linkedin
       instagram: Follow On Instagram
   common:
-    destinations_tittle: How can we help you?
-    destinations_meetings: Great ideas for venues and meetings
-    destinations_activities: Tailored experiences that fit your needs
-    destinations_hotels: Wide range of accommodation
-    destinations_restaurants: Gastronomic diversity
-    destinations_transportation: Private transport, shuttles and transfers services
     languages:
       es: Spanish
       ca: Catalan
@@ -57,7 +51,6 @@ en:
     about_us: About us
     all_rights_reserved: All rights reserved
     contact_us: Contact us
-    destination: Destinations
     newsletter:
       title: Newsletter
       description: Keep up on our always evolving Future updates. Enter your e-mail

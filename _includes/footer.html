@@ -61,7 +61,7 @@
                 </div>
                 <div class="col-md-6 ">
                     <ul class="list-inline footer-nav">
-                        {% assign sections = 'home destinations teambuilding team contact' | split: " " %}
+                        {% assign sections = 'home events teambuilding team contact' | split: " " %}
                         {% for sname in sections %}
                         {% assign item = sname | section %}
                         <li class="{% if page.section == item.section %}active{% endif %}">

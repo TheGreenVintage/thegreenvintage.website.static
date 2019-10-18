@@ -40,12 +40,6 @@ ca:
       linkedin: Segueix-nos a Linkedin
       instagram: Segueix-nos a Instagram
   common:
-    destinations_tittle: En què et podem ajudar?
-    destinations_meetings: Idees per a reunions i venues únics
-    destinations_activities: Experiències a mesura
-    destinations_hotels: Gran varietat d’allotjaments
-    destinations_restaurants: Diversitat gastronòmica
-    destinations_transportation: Serveis de transport privat, trasllats i transfers
     languages:
       es: Espanyol
       ca: Català
@@ -57,7 +51,6 @@ ca:
     about_us: Sobre nosaltres
     all_rights_reserved: Tots els drets reservats
     contact_us: Contacta'ns
-    destination: Destinacions
     newsletter:
       title: Bulletí informatiu
       description: Mantingui's al dia de les nostres notícies i actualitzacions. Ingressi

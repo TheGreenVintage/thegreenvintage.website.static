@@ -41,33 +41,6 @@ end
 
 create_data_file("_data/home_slides.yml", :yaml, home_slides)
 
-destinations = dato.destinations.map do |destination|
-  gallery = destination.gallery.map do |image|
-    image.url(w: 1024, h: 682, fit: 'crop', fm: 'jpg')
-  end
-
-  {
-    id: destination.id,
-    name: localize(destination, 'name'),
-    intro: localize(destination, 'intro'),
-    title: localize(destination, 'title'),
-    description: localize(destination, 'description'),
-    message: localize(destination, 'message'),
-    venues_title: localize(destination, 'venues_title'),
-    venues_description: localize(destination, 'venues_description'),
-    activities_title: localize(destination, 'activities_title'),
-    activities_description: localize(destination, 'activities_description'),
-    message_short: localize(destination, 'message_short'),
-    brochure_file: localize(destination, 'brochure_file'),
-    download_brochure: localize(destination, 'download_brochure'),
-    video: destination.video,
-    photo: destination.photo && destination.photo.url(w: 480, h: 270, fit: 'crop', fm: 'jpg'),
-    gallery: gallery
-  }
-end
-
-create_data_file("_data/destinations.yml", :yaml, destinations)
-
 activities = dato.activities.select do |activity|
   !activity.hidden
 end.map do |activity|
@@ -88,7 +61,6 @@ end.map do |activity|
     price: activity.price,
     tag: activity.tag,
     accesibility: activity.accesibility,
-    destination: activity.destination.id,
 
     thumbnail: activity.photo1 && activity.photo1.url(w: 480, h: 270, fit: 'crop', fm: 'jpg', crop: 'focalpoint,faces,entropy'),
 

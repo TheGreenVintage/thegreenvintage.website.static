@@ -1,8 +1,8 @@
 - id: '1488510'
   title:
-    en: THE GREAT GATSBY
-    ca: EL GRAN GATSBY
-    es: EL GRAN GATSBY
+    en: The great gatsby
+    ca: El gran gatsby
+    es: El gran gatsby
   description:
     en: "Following the success of the Great Gatsby, it makes sense everyone likes
       with 1920’s glamour and festivities, with every occasion turning into an opportunity
@@ -54,9 +54,9 @@
   photo3: https://www.datocms-assets.com/120/1568115691-290a2730.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '1487244'
   title:
-    en: IBIZA PARTY
-    ca: FESTA EIVISSENCA
-    es: FIESTA IBICENCA
+    en: Ibiza party
+    ca: Festa Eivissenca
+    es: Fiesta Ibicenca
   description:
     en: "With the arrival of the summer, who would not love to attend an Ibiza party?
       We will organize an unforgettable party for everyone! \n\nOne of the most important
@@ -100,7 +100,7 @@
       antorchas, redes de pescador, chill outs, sofás, pubs, alfombras... etc y podemos
       incluso incluir una barca pescadora (de tamaño original) para hacer un photocall
       playero de lo más increíble.\n\n¡Te va a encantar!"
-  selected: true
+  selected: false
   tag: business
   thumbnail: https://www.datocms-assets.com/120/1568038880-whatsapp-image-2019-09-04-at-18-40-08.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo1: https://www.datocms-assets.com/120/1568038880-whatsapp-image-2019-09-04-at-18-40-08.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
@@ -108,9 +108,9 @@
   photo3: https://www.datocms-assets.com/120/1568038893-whatsapp-image-2019-09-04-at-18-40-41.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '1488511'
   title:
-    en: PRODUCT'S RELEASE
-    ca: LLANÇAMENT DE PRODUCTES
-    es: LANZAMIENTO DE PRODUCTOS
+    en: Product's release
+    ca: Llançament de productes
+    es: Lanzamiento de productos
   description:
     en: "Do you have a new product that you want to launch? Do you want us to help
       you present this new product? We tell you one of our presentation events.\n\nFirst,
@@ -199,9 +199,9 @@
   photo3: https://www.datocms-assets.com/120/1568114095-img20190103195555.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '1488513'
   title:
-    en: WE ARE 100
-    ca: SOM 100
-    es: SOMOS 100
+    en: We are 100
+    ca: Som 100
+    es: Somos 100
   description:
     en: "Have you reached some goals and want to celebrate it?\nWith a super party
       like the one we organized this July with a company that in a very short time
@@ -250,72 +250,11 @@
   photo1: https://www.datocms-assets.com/120/1568116333-img20190705213351.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1568116367-rahrtudfg-0003-2.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1568116385-img20190705194532.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '1488514'
-  title:
-    en: CHRISTMAS PARTIES
-    ca: SOPAR I FESTA DE NADAL
-    es: CENA I FIESTA DE NAVIDAD
-  description:
-    en: |-
-      > Make your Corporate Christmas Party stand out this year
-
-      We deliver amazing events so you can celebrate the festivities in style. Our dedicated event managers are able to provide a wide range of spectacular Christmas events.
-
-      Whether you are looking for a team bonding experience during the daytime or an office Christmas party, we offer a spectacular range of Christmas events and themed parties that will provide a memorable occasion.
-
-      We offer a bespoke service to create stunning events and can work alongside you from conception through to delivery.
-
-      This knowledge and passion, coupled with cutting edge technology means that we deliver innovative solutions time and time again, from sourcing and theming a unique venue, to spectacular entertainment and providing the best artistes.
-
-
-      **You need help?**
-    ca: "La tasca de planejar i organitzar la festa de Nadal de l'empresa sovint pot
-      semblar un treball ardu i complex. I pot ser cert, ja que les limitacions de
-      temps i la pressió de voler organitzar un esdeveniment en el qual els companys
-      gaudeixin poden convertir-lo en una experiència una mica estressant. És per
-      això que nosaltres us oferim assessorament i tot el que puguis arribar a imaginar,
-      per a produir una festa que mai oblidaran.\n\nUn punt important a recordar és
-      que mai és massa aviat per començar a pensar en el Nadal. Si volem que la celebració
-      funcioni sense problemes i sigui un èxit, l'organització i l'antelació són claus.
-      Són molts els elements que cal tenir en compte. Els venues, la decoració, el
-      càtering, els audiovisuals, la comunicació, el contingut, la logística... Però
-      potser, **el més important és l'enfoc que es vulgui donar.**\n\n> Si tots els
-      esdeveniments de Nadal fossin iguals, no seria possible emocionar i crear la
-      màgia d'aquestes dates.\n\nPer a aquesta mena d'esdeveniments, hem recreat escenaris
-      i elements d'allò més peculiars, tals i com:\n\n* La Casa de Papa Noel, amb
-      els seus personatges màgics, la seva neu...\n* Una nit en NY amb el seu arbre
-      de Nadal a l'estil Rockefeller,\n* Un pessebre vivent amb un photocall nadalenc,
-      \n* Un passeig pels mercats nadalencs d'Europa, amb totes les seves paradetes
-      amb records per als convidats, amb llocs de menjar típics nadalenc...\n\nI infinites
-      idees més que no us deixaran indiferent."
-    es: |-
-      La tarea de planear y organizar la fiesta de Navidad de la empresa a menudo puede parecer un trabajo arduo y complejo. Y puede ser cierto, ya que las limitaciones de tiempo y la presión de querer organizar un evento en el que los compañeros y jefes disfruten pueden convertirlo en una experiencia estresante.Es por eso que nosotras os ofrecemos asesoramiento y todo lo que puedas llegar a imaginar, para producir una fiesta que jamás olvidarán. 
-
-      Algo que es necesario recordar es que nunca es demasiado temprano para comenzar a pensar en la Navidad. Si se desea que la celebración funcione sin problemas y sea un éxito, la organización y la antelación son claves.Son muchos los elementos que hay que tener en cuenta. Los venues, la decoración, el  catering, los audiovisuales, la comunicación, el contenido, la logística…  todo hay que planificarlo.  Pero quizá, lo más importante sea el enfoque que se quiera dar.
-
-      **¡Elegid vosotros vuestra Navidad!**
-
-      > Si todos los eventos de Navidad fuesen iguales, no sería posible emocionar y crear la magia de estas fechas.
-
-      Para este tipo de eventos, hemos recreado escenarios y elementos de lo más peculiares, tales y como:
-
-      * La Casa de Papa Noel, con sus personajes mágicos, su nieve...
-      * Una noche en NY con su árbol de Navidad al estilo Rockefeller,
-      * Un pesebre viviente con un photocall navideño, 
-      * Un paseo por los mercados navideños de Europa, con todas sus paraditas con recuerdos para los invitados, con puestos de comida típica navideña...
-
-      E infinitas ideas más que no os dejarán indiferente. 
-  selected: false
-  tag: business
-  thumbnail: https://www.datocms-assets.com/120/1519742618-18814906_1968133873431254_189886459694718951_o.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1519742618-18814906_1968133873431254_189886459694718951_o.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1568116563-unnamed.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1568118678-20161214195255.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '1488515'
   title:
-    en: INCENTIVES BARCELONA
-    ca: PROGRAMA D'INCENTIUS
-    es: PROGRAMA DE INCENTIVOS
+    en: Incentives Barcelona
+    ca: Programa d'incentius
+    es: Programa de incentivos
   description:
     en: |-
       **Are you looking for a destination for your next incentive trip?** 
@@ -373,11 +312,72 @@
   photo1: https://www.datocms-assets.com/120/1568287480-screenshot-2019-01-25-at-17-41-15.png?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1568287629-screenshot-2019-01-25-at-17fotor.png?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1568287513-screenshot-2019-02-04-at-12-45-40.png?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+- id: '1488514'
+  title:
+    en: Christmas parties
+    ca: Sopar i festa de nadal
+    es: Cena i fiesta de navidad
+  description:
+    en: |-
+      > Make your Corporate Christmas Party stand out this year
+
+      We deliver amazing events so you can celebrate the festivities in style. Our dedicated event managers are able to provide a wide range of spectacular Christmas events.
+
+      Whether you are looking for a team bonding experience during the daytime or an office Christmas party, we offer a spectacular range of Christmas events and themed parties that will provide a memorable occasion.
+
+      We offer a bespoke service to create stunning events and can work alongside you from conception through to delivery.
+
+      This knowledge and passion, coupled with cutting edge technology means that we deliver innovative solutions time and time again, from sourcing and theming a unique venue, to spectacular entertainment and providing the best artistes.
+
+
+      **You need help?**
+    ca: "La tasca de planejar i organitzar la festa de Nadal de l'empresa sovint pot
+      semblar un treball ardu i complex. I pot ser cert, ja que les limitacions de
+      temps i la pressió de voler organitzar un esdeveniment en el qual els companys
+      gaudeixin poden convertir-lo en una experiència una mica estressant. És per
+      això que nosaltres us oferim assessorament i tot el que puguis arribar a imaginar,
+      per a produir una festa que mai oblidaran.\n\nUn punt important a recordar és
+      que mai és massa aviat per començar a pensar en el Nadal. Si volem que la celebració
+      funcioni sense problemes i sigui un èxit, l'organització i l'antelació són claus.
+      Són molts els elements que cal tenir en compte. Els venues, la decoració, el
+      càtering, els audiovisuals, la comunicació, el contingut, la logística... Però
+      potser, **el més important és l'enfoc que es vulgui donar.**\n\n> Si tots els
+      esdeveniments de Nadal fossin iguals, no seria possible emocionar i crear la
+      màgia d'aquestes dates.\n\nPer a aquesta mena d'esdeveniments, hem recreat escenaris
+      i elements d'allò més peculiars, tals i com:\n\n* La Casa de Papa Noel, amb
+      els seus personatges màgics, la seva neu...\n* Una nit en NY amb el seu arbre
+      de Nadal a l'estil Rockefeller,\n* Un pessebre vivent amb un photocall nadalenc,
+      \n* Un passeig pels mercats nadalencs d'Europa, amb totes les seves paradetes
+      amb records per als convidats, amb llocs de menjar típics nadalenc...\n\nI infinites
+      idees més que no us deixaran indiferent."
+    es: |-
+      La tarea de planear y organizar la fiesta de Navidad de la empresa a menudo puede parecer un trabajo arduo y complejo. Y puede ser cierto, ya que las limitaciones de tiempo y la presión de querer organizar un evento en el que los compañeros y jefes disfruten pueden convertirlo en una experiencia estresante.Es por eso que nosotras os ofrecemos asesoramiento y todo lo que puedas llegar a imaginar, para producir una fiesta que jamás olvidarán. 
+
+      Algo que es necesario recordar es que nunca es demasiado temprano para comenzar a pensar en la Navidad. Si se desea que la celebración funcione sin problemas y sea un éxito, la organización y la antelación son claves.Son muchos los elementos que hay que tener en cuenta. Los venues, la decoración, el  catering, los audiovisuales, la comunicación, el contenido, la logística…  todo hay que planificarlo.  Pero quizá, lo más importante sea el enfoque que se quiera dar.
+
+      **¡Elegid vosotros vuestra Navidad!**
+
+      > Si todos los eventos de Navidad fuesen iguales, no sería posible emocionar y crear la magia de estas fechas.
+
+      Para este tipo de eventos, hemos recreado escenarios y elementos de lo más peculiares, tales y como:
+
+      * La Casa de Papa Noel, con sus personajes mágicos, su nieve...
+      * Una noche en NY con su árbol de Navidad al estilo Rockefeller,
+      * Un pesebre viviente con un photocall navideño, 
+      * Un paseo por los mercados navideños de Europa, con todas sus paraditas con recuerdos para los invitados, con puestos de comida típica navideña...
+
+      E infinitas ideas más que no os dejarán indiferente. 
+  selected: true
+  tag: business
+  thumbnail: https://www.datocms-assets.com/120/1519742618-18814906_1968133873431254_189886459694718951_o.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1519742618-18814906_1968133873431254_189886459694718951_o.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1568116563-unnamed.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1568118678-20161214195255.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '1492646'
   title:
-    en: FLAMENCO SHOW
-    ca: ESPECTACLE DE FLAMENC
-    es: FLAMENCO EN ESTADO PURO
+    en: Flamenco show
+    ca: Espectacle de flamenc
+    es: Flamenco en estado puro
   description:
     en: |-
       Quality flamenco show in an intimate atmosphere, is a good idea for your next corporate event.
@@ -418,9 +418,9 @@
   photo3: https://www.datocms-assets.com/120/1568288021-coaltransbcn2017170.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '1492649'
   title:
-    en: CORPORATE CONVENTION
-    ca: CONVENCIÓ CORPORATIVA
-    es: CONVENCIÓN CORPORATIVA
+    en: Corporate convention
+    ca: Convenció corporativa
+    es: Convención corporativa
   description:
     en: |-
       Achieving a successful corporate convention is really a very rewarding and productive experience. Despite what it may seem, it is not easy, there are many factors that you have to take into account. 
@@ -466,9 +466,9 @@
   photo3: https://www.datocms-assets.com/120/1568883012-img2204.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '1492652'
   title:
-    en: POOL PARTY
-    ca: POOL PARTY
-    es: POOL PARTY
+    en: Pool party
+    ca: Pool party
+    es: Pool party
   description:
     en: "A pool party is a fun way to celebrate many special occasions. Planning a
       pool party can seem like a lot of work, but it can actually be a simple process.
