@@ -46,7 +46,7 @@
       width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/TtFAnBAQSZI\"
       frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture\" allowfullscreen></iframe>"
-  selected: false
+  selected: true
   tag: business
   thumbnail: https://www.datocms-assets.com/120/1568113834-290a2779.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo1: https://www.datocms-assets.com/120/1568113834-290a2779.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
@@ -100,7 +100,7 @@
       antorchas, redes de pescador, chill outs, sofás, pubs, alfombras... etc y podemos
       incluso incluir una barca pescadora (de tamaño original) para hacer un photocall
       playero de lo más increíble.\n\n¡Te va a encantar!"
-  selected: false
+  selected: true
   tag: business
   thumbnail: https://www.datocms-assets.com/120/1568038880-whatsapp-image-2019-09-04-at-18-40-08.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo1: https://www.datocms-assets.com/120/1568038880-whatsapp-image-2019-09-04-at-18-40-08.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
@@ -367,7 +367,7 @@
       > ¿Te animas con Barcelona?
 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/btum8cix1TE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  selected: false
+  selected: true
   tag: business
   thumbnail: https://www.datocms-assets.com/120/1568287480-screenshot-2019-01-25-at-17-41-15.png?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo1: https://www.datocms-assets.com/120/1568287480-screenshot-2019-01-25-at-17-41-15.png?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy

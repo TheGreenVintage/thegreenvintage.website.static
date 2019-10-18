@@ -6,4 +6,4 @@ permalink: /ca/esdeveniments/
 ---
 
 {% include eventsmessage.html %}
-{% include eventslist.html %}
+{% include eventslist.html events=site.data.events %}
