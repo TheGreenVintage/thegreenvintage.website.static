@@ -1,6 +1,440 @@
 [[headers]]
 for = "/*"
+
 [headers.values]
 X-Frame-Options = "DENY"
 X-XSS-Protection = "1; mode=block"
 Content-Security-Policy = "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.google-analytics.com https://maps.googleapis.com https://cdnjs.cloudflare.com; img-src 'self' https://www.google-analytics.com https://maps.googleapis.com https://maps.gstatic.com https://csi.gstatic.com https://www.datocms-assets.com; object-src 'none'; default-src 'self'; frame-src https://www.youtube.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; connect-src 'self'; child-src https://www.youtube.com; font-src 'self' https://fonts.googleapis.com https://fonts.gstatic.com https://cdnjs.cloudflare.com;"
+
+[[redirects]]
+from = /ca/activities/assassinat-a-la-mansio
+to = /ca/team-building/assassinat-a-la-mansio
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/carrera-d-andromines
+to = /ca/team-building/carrera-d-andromines
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/carrera-d-obstacles
+to = /ca/team-building/carrera-d-obstacles
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/cos-i-ment
+to = /ca/team-building/cos-i-ment
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/crea-la-teva-propia-cervesa
+to = /ca/team-building/crea-la-teva-propia-cervesa
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/crear-el-teu-propi-monoleg
+to = /ca/team-building/crear-el-teu-propi-monoleg
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/creativitat-amb-grafitis
+to = /ca/team-building/creativitat-amb-grafitis
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/creeu-la-vostra-propia-canco
+to = /ca/team-building/creeu-la-vostra-propia-canco
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/desafiament-quiz-trivial
+to = /ca/team-building/desafiament-quiz-trivial
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/dragon-boat
+to = /ca/team-building/dragon-boat
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/emergencia-nuclear
+to = /ca/team-building/emergencia-nuclear
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/fent-pinya
+to = /ca/team-building/fent-pinya
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/humor-amarillo
+to = /ca/team-building/humor-amarillo
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/joc-de-trons
+to = /ca/team-building/joc-de-trons
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/llums-camera-i-accio
+to = /ca/team-building/llums-camera-i-accio
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/masterchef
+to = /ca/team-building/masterchef
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/olimpiades-a-la-platja
+to = /ca/team-building/olimpiades-a-la-platja
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/orientacio-a-muntanya
+to = /ca/team-building/orientacio-a-muntanya
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/raid-de-supervivencia
+to = /ca/team-building/raid-de-supervivencia
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/room-escape-personalitzats
+to = /ca/team-building/room-escape-personalitzats
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/taller-de-batucada
+to = /ca/team-building/taller-de-batucada
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/taller-de-risoterapia
+to = /ca/team-building/taller-de-risoterapia
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/taller-de-trencadis
+to = /ca/team-building/taller-de-trencadis
+status = 301
+force = false
+
+[[redirects]]
+from = /ca/activities/viu-una-experiencia-vinicola
+to = /ca/team-building/viu-una-experiencia-vinicola
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/authentic-catalan-experience
+to = /en/team-building/authentic-catalan-experience
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/batucada-workshop
+to = /en/team-building/batucada-workshop
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/beach-olympics-challenge
+to = /en/team-building/beach-olympics-challenge
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/building-up-towers
+to = /en/team-building/building-up-towers
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/create-your-own-song
+to = /en/team-building/create-your-own-song
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/creativity-with-graffiti
+to = /en/team-building/creativity-with-graffiti
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/custom-room-escape
+to = /en/team-building/custom-room-escape
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/dragon-boat
+to = /en/team-building/dragon-boat
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/game-of-thrones
+to = /en/team-building/game-of-thrones
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/hive-mind
+to = /en/team-building/hive-mind
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/laughter-therapy-workshops
+to = /en/team-building/laughter-therapy-workshops
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/lights-camera-action
+to = /en/team-building/lights-camera-action
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/make-your-own-custom-beer
+to = /en/team-building/make-your-own-custom-beer
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/masterchef
+to = /en/team-building/masterchef
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/mountain-orientation
+to = /en/team-building/mountain-orientation
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/murder-mystery-game
+to = /en/team-building/murder-mystery-game
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/nuclear-emergency
+to = /en/team-building/nuclear-emergency
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/perform-your-own-comedy-set
+to = /en/team-building/perform-your-own-comedy-set
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/race
+to = /en/team-building/race
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/survival-game
+to = /en/team-building/survival-game
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/takeshi-s-castle-challenges
+to = /en/team-building/takeshi-s-castle-challenges
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/the-vintage-wacky-races
+to = /en/team-building/the-vintage-wacky-races
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/trencadis-workshop
+to = /en/team-building/trencadis-workshop
+status = 301
+force = false
+
+[[redirects]]
+from = /en/activities/trivial-quiz-challenge
+to = /en/team-building/trivial-quiz-challenge
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/batucada-team-building
+to = /es/team-building/batucada-team-building
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/carrera-de-autos-locos
+to = /es/team-building/carrera-de-autos-locos
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/carrera-de-obsta-culos
+to = /es/team-building/carrera-de-obsta-culos
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/cluedo-en-vivo
+to = /es/team-building/cluedo-en-vivo
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/crear-vuestra-propia-cancion
+to = /es/team-building/crear-vuestra-propia-cancion
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/creatividad-con-grafitis
+to = /es/team-building/creatividad-con-grafitis
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/crea-tu-propia-cerveza
+to = /es/team-building/crea-tu-propia-cerveza
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/cuerpo-y-mente
+to = /es/team-building/cuerpo-y-mente
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/desafio-quiz-trivial
+to = /es/team-building/desafio-quiz-trivial
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/dragon-boat
+to = /es/team-building/dragon-boat
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/emergencia-nuclear
+to = /es/team-building/emergencia-nuclear
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/haciendo-pina
+to = /es/team-building/haciendo-pina
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/humor-amarillo
+to = /es/team-building/humor-amarillo
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/juego-de-tronos
+to = /es/team-building/juego-de-tronos
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/luces-camara-accion
+to = /es/team-building/luces-camara-accion
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/masterchef
+to = /es/team-building/masterchef
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/monologueando
+to = /es/team-building/monologueando
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/olimpiadas-en-la-playa
+to = /es/team-building/olimpiadas-en-la-playa
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/orientacion-en-montana
+to = /es/team-building/orientacion-en-montana
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/raid-de-supervivencia
+to = /es/team-building/raid-de-supervivencia
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/room-escape-personalizados
+to = /es/team-building/room-escape-personalizados
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/taller-de-mosaico-trencadis
+to = /es/team-building/taller-de-mosaico-trencadis
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/taller-de-risoterapia
+to = /es/team-building/taller-de-risoterapia
+status = 301
+force = false
+
+[[redirects]]
+from = /es/activities/vive-una-experiencia-vinicola
+to = /es/team-building/vive-una-experiencia-vinicola
+status = 301
+force = false
+

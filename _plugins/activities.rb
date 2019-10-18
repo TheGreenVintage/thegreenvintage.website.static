@@ -22,10 +22,12 @@ module Jekyll
     safe true
 
     def generate(site)
+      Translations.load_translations
+
       if site.layouts.key? 'activity_index'
-        dir = site.config['activity_dir'] || 'activities'
         site.config['locales'].each do |locale_array|
           locale = locale_array.first
+          dir = slugify(I18n.t('teambuilding.title', locale: locale), mode: 'latin')
           activities = site.data['activities']
           activities.each do |activity|
             name = slugify(activity['title'][locale], mode: 'latin')

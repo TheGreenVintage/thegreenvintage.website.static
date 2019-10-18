@@ -1,3 +1,5 @@
+require 'byebug'
+
 module Jekyll
 
   class EventPage < Page
@@ -22,10 +24,12 @@ module Jekyll
     safe true
 
     def generate(site)
+      Translations.load_translations
+
       if site.layouts.key? 'event_index'
-        dir = site.config['event_dir'] || 'events'
         site.config['locales'].each do |locale_array|
           locale = locale_array.first
+          dir = slugify(I18n.t('events.title', locale: locale), mode: 'latin')
           events = site.data['events']
           events.each do |event|
             name = slugify(event['title'][locale], mode: 'latin')

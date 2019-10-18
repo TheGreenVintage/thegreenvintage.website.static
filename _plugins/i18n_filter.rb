@@ -9,7 +9,8 @@ module Jekyll
     #   {{ post.date | localize: "%d.%m.%Y" }}
     #   {{ post.date | localize: ":short" }}
     def localize(input, format=nil)
-      load_translations
+      Translations.load_translations
+
       format = (format =~ /^:(\w+)/) ? $1.to_sym : format
       I18n.l input, :format => format
     end
@@ -20,7 +21,8 @@ module Jekyll
       if field
         input["#{field}_#{locale}"]
       else
-        load_translations
+        Translations.load_translations
+
         I18n.t input, locale: locale
       end
     end
