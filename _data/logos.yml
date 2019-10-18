@@ -13,12 +13,12 @@
 - name: Nocilla
   url: https://www.nocilla.es/
   image: https://www.datocms-assets.com/120/1547462221-logonocilla2012.png?h=75&fm=jpg
+- name: New Relic
+  url: https://newrelic.com
+  image: https://www.datocms-assets.com/120/1571395617-download.png?h=75&fm=jpg
 - name: Social Point
   url: http://www.socialpoint.es/
   image: https://www.datocms-assets.com/120/1515084139-djirqekxkaaexxd.png?h=75&fm=jpg
-- name: Kodify
-  url: https://kodify.io/
-  image: https://www.datocms-assets.com/120/1553034903-1515093473-00f74a1a-8ce3-4436-928c-a9367953bee0-original.png?h=75&fm=jpg
 - name: Weekendesk
   url: http://www.weekendesk.fr/
   image: https://www.datocms-assets.com/120/1553034884-1498056196-weekendesk-logo.png?h=75&fm=jpg
@@ -31,6 +31,6 @@
 - name: Cotecna
   url: https://www.cotecna.com/
   image: https://www.datocms-assets.com/120/1547462456-cotecnalogotaglinepositive.jpg?h=75&fm=jpg
-- name: Trovit
-  url: http://www.trovit.es/
-  image: https://www.datocms-assets.com/120/1523014748-1629_58da53c0db77dc8679c249a426494083705381d9_trovit_m.png?h=75&fm=jpg
+- name: Applus
+  url: https://www.applus.com
+  image: https://www.datocms-assets.com/120/1571395899-700x420applus-logo.jpg?h=75&fm=jpg
