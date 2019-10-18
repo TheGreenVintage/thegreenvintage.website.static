@@ -20,7 +20,7 @@ markdown: kramdown
 
 excerpt_separator: <!--more-->
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - uglifier
