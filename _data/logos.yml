@@ -1,36 +1,36 @@
 - name: Softonic
   url: https://www.softonic.com/
-  image: https://www.datocms-assets.com/120/1498056147-softonic-logo.png?w=280&fm=jpg
+  image: https://www.datocms-assets.com/120/1498056147-softonic-logo.png?h=75&fm=jpg
 - name: Levi
   url: https://www.levi.com
-  image: https://www.datocms-assets.com/120/1528720040-batwing-text-solid-rgb-red-png.jpg?w=280&fm=jpg
+  image: https://www.datocms-assets.com/120/1528720040-batwing-text-solid-rgb-red-png.jpg?h=75&fm=jpg
 - name: Bic
   url: https://www.bicworld.com/
-  image: https://www.datocms-assets.com/120/1553034723-1515083707-1280px-biclogo-svg.png?w=280&fm=jpg
+  image: https://www.datocms-assets.com/120/1553034723-1515083707-1280px-biclogo-svg.png?h=75&fm=jpg
 - name: Hartmann
   url: https://hartmann.info/
-  image: https://www.datocms-assets.com/120/1553034862-1523015155-hartmannlogo.jpg?w=280&fm=jpg
+  image: https://www.datocms-assets.com/120/1553034862-1523015155-hartmannlogo.jpg?h=75&fm=jpg
 - name: Nocilla
   url: https://www.nocilla.es/
-  image: https://www.datocms-assets.com/120/1547462221-logonocilla2012.png?w=280&fm=jpg
+  image: https://www.datocms-assets.com/120/1547462221-logonocilla2012.png?h=75&fm=jpg
 - name: Social Point
   url: http://www.socialpoint.es/
-  image: https://www.datocms-assets.com/120/1515084139-djirqekxkaaexxd.png?w=280&fm=jpg
+  image: https://www.datocms-assets.com/120/1515084139-djirqekxkaaexxd.png?h=75&fm=jpg
 - name: Kodify
   url: https://kodify.io/
-  image: https://www.datocms-assets.com/120/1553034903-1515093473-00f74a1a-8ce3-4436-928c-a9367953bee0-original.png?w=280&fm=jpg
+  image: https://www.datocms-assets.com/120/1553034903-1515093473-00f74a1a-8ce3-4436-928c-a9367953bee0-original.png?h=75&fm=jpg
 - name: Weekendesk
   url: http://www.weekendesk.fr/
-  image: https://www.datocms-assets.com/120/1553034884-1498056196-weekendesk-logo.png?w=280&fm=jpg
+  image: https://www.datocms-assets.com/120/1553034884-1498056196-weekendesk-logo.png?h=75&fm=jpg
 - name: Cola Cao
   url: https://www.colacao.es/
-  image: https://www.datocms-assets.com/120/1547462321-logo.png?w=280&fm=jpg
+  image: https://www.datocms-assets.com/120/1547462321-logo.png?h=75&fm=jpg
 - name: Cebado Oficial
   url: http://www.cebado.es/
-  image: https://www.datocms-assets.com/120/1530003870-logo.png?w=280&fm=jpg
+  image: https://www.datocms-assets.com/120/1530003870-logo.png?h=75&fm=jpg
 - name: Cotecna
   url: https://www.cotecna.com/
-  image: https://www.datocms-assets.com/120/1547462456-cotecnalogotaglinepositive.jpg?w=280&fm=jpg
+  image: https://www.datocms-assets.com/120/1547462456-cotecnalogotaglinepositive.jpg?h=75&fm=jpg
 - name: Trovit
   url: http://www.trovit.es/
-  image: https://www.datocms-assets.com/120/1523014748-1629_58da53c0db77dc8679c249a426494083705381d9_trovit_m.png?w=280&fm=jpg
+  image: https://www.datocms-assets.com/120/1523014748-1629_58da53c0db77dc8679c249a426494083705381d9_trovit_m.png?h=75&fm=jpg

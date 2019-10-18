@@ -2,13 +2,16 @@
 <div class="container">
     <div class="row intro-row">
         <div class="col-md-12 text-center wow animated fadeInUp">
-            <h2>{{ 'home.destinations_title' | translate }}</h2>
-            <h3 class="subtitle">{{ 'home.destinations_description' | translate }}</h3>
+            <h2>{{ 'home.events_title' | translate }}</h2>
+            <h3 class="subtitle">{{ 'home.events_description' | translate }}</h3>
         </div>
     </div><!--row end-->
 </div><!--intro with services end-->
 
-{% include destinationslist.html %}
+<div class="container">
+  {% assign events = site.data.events | where: 'selected', true %}
+  {% include eventslist.html events=events %}
+</div><!--intro with services end-->
 
 <div class="space-70"></div>
 <div class="container">

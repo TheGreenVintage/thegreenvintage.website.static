@@ -244,10 +244,10 @@ es:
       tour:
         description: En nuestro Tour descubrirá la esencia del vino ecológico y su
           producción, la cultura y gastronomía del territorio.
-    destinations_title: Destinaciones & Eventos
-    destinations_description: "<em>The Green Vintage</em> es su aliado en el momento
-      de planificar eventos y viajes de incentivo. Tenemos experiencia en el sector
-      que, en combinación con nuestra capacidad de organización, hacen un tándem perfecto
+    events_title: Eventos
+    events_description: "<em>The Green Vintage</em> es su aliado en el momento de
+      planificar eventos y viajes de incentivo. Tenemos experiencia en el sector que,
+      en combinación con nuestra capacidad de organización, hacen un tándem perfecto
       para que sus eventos y viajes sean todo un éxito."
     activities_title: Nuestras actividades
     activities_message: Más creatividad. Mejor comunicación. Mayor productividad.

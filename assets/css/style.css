@@ -777,7 +777,7 @@ MULTI LEVEL DROPDOWN CSS
 /*!
  * Yamm!3
  * Yet another megamenu for Bootstrap 3
- * 
+ *
  * http://geedmo.github.com/yamm3
  */
 .yamm .nav,
@@ -1698,7 +1698,7 @@ h4.portfolio-post-title {
   opacity: 0;
 }
 
-/* 
+/*
     SHOP STYLE START HERE
 */
 .product_item {
@@ -2890,6 +2890,11 @@ a.carousel-control i {
   display: flex;
   align-items: center;
   justify-content: center;
+
+}
+
+.logo img {
+  max-height: 75px;
 }
 
 @media (max-width: 768px) {

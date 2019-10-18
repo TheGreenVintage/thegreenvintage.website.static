@@ -247,11 +247,11 @@ ca:
       tour:
         description: Viu l'experiència de conèixer l'essència del vi ecològic i la
           seva producció, la cultura i la gastronomia del territori.
-    destinations_title: Destinacions & Esdeveniments
-    destinations_description: "<em>The Green Vintage</em> és el seu aliat a l’hora
-      de planificar esdeveniments i viatges d’incentiu. Tenim experiència en el sector
-      que, en combinació amb la nostra capacitat d’organització, fan un tàndem perfecte
-      perquè els seus esdeveniments i viatges siguin tot un èxit."
+    events_title: Esdeveniments
+    events_description: "<em>The Green Vintage</em> és el seu aliat a l’hora de planificar
+      esdeveniments i viatges d’incentiu. Tenim experiència en el sector que, en combinació
+      amb la nostra capacitat d’organització, fan un tàndem perfecte perquè els seus
+      esdeveniments i viatges siguin tot un èxit."
     activities_title: Les nostres activitats
     activities_message: Més creativitat. Millor comunicació. Major productivitat.
       Incrementa la motivació del seu equip.

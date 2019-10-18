@@ -12,7 +12,7 @@ permalink: /en/
 
   {% include homebrochure.html %}
 
-  {% include homedestinations.html %}
+  {% include homeservices.html %}
 
   {% include homecustomers.html %}
 </div>

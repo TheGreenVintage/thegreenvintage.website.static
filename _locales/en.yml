@@ -239,10 +239,10 @@ en:
       tour:
         description: In our tour you will discover a great organic wine, gastronomy
           and culture experience.
-    destinations_title: Destinations & Events
-    destinations_description: Are you planning a meeting, conference or special event
-      and need local expertise and support? Then, you need a Destination Management
-      Company! We could help you!
+    events_title: Events
+    events_description: Are you planning a meeting, conference or special event and
+      need local expertise and support? Then, you need a Destination Management Company!
+      We could help you!
     activities_title: Our activities
     activities_message: More creativity. Better communication. More creativity. Higher
       productivity. Let’s take your team to the next level.

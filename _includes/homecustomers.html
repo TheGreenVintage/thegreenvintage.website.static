@@ -12,7 +12,7 @@
       {% for logo in site.data.logos %}
         <div class="col-md-3 logo">
           <a href="{{ logo.url }}" target="_blank" rel="nofollow">
-            <img src="{{ logo.image }}" alt="{{ logo.name }}">
+            <img loading="lazy" src="{{ logo.image }}" alt="{{ logo.name }}">
           </a>
         </div>
       {% endfor %}
