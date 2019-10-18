@@ -112,15 +112,7 @@
   - https://www.datocms-assets.com/120/1519753153-17434669_1929405810637394_6629077634415028597_o.jpg?w=1024&h=682&fit=crop&fm=jpg
   - https://www.datocms-assets.com/120/1532426808-imo92663.JPG?w=1024&h=682&fit=crop&fm=jpg
   - https://www.datocms-assets.com/120/1532426796-imo92626.JPG?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519754381-_rb_9182r_fotor.jpg?w=1024&h=682&fit=crop&fm=jpg
   - https://www.datocms-assets.com/120/1549885876-img20190103095911.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519752407-sopar-d-empresa-kodify-2017-2.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519754442-casagracia4_low-1.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519753366-screen-shot-2018-02-27-at-18-41-55.png?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1549456450-img20181123132036.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670547-5.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519754449-de-tranquis-2.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519670535-1.jpg?w=1024&h=682&fit=crop&fm=jpg
 - id: '76941'
   name:
     en: Madrid
@@ -194,9 +186,4 @@
     es: Descárgate nuestro catálogo
   video: https://www.youtube.com/embed/K3dWyiIt21w
   photo: https://www.datocms-assets.com/120/1519754964-madrid-overview-sunsetovermadrid-xlarge.jpg?w=480&h=270&fit=crop&fm=jpg
-  gallery:
-  - https://www.datocms-assets.com/120/1519856929-t40_15-10-17-laestacion-79_1_69354.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1519856932-_ssg7014.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1520007904-carrusel_penthouse2.jpg?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1520009068-img_2403.JPG?w=1024&h=682&fit=crop&fm=jpg
-  - https://www.datocms-assets.com/120/1520009073-top-espacios-eventos-canela-768x512.jpg?w=1024&h=682&fit=crop&fm=jpg
+  gallery: []

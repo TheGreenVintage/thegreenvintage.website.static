@@ -6,8 +6,8 @@ title: Olimpiadas en la playa - Weekendesk 2018
 date: 2018-06-20 08:30:00.000000000 Z
 tags: juegosenlaplaya team building
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1528897953-grv7103.jpg?w=1024&fm=jpg
-thumbnail: https://www.datocms-assets.com/120/1528897953-grv7103.jpg?w=105&fm=jpg
+image: https://www.datocms-assets.com/120/1568303229-grv7103-copy.jpg?w=1024&fm=jpg
+thumbnail: https://www.datocms-assets.com/120/1568303229-grv7103-copy.jpg?w=105&fm=jpg
 ---
 
 Aquí os dejamos nuestro vídeo de youtube, para que podáis ver nuestras magnificas olimpiadas de este Junio 2018 con un gran cliente. Gracias por confiar con nosotros. 
