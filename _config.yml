@@ -24,3 +24,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - uglifier
+
+defaults:
+  - scope:
+      path: "not_found/*"
+    values:
+      sitemap: false
