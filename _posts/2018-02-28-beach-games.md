@@ -22,7 +22,7 @@ Lo que se conoce por una Gimkhana en la playa.
 
 Coincidió que este gran sarau, era la excusa perfecta para celebrar los 20 años de la empresa! Así que después de una mañana completita de actividades, acabamos con una paella en la playa y una mojitada con Dj de lo más canyera!
 
-![](https://www.datocms-assets.com/120/1517827533-softonic-team-building-20-years-160617_20.JPG)
+![](https://www.datocms-assets.com/120/1517827533-softonic-team-building-20-years-160617_20.jpg)
 
 Os damos detalles de la actividad que hicimos:
 
@@ -54,4 +54,4 @@ Incluye:
 No os lo podéis perder!
 Ven a celebrar tu Summer Party, y tus eventos, con nuestro equipo The Green Vintage Events. ¡No te arrepentiras!
 
-![](https://www.datocms-assets.com/120/1517827544-softonic-team-building-20-years-160617_16.JPG)
+![](https://www.datocms-assets.com/120/1517827544-softonic-team-building-20-years-160617_16.jpg)

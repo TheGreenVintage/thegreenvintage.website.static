@@ -6,8 +6,8 @@ title: Hoy estamos románticas
 date: 2017-07-04 09:00:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1499091601-img_0708.JPG?w=1024&fm=jpg
-thumbnail: https://www.datocms-assets.com/120/1499091601-img_0708.JPG?w=105&fm=jpg
+image: https://www.datocms-assets.com/120/1499091601-img_0708.jpg?w=1024&fm=jpg
+thumbnail: https://www.datocms-assets.com/120/1499091601-img_0708.jpg?w=105&fm=jpg
 ---
 
 **¡Hoy nos hemos levantado románticas!**
@@ -49,8 +49,8 @@ La bodega os ofrecerá todo el confort y la comodidad que necesitáis en este d�
 
 ### Rincones
 
-![](https://www.datocms-assets.com/120/1499091625-img_0703.JPG)
+![](https://www.datocms-assets.com/120/1499091625-img_0703.jpg)
 
-![](https://www.datocms-assets.com/120/1499091643-img_0715.JPG)
+![](https://www.datocms-assets.com/120/1499091643-img_0715.jpg)
 
-![](https://www.datocms-assets.com/120/1499091687-img_0748.JPG)
+![](https://www.datocms-assets.com/120/1499091687-img_0748.jpg)

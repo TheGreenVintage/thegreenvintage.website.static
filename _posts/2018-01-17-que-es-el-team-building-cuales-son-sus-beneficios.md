@@ -6,8 +6,8 @@ title: "¿Qué es el Team Building? ¿Cuáles son sus beneficios?"
 date: 2018-01-17 10:30:00.000000000 Z
 tags: ''
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?w=1024&fm=jpg
-thumbnail: https://www.datocms-assets.com/120/1498827177-img_1203.JPG?w=105&fm=jpg
+image: https://www.datocms-assets.com/120/1498827177-img_1203.jpg?w=1024&fm=jpg
+thumbnail: https://www.datocms-assets.com/120/1498827177-img_1203.jpg?w=105&fm=jpg
 ---
 
 Muchos de nosotros hemos oído hablar de ello, pero no todos sabemos qué es o en que consiste realmente un **Team Building**. El Team Building es una **actividad** o servicio que contratan las empresas desde hace ya varios años, pero que en los últimos tiempos goza de su etapa de mayor éxito.

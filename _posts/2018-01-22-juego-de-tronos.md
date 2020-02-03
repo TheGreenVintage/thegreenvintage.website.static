@@ -37,7 +37,7 @@ insólito, el castillo se convierte en la Colina Cuerno, la fortaleza de la Casa
 
 **El castillo de Trujillo** (Extremadura), se convierte en uno de los castillos defensivos de Desembarco del Rey. 
 
-![](https://www.datocms-assets.com/120/1509461737-a_castillo_trujillo_03.JPG)
+![](https://www.datocms-assets.com/120/1509461737-a_castillo_trujillo_03.jpg)
 
 El paraje natural de **Los Barruecos** (Extremadura), allí se desarrolla la batalla entre las tropas Lannister y las de Daenerys. 
 

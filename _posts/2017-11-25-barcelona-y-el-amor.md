@@ -22,7 +22,7 @@ es un parque municipal que gracias a hermosos pasillos formados por cipreses y u
 
 Otro parque precioso, es el **jardín de la Tamarita**, ambientado como si fuera un antiguo jardín de un castillo del renacimiento, que te traslada a tiempos de antaño donde el encanto romántico estaba presente en todo momento.  Ideal para caminar tranquilos sin que nadie los moleste, ni siquiera el más mínimo ruido. Podrán admirar increíbles detalles de gran delicadeza como fuentes, estatuas y estanques.
 
-![](https://www.datocms-assets.com/120/1504092232-2.JPG)
+![](https://www.datocms-assets.com/120/1504092232-2.jpg)
 
 El distrito artístico de Barcelona: **El Born.** Se conforma de un laberinto de callejuelas que presentan una mezcla entre lo medieval, lo antiguo y lo nuevo. No hay nada igual al Born, donde podrás darte un respiro de la ciudad cosmopolita y ruidosa para retroceder en el tiempo. Hay muchas cosas que pueden visitar allí. Por ejemplo, el Palacio de la Música, la iglesia y la plaza de Sant Pere, y el mercado de Santa Caterina.
 
@@ -46,7 +46,7 @@ Situado en el Tibidabo el **Observatorio de Fabra**, ofrece una vista panorámic
 
 Un hermoso espectáculo para admirar durante la noche. **Las fuentes de Montjuïc.** Increíble exhibición de luz, color, agua, música y movimiento que hipnotiza los sentidos. Miles de parejas lo visitan todas las noches y quedan embelesadas una y otra vez. Es algo que no te cansas de mirar y que le agrega un detalle especial a la salida.
 
-![](https://www.datocms-assets.com/120/1504092639-8.JPG)
+![](https://www.datocms-assets.com/120/1504092639-8.jpg)
 
 **Los Bunkers del Carmel.** mirador de la ciudad de Barcelona que, hasta hace poco, no era muy conocido por la gente. En este mirador encontramos los restos de una batería antiaérea de la Guerra Civil Española. Se encuentra en la cima del Turó de la Rovira, en el barrio del Carmel. Es un lugar con unas vistas espectaculares de toda la ciudad. 
 
