@@ -6,7 +6,7 @@
         <div class="portfolio-sec">
             <div class="portfolio-thumbnail">
                 <a href="/{{ page.locale}}/{{ 'teambuilding.title' | translate | slugify: 'latin' }}/{{ related_activity | field: 'title' | slugify: 'latin' }}">
-                    <img class="img-responsive" src="{{ related_activity.thumbnail }}" title="{{ related_activity | field: 'title' }}" alt="{{ related_activity | field: 'title' }}">
+                    <img loading="lazy" class="img-responsive" src="{{ related_activity.thumbnail }}" title="{{ related_activity | field: 'title' }}" alt="{{ related_activity | field: 'title' }}">
                 </a>
             </div>
             <div class="portfolio-desc text-center">
