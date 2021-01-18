@@ -1,3 +1,5 @@
+all: i18n data
+
 i18n:
 	bundle exec rake i18n
 
