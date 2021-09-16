@@ -9,12 +9,12 @@ es:
     title: No encontrado
     message: Recurso no encontrado
   meta:
-    description: The Green Vintage es una agencia de receptivo con sede en Barcelona
-      que ofrece servicios de team building y viajes de incentivo para empresas, tanto
-      nacionales como internacionales.
+    description: The Green Vintage Events es una agencia apasionada en dirigir y diseñar
+      eventos corporativos y organizar actividades de team building, tanto a nivel
+      presencial como virtual e híbrido.
     keywords: eventos, team building, actividades, startup, experiencias, servicios,
       congresos, conferencias, exposiciones, reuniones, dmc, fiestas, cenas temáticas,
-      corporativos, barcelona, cataluña
+      corporativos, barcelona, cataluña, eventos híbridos, eventos virtuales
   cookies:
     title: Política de Cookies
     message: Esta web utiliza cookies para ofrecerte una mejor experiencia y servicio
@@ -30,7 +30,7 @@ es:
     more_info: Más información
     address: Carrer de la Indústria, 312, ESC H 2-D
     postal: '08912'
-    town: Badalona
+    town: Badalona, Barcelona
     region: Cataluña
     country: España
     share:

@@ -9,11 +9,12 @@ en:
     title: Not found
     message: Resource not found
   meta:
-    description: The Green Vintage is a destination management company that offers
-      team building activities and incentive travels for companies. Offices in Barcelona
-    keywords: events, team building, activities, startup, experiences, services, congresses,
-      conferences, exposicions, meetings, dmc, parties, dinners, corporatives, barcelona,
-      catalonia
+    description: The Green Vintage Events is a destination management company that
+      offers team building activities and incentive travels for companies. Offices
+      in Barcelona
+    keywords: "events, team building, activities, startup, experiences, services,
+      congresses, conferences, exposicions, meetings, dmc, parties, dinners, corporatives,
+      barcelona, catalonia, \nhybrid events, virtual events, streaming"
   cookies:
     title: Cookie policy
     message: This website uses cookies to ensure you get the best experience on our
@@ -30,7 +31,7 @@ en:
     more_info: More information
     address: Carrer de la Indústria, 312, ESC H 2-D
     postal: '08912'
-    town: Badalona
+    town: Badalona, Barcelona
     region: Catalonia
     country: Spain
     share:
