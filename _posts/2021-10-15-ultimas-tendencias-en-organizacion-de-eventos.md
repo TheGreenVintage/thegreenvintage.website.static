@@ -6,8 +6,8 @@ title: 'Últimas tendencias en organización de eventos '
 date: 2021-10-15 12:00:00.000000000 Z
 tags: team building eventoscorporativos events
 author: Paula Bao
-image: https://www.datocms-assets.com/120/1634487446-captura-de-pantalla-2021-10-17-a-les-18-17-02.png?w=1024&fm=jpg
-thumbnail: https://www.datocms-assets.com/120/1634487446-captura-de-pantalla-2021-10-17-a-les-18-17-02.png?w=105&fm=jpg
+image: https://www.datocms-assets.com/120/1582020154-max8366.jpg?w=1024&fm=jpg
+thumbnail: https://www.datocms-assets.com/120/1582020154-max8366.jpg?w=105&fm=jpg
 ---
 
 > ¡Hola de nuevo a todos nuestros lectores! 
