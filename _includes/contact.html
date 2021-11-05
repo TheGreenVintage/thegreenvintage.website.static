@@ -1,3 +1,9 @@
+<script>
+  function track_contact (locale) {
+    gtag('event', 'submit', {'event_category': 'contact', 'event_label': locale});
+  }
+</script>
+
 {% comment %}
 <!--google map-->
 <div id="map-canvas"></div>
@@ -17,7 +23,7 @@
         <h4 class="heading-mini">{{ 'contact.proposal' | translate }}</h4>
         <div class="contact-form">
             {% assign contactsent = 'contact-sent' | section %}
-            <form name="sentMessage" id="contact-form" action="{{contactsent.permalink}}" method="post" novalidate data-netlify="true" netlify-honeypot="interest">
+            <form name="sentMessage" id="contact-form" action="{{contactsent.permalink}}" method="post" onsubmit="track_contact('{{ page.locale }}')" novalidate data-netlify="true" netlify-honeypot="interest">
                 <input name="interest" style="display: none">
                 <div class="row">
                     <div class="col-md-6">
