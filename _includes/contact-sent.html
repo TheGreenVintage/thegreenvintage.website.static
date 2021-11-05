@@ -1,3 +1,11 @@
+<script>
+  function track_contact (locale) {
+    gtag('event', 'submit', {'event_category': 'contact', 'event_label': locale});
+  }
+
+  track_contact({{ page.locale }})
+</script>
+
 <div class="space-70"></div>
 <div class="container">
   <div class="row">
