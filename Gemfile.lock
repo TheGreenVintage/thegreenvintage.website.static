@@ -29,6 +29,8 @@ GEM
       toml
     dato_json_schema (0.20.9)
     dotenv (2.7.6)
+    down (5.4.0)
+      addressable (~> 2.8)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -135,6 +137,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   dato (~> 0.7.18)
+  down
   i18n
   jekyll (= 4.0.0)
   jekyll-seo-tag (= 2.6.1)

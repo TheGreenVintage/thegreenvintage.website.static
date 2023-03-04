@@ -1,15 +1,14 @@
-require 'open-uri'
 require 'csv'
 require 'yaml'
+require 'down'
 
 I18N_FILE = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSSl8MxVlbv1b9IbkQXcHVmyGFNMFzFEMKk4cabvb0qIcBkBro3Vg2Wfslwg8DlRYZdltb9FYo3DHl7/pub?gid=0&single=true&output=csv"
 
 task :i18n do
   puts "Downloading i18n files..."
 
-  open(I18N_FILE) do |file|
-    csv2yaml(file)
-  end
+  tempfile = Down.download(I18N_FILE)
+  csv2yaml(tempfile)
 end
 
 def csv2yaml(file)
