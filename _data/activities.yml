@@ -98,6 +98,584 @@
   photo1: https://www.datocms-assets.com/120/1498647899-img_1154.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1515431055-dinar-d-empresa-winsystems-castell-jalpi-2017-140.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1498647952-vo_wanup_teambuilding-269.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+- id: '76950'
+  title:
+    en: Masterchef
+    ca: Masterchef
+    es: Masterchef
+  description:
+    en: |-
+      We will begin the activity with a visit to Santa Caterina market. Chef will meet the group at the gate of the market and will visit different positions to adapt somewhat to the menu of the activity that will be developed.
+
+      After the purchase return to the kitchens, to start a real culinary duel by teams.
+
+      Each team will cook a dish, following the instructions of our chef, with the ingredients and the time indicated. At the end of the activity we will do a taste of the cooked dishes and Masterchef jury will give a prize to the winning team!
+
+      A real experience that will foster teamwork, communication, group cohesion and control of the situation when working under pressure.
+
+      > 3... 2... 1...  Cook!
+    ca: "Començarem l'activitat amb una visita al Mercat de Santa Caterina. El xef
+      es trobarà amb el grup a la porta del mercat i visitaran diferents botigues
+      adequant-se una mica al menú de l'activitat que es desenvoluparà, aprofitant
+      la visita es comprarà algun dels ingredients amb els quals després els aspirants
+      hauran de cuinar.\n\nDesprés de la compra tornarem a les cuines, per començar
+      una autèntica competició culinaria per equips.\n\nCada equip cuinarà un plat,
+      seguint les instruccions del nostre xef, amb els ingredients i el temps indicats.
+      Al final de l'activitat es degustaran els plats cuinats i el jurat de Masterchef
+      donarà un premi a l'equip guanyador!\n\nUna veritable experiència que aconseguirà
+      fomentar el treball en equip, la comunicació, la cohesió del grup i el control
+      de la situació quan es treballa sota pressió. \n\n> 3...2…1… a cuinar!"
+    es: "Empezaremos la actividad con una visita al Mercado de Santa Caterina. El
+      chef se encontrará con el grupo en la puerta del mercado y visitarán diferentes
+      puestos adecuándose un poco al menú de la actividad que se va a desarrollar,
+      aprovechando la visita se comprará alguno de los ingredientes con los que luego
+      los aspirantes van a cocinar.\n\nDespués de la compra regresaremos a las cocinas,
+      para empezar un auténtico duelo culinario por equipos.\n\nCada equipo cocinará
+      un plato, siguiendo las instrucciones de nuestro chef, con los ingredientes
+      y los tiempos indicados. Al final de la actividad se degustarán los platos cocinados
+      y el jurado de Masterchef dará un premio al equipo ganador!\n\nUna verdadera
+      experiencia que conseguirá fomentar el trabajo en equipo, la comunicación, la
+      cohesión del grupo y el control de la situación cuando se trabaja bajo presión.
+      \n\n> 3...2…1… ¡a cocinar!"
+  localization:
+    en: Indoor/Outdoor
+    ca: Indoor/Outdoor
+    es: Indoor/Outdoor
+  included:
+    en: |-
+      Visit Santa Caterina market
+      Expert chef
+      Material for the development of the activity
+      Fully equipped kitchen
+      Beverages: water, wine and soft drinks
+      Possibility to adapt the menu to restrictions or food allergies
+    ca: |-
+      Visita al mercat de Santa Caterina
+      Degustació d'un producte de la terra
+      Xef expert
+      Material per al correcte desenvolupament de l'activitat
+      Cuina equipada
+      Begudes: aigua, vi i refrescos
+      Possibilitat d'adaptar el menú a restriccions o al·lèrgies alimentàries
+    es: |-
+      Visita mercado Santa Caterina
+      Cata de un producto de la tierra
+      Chef experto
+      Material para el desarrollo de la actividad
+      Cocina equipada
+      Bebidas: agua, vino y refrescos
+      Posibilidad de adaptar el menú a restricciones o alérgias alimentarias
+  not_included:
+    en: ''
+    ca: ''
+    es: ''
+  contact:
+    en: Ask for more information about our activities
+    ca: Demana més informació de les nostres activitats
+    es: Pide más información de nuestras actividades
+  selected: false
+  language: es, ca, en
+  duration: 4.0
+  pax: 10
+  price: 
+  tag: Masterchef
+  accesibility: 'yes'
+  thumbnail: https://www.datocms-assets.com/120/1551386981-whatsapp-image-2019-02-28-at-1-56-37-pm.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1551386981-whatsapp-image-2019-02-28-at-1-56-37-pm.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1551386996-whatsapp-image-2019-02-28-at-2-05-29-pm.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1509446050-whatsapp-image-2017-10-27-at-14-32-56.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+- id: '76962'
+  title:
+    en: The vintage wacky races
+    ca: Carrera d'andròmines
+    es: Carrera de autos locos
+  description:
+    en: "> Ready, Steady... design your dream car in this adrenaline fuelled team
+      building challenge.\n\nLet your team’s personality shine as you not only build
+      the chassis but put all your creative ideas into the bodywork too. Choose striking
+      colours, stickers, spoilers and more. \n\nThis is fun with a capital ‘F’.\n\nEveryone
+      will have a key role whether they’re designing, assembling, or painting the
+      bodywork. Time is of the essence, so teamwork is essential, no standing around
+      in the pit stop.\n\nOnce your dream machine is roadworthy, you’ll compete against
+      other teams on our custom-made track. A couple of chicanes, a bottleneck and
+      a hairpin bend or two to\ntest out your cars. All pull power too as we’re believes
+      in ‘No Oil’. One elected driver per team and the rest to stabilise and pull
+      the car around at break neck speed!!\n\nThey’ll be a place on the podium for
+      the three winning teams, oh! And some bubby too!!"
+    ca: "Benvinguts a la Gran Carrera d'andròmines. Esteu preparats per a una bona
+      dosi d'adrenalina, destresa i diversió?\n\nUs dividirem per equips, i en cada
+      box trobareu el material necessari per a crear el vostre cotxe. Cartó, fustes,
+      pintura, papers, adhesius i més. Imaginació i creativitat al poder.\n\nAmb ajuda
+      d'experts, cada equip haurà de construir el cotxe, donant-li un toc personal
+      a la carrosseria. Trieu bé els colors, el lema del vostre equip, proveu que
+      circuli... **Convertiu-vos en la millor escuderia de carreras**\n\nTots els
+      participants juguen un paper clau en el procés, ja sigui que estiguin dissenyant,
+      contruïnt l'estructura del cotxe o pintant la carrosseria. El temps és essencial,
+      per la qual cosa el bon treball en equip, evitarà una parada en boxes.\n\nUna
+      vegada acabat el disseny, donarem pas a la gran carrera. Un circuit amb corbes
+      i obstacles llestos per a vosaltres! Trieu un pilot per equip i la resta sereu
+      els encarregats d'estabilitzar i donar velocitat al cotxe.\n> \n> El podium
+      us espera! Preparats, llestos...!\n\n**Els valors que treballem:** treball en
+      equip, presa de decisions, distribució de tasques, habilitats, competitivitat,
+      reforçar vincles, estratègies, adrenalina i sobretot diversió."
+    es: "Bienvenidos a la Gran Carrera de los Coches Locos.  ¿Estáis preparados para
+      una buena dosis de adrenalina, destreza y diversión?\n\nOs dividiremos por equipos,
+      y en cada box encontraréis el material necesario para crear el Auto Loco. Cartón,
+      maderas, pintura, papeles, pegatinas y más. Imaginación y creatividad al poder.\n\nCon
+      ayuda de expertos, cada equipo deberá construir el coche, dándole un toque personal
+      a la carrocería. Elegid bien los colores, el lema de vuestro equipo, probad
+      que circule... **Convertíos en la mejor escudería de carreras**\n\nTodos los
+      participantes juegan un papel clave en el proceso, ya sea que estén diseñando,
+      ensamblando la estructura del coche o pintando la carrocería. El tiempo es esencial,
+      por lo que el buen trabajo en equipo, evitará una parada en boxes.\n\nUna vez
+      terminado el diseño, daremos paso a la gran carrera. Un circuito con curvas
+      y obstáculos listos para vosotros! Elegid un piloto por equipo y el resto seréis
+      los encargados de estabilizar y dar velocidad al auto. \n\n> ¡El podium os espera!
+      ¡Preparados, listos...!\n\n**Los valores que trabajamos:** trabajo en equipo,
+      toma de decisiones, distribución de tareas, habilidades, competitividad, reforzar
+      vínculos, estrategias, adrenalina y sobretodo diversión."
+  localization:
+    en: Outdoor
+    ca: Outdoor/ Indoor
+    es: Outdoor
+  included:
+    en: ''
+    ca: ''
+    es: ''
+  not_included:
+    en: |-
+      Awards and presents for (winning) teams
+      Video / photo coverage
+    ca: ''
+    es: 'Extras: podium, balas de paja, banderas, boxes con logo de la empresa.'
+  contact:
+    en: Ask for more information about our race
+    ca: Demana més informació de les nostres cotxes
+    es: Pide más información coches
+  selected: false
+  language: es, en, ca
+  duration: 2.5
+  pax: 15
+  price: 
+  tag: cars
+  accesibility: ask
+  thumbnail: https://www.datocms-assets.com/120/1567524005-290a7497.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1567524005-290a7497.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1567678478-290a7169.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1567511653-290a7745.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+- id: '76960'
+  title:
+    en: Ginés the gangster - City Escape Game
+    ca: Ginés el Gàngster
+    es: Ginés el Gánster - Escape por Barcelona
+  description:
+    en: |-
+      **THE STORY:**
+
+      > Today you are playing a City Escape Game specially designed for your group. It’s called Ginés the gangster. It is a game where you will need to collaborate, communicate, and listen carefully to each other. The team with the best teamwork, will win the game.
+
+      *“Ginés García, better known as “Ginés el Gitano”*, was a ruthless gangster. Feared by most but loved as a husband, father and grandfather. He preferred to sit on a bench in the park with an icecold Alhambra beer in his hand watching his children and grandchildren play. However, to the outside world, Ginés was Barcelona’s most feared gangster.
+
+      From an early age, Ginés’s had an interest in the underworld. After working as a
+      chimneysweep in his teenage years, he started his own business in trading cars,bicycles,
+      caravans, sunbeds. All this he ran from his home in shantytown La Perona, in the area of
+      Sant Martí. Trading goods was his introduction to the underworld. This was the start of
+      Ginés’s career in the underworld.
+
+      Because... The trade was not always clean and more and more dubious transports were
+      organized. Now and then a few extra packages were transported..... To grow his illegal
+      business, het needed money! Ginés came up with the idea of robbing a bank. In 1983,
+      Ginés managed to rob the banco de España on Plaça Catalunya and got away with the
+      gold reserve. Because of his earlier job as a chimney sweep, Ginés knew all the roofs of Barcelona very well. So, he was gone before the police could catch him. This was also a trait of Ginés that the Mossos still resent; he was always just a bit too quick to get away.
+
+      They had a hard time catching him. The gold the Mossos never found again.
+      In 1985,Ginés’s drug trade really took off. He ran the biggest drug network of Catalonia.
+
+      He was Barcelona's most feared gangster. Nobody dared to say anything against him. But
+      business couldn't last forever because the Mossos were hot on his heels and in 1988 he was caught! He got 12 years in prison but was released early due to good behavior.
+      After Ginés got released from prison, no one heard from him ever again! Could he have plunged back into the underworld? ... Did he run off? ... Or did he retire and spend the rest of his life calmly with his family? ...
+
+      We don’t know! But we do know, something happened because we received a package
+      with some envelopes and boxes from Ginés! We brought this for you so you can help us
+      find out what happened to Ginés.
+
+      > Are you ready?
+
+      The game is available for 30 up to 100 people.
+    ca: |-
+      Ginés el Gánster. Es un juego en el que necesitarás colaborar, comunicarte y
+      escuchar atentamente el uno al otro. **“El equipo con el mejor trabajo en equipo, ganará el juego”.**
+
+      **HISTORIA**
+
+      “Ginés García, mejor conocido como “Ginés el Gitano”, era un gánster
+      despiadado. Temido por la mayoría, pero amado como esposo, padre y abuelo.
+      Prefería sentarse en un banco del parque con una cerveza Alhambra helada
+      en la mano viendo jugar a sus hijos y nietos. Sin embargo, para el mundo
+      exterior, Ginés era el gánster más temido de Barcelona.
+      Desde que era bastante jóven, Ginés tuvo interés por el mundo criminal.
+      Después de trabajar limpiando chimeneas en su adolescencia, comenzó su
+      propio negocio traficando de coches, bicicletas, caravanas, cabinas de
+      rayos UV. Todo esto lo dirigía desde su casa, que se encontraba en el barrio
+      de chabolas de La Perona, en la zona de Sant Martí. El comercio de bienes fue
+      su introducción al mundo criminal. Este fue el comienzo de la carrera de Ginés
+      en el hampa.
+
+      Porque… El comercio no siempre fue limpio y cada vez se organizaban
+      transportes más dudosos. De vez en cuando, se transportaban algunos
+      paquetes adicionales... Para hacer crecer su negocio ilegal, ¡necesitaba dinero!
+      A Ginés se le ocurrió la idea de robar un banco. En 1983, Ginés consiguió
+      asaltar el banco de España de la plaza Catalunya y se hizo con la reserva de
+      oro. Gracias a haber trabajado como deshollinador, Ginés conocía muy bien
+      todos los tejados de Barcelona. Así logró escaparse antes de que la policía
+      pudiera atraparlo. Ese también fue un rasgo de Ginés que aún resienten los
+      Mossos; siempre fue un poco demasiado rápido para escapar. Les costó
+      mucho atraparlo. Los Mossos nunca encontraron el oro de nuevo.
+      **En 1985, el narcotráfico de Ginés realmente despegó.** Dirigía la red de
+      narcotraficantes más grande de Cataluña. Era el mafioso más temido de
+      Barcelona. Nadie se atrevía a decir nada en su contra. Pero el negocio no
+      podía durar para siempre porque los Mossos le pisaban los talones. **En 1988 el
+      cuñado de Ginés, fue asesinado y encontrado muerto en su casa de La
+      Perona.** Las pruebas llevaron hasta Ginés y sus años de éxito llegaron a su fin.
+      Ginés fue arrestado y sentenciado a 12 años de prisión. Pero fue puesto en
+      libertad antes de tiempo debido a su buen comportamiento.
+
+      Después de que Ginés saliera de prisión, ¡nadie volvió a saber de él! ¿Podría
+      haberse sumergido de nuevo en el mundo criminal? … ¿Se escapó? … ¿O se
+      retiró y pasó el resto de su vida tranquilamente con su familia? …
+
+      ¡No lo sabemos! Lo que sí sabemos es que esta caja fuerte y un paquete
+      misterioso con cajas y sobres, nos fue entregado. Sospechamos que pertenece
+      a Ginés el Gánster. Hemos pensado en llevar la caja fuerte a los Mossos
+      d’Esquadra aquí en Plaza España… pero tenemos muchísima curiosidad por
+      ver qué hay dentro. No entendimos cómo abrir la caja fuerte, y por eso
+      necesitamos vuestra ayuda. ¡La ayuda de los más inteligentes de Barcelona!
+      **¿Podéis ayudarnos a abrir la caja fuerte?**
+
+      > El equipo que abra la caja fuerte primero, ¡es el ganador del juego! ¿Estáis
+      > listos?
+
+      El juego está disponible a partir de 30 hasta 100 personas.
+    es: |-
+      Ginés el Gánster. Es un juego en el que necesitarás colaborar, comunicarte y
+      escuchar atentamente el uno al otro. **“El equipo con el mejor trabajo en equipo, ganará el juego”.**
+
+      **HISTORIA**
+
+      “Ginés García, mejor conocido como “Ginés el Gitano”, era un gánster
+      despiadado. Temido por la mayoría, pero amado como esposo, padre y abuelo.
+      Prefería sentarse en un banco del parque con una cerveza Alhambra helada
+      en la mano viendo jugar a sus hijos y nietos. Sin embargo, para el mundo
+      exterior, Ginés era el gánster más temido de Barcelona.
+      Desde que era bastante jóven, Ginés tuvo interés por el mundo criminal.
+      Después de trabajar limpiando chimeneas en su adolescencia, comenzó su
+      propio negocio traficando de coches, bicicletas, caravanas, cabinas de
+      rayos UV. Todo esto lo dirigía desde su casa, que se encontraba en el barrio
+      de chabolas de La Perona, en la zona de Sant Martí. El comercio de bienes fue
+      su introducción al mundo criminal. Este fue el comienzo de la carrera de Ginés
+      en el hampa.
+
+      Porque… El comercio no siempre fue limpio y cada vez se organizaban
+      transportes más dudosos. De vez en cuando, se transportaban algunos
+      paquetes adicionales... Para hacer crecer su negocio ilegal, ¡necesitaba dinero!
+      A Ginés se le ocurrió la idea de robar un banco. En 1983, Ginés consiguió
+      asaltar el banco de España de la plaza Catalunya y se hizo con la reserva de
+      oro. Gracias a haber trabajado como deshollinador, Ginés conocía muy bien
+      todos los tejados de Barcelona. Así logró escaparse antes de que la policía
+      pudiera atraparlo. Ese también fue un rasgo de Ginés que aún resienten los
+      Mossos; siempre fue un poco demasiado rápido para escapar. Les costó
+      mucho atraparlo. Los Mossos nunca encontraron el oro de nuevo.
+      **En 1985, el narcotráfico de Ginés realmente despegó.** Dirigía la red de
+      narcotraficantes más grande de Cataluña. Era el mafioso más temido de
+      Barcelona. Nadie se atrevía a decir nada en su contra. Pero el negocio no
+      podía durar para siempre porque los Mossos le pisaban los talones. **En 1988 el
+      cuñado de Ginés, fue asesinado y encontrado muerto en su casa de La
+      Perona.** Las pruebas llevaron hasta Ginés y sus años de éxito llegaron a su fin.
+      Ginés fue arrestado y sentenciado a 12 años de prisión. Pero fue puesto en
+      libertad antes de tiempo debido a su buen comportamiento.
+
+      Después de que Ginés saliera de prisión, ¡nadie volvió a saber de él! ¿Podría
+      haberse sumergido de nuevo en el mundo criminal? … ¿Se escapó? … ¿O se
+      retiró y pasó el resto de su vida tranquilamente con su familia? …
+
+      ¡No lo sabemos! Lo que sí sabemos es que esta caja fuerte y un paquete
+      misterioso con cajas y sobres, nos fue entregado. Sospechamos que pertenece
+      a Ginés el Gánster. Hemos pensado en llevar la caja fuerte a los Mossos
+      d’Esquadra aquí en Plaza España… pero tenemos muchísima curiosidad por
+      ver qué hay dentro. No entendimos cómo abrir la caja fuerte, y por eso
+      necesitamos vuestra ayuda. ¡La ayuda de los más inteligentes de Barcelona!
+      **¿Podéis ayudarnos a abrir la caja fuerte?**
+
+      > El equipo que abra la caja fuerte primero, ¡es el ganador del juego! ¿Estáis
+      > listos?
+
+      El juego está disponible a partir de 30 hasta 100 personas.
+  localization:
+    en: Indoor and outdoor
+    ca: Outdoor and Indoor
+    es: Outdoor and Indoor
+  included:
+    en: |-
+      1-hour escape game
+      Set of high-quality puzzles & challenges for each team
+      Team colours to distinguish the teams
+      Price for the winning team
+      Preparatory site visit
+      Game customized for your specific location
+      Guidance by Game Masters
+    ca: "Conjunto de rompecabezas y desafíos de alta calidad para cada equipo\nColores
+      del equipo para distinguir los equipos.\nPremio para el equipo ganador\nVisita
+      de inspección al sitio donde se realice \nOrientación de Game Masters"
+    es: "Conjunto de rompecabezas y desafíos de alta calidad para cada equipo\nColores
+      del equipo para distinguir los equipos.\nPremio para el equipo ganador\nVisita
+      de inspección al sitio donde se realice \nOrientación de Game Masters"
+  not_included:
+    en: ''
+    ca: ''
+    es: ''
+  contact:
+    en: Ask for more information about our workshop
+    ca: Demana més informació dels nostres tallers
+    es: Pide más información de nuestros talleres
+  selected: true
+  language: es, en
+  duration: 1.0
+  pax: 30
+  price: 
+  tag: Race
+  accesibility: ask
+  thumbnail: https://www.datocms-assets.com/120/1677438350-xventura-the-green-vintage-1.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1677438350-xventura-the-green-vintage-1.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1677438389-gines-the-gangster.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1675250280-cotecna-juego-de-ecape-21.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+- id: '76959'
+  title:
+    en: Mountain orientation
+    ca: Orientació a muntanya
+    es: Orientación en montaña
+  description:
+    en: "The activity is developed by teams of up to 10 people. The\nParticipants
+      will be abandoned to an unknown point with a map and will have to find different
+      points along a surprised route to reach the final location. \n\nTo achieve their
+      goal they will have to develop different strategies. **The roles that the participants
+      adapt will be decisive to achieve the success of the mission!**\n\nDuring the
+      orientation activity and at a certain time the participants will have to develop
+      different group dynamics that, while fun, will bring the group together. Only
+      when all the teams reach the finish line can they develop the final dynamic."
+    ca: "L’activitat es desenvolupa per equips de fins a 10 persones. Els\nparticipants
+      seran abandonats a un punt desconegut amb un mapa i hauran de trobar diferents
+      punts al llarg d’un recorregut sorpresa per arribar a la localització final.
+      \n\nPer tal d’assolir el seu objectiu hauran de desenvolupar diferents estratègies.
+      **Els rols que adaptin els participants seran determinants per assolir l’èxit
+      de la missió!**\n\nDurant l’activitat d’orientació i a un temps determinat els
+      participants hauran de desenvolupar diferents **dinàmiques de grup** que, alhora
+      que **divertides**, **cohesionaran al grup**. Només quan tots els equips arribin
+      a la meta podran desenvolupar la dinàmica final."
+    es: "La actividad se desarrolla por equipos de hasta 10 personas. Los \nparticipantes
+      serán abandonados a un punto desconocido con un mapa y tendrán que encontrar
+      diferentes puntos a lo largo de un recorrido sorprendida para llegar a la localización
+      final. \n\nPara lograr su objetivo tendrán que desarrollar diferentes estrategias.
+      **Los roles que adapten los participantes serán determinantes para lograr el
+      éxito de la misión!**\n\nDurante la actividad de orientación y a un tiempo determinado
+      los participantes tendrán que desarrollar diferentes **dinámicas de grupo**
+      que, a la vez que **divertidas**, **cohesionarán al grupo**. Sólo cuando todos
+      los equipos lleguen a la meta podrán desarrollar la dinámica final."
+  localization:
+    en: Outdoor
+    ca: Outdoor
+    es: Outdoor
+  included:
+    en: |-
+      Material for the development of the activity
+      Mountain Sports Technicians
+      Civil liability and accident insurance
+    ca: |-
+      Disseny d’itineraris
+      Monitors esportius
+      Assegurances
+      Avituallament sòlid i líquid
+    es: |-
+      Diseño de itinerarios
+      Asistencia de guías de montaña
+      Seguros para la actividad
+  not_included:
+    en: |-
+      Transfers (optional)
+      Lunch restaurant (optional)
+    ca: |-
+      Trasllats d'anada i tornada (opcional)
+      Dinar en un restaurant amb vestuaris i dutxes a disposició (opcional)
+    es: |-
+      Transporte de ida y vuelta (opcional)
+      Comida en un restaurante, vestuarios y duchas a disposición (opcional)
+  contact:
+    en: Ask for more information about our activities
+    ca: Demana més informació de les nostres activitats
+    es: Pide más información de nuestras actividades
+  selected: true
+  language: ca, es, en
+  duration: 2.0
+  pax: 8
+  price: 
+  tag: When
+  accesibility: 'no'
+  thumbnail: https://www.datocms-assets.com/120/1551386900-whatsapp-image-2019-02-28-at-1-55-56-pm.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1551386900-whatsapp-image-2019-02-28-at-1-55-56-pm.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1509444999-76b0d221-4a5f-4fbe-a4b8-53e310dfbd98.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1509445005-17cc837a-c014-4e4f-a695-9f0062e07675.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+- id: '76966'
+  title:
+    en: Treasure hunt - The Bankrobber route
+    ca: Cerca del Tresor - L'Atracador
+    es: Búsqueda del Tesoro - El Atracador
+  description:
+    en: "> Find the stolen money!\n\nThe Bankrobber route is the perfect treasure
+      hunt for corporate team building days. During this adventure-driven outdoor
+      team building activity you are going to unravel the mystery of the biggest bank
+      robbery in the history of Barcelona.\n\nA week ago the bank of Spain was robbed!
+      After a thorough investigation, the special police force Bonanova arrested three
+      suspects. The stolen money has not been found! \nThe police are running out
+      of time and need to find the money as soon as possible! \n\nMeet us at the meetingpoint
+      and we explain the game. From here, you are divided into smaller teams, maximum
+      8 people per team. At each location in the game you find a game master who will
+      hand over the next clue in the game.\n\nYou are challenged to find your way
+      through the labyrinth of medieval streets. All the puzzles are a 100% offline
+      and custom made for this route. Gather your colleagues and get ready for an
+      adventurous treasure hunt!\n\n> Get ready for an amazing corporate team building
+      day!"
+    ca: |-
+      > Troba els diners robats!
+
+      Proposem la ruta de l'atracador de bancs, és joc divertit i dinàmic. Ideal per a la formació d'equips i grups competitius.
+
+      Durant aquesta activitat de team building a l'aire lliure basada en l'aventura, hauràs de resoldre el misteri de l'atracament més gran a un banc en la història de Barcelona.
+
+      *Fa una setmana van assaltar el banc d'Espanya! Després d'una recerca exhaustiva, Bonanova, la força especial de la policia, va arrestar a tres sospitosos. No s'ha trobat els diners robats! La policia s'està quedant sense temps i necessita trobar els diners al més aviat possible!*
+
+      Us dividireu en equips, màxim 8 persones per equip. Podràs seguir el rastre de pistes i atrapar al lladre de bancs?
+
+      Seràs desafiat a trobar el teu camí a través del laberint de carrers medievals. Totes les endevinalles són 100% offline i fets a mesura per a aquest joc.
+
+      La grandària mínima del grup és de 30 persones i el màxim és de 100.
+    es: "> ¡Encuentra el dinero robado!\n\nProponemos la ruta del atracador de bancos,es
+      juego divertido y dinámico. Ideal para la formación de equipos y grupos competitivos.
+      \n\nDurante esta actividad de team building al aire libre basada en la aventura,
+      tendrás que resolver el misterio del mayor atraco a un banco en la historia
+      de Barcelona.\n\n*¡Hace una semana asaltaron el banco de España! Después de
+      una investigación exhaustiva, Bonanova, la fuerza especial de la policía, arrestó
+      a tres sospechosos. ¡No se ha encontrado el dinero robado! La policía se está
+      quedando sin tiempo y necesita encontrar el dinero ¡lo antes posible!*\n\nOs
+      dividiréis en equipos, máximo 8 personas por equipo. ¿Podrás seguir el rastro
+      de pistas y atrapar al ladrón de bancos?\n\nSerás desafiado a encontrar tu camino
+      a través del laberinto de calles medievales. Todos los acertijos son 100% offline
+      y hechos a medida para este juego. \n\nEl tamaño mínimo del grupo es de 30 personas
+      y el máximo es de 100."
+  localization:
+    en: This treasure hunt starts from Plaza Catalunya.
+    ca: Indoor
+    es: Aquesta cerca del tresor comença en Plaza Catalunya.
+  included:
+    en: |-
+      Material for the development of the activity
+      Games Masters
+    ca: |-
+      Material necessari per al desenvolupament
+      Organització i Game Màster necessaris
+    es: |-
+      Material necesario para el desarrollo
+      Organización y Game Máster necesarios
+  not_included:
+    en: ''
+    ca: Espacio
+    es: ''
+  contact:
+    en: Ask for more information about our activities
+    ca: Demana més informació sobre l'experiència
+    es: Pide más información de nuestras actividades
+  selected: false
+  language: es, en
+  duration: 2.5
+  pax: 30
+  price: 
+  tag: Tresuare
+  accesibility: 'yes'
+  thumbnail: https://www.datocms-assets.com/120/1675253502-treasure-hunt_page-group-8-jpg.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1675253502-treasure-hunt_page-group-8-jpg.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1675253513-treasure-hunt_page-group-7-jpg.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: 
+- id: '313656'
+  title:
+    en: Takeshi's castle challenges
+    ca: Humor amarillo
+    es: Humor amarillo
+  description:
+    en: "Takeshi's Castle is a Japanese game show that aired between 1986 and 1990.
+      \n\n> Relive your favorite TV moments! \n\nIt is made up of fun challenges such
+      as the famous \"Battle of the Warriors\", \"The Floating Inflatable\", \"Flying
+      Bicycle\", “Hungry Frogs ”, “The Breasts” and everyone's favorite \"Killing
+      Rollers\"and others challenges!\n\nChallenges are playful and competitive activities
+      in which participants must test the **coordination, communication and cooperation**
+      of the group members, the **self ingenuity and ability** of each one of them."
+    ca: |-
+      Si vas vibrar amb les proves esbojarrades que els japonesos feien al mític programa "Humor Amarillo". Reviu amb els teus companys el mític concurs televisiu!
+
+      Us organitzem una jornada amb proves súper divertides com la famosa “Lluita de Guerrers”, “l’Inflable Flotant”, “la Bicicleta Voladora”, “el Tragabolas”, “les Mamelles Assessines” o els clàssics “Rodillos” entre d'altres proves!
+
+      Aquest tipus de desafiaments lúdics i competitius fan que els participants hagin de posar a prova la **coordinació**, la **comunicació** i la **cooperació** de tots membres del grup, i l'**enginy** i la **capacitat** de cadascun d'ells.
+
+      > Els riures i el bon humor estan garantits en aquest Team Building
+    es: "Revive con tus compañeros el mítico concurso de televisión japonés. Os organizamos
+      una jornada con pruebas súper divertidas como la famosa “Lucha de Guerreros”,
+      El Hinchable Flotante, La Bicicleta Voladora, “el Tragabolas\", “Pelotas Asesinas”
+      o los clásicos “Rodillos” entre otras pruebas! \n\nEste tipo de desafíos lúdicos
+      y competitivos hacen que los participantes deban poner a prueba la **coordinación**,
+      **comunicación** y **cooperación** de todos los miembros del grupo, y el **ingenio**
+      y la **capacidad** de cada uno de ellos.\n\n> Las risas y el buen humor están
+      garantizados en este Team Building"
+  localization:
+    en: Outdoor
+    ca: ''
+    es: ''
+  included:
+    en: |-
+      Welcome, briefing, organization of the group in teams
+      RC insurance
+      All the material for the proper development of this activity
+    ca: |-
+      Benvinguda , briefing, organització del grup en equips
+      Segur de responsabilitat civil
+      Tot el material per al correcte desenvolupament d'aquesta activitat
+    es: |-
+      Bienvenida, briefing, organización del grupo en equipos
+      Seguro RC
+      Todo el material para el correcto desarrollo de esta actividad
+  not_included:
+    en: "Breakfast / Lunch / dinner \nProfessional video & photo service\nD'j service\nTransport\nExclusive
+      space"
+    ca: "Esmorzars /Dinars/ Sopars \nServei professional de vídeo i fotografia\nServei
+      D'j\nTransporti\nEspai exclusiu\nPremis per als guanyadors"
+    es: |-
+      Desayuno / Almuerzo / Cena
+      Servicio profesional de video y fotografía
+      Servicio D'j
+      Transporte
+      Espacio exclusivo
+      Premios para los ganadores
+  contact:
+    en: 'yes'
+    ca: 'yes'
+    es: 'yes'
+  selected: false
+  language: ca, es, en
+  duration: 2.0
+  pax: 10
+  price: 
+  tag: humor
+  accesibility: 'no'
+  thumbnail: https://www.datocms-assets.com/120/1528985850-290a4678.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1528985850-290a4678.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1528974081-img20180612131839.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1528985905-290a4445.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76954'
   title:
     en: Beach olympics challenge
@@ -194,319 +772,116 @@
   photo1: https://www.datocms-assets.com/120/1528975155-grv7103.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1528976794-grv7240.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1528976727-grv7288.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '76962'
+- id: '76965'
   title:
-    en: The vintage wacky races
-    ca: Carrera d'andròmines
-    es: Carrera de autos locos
+    en: Snowshoe hikes
+    ca: RAQUETES DE NEU
+    es: RAQUETAS DE NIEVE
   description:
-    en: "> Ready, Steady... design your dream car in this adrenaline fuelled team
-      building challenge.\n\nLet your team’s personality shine as you not only build
-      the chassis but put all your creative ideas into the bodywork too. Choose striking
-      colours, stickers, spoilers and more. \n\nThis is fun with a capital ‘F’.\n\nEveryone
-      will have a key role whether they’re designing, assembling, or painting the
-      bodywork. Time is of the essence, so teamwork is essential, no standing around
-      in the pit stop.\n\nOnce your dream machine is roadworthy, you’ll compete against
-      other teams on our custom-made track. A couple of chicanes, a bottleneck and
-      a hairpin bend or two to\ntest out your cars. All pull power too as we’re believes
-      in ‘No Oil’. One elected driver per team and the rest to stabilise and pull
-      the car around at break neck speed!!\n\nThey’ll be a place on the podium for
-      the three winning teams, oh! And some bubby too!!"
-    ca: "Benvinguts a la Gran Carrera d'andròmines. Esteu preparats per a una bona
-      dosi d'adrenalina, destresa i diversió?\n\nUs dividirem per equips, i en cada
-      box trobareu el material necessari per a crear el vostre cotxe. Cartó, fustes,
-      pintura, papers, adhesius i més. Imaginació i creativitat al poder.\n\nAmb ajuda
-      d'experts, cada equip haurà de construir el cotxe, donant-li un toc personal
-      a la carrosseria. Trieu bé els colors, el lema del vostre equip, proveu que
-      circuli... **Convertiu-vos en la millor escuderia de carreras**\n\nTots els
-      participants juguen un paper clau en el procés, ja sigui que estiguin dissenyant,
-      contruïnt l'estructura del cotxe o pintant la carrosseria. El temps és essencial,
-      per la qual cosa el bon treball en equip, evitarà una parada en boxes.\n\nUna
-      vegada acabat el disseny, donarem pas a la gran carrera. Un circuit amb corbes
-      i obstacles llestos per a vosaltres! Trieu un pilot per equip i la resta sereu
-      els encarregats d'estabilitzar i donar velocitat al cotxe.\n> \n> El podium
-      us espera! Preparats, llestos...!\n\n**Els valors que treballem:** treball en
-      equip, presa de decisions, distribució de tasques, habilitats, competitivitat,
-      reforçar vincles, estratègies, adrenalina i sobretot diversió."
-    es: "Bienvenidos a la Gran Carrera de los Coches Locos.  ¿Estáis preparados para
-      una buena dosis de adrenalina, destreza y diversión?\n\nOs dividiremos por equipos,
-      y en cada box encontraréis el material necesario para crear el Auto Loco. Cartón,
-      maderas, pintura, papeles, pegatinas y más. Imaginación y creatividad al poder.\n\nCon
-      ayuda de expertos, cada equipo deberá construir el coche, dándole un toque personal
-      a la carrocería. Elegid bien los colores, el lema de vuestro equipo, probad
-      que circule... **Convertíos en la mejor escudería de carreras**\n\nTodos los
-      participantes juegan un papel clave en el proceso, ya sea que estén diseñando,
-      ensamblando la estructura del coche o pintando la carrocería. El tiempo es esencial,
-      por lo que el buen trabajo en equipo, evitará una parada en boxes.\n\nUna vez
-      terminado el diseño, daremos paso a la gran carrera. Un circuito con curvas
-      y obstáculos listos para vosotros! Elegid un piloto por equipo y el resto seréis
-      los encargados de estabilizar y dar velocidad al auto. \n\n> ¡El podium os espera!
-      ¡Preparados, listos...!\n\n**Los valores que trabajamos:** trabajo en equipo,
-      toma de decisiones, distribución de tareas, habilidades, competitividad, reforzar
-      vínculos, estrategias, adrenalina y sobretodo diversión."
+    en: "Snowshoe hiking trails allow us to easily move over snowy surfaces and allow
+      us to discover spaces of great scenic beauty in a fun and completely safe way.\n\n>
+      Available routes: \n\n* **Guils Fontanera**\n\nWe propose you this essential
+      and beautiful excursion from the Refuge de la Feixa.\nSimple and beautiful family
+      route to do with snowshoes that will take us from the Nordic Ski Resort of Guils-Fontanera
+      to the Refuge de la Feixa.\n\n* **Valter 2000 (Girona)**\n\nThe crossing is
+      a route that goes through the Mantet nature reserve, during our tour we will
+      cross the French and Catalan supply. Enjoy panoramic views of 360º and ideal
+      terrain to practice this mode in an idyllic environment.\n\n* **Llanos del Hospital
+      (Huesca)**\n\nFantastic route to enter the valley of Benaque. It is a curious
+      whim of nature at the foot of the Aneto, a big surprise for those who see it
+      for the first time, it is surprising to see the waterfall and the curious phenomenon
+      of seeing the waters disappear.\n\nIt is a kind of sink, about 70 meters in
+      diameter and 40 deep, in which the water from the glaciers of the Aneto and
+      the Maladeta disappears underground at 2,074 meters."
+    ca: "Les raquetes de neu ens permeten desplaçar-nos amb facilitat per sobre de
+      les superfícies nevades i ens permetran descobrir espais de gran bellesa paisatgística
+      d'una forma molt divertida.\n\nEls racons que podràs admirar, només són accessibles
+      a través de la pràctica d'aquesta activitat.\n\n> **RUTES DISPONIBLES**\n\n**Refugi
+      de la Feixa**\n\nUs proposem aquesta imprescindible i bonica excursió des del
+      Refugi de la Feixa.\nSenzilla i bonica ruta familiar per fer amb raquetes que
+      ens durà de l'Estació d'Esquí Nòrdic de Guils-Fontanera al Refugi de la Feixa.
+      \n\nSi disposeu de dos dies, us recomanem fer aquesta ruta el primer dia i fer
+      nit al refugi i l'endemà fer l'excursió a l'estany de Malniu. Pels més agosarats,
+      podeu unir les dues rutes en un mateix dia.\n\nEl Refugi de la Feixa està ubicat
+      en un entorn privilegiat, que gaudeix d’una protecció especial el Pla d’Espais
+      d’Interès Natural (PEIN) la Tossa Plana de Lles – Puigpedrós.\nLa Feixa és un
+      refugi petit, íntim, acollidor, amb una filosofia de consum responsable i ecològic.\n\nDurada
+      de l'activitat: 4  a 5 hores \n\nNivell: Iniciació\n\n**Valter 2000 (Girona)**\n\nLa
+      travessia és un recorregut que pasa per  la reserva natural de Mantet, durant
+      el nostre recorregut anirem creuant la forntera francesa i la catalana. Gaudint
+      de vistes panoramiques de 360º i un terreny ideal para les practica d'aquesta
+      modalitat en un entorn idilic.\n\nDurada de l'activitat: 4  a 5 hores \n\nNivell:
+      Iniciació\n\n**Pirineu Aragonès**\n\nDescobreix el Pirineu aragonés amb sortides
+      de dos dies o més amb pernocta.\nGaudiràs de dos dies de muntanya i l'experiència
+      única de pasar la nit en un refugi d'alta muntanya.\n\nDurada de l'activitat:
+      2 dies \n\nNivell: Avançat"
+    es: "Las raquetas de nieve nos permiten desplazarnos con facilidad por encima
+      de las superficies nevadas y nos permitirán descubrir espacios de gran belleza
+      paisajística de una forma muy divertida.\n\nLos rincones que podrás admirar,
+      solo son accesibles a través de la práctica de esta actividad.\n\n> **RUTAS
+      DISPONIBLES**\n\n**Refugio de la Feixa**\n\nOs proponemos esta imprescindible
+      y bonita excursión desde el Refugio de la Feixa.\nSencilla y bonita ruta familiar
+      para hacer con raquetas que nos llevará de la Estación de Esquí Nórdico de Guils-Fontanera
+      al Refugio de la Feixa.\n\nSi disponéis de dos días, os recomendamos hacer esta
+      ruta el primer día y hacer noche al refugio y el día siguiente hacer la excursión
+      al estaño de Malniu. Por los más osados, podéis unir las dos rutas en un mismo
+      día.\n\nEl Refugio de la Feixa está ubicado en un entorno privilegiado, que
+      disfruta de una protección especial el Plan de Espacios de Interés Natural (PEIN)
+      la Tossa Plana de Lles – Puigpedrós.\n\nLa Feixa es un refugio pequeño, íntimo,
+      acogedor, con una filosofía de consumo responsable y ecológico.\n\nDuración
+      de la actividad: 4 a 5 horas\n\nNivel: Iniciación\n\n \n\n**Valter 2000 (Girona)**\n\nLa
+      travesía es un recorrido que pasa por la reserva natural de Mantet, durante
+      nuestro recorrido iremos cruzando la forntera francesa y la catalana. Disfrutando
+      de vistas panorámicas de 360º y un terreno ideal para las practica de esta modalidad
+      en un entorno idílico.\n\nDuración de la actividad: 4 a 5 horas\n\nNivel: Iniciación\n\n\n**Pirineo
+      Aragonés**\n\nDescubre el Pirineo aragonés con salidas de dos días o más con
+      pernocta.\nDisfrutarás de dos días de montaña y la experiencia única de pasar
+      la noche en un refugio de alta montaña.\n\nDuración de la actividad: 2 días\n\nNivel:
+      Avanzado"
   localization:
-    en: Outdoor
-    ca: Outdoor/ Indoor
-    es: Outdoor
-  included:
-    en: ''
-    ca: ''
-    es: ''
-  not_included:
-    en: |-
-      Awards and presents for (winning) teams
-      Video / photo coverage
-    ca: ''
-    es: 'Extras: podium, balas de paja, banderas, boxes con logo de la empresa.'
-  contact:
-    en: Ask for more information about our race
-    ca: Demana més informació de les nostres cotxes
-    es: Pide más información coches
-  selected: true
-  language: es, en, ca
-  duration: 2.5
-  pax: 15
-  price: 
-  tag: cars
-  accesibility: ask
-  thumbnail: https://www.datocms-assets.com/120/1567524005-290a7497.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1567524005-290a7497.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1567678478-290a7169.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1567511653-290a7745.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '313656'
-  title:
-    en: Takeshi's castle challenges
-    ca: Humor amarillo
-    es: Humor amarillo
-  description:
-    en: "Takeshi's Castle is a Japanese game show that aired between 1986 and 1990.
-      \n\n> Relive your favorite TV moments! \n\nIt is made up of fun challenges such
-      as the famous \"Battle of the Warriors\", \"The Floating Inflatable\", \"Flying
-      Bicycle\", “Hungry Frogs ”, “The Breasts” and everyone's favorite \"Killing
-      Rollers\"and others challenges!\n\nChallenges are playful and competitive activities
-      in which participants must test the **coordination, communication and cooperation**
-      of the group members, the **self ingenuity and ability** of each one of them."
-    ca: |-
-      Si vas vibrar amb les proves esbojarrades que els japonesos feien al mític programa "Humor Amarillo". Reviu amb els teus companys el mític concurs televisiu!
-
-      Us organitzem una jornada amb proves súper divertides com la famosa “Lluita de Guerrers”, “l’Inflable Flotant”, “la Bicicleta Voladora”, “el Tragabolas”, “les Mamelles Assessines” o els clàssics “Rodillos” entre d'altres proves!
-
-      Aquest tipus de desafiaments lúdics i competitius fan que els participants hagin de posar a prova la **coordinació**, la **comunicació** i la **cooperació** de tots membres del grup, i l'**enginy** i la **capacitat** de cadascun d'ells.
-
-      > Els riures i el bon humor estan garantits en aquest Team Building
-    es: "Revive con tus compañeros el mítico concurso de televisión japonés. Os organizamos
-      una jornada con pruebas súper divertidas como la famosa “Lucha de Guerreros”,
-      El Hinchable Flotante, La Bicicleta Voladora, “el Tragabolas\", “Pelotas Asesinas”
-      o los clásicos “Rodillos” entre otras pruebas! \n\nEste tipo de desafíos lúdicos
-      y competitivos hacen que los participantes deban poner a prueba la **coordinación**,
-      **comunicación** y **cooperación** de todos los miembros del grupo, y el **ingenio**
-      y la **capacidad** de cada uno de ellos.\n\n> Las risas y el buen humor están
-      garantizados en este Team Building"
-  localization:
-    en: Outdoor
-    ca: ''
-    es: ''
-  included:
-    en: |-
-      Welcome, briefing, organization of the group in teams
-      RC insurance
-      All the material for the proper development of this activity
-    ca: |-
-      Benvinguda , briefing, organització del grup en equips
-      Segur de responsabilitat civil
-      Tot el material per al correcte desenvolupament d'aquesta activitat
-    es: |-
-      Bienvenida, briefing, organización del grupo en equipos
-      Seguro RC
-      Todo el material para el correcto desarrollo de esta actividad
-  not_included:
-    en: "Breakfast / Lunch / dinner \nProfessional video & photo service\nD'j service\nTransport\nExclusive
-      space"
-    ca: "Esmorzars /Dinars/ Sopars \nServei professional de vídeo i fotografia\nServei
-      D'j\nTransporti\nEspai exclusiu\nPremis per als guanyadors"
-    es: |-
-      Desayuno / Almuerzo / Cena
-      Servicio profesional de video y fotografía
-      Servicio D'j
-      Transporte
-      Espacio exclusivo
-      Premios para los ganadores
-  contact:
-    en: 'yes'
-    ca: 'yes'
-    es: 'yes'
-  selected: false
-  language: ca, es, en
-  duration: 2.0
-  pax: 10
-  price: 
-  tag: humor
-  accesibility: 'no'
-  thumbnail: https://www.datocms-assets.com/120/1528985850-290a4678.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1528985850-290a4678.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1528974081-img20180612131839.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1528985905-290a4445.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '76959'
-  title:
-    en: Mountain orientation
-    ca: Orientació a muntanya
-    es: Orientación en montaña
-  description:
-    en: "The activity is developed by teams of up to 10 people. The\nParticipants
-      will be abandoned to an unknown point with a map and will have to find different
-      points along a surprised route to reach the final location. \n\nTo achieve their
-      goal they will have to develop different strategies. **The roles that the participants
-      adapt will be decisive to achieve the success of the mission!**\n\nDuring the
-      orientation activity and at a certain time the participants will have to develop
-      different group dynamics that, while fun, will bring the group together. Only
-      when all the teams reach the finish line can they develop the final dynamic."
-    ca: "L’activitat es desenvolupa per equips de fins a 10 persones. Els\nparticipants
-      seran abandonats a un punt desconegut amb un mapa i hauran de trobar diferents
-      punts al llarg d’un recorregut sorpresa per arribar a la localització final.
-      \n\nPer tal d’assolir el seu objectiu hauran de desenvolupar diferents estratègies.
-      **Els rols que adaptin els participants seran determinants per assolir l’èxit
-      de la missió!**\n\nDurant l’activitat d’orientació i a un temps determinat els
-      participants hauran de desenvolupar diferents **dinàmiques de grup** que, alhora
-      que **divertides**, **cohesionaran al grup**. Només quan tots els equips arribin
-      a la meta podran desenvolupar la dinàmica final."
-    es: "La actividad se desarrolla por equipos de hasta 10 personas. Los \nparticipantes
-      serán abandonados a un punto desconocido con un mapa y tendrán que encontrar
-      diferentes puntos a lo largo de un recorrido sorprendida para llegar a la localización
-      final. \n\nPara lograr su objetivo tendrán que desarrollar diferentes estrategias.
-      **Los roles que adapten los participantes serán determinantes para lograr el
-      éxito de la misión!**\n\nDurante la actividad de orientación y a un tiempo determinado
-      los participantes tendrán que desarrollar diferentes **dinámicas de grupo**
-      que, a la vez que **divertidas**, **cohesionarán al grupo**. Sólo cuando todos
-      los equipos lleguen a la meta podrán desarrollar la dinámica final."
-  localization:
-    en: Outdoor
+    en: Indoor/Outdoor
     ca: Outdoor
     es: Outdoor
   included:
     en: |-
-      Material for the development of the activity
-      Mountain Sports Technicians
-      Civil liability and accident insurance
+      Qualified guide, Technical Material, RC / Accident Insurance
+      Photo report
+      We adapt to any sporting level
     ca: |-
-      Disseny d’itineraris
-      Monitors esportius
-      Assegurances
-      Avituallament sòlid i líquid
-    es: |-
-      Diseño de itinerarios
-      Asistencia de guías de montaña
-      Seguros para la actividad
+      Guia titulat, Material Tècnic, Assegurança de RC/Accidents.
+      Oferim reportatge fotogràfic
+      Ens adaptem a qualsevol nivell esportiu, tant si ets debutant com si el que cerques és adrenalina
+    es: "Guía titulación, Material Técnico, Seguro de RC / Accidentes \nOfrecemos
+      reportaje fotográfico\nNos adaptamos a cualquier nivel deportivo, tanto si eres
+      debutante cómo si el que buscas es adrenalina"
   not_included:
     en: |-
-      Transfers (optional)
-      Lunch restaurant (optional)
+      Accommodation
+      Transport
+      Food
     ca: |-
-      Trasllats d'anada i tornada (opcional)
-      Dinar en un restaurant amb vestuaris i dutxes a disposició (opcional)
+      Allotjament
+      Transport
+      Dietes
     es: |-
-      Transporte de ida y vuelta (opcional)
-      Comida en un restaurante, vestuarios y duchas a disposición (opcional)
+      Alojamiento
+      Transporte
+      Dietas
   contact:
-    en: Ask for more information about our activities
-    ca: Demana més informació de les nostres activitats
-    es: Pide más información de nuestras actividades
-  selected: true
-  language: ca, es, en
-  duration: 2.0
-  pax: 8
-  price: 
-  tag: When
-  accesibility: 'no'
-  thumbnail: https://www.datocms-assets.com/120/1551386900-whatsapp-image-2019-02-28-at-1-55-56-pm.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1551386900-whatsapp-image-2019-02-28-at-1-55-56-pm.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1509444999-76b0d221-4a5f-4fbe-a4b8-53e310dfbd98.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1509445005-17cc837a-c014-4e4f-a695-9f0062e07675.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '76950'
-  title:
-    en: Masterchef
-    ca: Masterchef
-    es: Masterchef
-  description:
-    en: |-
-      We will begin the activity with a visit to Santa Caterina market. Chef will meet the group at the gate of the market and will visit different positions to adapt somewhat to the menu of the activity that will be developed.
-
-      After the purchase return to the kitchens, to start a real culinary duel by teams.
-
-      Each team will cook a dish, following the instructions of our chef, with the ingredients and the time indicated. At the end of the activity we will do a taste of the cooked dishes and Masterchef jury will give a prize to the winning team!
-
-      A real experience that will foster teamwork, communication, group cohesion and control of the situation when working under pressure.
-
-      > 3... 2... 1...  Cook!
-    ca: "Començarem l'activitat amb una visita al Mercat de Santa Caterina. El xef
-      es trobarà amb el grup a la porta del mercat i visitaran diferents botigues
-      adequant-se una mica al menú de l'activitat que es desenvoluparà, aprofitant
-      la visita es comprarà algun dels ingredients amb els quals després els aspirants
-      hauran de cuinar.\n\nDesprés de la compra tornarem a les cuines, per començar
-      una autèntica competició culinaria per equips.\n\nCada equip cuinarà un plat,
-      seguint les instruccions del nostre xef, amb els ingredients i el temps indicats.
-      Al final de l'activitat es degustaran els plats cuinats i el jurat de Masterchef
-      donarà un premi a l'equip guanyador!\n\nUna veritable experiència que aconseguirà
-      fomentar el treball en equip, la comunicació, la cohesió del grup i el control
-      de la situació quan es treballa sota pressió. \n\n> 3...2…1… a cuinar!"
-    es: "Empezaremos la actividad con una visita al Mercado de Santa Caterina. El
-      chef se encontrará con el grupo en la puerta del mercado y visitarán diferentes
-      puestos adecuándose un poco al menú de la actividad que se va a desarrollar,
-      aprovechando la visita se comprará alguno de los ingredientes con los que luego
-      los aspirantes van a cocinar.\n\nDespués de la compra regresaremos a las cocinas,
-      para empezar un auténtico duelo culinario por equipos.\n\nCada equipo cocinará
-      un plato, siguiendo las instrucciones de nuestro chef, con los ingredientes
-      y los tiempos indicados. Al final de la actividad se degustarán los platos cocinados
-      y el jurado de Masterchef dará un premio al equipo ganador!\n\nUna verdadera
-      experiencia que conseguirá fomentar el trabajo en equipo, la comunicación, la
-      cohesión del grupo y el control de la situación cuando se trabaja bajo presión.
-      \n\n> 3...2…1… ¡a cocinar!"
-  localization:
-    en: Indoor/Outdoor
-    ca: Indoor/Outdoor
-    es: Indoor/Outdoor
-  included:
-    en: |-
-      Visit Santa Caterina market
-      Expert chef
-      Material for the development of the activity
-      Fully equipped kitchen
-      Beverages: water, wine and soft drinks
-      Possibility to adapt the menu to restrictions or food allergies
-    ca: |-
-      Visita al mercat de Santa Caterina
-      Degustació d'un producte de la terra
-      Xef expert
-      Material per al correcte desenvolupament de l'activitat
-      Cuina equipada
-      Begudes: aigua, vi i refrescos
-      Possibilitat d'adaptar el menú a restriccions o al·lèrgies alimentàries
-    es: |-
-      Visita mercado Santa Caterina
-      Cata de un producto de la tierra
-      Chef experto
-      Material para el desarrollo de la actividad
-      Cocina equipada
-      Bebidas: agua, vino y refrescos
-      Posibilidad de adaptar el menú a restricciones o alérgias alimentarias
-  not_included:
-    en: ''
-    ca: ''
-    es: ''
-  contact:
-    en: Ask for more information about our activities
-    ca: Demana més informació de les nostres activitats
-    es: Pide más información de nuestras actividades
+    en: Ask for more information about our routes
+    ca: Demana més informació de les nostres rutes
+    es: Pide más información sobre nuestras películas
   selected: false
-  language: es, ca, en
-  duration: 4.0
-  pax: 10
+  language: ca, es, en
+  duration: 5.0
+  pax: 2
   price: 
-  tag: Masterchef
-  accesibility: 'yes'
-  thumbnail: https://www.datocms-assets.com/120/1551386981-whatsapp-image-2019-02-28-at-1-56-37-pm.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1551386981-whatsapp-image-2019-02-28-at-1-56-37-pm.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1551386996-whatsapp-image-2019-02-28-at-2-05-29-pm.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1509446050-whatsapp-image-2017-10-27-at-14-32-56.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  tag: neu
+  accesibility: 'no'
+  thumbnail: https://www.datocms-assets.com/120/1637578864-whatsapp-image-2021-11-22-at-11-17-51-1.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1637578864-whatsapp-image-2021-11-22-at-11-17-51-1.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1637577959-whatsapp-image-2021-11-22-at-11-20-15-1.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1637579708-refugi-pladelafeixa-4.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76949'
   title:
     en: GUERNICA DRAWING
@@ -597,110 +972,6 @@
   photo1: https://www.datocms-assets.com/120/1581417260-guernica-event.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1581417276-img3004.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1581417288-img3047.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '76967'
-  title:
-    en: Hive-mind
-    ca: Cos i ment
-    es: Cuerpo y mente
-  description:
-    en: "Hive-mind is a physical play of team work and problem solving in real time.
-      The participants gradually build up complex patterns through focused movement,
-      unpredictability and chance create an environment where participants have no
-      choice but to be constantly aware and in the moment. \n\nThe state of mind associated
-      with peak performance, created through a combination of concentration and playfulness,
-      can tackle any number of problems, and once discovered and experienced, can
-      be applied to all areas of life.\n\nWe target the specific areas of the brain
-      associated with joy, the feeling of success and connection, so that your creativity
-      is unleashed; we create positive neural-pathways and anchors and teach you how
-      to leverage them, allowing you to even enjoy doing things you don’t like. The
-      obstacles you face along the way become easier to solve, and your energy levels
-      and your capacity for learning increase which allows you to achieve more in
-      less time.\n\n> Individuals increase their personal impact, teams develop a
-      hive-mentality. We improve the quality of your company by allowing individuals
-      and teams to switch on FLOW at will.\n> \n\nThe training is designed for intense
-      **cooperation, creativity and problem solving in real time**\n\n<iframe width=\"560\"
-      height=\"315\" src=\"https://www.youtube.com/embed/BGJQm5sY0yQ\" frameborder=\"0\"
-      allow=\"autoplay; encrypted-media\" allowfullscreen> </iframe>"
-    ca: "És un joc físic de resiliència i diversió, on entrenarem per aconseguir el
-      teu màxim estat de rendiment.\n\nDurant l'entrenament, aprendrem de manera segura
-      i eficaç a llançar i recepcionar el material dissenyat especialment per a aquest
-      entrenament: ampolles d'aigua fetes de plàstic reciclable.\n\nLa incertesa i
-      l'ús de l'atzar creen l'ambient perfecte on els participants només podran prendre
-      consciència del que estan fent i estar presents en el moment, transformant el
-      seu cos en un portal cap a l'estat d'alt rendiment mental.\n\nSigui llançant
-      ampolles o bregant amb una gran càrrega de treball. L'estat mental associat
-      al màxim rendiment, creat a través d'una combinació de concentració i diversió,
-      pot abordar qualsevol quantitat de problemes i, una vegada que s'experimenta,
-      es pot aplicar a totes les àrees de la vida.\n\nAquest exclusiu entrenament
-      està enfocat a:\n\n- Combatre el desgast emocional\n- Millorar les relacions
-      humanes entre l'equip i de cara al client\n- Augmentar la creativitat\n- Resolució
-      de problemes en temps real\n- Incrementar el rendiment laboral\n- I aconseguir
-      un millor equilibri entre treball i vida personal\n\n> És sorprenent el que
-      es pot aconseguir en un estat de màxim rendiment quan és compartit entre els
-      membres d'un equip.\n> \n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BGJQm5sY0yQ\"
-      frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen> </iframe>"
-    es: "Es un juego físico de resiliencia y diversión, donde entrenaremos para que
-      alcances tu máximo estado de rendimiento. \n\nDurante el entrenamiento, aprenderemos
-      de manera segura y eficaz a lanzar y recepcionar el material diseñado especialmente
-      para éste entrenamiento: botellas de agua hechas de plástico reciclable.\n\nLa
-      incertidumbre y el uso del azar crean el ambiente perfecto donde los participantes
-      sólo podrán tomar conciencia de lo que están haciendo y estar presentes en el
-      momento, transformando su cuerpo en un portal hacia el estado de alto rendimiento
-      mental.\n\nYa sea lanzando botellas o lidiando con una gran carga de trabajo.
-      El estado mental asociado al máximo rendimiento, creado a través de una combinación
-      de concentración y diversión, puede abordar cualquier cantidad de problemas
-      y, una vez que se experimenta, se puede aplicar a todas las áreas de la vida.\n\nÉste
-      exclusivo entrenamiento está enfocado a:\n\n- Combatir el desgaste emocional\n-
-      Mejorar las relaciones humanas entre el equipo y de cara al cliente\n- Aumentar
-      la creatividad\n- Resolución de problemas en tiempo real\n- Incrementar el rendimiento
-      laboral\n- Y lograr un mejor equilibrio entre trabajo y vida personal\n\n> Es
-      sorprendente lo que se puede lograr en un estado de máximo rendimiento cuando
-      es compartido entre los miembros de un equipo.\n> \n<iframe width=\"560\" height=\"315\"
-      src=\"https://www.youtube.com/embed/BGJQm5sY0yQ\" frameborder=\"0\" allow=\"autoplay;
-      encrypted-media\" allowfullscreen> </iframe>"
-  localization:
-    en: Outdoor/Indoor
-    ca: Outdoor/Indoor
-    es: Outdoor/Indoor
-  included:
-    en: |-
-      Previous motivation
-      Live Training
-      Support staff before, during and after
-      We can accommodate large groups of up to 200 people so they can play the game simultaneously.
-    ca: |-
-      Entrenadors
-      Introducció teòrica
-      Escalfament (cos i ment)
-      Entrenament i resoldre problemes en temps real
-      Conclusió i valoració
-      Apte per a grups grans +200 de persones
-    es: |-
-      Entrenadores
-      Introducción teorica
-      Calentamiento (cuerpo y mente)
-      Entrenamiento y resolver problemas en tiempo real
-      Conclusión y valoración
-      Apto para grupos grandes +200 personas
-  not_included:
-    en: ''
-    ca: Lloguer de l'espai de treball
-    es: Alquiler del espacio de trabajo
-  contact:
-    en: Ask for more information
-    ca: Demana més informació
-    es: Pide más información
-  selected: false
-  language: es, en
-  duration: 2.0
-  pax: 10
-  price: 
-  tag: Hive-mind
-  accesibility: 'yes'
-  thumbnail: https://www.datocms-assets.com/120/1549882233-mg71017-1151.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1549882233-mg71017-1151.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1549882241-mg71017-1442.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1549882248-mg71017-1251.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76969'
   title:
     en: Survival game
@@ -1002,271 +1273,6 @@
   photo1: https://www.datocms-assets.com/120/1549451430-img20190205184335.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1549455668-img20190206123045.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1549455674-img20190206123329.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '76952'
-  title:
-    en: Dragon boat
-    ca: Dragon boat
-    es: Dragon boat
-  description:
-    en: |-
-      > Oars ... Ready!
-      > Canoe ... List!
-      > Team ... 3 ... 2 ... 1 To paddle!
-
-      The Dragon Boat is a large canoe that represents a dragon in honor of its mythological origin from ancient Chinese traditions.
-
-      One competes with teams formed each one by a drummer that marks the rhythm, the group of paddlers and the skipper who steers the boat with a big oar that acts as rudder.
-
-      Its great success is based on the fact of merging sport and leisure with pedagogical and social values.
-    ca: |-
-      > Rems.... Preparats!
-      > Canoa... Llista!
-      > Equip... 3...2...1 A remar!
-
-      El Dragon Boat és una gran canoa que representa un drac en honor al seu origen mitològic procedent d'antigues tradicions xineses.
-
-      Es competeix amb equips formats cadascun d'ells per un timbaler que marca el ritme, el grup de palistes i el patró que dirigeix la barca amb un gran rem que fa de timó.
-
-      El seu gran èxit es fonamenta en el fet de fusionar l'esport i l'oci amb valors pedagògics i socials.
-    es: "> Remos.... Preparados!\n> Canoa... Lista!\n> Equipo... 3...2...1 A remar!\n\nEl
-      Dragon Boat es una gran canoa que representa un dragón en honor a su origen
-      mitológico procedente de antiguas tradiciones chinas. \n\nSe compite con equipos
-      formados cada uno de ellos por un tamborilero que marca el ritmo, el grupo de
-      palistas y el patrón que dirige la barca con un gran remo que hace de timón.
-      \n\nSu gran éxito se fundamenta en el hecho de fusionar el deporte y el ocio
-      con valores pedagógicos y sociales."
-  localization:
-    en: Outdoor
-    ca: Outdoor
-    es: Outdoor
-  included:
-    en: |-
-      Arrival + Coffee break
-      Activity briefing
-      Dragon Boat activity
-      Final competition between boats
-      Showers and wardrobe
-    ca: |-
-      Arribada + Coffee break
-      Briefing de l'activitat
-      Activitat Dragon Boat
-      Competició final entre embarcacions
-      Dutxes i vestuari
-    es: |-
-      Llegada + Coffee break
-      Briefing de la actividad
-      Actividad Dragon Boat
-      Competición final entre embarcaciones
-      Duchas y vestuario
-  not_included:
-    en: |-
-      Transfers (optional)
-      Lunch Restaurant (optional)
-      Coach (optional)
-    ca: |-
-      Trasllats d'anada i tornada (opcional)
-      Dinar en un restaurant (opcional)
-      Coach (opcional)
-    es: |-
-      Traslados de ida y vuelta (opcional)
-      Coaching empresarial asociado a la actividad (opcional)
-      Almuerzo (opcional)
-  contact:
-    en: Ask for more information about our activities
-    ca: Demana més informació de les nostres activitats
-    es: Pide más información de nuestras actividades
-  selected: false
-  language: es, ca, en
-  duration: 6.0
-  pax: 10
-  price: 
-  tag: Karts
-  accesibility: 'yes'
-  thumbnail: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1509447291-whatsapp-image-2017-10-31-at-11-40-25.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1509447298-whatsapp-image-2017-10-31-at-11-40-25-1.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '76970'
-  title:
-    en: Perform your own comedy set
-    ca: Crear el teu propi monòleg
-    es: Monologueando
-  description:
-    en: "Do not worry! Most of us are funny without even knowing it ourselves. The
-      stage is the extra layer that makes you step aside from your regular script.
-      Almost without knowing who you will make people laugh and you will laugh as
-      well.\n\nWhen we analyze our habits and routines, our virtues and defects, our
-      contradictions, we will soon realize who absurd and funny our lives are.\n\nThis
-      is a workshop that promotes **spontaneity, a good laugh and feeling surprised**\n\n\n**PERFORM
-      YOUR OWN STAND UP COMEDY SET**\n\nThe goal is to create a set, your own or in
-      groups. Between 3 and 5 minutes long depending on of the amount of people.\n\nWe
-      may transform ourselves into politician, famous people, entrepreneurs or even,
-      if we dear to, we could become ourselves, a characterized version of us.\n\nThe
-      assistants would perform in front of everyone with a microphone. Everyone would
-      try out their texts in a healthy environment.\n\n\nWITH THIS WORKSHOP YOU WILL
-      LEARN: \n\n1. To laugh at yourself.\n2. To reinforce communication skills\n3.
-      To improve the energy of your team\n\n\nKEY ASPECTS OF OUR SCENIC WORKSHOP \n\n*
-      Getting rid of our **Stagefright**\n* Activities of guided **role-playing activities**.
-      Changing our roles within our company.\n* We will build funny situations for
-      our stand up comedy sets."
-    ca: |-
-      **> TOTS PODEM FER RIURE AMB UN MONÒLEG? JO,PUC?**
-
-      > Molts diuen: Jo, és que no tinc gràcia.
-
-      No et preocupis. La majoria som divertits sense saber-ho. L'escenari és qui et fa sortir-te del guió i gairebé sense adonar-te faràs riure i riuràs
-
-      Si analitzem els nostres hàbits, els nostres defectes i virtuts, les nostres incoherències rapidament tots descobreixen l'absurda i divertides que són les nostres vides.
-
-      Es tracta d'un taller que fomenta **espontaneïtat, riure sa i sorpresa.**  Claus per a construir un equip fort i unit.
-
-
-      **REPRESENTA EL TEU PROPI MONÒLEG**
-
-      L'objectiu és crear monòlegs, propis o en grup, de 3 a 5 minuts depenent del número d'assistents.
-
-      Ens transformarem en actors famosos, polítics, emprenedors, podrem ser, si ens atrevim, fins nosaltres mateixos, una versió caricaturitzada de la nostra personalitat.
-
-      Els assistents representaran els seus monòlegs davant de tots amb el seu micròfon. S'aniran provant els textos treballats en un clima festiu i agradable.
-
-
-      AMB AQUEST TALLER APRENDRÀS
-
-      1. A RIURE'T DE TU MATEIX
-      2. A REFORÇAR LA COMUNICACIÓ
-      3. A MILLORAR L'ENERGIA DEL TEU EQUIP
-
-      CLAUS DEL NOSTRE TALLER ESCÈNIC
-
-      * **Eliminar la por** a pujar-se dalt d'un escenari
-      * Activitats de **role-playing** guiades. Canviant de rols dins de l'empresa i posant-nos en el paper d'altres membres de l'empresa.
-      * Creem situacions i escenes divertides per als nostres monòlegs.
-    es: "**> TODOS PODEMOS HACER REÍR ¿HACER UN MONÓLOGO? ¿YO?**\n\n> Muchos dicen:
-      Yo, es que no tengo gracia. \n\nNo te preocupes. La mayoría somos divertidos
-      sin saberlo. El escenario es quien te hace salirte del guión y casi sin darte
-      cuenta harás reír y reíras.\n\nSi analizamos nuetros hábitos, nuestros defectos
-      y virtudes, nuestras incoherencias pronto todos descubren lo absurda y divertidas
-      que son nuestras vidas. \n\nSe trata de un taller que fomenta **espontaneidad,
-      risa sana y sorpresa.** Claves para construir un equipo fuerte y unido. \n\n\n**REPRESENTA
-      TU PROPIO MONÓLOGO**\n\nEl objetivo es crear monólogos, propios o en grupo,
-      de 3 a 5 minutos dependiendo del número de asisitentes.\n\nNos transformaremos
-      en actores famosos,políticos, emprendedores, podremos ser, si nos atrevemos,
-      hasta nosotros mismos, una versión caricaturizada de nuestra personalidad\n\nLos
-      asistentes representarán sus monólogos delante de todos con su micrófono. Se
-      irán probando los textos trabajados en un clima festivo y agradable.\n\n\nCON
-      ESTE TALLER APRENDERÁS\n\n1. A REÍRTE DE TI MISMO\n2. A REFORZAR LA COMUNICACIÓN\n3.
-      A MEJORAR LA ENERGÍA DE TU EQUIPO\n\nCLAVES DE NUESTRO TALLER ESCÉNICO\n\n*
-      **Eliminar el miedo** a subirse a un escenario \n* Actividades de **role-playing
-      guiadas**. Cambiando de roles dentro de la empresa y poniéndonos en el papel
-      de otros miembros de la empresa.\n* Creamos situaciones y escenas divertidas
-      para nuestros monólogos."
-  localization:
-    en: Indoor/outdoor
-    ca: Indoor/outdoor
-    es: Indoor/outdoor
-  included:
-    en: |-
-      Material
-      Staff
-    ca: |-
-      Material necessari per conduir l’activitat
-      Personal
-      Equip: 2 Micros + 2 altaveus hi-fi de 50w Bq Acoustics
-    es: |-
-      Material necesario para conducir la actividad
-      Personal
-      Equipo: 2 Micros + 2 altavoces hi-fi de 50w Bq Acoustics
-  not_included:
-    en: "Rent space \nChairs for all participants"
-    ca: |-
-      Lloguer de l’espai on es realitza l’activitat si s’escau
-      Cadires per a tots els participants
-    es: |-
-      Alquiler del espacio donde se realiza la actividad (si es necesario)
-      Sillas para todos los participantes
-  contact:
-    en: Ask for more information about our comedy
-    ca: Demana més informació sobre els monòlegs
-    es: Pide más información sobre los monólogos
-  selected: false
-  language: ca, es, en
-  duration: 2.5
-  pax: 6
-  price: 
-  tag: game
-  accesibility: 'yes'
-  thumbnail: https://www.datocms-assets.com/120/1553252131-talentgarden06.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1553252131-talentgarden06.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1553252144-talentgarden09.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1553252157-talentgarden20.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '76953'
-  title:
-    en: Laughter therapy workshops
-    ca: Taller de Risoteràpia
-    es: Taller de risoterapia
-  description:
-    en: |-
-      Through games and simple activities, we create a lively and fun environment that reveals **complicity, spontaneity, creativity,  joy and a calm state of mind, generating a strong group cohesion**. Releasing deep laughter, it helps to release stress and body tensions, creating a positive state.
-
-      All this is done progressively and respectfully making the experience easy and beneficial to all participants regardless their condition.
-
-      If you are part of a group we can organize a specific laughter therapy workshop.
-    ca: "Un taller de Risoteràpia és una pràctica grupal per despertar i expressar
-      cadascú la seva alegria, espontaneïtat, creativitat i complicitat. \n\nÉs un
-      temps perquè cada persona gaudeixi de la llibertat i la frescor que porta jugar
-      i riure profundament. Mitjançant un conjunt de dinàmiques lúdiques, amb la música
-      com a suport, generem un ambient alegre i divertit que facilita l'expressió
-      del potencial creatiu dels participants, l'alliberament de l'estrès i al mateix
-      temps permet aforar un clímax de confiança i de cohesió entre els/les participants.\n\nTot
-      això fa que resulti una experiència amable, expansiva i enormement divertida.
-      Es tracta d'una pràctica respectuosa i de fàcil accés per a qualsevol.\n\n**PROGRAMA**\n\nLa
-      base metodològica és la vivència. Entenem per vivència la pràctica a través
-      de balls, jocs i dinàmiques que influeixen en l'estat anímic i sensorial del
-      participant.\n\nLa seqüència metodològica estàndard d'una sessió és la\nsegüent:\n1.
-      Presentació i enquadrament\n2. Trencar el gel i cohesió grupal\n3. Energia i
-      celebració\n4. Dinàmica del riure\n5. Relaxació\n6. Posada en comú"
-    es: "Un taller de Risoterapia es una práctica grupal para despertar y expresar
-      cada cual su alegría, espontaneidad, creatividad y complicidad. \n\nEs un tiempo
-      para que cada persona disfrute de la libertad y la frescura que trae jugar y
-      reír profundamente. Mediante un conjunto de dinámicas lúdicas, con la música
-      como apoyo, generamos un ambiente alegre y divertido que facilita la expresión
-      del potencial creativo de los participantes, la liberación del estrés y al mismo
-      tiempo permite aforar un clímax de confianza y de cohesión entre los/las participantes.
-      \n\nTodo esto hace que resulte una experiencia amable, expansiva y enormemente
-      divertida. Se trata de una práctica respetuosa y de fácil acceso para cualquiera.
-      \n\n**PROGRAMA**\n\nLa base metodológica es la vivencia. Entendemos por vivencia
-      la práctica a través de bailes, juegos y dinámicas que influyen en el estado
-      anímico y sensorial del participante. \n\nLa secuencia metodológica estándar
-      de una sesión es la\nsiguiente:\n1. Presentación y encuadre\n2. Rompehielos
-      y cohesión grupal\n3. Energetización y celebración\n4. Dinámica de la risa\n5.
-      Relajación\n6. Puesta en común"
-  localization:
-    en: Indoor/Outdoor
-    ca: Indoor/Outdoor
-    es: Indoor/Outdoor
-  included:
-    en: Coach
-    ca: Coach
-    es: Coach
-  not_included:
-    en: ''
-    ca: ''
-    es: ''
-  contact:
-    en: Ask for more information about our tours
-    ca: Demana més informació de les nostres excursions
-    es: Pide más información de nuestras excursiones
-  selected: false
-  language: es, ca, en
-  duration: 2.0
-  pax: 8
-  price: 
-  tag: Juegos
-  accesibility: 'yes'
-  thumbnail: https://www.datocms-assets.com/120/1509451891-image-2.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1509451891-image-2.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1509451900-image.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1509451906-image-1.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76963'
   title:
     en: Trencadís Workshop
@@ -1438,10 +1444,10 @@
   price: 
   tag: batucada
   accesibility: 'yes'
-  thumbnail: https://www.datocms-assets.com/120/1498480626-7.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1498480626-7.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1498480683-44.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1498480686-45.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1675247725-dworld-2022-07-07-9833.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1675247725-dworld-2022-07-07-9833.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1675247841-dworld-2022-07-07-9925.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1675247805-dworld-2022-07-07-0033.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76957'
   title:
     en: Trivial quiz challenge
@@ -1508,6 +1514,74 @@
   photo1: https://www.datocms-assets.com/120/1528889661-n36a7275.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1528889714-n36a7157.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1528889802-n36a7249.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+- id: '76953'
+  title:
+    en: Laughter therapy workshops
+    ca: Taller de Risoteràpia
+    es: Taller de risoterapia
+  description:
+    en: |-
+      Through games and simple activities, we create a lively and fun environment that reveals **complicity, spontaneity, creativity,  joy and a calm state of mind, generating a strong group cohesion**. Releasing deep laughter, it helps to release stress and body tensions, creating a positive state.
+
+      All this is done progressively and respectfully making the experience easy and beneficial to all participants regardless their condition.
+
+      If you are part of a group we can organize a specific laughter therapy workshop.
+    ca: "Un taller de Risoteràpia és una pràctica grupal per despertar i expressar
+      cadascú la seva alegria, espontaneïtat, creativitat i complicitat. \n\nÉs un
+      temps perquè cada persona gaudeixi de la llibertat i la frescor que porta jugar
+      i riure profundament. Mitjançant un conjunt de dinàmiques lúdiques, amb la música
+      com a suport, generem un ambient alegre i divertit que facilita l'expressió
+      del potencial creatiu dels participants, l'alliberament de l'estrès i al mateix
+      temps permet aforar un clímax de confiança i de cohesió entre els/les participants.\n\nTot
+      això fa que resulti una experiència amable, expansiva i enormement divertida.
+      Es tracta d'una pràctica respectuosa i de fàcil accés per a qualsevol.\n\n**PROGRAMA**\n\nLa
+      base metodològica és la vivència. Entenem per vivència la pràctica a través
+      de balls, jocs i dinàmiques que influeixen en l'estat anímic i sensorial del
+      participant.\n\nLa seqüència metodològica estàndard d'una sessió és la\nsegüent:\n1.
+      Presentació i enquadrament\n2. Trencar el gel i cohesió grupal\n3. Energia i
+      celebració\n4. Dinàmica del riure\n5. Relaxació\n6. Posada en comú"
+    es: "Un taller de Risoterapia es una práctica grupal para despertar y expresar
+      cada cual su alegría, espontaneidad, creatividad y complicidad. \n\nEs un tiempo
+      para que cada persona disfrute de la libertad y la frescura que trae jugar y
+      reír profundamente. Mediante un conjunto de dinámicas lúdicas, con la música
+      como apoyo, generamos un ambiente alegre y divertido que facilita la expresión
+      del potencial creativo de los participantes, la liberación del estrés y al mismo
+      tiempo permite aforar un clímax de confianza y de cohesión entre los/las participantes.
+      \n\nTodo esto hace que resulte una experiencia amable, expansiva y enormemente
+      divertida. Se trata de una práctica respetuosa y de fácil acceso para cualquiera.
+      \n\n**PROGRAMA**\n\nLa base metodológica es la vivencia. Entendemos por vivencia
+      la práctica a través de bailes, juegos y dinámicas que influyen en el estado
+      anímico y sensorial del participante. \n\nLa secuencia metodológica estándar
+      de una sesión es la\nsiguiente:\n1. Presentación y encuadre\n2. Rompehielos
+      y cohesión grupal\n3. Energetización y celebración\n4. Dinámica de la risa\n5.
+      Relajación\n6. Puesta en común"
+  localization:
+    en: Indoor/Outdoor
+    ca: Indoor/Outdoor
+    es: Indoor/Outdoor
+  included:
+    en: Coach
+    ca: Coach
+    es: Coach
+  not_included:
+    en: ''
+    ca: ''
+    es: ''
+  contact:
+    en: Ask for more information about our tours
+    ca: Demana més informació de les nostres excursions
+    es: Pide más información de nuestras excursiones
+  selected: false
+  language: es, ca, en
+  duration: 2.0
+  pax: 8
+  price: 
+  tag: Juegos
+  accesibility: 'yes'
+  thumbnail: https://www.datocms-assets.com/120/1509451891-image-2.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1509451891-image-2.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1509451900-image.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1509451906-image-1.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76964'
   title:
     en: Game of thrones
@@ -1665,246 +1739,149 @@
   photo1: https://www.datocms-assets.com/120/1498481845-67.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1498481848-68.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: https://www.datocms-assets.com/120/1498481850-69.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '76966'
+- id: '76952'
   title:
-    en: Create your own song
-    ca: Creeu la vostra pròpia cançó!
-    es: "¡Haz tú propia canción!"
+    en: Dragon boat
+    ca: Dragon boat
+    es: Dragon boat
   description:
-    en: "It is a small-format sound experience for 3D sound, where attendees participate,
-      record, transit intimately, using headphones and the device (dummy head). The
-      tracks are then listened to through headphones allowing for the listener to
-      hear from the dummy's perspective. \n\nWe will begin the dynamics with the participants
-      sitting in a circle around the microphone wearing headphones and have their
-      eyes covered.\n\nPeople are then invited to take advantage of the mask and explore
-      the sounds with different materials and generate a sound laboratory that turns
-      into a musical improvisation.\n\nThe idea is for everyone to participate and
-      leave their imprints in the creation of the song. Music is also part of the
-      brand image of a company.\n\nAt the end of the activity you will be given **the
-      recording of your single!**\n\n> Three-dimensional sound experience! It encourages
-      listener, creativity, fun and a great number of sensations."
-    ca: "És una experiència sonora de petit format amb so 3D, on els assistents, hi
-      participen, recorren, transiten de manera íntima, mitjançant auriculars i el
-      dispositiu (*Dummyhead*),; cap a una vivència única.\n\nComençarem la dinàmica
-      amb els participants asseguts en rotllana al voltant del micròfon porten uns
-      auriculars i tenen els ulls tapats.\n\nEls sons són amplificats per la tecnologia
-      binaural i això genera un efecte molt potent en el oient, que a més, al no poder
-      ubicar en un espai real d'on provenen aquests sons, té una sensació de sorpresa
-      constant.\n\nDesprés es convida a les persones a treure's l'antifaç i a explorar
-      amb diferents materials els sons i es genera un laboratori sonor que acava convertint-se
-      amb una improvització musical. \n\nLa idea és que tothom participi i deixi la
-      seva impremta en la creació de la cançó. La música també és part de la imatge
-      de marca d'una empresa.\n\nAl final de l'activitat se us entregarà la gravació
-      del vostre single!\n\n> Experiència sensorial grupal única que fomenta l'escolta,
-      la creativitat, la diversió i un gran nombre de sensacions."
-    es: "Es una experiencia sonora de pequeño formato con sonido 3D, donde los asistentes,
-      participan, recorren, transitan de manera íntima, mediante auriculares y el
-      dispositivo (*dummy head*). \n\nEmpezaremos la dinámica con todos los participantes
-      sentados en redonda alrededor del micrófono Cada uno tendrá sus auriculares
-      y su antifaz para empezar con los ojos cerrados.\n\nLos sonidos son amplificados
-      por la tecnología binaural y esto genera un efecto muy potente al oyente, y
-      aporta durante toda la sesión una sensación de sorpresa constante. Una vez hecho
-      esto, invitamos a las personas a sacarse el antifaz y a explorar con los diferentes
-      materiales con los que podemos hacer diferentes sonidos y generar un laboratorio
-      sonoro que acaba convirtiéndose en una improvisación musical.\n\nLa idea es
-      que todo el mundo participe y deje su imprenta en la creación de la canción.
-      La música también es parte de la imagen de marca de una empresa.\n\nAl final
-      de la actividad se os entregará **la grabación de vuestro single!**\n\n> Es
-      una experiencia sensorial grupal única que fomenta  la escucha, la creatividad,
-      la diversión y un gran número de sensaciones."
+    en: |-
+      > Oars ... Ready!
+      > Canoe ... List!
+      > Team ... 3 ... 2 ... 1 To paddle!
+
+      The Dragon Boat is a large canoe that represents a dragon in honor of its mythological origin from ancient Chinese traditions.
+
+      One competes with teams formed each one by a drummer that marks the rhythm, the group of paddlers and the skipper who steers the boat with a big oar that acts as rudder.
+
+      Its great success is based on the fact of merging sport and leisure with pedagogical and social values.
+    ca: |-
+      > Rems.... Preparats!
+      > Canoa... Llista!
+      > Equip... 3...2...1 A remar!
+
+      El Dragon Boat és una gran canoa que representa un drac en honor al seu origen mitològic procedent d'antigues tradicions xineses.
+
+      Es competeix amb equips formats cadascun d'ells per un timbaler que marca el ritme, el grup de palistes i el patró que dirigeix la barca amb un gran rem que fa de timó.
+
+      El seu gran èxit es fonamenta en el fet de fusionar l'esport i l'oci amb valors pedagògics i socials.
+    es: "> Remos.... Preparados!\n> Canoa... Lista!\n> Equipo... 3...2...1 A remar!\n\nEl
+      Dragon Boat es una gran canoa que representa un dragón en honor a su origen
+      mitológico procedente de antiguas tradiciones chinas. \n\nSe compite con equipos
+      formados cada uno de ellos por un tamborilero que marca el ritmo, el grupo de
+      palistas y el patrón que dirige la barca con un gran remo que hace de timón.
+      \n\nSu gran éxito se fundamenta en el hecho de fusionar el deporte y el ocio
+      con valores pedagógicos y sociales."
   localization:
-    en: Indoor
-    ca: Indoor
-    es: Indoor
+    en: Outdoor
+    ca: Outdoor
+    es: Outdoor
   included:
     en: |-
-      Material for the development of the activity
-      Music professional staff
+      Arrival + Coffee break
+      Activity briefing
+      Dragon Boat activity
+      Final competition between boats
+      Showers and wardrobe
     ca: |-
-      Material necessari per al desenvolupament
-      Personal professional en l'àmbit de la música
+      Arribada + Coffee break
+      Briefing de l'activitat
+      Activitat Dragon Boat
+      Competició final entre embarcacions
+      Dutxes i vestuari
     es: |-
-      Material necesario para el desarrollo
-      Personal profesional en el ámbito de la música
+      Llegada + Coffee break
+      Briefing de la actividad
+      Actividad Dragon Boat
+      Competición final entre embarcaciones
+      Duchas y vestuario
   not_included:
-    en: Space
-    ca: Espacio
-    es: Espacio
+    en: |-
+      Transfers (optional)
+      Lunch Restaurant (optional)
+      Coach (optional)
+    ca: |-
+      Trasllats d'anada i tornada (opcional)
+      Dinar en un restaurant (opcional)
+      Coach (opcional)
+    es: |-
+      Traslados de ida y vuelta (opcional)
+      Coaching empresarial asociado a la actividad (opcional)
+      Almuerzo (opcional)
   contact:
     en: Ask for more information about our activities
-    ca: Demana més informació sobre l'experiència
+    ca: Demana més informació de les nostres activitats
     es: Pide más información de nuestras actividades
   selected: false
-  language: ca, es, en
-  duration: 1.5
-  pax: 6
-  price: 
-  tag: music
-  accesibility: 'yes'
-  thumbnail: https://www.datocms-assets.com/120/1549466569-whatsapp-image-2019-02-06-at-15-49-06.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1549466569-whatsapp-image-2019-02-06-at-15-49-06.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1519994677-_1110583.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1519995436-_1110534.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-- id: '76965'
-  title:
-    en: Lights, camera, action!
-    ca: Llums, càmera i acció!
-    es: "¡Luces, cámara, acción!"
-  description:
-    en: "Managing each film requires effective teamwork,communication, planning, project
-      management and cooperation to enable the films to be produced to\nspecification.
-      \n\nWithin 5 hours, we prepare, dress, shoot, edit and project your film! We
-      turn a film into a fresh and fun experience.\n\nAfter the screening, we will
-      distribute the Oscar awards. We propose 4 recognitions (individual and collective
-      awards)\n\n- Best male character\n- Best female character\n- The best group
-      of characters\n- The best movie\n\nThere are different styles and movies: Dracula,
-      Robin Hood, The Lost Ark, The Fox, The Swing War, The Lost Treasure.\n\n> A
-      team building film is an innovative event that provides an opportunity to deal
-      with new issues in the company through an interesting activity in an unusual
-      context."
-    ca: "L’equip d’actors ens ha fallat a última hora i ens disposem a rodar una pel·lícula
-      amb qui tenim a mà. Convertim als participants en els actors de la pel·lícula
-      i els vestim com el personatge que representen.\n\nNo hi ha jerarquies, els
-      fem actuar e interrelacionar-se recreant l’atmosfera d’un rodatge;... tots ens
-      hauràn d’ajudar amb els efectes especials, o en l’escena del ball... I tot amb
-      una única finalitat, tirar endavant l’objectiu final comú: LA PEL.LÍCULA.\n\nEn
-      un plaç de 5 hores, preparem, vestim, rodem, editem i projectem la vostra pel.lícula!
-      Convertim un rodatge cinematogràfic en una experiència fresca i divertida! \n\nDesprés
-      de la projecció farem el repartiment dels premis. Proposem 4 reconeixements
-      (premis individuals i col·lectius)\n\n- Millor personatge masculí\n- Millor
-      personatge femení\n- Millor grup de personatges\n- Millor pel·lícula\n\n\nHi
-      ha diferents estils i pel·lícules: DRÀCULA, ROBIN HOOD, L'ARCA PERDUDA, EL ZORRO,
-      LA GUERRA DEL SWING, PISTOLES AL SOL i EL TRESOR PERDUT\n\n> Anima't a participar!
-      Treu l'actor que portes dins!"
-    es: |-
-      El equipo de actores nos ha fallado a última hora y nos disponemos a rodar una película con lo que tenemos a mano. Convertimos a los participantes en los actores de la película y los vestimos como el personaje que representan.
-
-      No hay jerarquías, los hacemos actuar e interrelacionarse recreando la atmósfera de un rodaje;... alguien tendrá que ayudar con los efectos especiales, o en la escena del baile... Y todo con un único fin, llevar adelante el objetivo final común: LA PELÍCULA.
-
-      En un plazo de 5 horas, preparamos, vestimos, rodamos, editamos y proyectamos vuestra película. ¡Convertimos un rodaje cinematográfico en una experiencia fresca y divertida!
-
-      Después de la proyección haremos el reparto de premios. Proponemos 4 reconocimientos (premios individuales y colectivos)
-
-      - Mejor personaje masculino
-      - Mejor personaje femenino
-      - Mejor grupo de personajes
-      - Mejor película
-
-
-      Hay diferentes estilos y películas: Drácula,  Robin Hood, El Arca Perdida, El Zorro, La Guerra Del Swing y El Tesoro Perdido.
-
-      > ¡Anímate a participar! ¡Saca el actor que llevas dentro!
-  localization:
-    en: Indoor/Outdoor
-    ca: Indoor/Outdoor
-    es: Indoor/Outdoor
-  included:
-    en: |-
-      Props Theatre employees and participants
-      Special Effects Lighting and Equipment
-      Edition of Shooting
-      Pre-production and shooting scripts
-      Staff needed for development and editing
-      Film projection
-      Send video file
-      Oscar winners
-      Silent film
-      Transfer
-    ca: |-
-      Attrezzo necessari per als participants i personal
-      Equip d’il.luminació, gravació i efectes si és necessari
-      Components per l’ edició del rodatge de l’activitat
-      Preproduccions i guions realitzats amb anterioritat
-      Personal necessari pel, desenvolupament i edició
-      Projecció de la pel.lícula
-      Enviament del vídeo posterior a l'activitat
-      Entrega premis "Estàtua Òscar"
-      Desplaçaments
-    es: |-
-      Attrezzo necesario para los participantes y personal
-      Equipo de iluminación, grabación y efectos si es necesario
-      Componentes por la edición del rodaje de la actividad
-      Preproducciones y guiones realizados con anterioridad
-      Personal necesario para el desarrollo y edición
-      Proyección de la película
-      Envío del vídeo posterior a la actividad
-      Entrega de premios "La estatuilla de los Oscar"
-      Desplazamientos
-      Cine mudo
-  not_included:
-    en: |-
-      Space rental
-      Audiovisual material: projector, portable screen, self-powered subwoofer
-      Makeup workshop
-      Customize the theme of the movie
-      Personalized awards
-    ca: "Lloguer de l’espai \nMaterial audiovisual: projector – pantalla portàtil
-      – equip autoamplificat \nTaller de maquillatge \nPersonalitzar la temàtica de
-      la pel·lícula\nPremis personalitzats"
-    es: "Alquiler del espacio \nMaterial audiovisual: proyector – pantalla portátil
-      – equipo autoamplificado\nTaller de maquillaje \nPersonalizar la temática de
-      la película\nPremios personalizados"
-  contact:
-    en: Ask for more information about our movies
-    ca: Demana més informació de les nostres pel·lícules
-    es: Pide más información sobre nuestras películas
-  selected: false
-  language: ca, es, en
-  duration: 2.0
+  language: es, ca, en
+  duration: 6.0
   pax: 10
   price: 
-  tag: cine
+  tag: Karts
   accesibility: 'yes'
-  thumbnail: https://www.datocms-assets.com/120/1519990410-_dsc5268.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1519990410-_dsc5268.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1519990423-cheap-film-dau-96.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1519990778-cheap-film-dau-62.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  thumbnail: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1509447263-whatsapp-image-2017-10-31-at-11-40-24.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1509447291-whatsapp-image-2017-10-31-at-11-40-25.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1509447298-whatsapp-image-2017-10-31-at-11-40-25-1.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
 - id: '76968'
   title:
     en: Murder mystery game
-    ca: Assassinat a la mansió
-    es: Cluedo en vivo
+    ca: EL TESTAMENT DE MR. COLLINS
+    es: 'Cluedo en vivo: El Testamento de Mr. Collins'
   description:
-    en: |-
-      **The history**
+    en: "**THE TESTAMENT OF MR. COLLINS**\n\nMr. Collins has died leaving behind an
+      immense fortune. Friends and family gather on will reading day waiting for their
+      piece of the cake...\n\nBut everyone is in for a surprise when they discover
+      a posthumous recording...\n\n> Mr. Collins has been murdered and his inheritance
+      will go to whoever solves the crime!>\n \nYou are all murder suspects as well
+      as investigators.\n\n**HOW DOES IT WORK? DISCOVER WHO, HOW AND WHY**\n\nQuestion
+      the other suspects... They're all lying! And you too…\nExtract CSI evidence
+      and rule out suspects\nSearch and find clues, bribe and blackmail your colleagues,
+      buy and sell information with money...\n\n**ME, SUSPECT...?** You will receive
+      your file by mail days before. Information!\nof your character is confidential!
+      You'll get a glimpse of your new self and bring out the artist in you.\n\n\n>
+      **Values we work:** teamwork, creativity, talent, strengthen links, strategies,
+      reaction capacity, improve communication, leadership and emotional intelligence.>"
+    ca: |-
+      Mr. Collins ha mort deixant després de si una immensa fortuna. Amics i familiars es reuneixen el dia de la lectura del testament esperant la seva part del pastís...
 
-      Lord Cobblepot has been killed! Could it have been your despondent wife? Your distrustful partner? Your beautiful and young secretary? Or, as the canons send, once again the murderer is the steward?
+      Però tots s'emporten una sorpresa quan descobreixen un enregistrament pòstum...
 
-      Investigate the murder yourself, gather the possible clues scattered throughout his mansion and interrogate the suspects themselves to be the first to solve the case and find out who has ended the seemingly immaculate life of the English lord millionaire!
+      > Mr. Collins ha mort assassinat i la seva herència serà per a qui resolgui el crim!
 
-      *So, now it’s up to you to solve the murder!*
+      Tots sou sospitosos d'un assassinat, alhora que investigadors.
+
+      **COM FUNCIONA? DESCOBREIX QUI, COM I PER QUÈ**
+
+      Interroga als altres sospitosos... Tots menteixen! I tu també....
+      Extreu evidències CSI i descarta sospitosos
+      Cerca i troba pistes, suborna i fa xantatge als teus companys, compra i ven informació amb diners....
+
+      **JO, SOSPITÓS...?** Rebràs la teva fitxa per mail dies abans. La informació
+      del teu personatge és confidencial! Et faràs una idea del teu nou jo i trauràs a l'artista que portes dins.
 
 
-      > **Values we work:** teamwork, creativity, talent, strengthen links, strategies, reaction capacity, improve communication, leadership and emotional intelligence.
-      >
-    ca: "“Assassinat a la Mansió” és un joc interactiu. Els participants\nsón convocats
-      i hauran de viure diverses, es plantejarà un enigma que s’haurà de resoldre
-      de forma cooperativa.\n\nEls nostres actors conduïran la història i estaran
-      amb\nels participants en tot moment.\n\nTot el plantejament i desenvolupament
-      es farà de forma atmosfèrica i sense sortir de la història de manera que convidem
-      als assistents a traslladar-se durant unes hores en un altre temps i en un altre
-      lloc sense sortir del seu paper.\n\n**La Història**\n\nLord Cobblepot ha sigut
-      assassinat! Haurà estat la seva abatuda esposa? El seu desconfiat soci? La seva
-      bella i jove secretària? O, com manen els cànons, un cop més l'assassí és el
-      majordom? \n\nInvestiga tu mateix l'assassinat, reuneix les possibles pistes
-      escampades per la seva mansió i interroga els propis sospitosos per ser el primer
-      en resoldre el cas i descobrir qui ha acabat amb la vida aparentment immaculada
-      del milionari lord anglès!\n\n> **Valors que treballem:** El treball en equip,
-      la creativitat, el talent, reforçar els vincles, estratègies, capacitat de reacció,
-      millorar la comunicació, lideratge i la intel·ligència emocional.\n>"
+      > **Valors que treballem:** El treball en equip, la creativitat, el talent, reforçar els vincles, estratègies, capacitat de reacció, millorar la comunicació, lideratge i la intel·ligència emocional.>
     es: |-
-      *Ha habido un asesinato en la mansión y todos sois sospechosos hasta que aparezca el asesino*
+      Mr. Collins ha muerto dejando tras de sí una inmensa fortuna.
 
-      Los participantes son convocados y tendrán que vivir diversas, se planteará un enigma que se tendrá que resolver de forma cooperativa.
+      Amigos y familiares se reúnen el día de la lectura del testamento esperando su parte del pastel...
 
-      Nuestros actores conducirán la historia y estarán con los participantes en todo momento.
+      Pero todos se llevan una sorpresa cuando descubren una grabación póstuma...
 
-      Todo el planteamiento y desarrollo se hará de forma atmosférica y sin salir de la historia de forma que invitamos a los asistentes a trasladarse durante unas horas en otro tiempo y en otro lugar sin salir de su papel.
+      > ¡Mr. Collins ha muerto asesinado y su herencia será para quien resuelva el crimen!
 
-      **La Historia**
+      Todos sóis sospechosos de un asesinato, a la vez que investigadores.
 
-      ¡Lord Cobblepot ha sido asesinado! ¿Habrá sido su abatida esposa? ¿Su desconfiado socio? ¿Su bella y joven secretaria? O, como mandan los cánones, ¿una vez más el asesino es el mayordomo?
-      Investiga tú mismo el asesinato, reúne las posibles pistas dispersadas por su mansión e interroga los propios sospechosos para ser el primero en resolver el caso y descubrir quién ha acabado con la vida aparentemente inmaculada del millonario Lord. **¿Dejaréis escapar al asesino?**
+      **¿CÓMO FUNCIONA? DESCUBRE QUIÉN, CÓMO Y POR QUÉ**
+
+      Interroga a los demás sospechosos... ¡Todos mienten! Y tú también....
+      Extrae evidencias CSI y descarta sospechosos
+      Busca y encuentra pistas, soborna y chantajea a tus compañeros, compra y vende información con dinero....
+
+      **¿YO, SOSPECHOSO...?** Recibirás tu ficha por mail días antes. ¡La información
+      de tu personaje es confidencial! Te harás una idea de tu nuevo yo y sacarás al artista que llevas dentro.
+
 
       > **Valores que trabajamos:** trabajo en equipo, creatividad, talento, reforzar los vínculos, estrategias, capacidad de reacción, mejorar la comunicación, liderazgo y la inteligencia emocional.
   localization:
@@ -1912,25 +1889,27 @@
     ca: Indoor
     es: Indoor
   included:
-    en: "Creation, development and direction of the event\nOrganization and execution\nThe
-      staff needed to develop the story\nMakeup artist \nCostumes for participants\nSpecial
-      effects that are necessary\nNecessary material"
+    en: "Two actors: detective and butler\nMovie setting of mysterious special\nEffects
+      theme decoration\nCharacter sheet and tips\nHidden clues and secret \nDocument
+      props for everyone\nToo much fun"
     ca: |-
-      Creació, desenvolupament i direcció de l’esdeveniment
-      Organització i execució de l’esdeveniment
-      El personal necessari per desenvolupar la història
-      Maquillador i maquillatge
-      Vestuari dels participants
-      Efectes especials que siguin necessaris
-      Material necessari
+      Dos actors: detectiu i majordom
+      Ambientació de pel·lícula
+      Efectes especials misteriosos
+      Decoració temàtica
+      Fitxa de personatge i consells
+      Pistes ocultes i documents secrets
+      Atrezzo per a tots
+      Molta diversió
     es: |-
-      Creación, desarrollo y dirección del evento
-      Organización y ejecución
-      El personal necesario para desarrollar la historia
-      Maquillador y maquillaje
-      Vestuario de los participantes
-      Efectos especiales que sean necesarios
-      Material necesario
+      Dos actores: detective y mayordomo
+      Ambientación de película
+      Efectos especiales misteriosos
+      Decoración temática
+      Ficha de personaje y consejos
+      Pistas ocultas y documentos secretos
+      Atrezzo para todos
+      Mucha diversión
   not_included:
     en: |-
       Space rental
@@ -1939,7 +1918,6 @@
     ca: |-
       Lloguer de l’espai on es desenvolupa l’activitat
       Alteracions del guió per adaptar-les a les necessitats de temps, empresa o altres
-      Cocktail de benvinguda i copa de cava final
       Reportatge fotogràfic i vídeo
     es: |-
       Alquiler del espacio donde se desarrolla la actividad
@@ -1951,7 +1929,7 @@
     es: Pide más información sobre otras temáticas
   selected: false
   language: ca, es, en
-  duration: 2.0
+  duration: 2.5
   pax: 15
   price: 
   tag: film
@@ -1960,81 +1938,220 @@
   photo1: https://www.datocms-assets.com/120/1549466542-whatsapp-image-2019-02-06-at-15-54-20.jpeg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo2: https://www.datocms-assets.com/120/1521222491-img_20170302_170214.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
   photo3: 
-- id: '76960'
+- id: '76967'
   title:
-    en: Race
-    ca: Carrera d'obstacles
-    es: Carrera de obstáculos
+    en: Hive-mind
+    ca: Cos i ment
+    es: Cuerpo y mente
   description:
-    en: |-
-      (3 miles + 20 obstacles): is a great race for all members of your organization. No matter their level, they will feel a sense of accomplishment at the finish line.
-
-      Teams of leaders come together to hone their skill at handling unforeseeable obstacles, breaking up tasks, encouraging one another, and never giving up. We test your team’s physical, emotional and mental limits, ultimately turning you into an unbreakable unit.
-    ca: "> Només aquells triats, caiguts en batalla podran aconseguir el *Valhalla*,
-      el regne on es preparen per a la batalla del final dels dies... \n\nCarrera
-      de 10 obstacles de 5 km de longitud en un entorn natural únic amb més de 140.000
-      m², a 1 hora de Barcelona.\n\n**Obstacles:** De cara a terra, llançament de
-      javelina, pas de fang, salt de paret, Pont del mico, teranyina, passos en altura,
-      trasllat de pesos, camp de Pneumàtics i mur d'escuma.\n\nLa carrera d'obstacles
-      és una forma de desenvolupar habilitats com la generositat, el lideratge, l'esperit
-      d'equip, la resiliència, el compromís, la iniciativa, l'actitud, la innovació,
-      la creativitat i molts altres al mateix temps que desenvolupa valors corporatius
-      en el nivell de la seva gent."
-    es: "> Sólo aquellos elegidos, caídos en batalla podran alcanzar el Valhalla,
-      el reino donde se preparan para la batalla del final de los días... \n\nCarrera
-      de 10 obstáculos de 5 km de longitud en un entorno natural único con más de
-      140.000 m2, a 1 hora de Barcelona.\n\n**Obstáculos:** Cuerpo a tierra, lanzamiento
-      de jabalina, paso de barro, salto de pared, puente de mono, telaraña, pasos
-      en altura, traslado de pesos, campo de neumáticos y muro de espuma. \n\nLa carrera
-      de obstáculos es una forma de desarrollar habilidades como la generosidad, el
-      liderazgo, el espíritu de equipo, la resiliencia, el compromiso, la iniciativa,
-      la actitud, la innovación, la creatividad y muchos otros al mismo tiempo que
-      desarrolla valores corporativos en el nivel de su gente."
+    en: "Hive-mind is a physical play of team work and problem solving in real time.
+      The participants gradually build up complex patterns through focused movement,
+      unpredictability and chance create an environment where participants have no
+      choice but to be constantly aware and in the moment. \n\nThe state of mind associated
+      with peak performance, created through a combination of concentration and playfulness,
+      can tackle any number of problems, and once discovered and experienced, can
+      be applied to all areas of life.\n\nWe target the specific areas of the brain
+      associated with joy, the feeling of success and connection, so that your creativity
+      is unleashed; we create positive neural-pathways and anchors and teach you how
+      to leverage them, allowing you to even enjoy doing things you don’t like. The
+      obstacles you face along the way become easier to solve, and your energy levels
+      and your capacity for learning increase which allows you to achieve more in
+      less time.\n\n> Individuals increase their personal impact, teams develop a
+      hive-mentality. We improve the quality of your company by allowing individuals
+      and teams to switch on FLOW at will.\n> \n\nThe training is designed for intense
+      **cooperation, creativity and problem solving in real time**\n\n<iframe width=\"560\"
+      height=\"315\" src=\"https://www.youtube.com/embed/BGJQm5sY0yQ\" frameborder=\"0\"
+      allow=\"autoplay; encrypted-media\" allowfullscreen> </iframe>"
+    ca: "És un joc físic de resiliència i diversió, on entrenarem per aconseguir el
+      teu màxim estat de rendiment.\n\nDurant l'entrenament, aprendrem de manera segura
+      i eficaç a llançar i recepcionar el material dissenyat especialment per a aquest
+      entrenament: ampolles d'aigua fetes de plàstic reciclable.\n\nLa incertesa i
+      l'ús de l'atzar creen l'ambient perfecte on els participants només podran prendre
+      consciència del que estan fent i estar presents en el moment, transformant el
+      seu cos en un portal cap a l'estat d'alt rendiment mental.\n\nSigui llançant
+      ampolles o bregant amb una gran càrrega de treball. L'estat mental associat
+      al màxim rendiment, creat a través d'una combinació de concentració i diversió,
+      pot abordar qualsevol quantitat de problemes i, una vegada que s'experimenta,
+      es pot aplicar a totes les àrees de la vida.\n\nAquest exclusiu entrenament
+      està enfocat a:\n\n- Combatre el desgast emocional\n- Millorar les relacions
+      humanes entre l'equip i de cara al client\n- Augmentar la creativitat\n- Resolució
+      de problemes en temps real\n- Incrementar el rendiment laboral\n- I aconseguir
+      un millor equilibri entre treball i vida personal\n\n> És sorprenent el que
+      es pot aconseguir en un estat de màxim rendiment quan és compartit entre els
+      membres d'un equip.\n> \n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BGJQm5sY0yQ\"
+      frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen> </iframe>"
+    es: "Es un juego físico de resiliencia y diversión, donde entrenaremos para que
+      alcances tu máximo estado de rendimiento. \n\nDurante el entrenamiento, aprenderemos
+      de manera segura y eficaz a lanzar y recepcionar el material diseñado especialmente
+      para éste entrenamiento: botellas de agua hechas de plástico reciclable.\n\nLa
+      incertidumbre y el uso del azar crean el ambiente perfecto donde los participantes
+      sólo podrán tomar conciencia de lo que están haciendo y estar presentes en el
+      momento, transformando su cuerpo en un portal hacia el estado de alto rendimiento
+      mental.\n\nYa sea lanzando botellas o lidiando con una gran carga de trabajo.
+      El estado mental asociado al máximo rendimiento, creado a través de una combinación
+      de concentración y diversión, puede abordar cualquier cantidad de problemas
+      y, una vez que se experimenta, se puede aplicar a todas las áreas de la vida.\n\nÉste
+      exclusivo entrenamiento está enfocado a:\n\n- Combatir el desgaste emocional\n-
+      Mejorar las relaciones humanas entre el equipo y de cara al cliente\n- Aumentar
+      la creatividad\n- Resolución de problemas en tiempo real\n- Incrementar el rendimiento
+      laboral\n- Y lograr un mejor equilibrio entre trabajo y vida personal\n\n> Es
+      sorprendente lo que se puede lograr en un estado de máximo rendimiento cuando
+      es compartido entre los miembros de un equipo.\n> \n<iframe width=\"560\" height=\"315\"
+      src=\"https://www.youtube.com/embed/BGJQm5sY0yQ\" frameborder=\"0\" allow=\"autoplay;
+      encrypted-media\" allowfullscreen> </iframe>"
   localization:
-    en: Outdoor
-    ca: Outdoor
-    es: Outdoor
+    en: Outdoor/Indoor
+    ca: Outdoor/Indoor
+    es: Outdoor/Indoor
   included:
     en: |-
-      Material for the development of the activity
-      Group coordinate
+      Previous motivation
+      Live Training
+      Support staff before, during and after
+      We can accommodate large groups of up to 200 people so they can play the game simultaneously.
     ca: |-
-      Recepció dels participants: Cafè de benvinguda
-      Briefing motivacional.
-      Vestuaris i servei de guarda-roba
-      Avituallament en carrera
-      Cerimònia de lliurament de premis
-      Tècnics esportius amb competència en primers auxilis, seguretat i conducció de grups
-      Servei d'infermeria
-      Segurs per a l'activitat
-      Música i animació
-    es: "Recepción de los participantes: Café de bienvenida\nBriefing motivacional\nVestuarios
-      y servicio de guardarropía\nAvituallamiento en carrera \nCeremonia de entrega
-      de premios  \nTécnicos deportivos con competencia en primeros auxilios, seguridad
-      y conducción de grupos\nServicio de enfermería\nSeguros para la actividad\nMúsica
-      y animación"
+      Entrenadors
+      Introducció teòrica
+      Escalfament (cos i ment)
+      Entrenament i resoldre problemes en temps real
+      Conclusió i valoració
+      Apte per a grups grans +200 de persones
+    es: |-
+      Entrenadores
+      Introducción teorica
+      Calentamiento (cuerpo y mente)
+      Entrenamiento y resolver problemas en tiempo real
+      Conclusión y valoración
+      Apto para grupos grandes +200 personas
   not_included:
     en: ''
-    ca: |-
-      Trasllats d'anada i tornada
-      Dinar en un restaurant
-      Festa de l'escuma en finalitzar l'activitat
-    es: |-
-      Traslados (opcional)
-      Almuerzo (opcional)
-      Fiesta de la espuma al finalizar
+    ca: Lloguer de l'espai de treball
+    es: Alquiler del espacio de trabajo
   contact:
-    en: Ask for more information about our workshop
-    ca: Demana més informació dels nostres tallers
-    es: Pide más información de nuestros talleres
+    en: Ask for more information
+    ca: Demana més informació
+    es: Pide más información
   selected: false
-  language: es, en, ca
-  duration: 4.0
-  pax: 20
+  language: es, en
+  duration: 2.0
+  pax: 10
   price: 
-  tag: Race
-  accesibility: 'no'
-  thumbnail: https://www.datocms-assets.com/120/1532443625-lady-21758441920.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo1: https://www.datocms-assets.com/120/1532443625-lady-21758441920.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo2: https://www.datocms-assets.com/120/1498481186-47.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
-  photo3: https://www.datocms-assets.com/120/1498481192-48.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  tag: Hive-mind
+  accesibility: 'yes'
+  thumbnail: https://www.datocms-assets.com/120/1549882233-mg71017-1151.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1549882233-mg71017-1151.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1549882241-mg71017-1442.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1549882248-mg71017-1251.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+- id: '76970'
+  title:
+    en: Perform your own comedy set
+    ca: Crear el teu propi monòleg
+    es: Monologueando
+  description:
+    en: "Do not worry! Most of us are funny without even knowing it ourselves. The
+      stage is the extra layer that makes you step aside from your regular script.
+      Almost without knowing who you will make people laugh and you will laugh as
+      well.\n\nWhen we analyze our habits and routines, our virtues and defects, our
+      contradictions, we will soon realize who absurd and funny our lives are.\n\nThis
+      is a workshop that promotes **spontaneity, a good laugh and feeling surprised**\n\n\n**PERFORM
+      YOUR OWN STAND UP COMEDY SET**\n\nThe goal is to create a set, your own or in
+      groups. Between 3 and 5 minutes long depending on of the amount of people.\n\nWe
+      may transform ourselves into politician, famous people, entrepreneurs or even,
+      if we dear to, we could become ourselves, a characterized version of us.\n\nThe
+      assistants would perform in front of everyone with a microphone. Everyone would
+      try out their texts in a healthy environment.\n\n\nWITH THIS WORKSHOP YOU WILL
+      LEARN: \n\n1. To laugh at yourself.\n2. To reinforce communication skills\n3.
+      To improve the energy of your team\n\n\nKEY ASPECTS OF OUR SCENIC WORKSHOP \n\n*
+      Getting rid of our **Stagefright**\n* Activities of guided **role-playing activities**.
+      Changing our roles within our company.\n* We will build funny situations for
+      our stand up comedy sets."
+    ca: |-
+      **> TOTS PODEM FER RIURE AMB UN MONÒLEG? JO,PUC?**
+
+      > Molts diuen: Jo, és que no tinc gràcia.
+
+      No et preocupis. La majoria som divertits sense saber-ho. L'escenari és qui et fa sortir-te del guió i gairebé sense adonar-te faràs riure i riuràs
+
+      Si analitzem els nostres hàbits, els nostres defectes i virtuts, les nostres incoherències rapidament tots descobreixen l'absurda i divertides que són les nostres vides.
+
+      Es tracta d'un taller que fomenta **espontaneïtat, riure sa i sorpresa.**  Claus per a construir un equip fort i unit.
+
+
+      **REPRESENTA EL TEU PROPI MONÒLEG**
+
+      L'objectiu és crear monòlegs, propis o en grup, de 3 a 5 minuts depenent del número d'assistents.
+
+      Ens transformarem en actors famosos, polítics, emprenedors, podrem ser, si ens atrevim, fins nosaltres mateixos, una versió caricaturitzada de la nostra personalitat.
+
+      Els assistents representaran els seus monòlegs davant de tots amb el seu micròfon. S'aniran provant els textos treballats en un clima festiu i agradable.
+
+
+      AMB AQUEST TALLER APRENDRÀS
+
+      1. A RIURE'T DE TU MATEIX
+      2. A REFORÇAR LA COMUNICACIÓ
+      3. A MILLORAR L'ENERGIA DEL TEU EQUIP
+
+      CLAUS DEL NOSTRE TALLER ESCÈNIC
+
+      * **Eliminar la por** a pujar-se dalt d'un escenari
+      * Activitats de **role-playing** guiades. Canviant de rols dins de l'empresa i posant-nos en el paper d'altres membres de l'empresa.
+      * Creem situacions i escenes divertides per als nostres monòlegs.
+    es: "**> TODOS PODEMOS HACER REÍR ¿HACER UN MONÓLOGO? ¿YO?**\n\n> Muchos dicen:
+      Yo, es que no tengo gracia. \n\nNo te preocupes. La mayoría somos divertidos
+      sin saberlo. El escenario es quien te hace salirte del guión y casi sin darte
+      cuenta harás reír y reíras.\n\nSi analizamos nuetros hábitos, nuestros defectos
+      y virtudes, nuestras incoherencias pronto todos descubren lo absurda y divertidas
+      que son nuestras vidas. \n\nSe trata de un taller que fomenta **espontaneidad,
+      risa sana y sorpresa.** Claves para construir un equipo fuerte y unido. \n\n\n**REPRESENTA
+      TU PROPIO MONÓLOGO**\n\nEl objetivo es crear monólogos, propios o en grupo,
+      de 3 a 5 minutos dependiendo del número de asisitentes.\n\nNos transformaremos
+      en actores famosos,políticos, emprendedores, podremos ser, si nos atrevemos,
+      hasta nosotros mismos, una versión caricaturizada de nuestra personalidad\n\nLos
+      asistentes representarán sus monólogos delante de todos con su micrófono. Se
+      irán probando los textos trabajados en un clima festivo y agradable.\n\n\nCON
+      ESTE TALLER APRENDERÁS\n\n1. A REÍRTE DE TI MISMO\n2. A REFORZAR LA COMUNICACIÓN\n3.
+      A MEJORAR LA ENERGÍA DE TU EQUIPO\n\nCLAVES DE NUESTRO TALLER ESCÉNICO\n\n*
+      **Eliminar el miedo** a subirse a un escenario \n* Actividades de **role-playing
+      guiadas**. Cambiando de roles dentro de la empresa y poniéndonos en el papel
+      de otros miembros de la empresa.\n* Creamos situaciones y escenas divertidas
+      para nuestros monólogos."
+  localization:
+    en: Indoor/outdoor
+    ca: Indoor/outdoor
+    es: Indoor/outdoor
+  included:
+    en: |-
+      Material
+      Staff
+    ca: |-
+      Material necessari per conduir l’activitat
+      Personal
+      Equip: 2 Micros + 2 altaveus hi-fi de 50w Bq Acoustics
+    es: |-
+      Material necesario para conducir la actividad
+      Personal
+      Equipo: 2 Micros + 2 altavoces hi-fi de 50w Bq Acoustics
+  not_included:
+    en: "Rent space \nChairs for all participants"
+    ca: |-
+      Lloguer de l’espai on es realitza l’activitat si s’escau
+      Cadires per a tots els participants
+    es: |-
+      Alquiler del espacio donde se realiza la actividad (si es necesario)
+      Sillas para todos los participantes
+  contact:
+    en: Ask for more information about our comedy
+    ca: Demana més informació sobre els monòlegs
+    es: Pide más información sobre los monólogos
+  selected: false
+  language: ca, es, en
+  duration: 2.5
+  pax: 6
+  price: 
+  tag: game
+  accesibility: 'yes'
+  thumbnail: https://www.datocms-assets.com/120/1553252131-talentgarden06.jpg?w=480&h=270&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo1: https://www.datocms-assets.com/120/1553252131-talentgarden06.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo2: https://www.datocms-assets.com/120/1553252144-talentgarden09.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
+  photo3: https://www.datocms-assets.com/120/1553252157-talentgarden20.jpg?w=1024&h=576&fit=crop&fm=jpg&crop=focalpoint%2Cfaces%2Centropy
